@@ -1,0 +1,3094 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 53,
+  "entries": [
+    {
+      "id": "weidmueller-article-0409700000",
+      "name": "H1,0/12 GE — Cable end sleeve / Wire end ferrule, Standard, 1 mm², Stripping length: 8 mm, yellow",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0409700000",
+      "recordPath": "equipment/weidmueller-article-0409700000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0409700000.json"
+    },
+    {
+      "id": "weidmueller-article-9028210000",
+      "name": "H95,0/44 R — Cable end sleeve / Wire end ferrule, Standard, 95 mm², Stripping length: 31 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9028210000",
+      "recordPath": "equipment/weidmueller-article-9028210000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9028210000.json"
+    },
+    {
+      "id": "weidmueller-article-9028200000",
+      "name": "H70,0/37 GE — Cable end sleeve / Wire end ferrule, Standard, 70 mm², Stripping length: 26 mm, yellow",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9028200000",
+      "recordPath": "equipment/weidmueller-article-9028200000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9028200000.json"
+    },
+    {
+      "id": "weidmueller-article-9457410030",
+      "name": "SAIL-ZW-M8BW-3L0.3U — Sensor-actuator adaptor cable (assembled) / Sensor-actuator adaptor cable (assembled), Connecting line, M12 / M8, 3, 0.3 m, Twin cabling, pin, straight, 2x socket, angled, black",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9457410030",
+      "recordPath": "equipment/weidmueller-article-9457410030.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9457410030.json"
+    },
+    {
+      "id": "weidmueller-article-0635100000",
+      "name": "H1,5/16 R — Cable end sleeve / Wire end ferrule, Standard, 1.5 mm², Stripping length: 12 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0635100000",
+      "recordPath": "equipment/weidmueller-article-0635100000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0635100000.json"
+    },
+    {
+      "id": "weidmueller-article-9037380000",
+      "name": "H0,5/14D ZH W — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 0.5 mm², Stripping length: 11 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037380000",
+      "recordPath": "equipment/weidmueller-article-9037380000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037380000.json"
+    },
+    {
+      "id": "weidmueller-article-9037390000",
+      "name": "H0,5/16D ZH W — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 0.5 mm², Stripping length: 13 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037390000",
+      "recordPath": "equipment/weidmueller-article-9037390000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037390000.json"
+    },
+    {
+      "id": "weidmueller-article-1701251000",
+      "name": "SAI-8-M 5P M12 UT — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood distributor lower part, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1701251000",
+      "recordPath": "equipment/weidmueller-article-1701251000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1701251000.json"
+    },
+    {
+      "id": "weidmueller-article-1701241000",
+      "name": "SAI-6-M 5P M12 UT — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood distributor lower part, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1701241000",
+      "recordPath": "equipment/weidmueller-article-1701241000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1701241000.json"
+    },
+    {
+      "id": "weidmueller-article-1160930300",
+      "name": "SAIL-M8GM8SG-4S3.0UIE — Copper data cable (Assembled) / Copper data cable (Assembled), Connecting line, Number of poles: 4, Cable length: 3 m, Male, straight - male, straight",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1160930300",
+      "recordPath": "equipment/weidmueller-article-1160930300.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1160930300.json"
+    },
+    {
+      "id": "weidmueller-article-2464200210",
+      "name": "IE-C6GB8RB0210XCSXCS-E — Copper data cable (Assembled) / Copper data cable (Assembled), Number of poles: 8",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2464200210",
+      "recordPath": "equipment/weidmueller-article-2464200210.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2464200210.json"
+    },
+    {
+      "id": "weidmueller-article-0191900000",
+      "name": "H6,0/12 — Cable end sleeve / Wire end ferrule, Standard, 6 mm², Stripping length: 12 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0191900000",
+      "recordPath": "equipment/weidmueller-article-0191900000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0191900000.json"
+    },
+    {
+      "id": "weidmueller-article-9019240000",
+      "name": "H10,0/22D R — Cable end sleeve / Wire end ferrule, Standard, 10 mm², Stripping length: 15 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9019240000",
+      "recordPath": "equipment/weidmueller-article-9019240000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9019240000.json"
+    },
+    {
+      "id": "weidmueller-article-9019250000",
+      "name": "H10,0/28D R — Cable end sleeve / Wire end ferrule, Standard, 10 mm², Stripping length: 21 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9019250000",
+      "recordPath": "equipment/weidmueller-article-9019250000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9019250000.json"
+    },
+    {
+      "id": "weidmueller-article-1892080005",
+      "name": "SAI-8-M 5P M12 NPN ECO — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood version, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes, Wiring type: NPN",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1892080005",
+      "recordPath": "equipment/weidmueller-article-1892080005.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1892080005.json"
+    },
+    {
+      "id": "weidmueller-article-9025870000",
+      "name": "H0,5/16 OR — Cable end sleeve / Wire end ferrule, Standard, 0.5 mm², Stripping length: 12 mm, orange",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9025870000",
+      "recordPath": "equipment/weidmueller-article-9025870000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9025870000.json"
+    },
+    {
+      "id": "weidmueller-article-9025860000",
+      "name": "H0,75/16 W — Cable end sleeve / Wire end ferrule, Standard, 0.75 mm², Stripping length: 12 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9025860000",
+      "recordPath": "equipment/weidmueller-article-9025860000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9025860000.json"
+    },
+    {
+      "id": "weidmueller-article-0463100000",
+      "name": "H1,5/14 R — Cable end sleeve / Wire end ferrule, Standard, 1.5 mm², Stripping length: 10 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0463100000",
+      "recordPath": "equipment/weidmueller-article-0463100000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0463100000.json"
+    },
+    {
+      "id": "weidmueller-article-9004120000",
+      "name": "H6,0/10 — Cable end sleeve / Wire end ferrule, Standard, 6 mm², Stripping length: 10 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004120000",
+      "recordPath": "equipment/weidmueller-article-9004120000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004120000.json"
+    },
+    {
+      "id": "weidmueller-article-9006750000",
+      "name": "H4,0/19,5X GR SV — Cable end sleeve / Wire end ferrule, Standard, 4 mm², Stripping length: 14 mm, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9006750000",
+      "recordPath": "equipment/weidmueller-article-9006750000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9006750000.json"
+    },
+    {
+      "id": "weidmueller-article-9004130000",
+      "name": "H6,0/18 — Cable end sleeve / Wire end ferrule, Standard, 6 mm², Stripping length: 18 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004130000",
+      "recordPath": "equipment/weidmueller-article-9004130000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004130000.json"
+    },
+    {
+      "id": "weidmueller-article-1938610000",
+      "name": "SAI-AU M12 SB 8DI — Sensor-actuator interfaces / SAI Active, Subbus, Complete modul",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1938610000",
+      "recordPath": "equipment/weidmueller-article-1938610000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1938610000.json"
+    },
+    {
+      "id": "weidmueller-article-1938600000",
+      "name": "SAI-AU M8 SB 8DI — Sensor-actuator interfaces / SAI Active, Subbus, Complete modul",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1938600000",
+      "recordPath": "equipment/weidmueller-article-1938600000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1938600000.json"
+    },
+    {
+      "id": "weidmueller-article-9005880000",
+      "name": "H1,0/14D R BD GSP — Cable end sleeve / Wire end ferrule, Standard, 1 mm², Stripping length: 10 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9005880000",
+      "recordPath": "equipment/weidmueller-article-9005880000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9005880000.json"
+    },
+    {
+      "id": "weidmueller-article-0282600000",
+      "name": "H0,5/6 — Cable end sleeve / Wire end ferrule, Standard, 0.5 mm², Stripping length: 6 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0282600000",
+      "recordPath": "equipment/weidmueller-article-0282600000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0282600000.json"
+    },
+    {
+      "id": "weidmueller-article-9005890000",
+      "name": "H1,5/14D SW BD GSP — Cable end sleeve / Wire end ferrule, Standard, 1.5 mm², Stripping length: 10 mm, black",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9005890000",
+      "recordPath": "equipment/weidmueller-article-9005890000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9005890000.json"
+    },
+    {
+      "id": "weidmueller-article-1828740000",
+      "name": "SAI-04L-VP12-3A-M08L-PNP — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) with M12 outlet, 8-pole, A-coded, M8, 30 V, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1828740000",
+      "recordPath": "equipment/weidmueller-article-1828740000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1828740000.json"
+    },
+    {
+      "id": "weidmueller-article-9021010000",
+      "name": "H0,25/10T GE — Cable end sleeve / Wire end ferrule, Standard, 0.25 mm², Stripping length: 8 mm, yellow",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9021010000",
+      "recordPath": "equipment/weidmueller-article-9021010000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9021010000.json"
+    },
+    {
+      "id": "weidmueller-article-0565900000",
+      "name": "H16,0/22 GN — Cable end sleeve / Wire end ferrule, Standard, 16 mm², Stripping length: 15 mm, green",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0565900000",
+      "recordPath": "equipment/weidmueller-article-0565900000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0565900000.json"
+    },
+    {
+      "id": "weidmueller-article-1005461000",
+      "name": "SAIL-ZW-M12BG-3-10U — Sensor-actuator adaptor cable (assembled) / Sensor-actuator adaptor cable (assembled), Connecting line, M12 / M12, 3, 10 m, Twin cabling, pin, straight, 2x socket, straight, black",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1005461000",
+      "recordPath": "equipment/weidmueller-article-1005461000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1005461000.json"
+    },
+    {
+      "id": "weidmueller-article-9019070000",
+      "name": "H1,0/12D R — Cable end sleeve / Wire end ferrule, Standard, 1 mm², Stripping length: 8 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9019070000",
+      "recordPath": "equipment/weidmueller-article-9019070000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9019070000.json"
+    },
+    {
+      "id": "weidmueller-article-9019060000",
+      "name": "H0,75/18D GR — Cable end sleeve / Wire end ferrule, Standard, 0.75 mm², Stripping length: 14 mm, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9019060000",
+      "recordPath": "equipment/weidmueller-article-9019060000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9019060000.json"
+    },
+    {
+      "id": "weidmueller-article-2883430000",
+      "name": "HDC RAILMATE BASIS N — Connector component (accessories) / Rail mounted system (industry plug-in connectors) Polycarbonate",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2883430000",
+      "recordPath": "equipment/weidmueller-article-2883430000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2883430000.json"
+    },
+    {
+      "id": "weidmueller-article-1265940000",
+      "name": "SAI-6-S12 4P M12 L — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) with M12 outlet, 12-pole, A-coded, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1265940000",
+      "recordPath": "equipment/weidmueller-article-1265940000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1265940000.json"
+    },
+    {
+      "id": "weidmueller-article-2883420000",
+      "name": "HDC RAILMATE HB 24 TOP N — Connector component (accessories) / Rail mounted system (industry plug-in connectors) Polycarbonate",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2883420000",
+      "recordPath": "equipment/weidmueller-article-2883420000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2883420000.json"
+    },
+    {
+      "id": "weidmueller-article-1160930100",
+      "name": "SAIL-M8GM8SG-4S1.0UIE — Copper data cable (Assembled) / Copper data cable (Assembled), Connecting line, Number of poles: 4, Cable length: 1 m, Male, straight - male, straight",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1160930100",
+      "recordPath": "equipment/weidmueller-article-1160930100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1160930100.json"
+    },
+    {
+      "id": "weidmueller-article-0368900000",
+      "name": "H35,0/18 — Cable end sleeve / Wire end ferrule, Standard, 35 mm², Stripping length: 18 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0368900000",
+      "recordPath": "equipment/weidmueller-article-0368900000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0368900000.json"
+    },
+    {
+      "id": "weidmueller-article-9004310000",
+      "name": "H0,75/14T HBL BD — Cable end sleeve / Wire end ferrule, Standard, 0.75 mm², Stripping length: 10 mm, Light Blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004310000",
+      "recordPath": "equipment/weidmueller-article-9004310000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004310000.json"
+    },
+    {
+      "id": "weidmueller-article-9004300000",
+      "name": "H0,75/14D GR BD — Cable end sleeve / Wire end ferrule, Standard, 0.75 mm², Stripping length: 10 mm, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004300000",
+      "recordPath": "equipment/weidmueller-article-9004300000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004300000.json"
+    },
+    {
+      "id": "weidmueller-article-9451000000",
+      "name": "H35,0/30S — Cable end sleeve / Wire end ferrule, Standard, 35 mm², Stripping length: 30 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9451000000",
+      "recordPath": "equipment/weidmueller-article-9451000000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9451000000.json"
+    },
+    {
+      "id": "weidmueller-article-1701232000",
+      "name": "SAI-4-MH-5P M12 — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood version with M20 outlet, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1701232000",
+      "recordPath": "equipment/weidmueller-article-1701232000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1701232000.json"
+    },
+    {
+      "id": "weidmueller-article-0124700000",
+      "name": "H6,0/15 — Cable end sleeve / Wire end ferrule, Standard, 6 mm², Stripping length: 15 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0124700000",
+      "recordPath": "equipment/weidmueller-article-0124700000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0124700000.json"
+    },
+    {
+      "id": "weidmueller-article-1701240000",
+      "name": "SAI-6-M 5P M12 — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood distributor, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1701240000",
+      "recordPath": "equipment/weidmueller-article-1701240000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1701240000.json"
+    },
+    {
+      "id": "weidmueller-article-9037250000",
+      "name": "H0,75/24 ZH W — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 0.75 mm², Stripping length: 21 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037250000",
+      "recordPath": "equipment/weidmueller-article-9037250000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037250000.json"
+    },
+    {
+      "id": "weidmueller-article-1701250000",
+      "name": "SAI-8-M 5P M12 — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood distributor, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1701250000",
+      "recordPath": "equipment/weidmueller-article-1701250000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1701250000.json"
+    },
+    {
+      "id": "weidmueller-article-9037240000",
+      "name": "H0,75/16 ZH W — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 0.75 mm², Stripping length: 13 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037240000",
+      "recordPath": "equipment/weidmueller-article-9037240000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037240000.json"
+    },
+    {
+      "id": "weidmueller-article-9021230000",
+      "name": "H0,75/14T HBL SV — Cable end sleeve / Wire end ferrule, Standard, 0.75 mm², Stripping length: 10 mm, Light Blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9021230000",
+      "recordPath": "equipment/weidmueller-article-9021230000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9021230000.json"
+    },
+    {
+      "id": "weidmueller-article-9021220000",
+      "name": "H0,25/12T GE SV — Cable end sleeve / Wire end ferrule, Standard, 0.25 mm², Stripping length: 10 mm, yellow",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9021220000",
+      "recordPath": "equipment/weidmueller-article-9021220000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9021220000.json"
+    },
+    {
+      "id": "weidmueller-article-9026100000",
+      "name": "H2,5/15 BL SV — Cable end sleeve / Wire end ferrule, Standard, 2.5 mm², Stripping length: 10 mm, blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9026100000",
+      "recordPath": "equipment/weidmueller-article-9026100000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9026100000.json"
+    },
+    {
+      "id": "weidmueller-article-9004780000",
+      "name": "H0,5/14D ZH W SV — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 0.5 mm², Stripping length: 11 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004780000",
+      "recordPath": "equipment/weidmueller-article-9004780000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004780000.json"
+    },
+    {
+      "id": "weidmueller-article-9037520000",
+      "name": "H2,5/27D ZH BL — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 2.5 mm², Stripping length: 21 mm, blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037520000",
+      "recordPath": "equipment/weidmueller-article-9037520000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037520000.json"
+    },
+    {
+      "id": "weidmueller-article-0186100000",
+      "name": "H2,5/12 — Cable end sleeve / Wire end ferrule, Standard, 2.5 mm², Stripping length: 12 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0186100000",
+      "recordPath": "equipment/weidmueller-article-0186100000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0186100000.json"
+    },
+    {
+      "id": "weidmueller-article-9037530000",
+      "name": "H4,0/22D ZH GR — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 4 mm², Stripping length: 15 mm, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037530000",
+      "recordPath": "equipment/weidmueller-article-9037530000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037530000.json"
+    },
+    {
+      "id": "weidmueller-article-2819070000",
+      "name": "SAI-08Z-VPUT-4A-M08L-PNP — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood distributor lower part, M8, 30 V, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2819070000",
+      "recordPath": "equipment/weidmueller-article-2819070000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2819070000.json"
+    },
+    {
+      "id": "weidmueller-article-2819060000",
+      "name": "SAI-06Z-VPUT-4A-M08L-PNP — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood distributor lower part, M8, 30 V, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2819060000",
+      "recordPath": "equipment/weidmueller-article-2819060000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2819060000.json"
+    },
+    {
+      "id": "weidmueller-article-1292180300",
+      "name": "SAIL-7/8W-5-3.0U — Sensor-actuator Cable (assembled)",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1292180300",
+      "recordPath": "equipment/weidmueller-article-1292180300.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1292180300.json"
+    },
+    {
+      "id": "weidmueller-article-2464200250",
+      "name": "IE-C6GB8RB0250XCSXCS-E — Copper data cable (Assembled) / Copper data cable (Assembled), Number of poles: 8",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2464200250",
+      "recordPath": "equipment/weidmueller-article-2464200250.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2464200250.json"
+    },
+    {
+      "id": "weidmueller-article-0372700000",
+      "name": "H1,5/7 — Cable end sleeve / Wire end ferrule, Standard, 1.5 mm², Stripping length: 7 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0372700000",
+      "recordPath": "equipment/weidmueller-article-0372700000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0372700000.json"
+    },
+    {
+      "id": "weidmueller-article-2883350000",
+      "name": "HDC RAILMATE HB6 SET N — Connector component (accessories) / Rail mounted system (industry plug-in connectors) Polycarbonate",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2883350000",
+      "recordPath": "equipment/weidmueller-article-2883350000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2883350000.json"
+    },
+    {
+      "id": "weidmueller-article-1828680000",
+      "name": "SAI-8-F 3P M8 L 5M — Sensor-actuator passive distributor (with cable) / Sensor-actuator passive distributor (with cable), complete module, Fixed cable version, Number of contact sockets: 8, Number of poles: 3, M8, 5 m, LED: Yes",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1828680000",
+      "recordPath": "equipment/weidmueller-article-1828680000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1828680000.json"
+    },
+    {
+      "id": "weidmueller-article-9025750000",
+      "name": "H0,34/10 TK — Cable end sleeve / Wire end ferrule, Standard, 0.34 mm², Stripping length: 8 mm, Turquoise",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9025750000",
+      "recordPath": "equipment/weidmueller-article-9025750000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9025750000.json"
+    },
+    {
+      "id": "weidmueller-article-9004720000",
+      "name": "H6,0/23D ZH GE SV — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 6 mm², Stripping length: 20 mm, yellow",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004720000",
+      "recordPath": "equipment/weidmueller-article-9004720000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004720000.json"
+    },
+    {
+      "id": "weidmueller-article-9004730000",
+      "name": "H4,0/22D ZH GR SV — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 4 mm², Stripping length: 15 mm, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004730000",
+      "recordPath": "equipment/weidmueller-article-9004730000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004730000.json"
+    },
+    {
+      "id": "weidmueller-article-1847560000",
+      "name": "SAI-8-B 5P M12 SL — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Backplane bushing, SL 3.5, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1847560000",
+      "recordPath": "equipment/weidmueller-article-1847560000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1847560000.json"
+    },
+    {
+      "id": "weidmueller-article-9025740000",
+      "name": "H0,25/10 HBL — Cable end sleeve / Wire end ferrule, Standard, 0.25 mm², Stripping length: 8 mm, Light Blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9025740000",
+      "recordPath": "equipment/weidmueller-article-9025740000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9025740000.json"
+    },
+    {
+      "id": "weidmueller-article-1932380000",
+      "name": "SAI-06L-VP12-3A-M08O-PNP — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) with M12 outlet, 8-pole, A-coded, M8, 30 V, LED: Yes, LED initiator: No, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1932380000",
+      "recordPath": "equipment/weidmueller-article-1932380000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1932380000.json"
+    },
+    {
+      "id": "weidmueller-article-9036260000",
+      "name": "H185,0/32 — Cable end sleeve / Wire end ferrule, Standard, 185 mm², Stripping length: 32 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9036260000",
+      "recordPath": "equipment/weidmueller-article-9036260000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9036260000.json"
+    },
+    {
+      "id": "weidmueller-article-9006870000",
+      "name": "H16,0/25,5X BL SV — Cable end sleeve / Wire end ferrule, Standard, 16 mm², Stripping length: 26 mm, blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9006870000",
+      "recordPath": "equipment/weidmueller-article-9006870000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9006870000.json"
+    },
+    {
+      "id": "weidmueller-article-1868350000",
+      "name": "SAI-04D-VPPP-2A-M12O-NAM-EX — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood version Ex, M12, 30 V, A-coded, LED: No, LED initiator: No, Wiring type: 2-wire",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1868350000",
+      "recordPath": "equipment/weidmueller-article-1868350000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1868350000.json"
+    },
+    {
+      "id": "weidmueller-article-1292090150",
+      "name": "SAIL-7/8W-3-1.5U — Sensor-actuator Cable (assembled)",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1292090150",
+      "recordPath": "equipment/weidmueller-article-1292090150.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1292090150.json"
+    },
+    {
+      "id": "weidmueller-article-1292090500",
+      "name": "SAIL-7/8W-3-5.0U — Sensor-actuator Cable (assembled)",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1292090500",
+      "recordPath": "equipment/weidmueller-article-1292090500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1292090500.json"
+    },
+    {
+      "id": "weidmueller-article-9037660000",
+      "name": "H2,5/27T ZH GR — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 2.5 mm², Stripping length: 21 mm, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037660000",
+      "recordPath": "equipment/weidmueller-article-9037660000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037660000.json"
+    },
+    {
+      "id": "weidmueller-article-9037670000",
+      "name": "H4,0/22T ZH OR — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 4 mm², Stripping length: 15 mm, orange",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037670000",
+      "recordPath": "equipment/weidmueller-article-9037670000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037670000.json"
+    },
+    {
+      "id": "weidmueller-article-1848040000",
+      "name": "SAI-8-S 5P FC — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) with M23 outlet, 19-pole, M12, 30 V, A-coded, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1848040000",
+      "recordPath": "equipment/weidmueller-article-1848040000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1848040000.json"
+    },
+    {
+      "id": "weidmueller-article-9021170000",
+      "name": "H16,0/22T W — Cable end sleeve / Wire end ferrule, Standard, 16 mm², Stripping length: 15 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9021170000",
+      "recordPath": "equipment/weidmueller-article-9021170000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9021170000.json"
+    },
+    {
+      "id": "weidmueller-article-9021160000",
+      "name": "H10,0/28T BR — Cable end sleeve / Wire end ferrule, Standard, 10 mm², Stripping length: 21 mm, brown",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9021160000",
+      "recordPath": "equipment/weidmueller-article-9021160000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9021160000.json"
+    },
+    {
+      "id": "weidmueller-article-9004050000",
+      "name": "H0,5/10 — Cable end sleeve / Wire end ferrule, Standard, 0.5 mm², Stripping length: 10 mm, No",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004050000",
+      "recordPath": "equipment/weidmueller-article-9004050000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004050000.json"
+    },
+    {
+      "id": "weidmueller-article-9006630000",
+      "name": "H1,5/19,5X SW SV — Cable end sleeve / Wire end ferrule, Standard, 1.5 mm², Stripping length: 15 mm, black",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9006630000",
+      "recordPath": "equipment/weidmueller-article-9006630000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9006630000.json"
+    },
+    {
+      "id": "weidmueller-article-0317000000",
+      "name": "H25,0/30 BR — Cable end sleeve / Wire end ferrule, Standard, 25 mm², Stripping length: 18 mm, brown",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0317000000",
+      "recordPath": "equipment/weidmueller-article-0317000000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0317000000.json"
+    },
+    {
+      "id": "weidmueller-article-1795470000",
+      "name": "SAI-08D-VP3V-5A-M12L-PNP — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) with M23 outlet, 19-pole, M12, 30 V, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1795470000",
+      "recordPath": "equipment/weidmueller-article-1795470000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1795470000.json"
+    },
+    {
+      "id": "weidmueller-article-9019330000",
+      "name": "H35,0/39D R — Cable end sleeve / Wire end ferrule, Standard, 35 mm², Stripping length: 28 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9019330000",
+      "recordPath": "equipment/weidmueller-article-9019330000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9019330000.json"
+    },
+    {
+      "id": "weidmueller-article-9019320000",
+      "name": "H35,0/32D R — Cable end sleeve / Wire end ferrule, Standard, 35 mm², Stripping length: 19 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9019320000",
+      "recordPath": "equipment/weidmueller-article-9019320000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9019320000.json"
+    },
+    {
+      "id": "weidmueller-article-9037580000",
+      "name": "H10,0/30D ZH R — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 10 mm², Stripping length: 23 mm, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037580000",
+      "recordPath": "equipment/weidmueller-article-9037580000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037580000.json"
+    },
+    {
+      "id": "weidmueller-article-2818970000",
+      "name": "SAI-04Z-VPPP-4A-M08L-PNP — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood distributor, M8, 30 V, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2818970000",
+      "recordPath": "equipment/weidmueller-article-2818970000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2818970000.json"
+    },
+    {
+      "id": "weidmueller-article-9037590000",
+      "name": "H16,0/29D ZH BL — Cable end sleeve / Wire end ferrule, Twin wire-end ferrule, 16 mm², Stripping length: 20 mm, blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9037590000",
+      "recordPath": "equipment/weidmueller-article-9037590000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9037590000.json"
+    },
+    {
+      "id": "weidmueller-article-2818960000",
+      "name": "SAI-10Z-VPPP-3A-M08L-PNP — Passive sensor/actuator distributor (without cable) / Sensor-actuator passive distributor (without cable) Hood distributor, M8, 30 V, LED: Yes, LED initiator: Yes, Wiring type: PNP",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2818960000",
+      "recordPath": "equipment/weidmueller-article-2818960000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2818960000.json"
+    },
+    {
+      "id": "weidmueller-article-9025910000",
+      "name": "H0,75/18 W — Cable end sleeve / Wire end ferrule, Standard, 0.75 mm², Stripping length: 14 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9025910000",
+      "recordPath": "equipment/weidmueller-article-9025910000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9025910000.json"
+    },
+    {
+      "id": "se-article-gv4pe115n6",
+      "name": "GV4PE115N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 115A, Icu 50kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe115n6",
+      "recordPath": "equipment/se-article-gv4pe115n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe115n6.json"
+    },
+    {
+      "id": "se-article-gv4pe12n6",
+      "name": "GV4PE12N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 12.5A, Icu 50kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe12n6",
+      "recordPath": "equipment/se-article-gv4pe12n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe12n6.json"
+    },
+    {
+      "id": "se-article-31115",
+      "name": "31115 — switch disconnector, Compact INS630, 630A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31115",
+      "recordPath": "equipment/se-article-31115.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31115.json"
+    },
+    {
+      "id": "se-article-gv2me01a",
+      "name": "GV2ME01A — TeSys GV2ME - Snap In - disj. moteur - 0,1 à 0,16A - 3P 3d -  magnéto-thermique",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me01a",
+      "recordPath": "equipment/se-article-gv2me01a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me01a.json"
+    },
+    {
+      "id": "se-article-gs1ap34",
+      "name": "GS1AP34 — Terminal shrouds, TeSys GS, 4P, for switches 100 to 160A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs1ap34",
+      "recordPath": "equipment/se-article-gs1ap34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs1ap34.json"
+    },
+    {
+      "id": "se-article-lv426405",
+      "name": "LV426405 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 63 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426405",
+      "recordPath": "equipment/se-article-lv426405.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426405.json"
+    },
+    {
+      "id": "se-article-c160s3wm",
+      "name": "C160S3WM — Switch disconnector basic frame, ComPacT NS1600 type NA, 3P, drawout, manually operated, 1600A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c160s3wm",
+      "recordPath": "equipment/se-article-c160s3wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c160s3wm.json"
+    },
+    {
+      "id": "se-article-lv426106",
+      "name": "LV426106 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 80 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426106",
+      "recordPath": "equipment/se-article-lv426106.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426106.json"
+    },
+    {
+      "id": "se-article-lv426521",
+      "name": "LV426521 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 25 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426521",
+      "recordPath": "equipment/se-article-lv426521.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426521.json"
+    },
+    {
+      "id": "se-article-gv2le06",
+      "name": "GV2LE06 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,1.6A,magnetic,toggle control,screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2le06",
+      "recordPath": "equipment/se-article-gv2le06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2le06.json"
+    },
+    {
+      "id": "se-article-lv426207",
+      "name": "LV426207 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 3P 3d, 100 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426207",
+      "recordPath": "equipment/se-article-lv426207.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426207.json"
+    },
+    {
+      "id": "se-article-gv2p20",
+      "name": "GV2P20 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 13 to 18A, thermal magnetic, screw clamp terminals, rotary handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2p20",
+      "recordPath": "equipment/se-article-gv2p20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2p20.json"
+    },
+    {
+      "id": "se-article-gv2rt06",
+      "name": "GV2RT06 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,1-1.6A,thermal magnetic,screw clamp terminals,toggle handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2rt06",
+      "recordPath": "equipment/se-article-gv2rt06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2rt06.json"
+    },
+    {
+      "id": "se-article-a9s65192",
+      "name": "A9S65192 — switch disconnector iSW - 1P - 125 A - 240 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s65192",
+      "recordPath": "equipment/se-article-a9s65192.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s65192.json"
+    },
+    {
+      "id": "se-article-31188",
+      "name": "31188 — switch disconnector, Compact INV320, visible break, 320 A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31188",
+      "recordPath": "equipment/se-article-31188.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31188.json"
+    },
+    {
+      "id": "se-article-28900",
+      "name": "28900 — Switch disconnector, ComPact, Compact INS40 , 40 A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28900",
+      "recordPath": "equipment/se-article-28900.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28900.json"
+    },
+    {
+      "id": "se-article-gv4le07s",
+      "name": "GV4LE07S — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 7A, Icu 100kA, magnetic, EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le07s",
+      "recordPath": "equipment/se-article-gv4le07s.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le07s.json"
+    },
+    {
+      "id": "se-article-bjf26125",
+      "name": "BJF26125 — Circuit breaker, PowerPacT B, 125A, 2 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf26125",
+      "recordPath": "equipment/se-article-bjf26125.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf26125.json"
+    },
+    {
+      "id": "se-article-gv4p50n",
+      "name": "GV4P50N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 50A, Icu 50kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4p50n",
+      "recordPath": "equipment/se-article-gv4p50n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4p50n.json"
+    },
+    {
+      "id": "se-article-lv426305",
+      "name": "LV426305 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 63 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426305",
+      "recordPath": "equipment/se-article-lv426305.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426305.json"
+    },
+    {
+      "id": "se-article-lu9bn11",
+      "name": "LU9BN11 — Screw clamp terminal block, TeSys Ultra, terminal block for power base LU9, 0.045 kg",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu9bn11",
+      "recordPath": "equipment/se-article-lu9bn11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu9bn11.json"
+    },
+    {
+      "id": "se-article-bjf26030",
+      "name": "BJF26030 — Circuit breaker, PowerPacT B, 30A, 2 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf26030",
+      "recordPath": "equipment/se-article-bjf26030.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf26030.json"
+    },
+    {
+      "id": "se-article-bdf16020",
+      "name": "BDF16020 — Circuit breaker, PowerPacT B, 20A, 1 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf16020",
+      "recordPath": "equipment/se-article-bdf16020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf16020.json"
+    },
+    {
+      "id": "se-article-a9z61463",
+      "name": "A9Z61463 — Residual current circuit breaker (RCCB), Acti9 iID, 4P, 63A, B-SI type, 30mA, double terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9z61463",
+      "recordPath": "equipment/se-article-a9z61463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9z61463.json"
+    },
+    {
+      "id": "se-article-gv2p21",
+      "name": "GV2P21 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 17 to 23A, thermal magnetic, screw clamp terminals, rotary handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2p21",
+      "recordPath": "equipment/se-article-gv2p21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2p21.json"
+    },
+    {
+      "id": "se-article-31349",
+      "name": "31349 — switch disconnector, Compact INS1250, 1250A, with red rotary handle, yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31349",
+      "recordPath": "equipment/se-article-31349.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31349.json"
+    },
+    {
+      "id": "se-article-gs2kg4",
+      "name": "GS2KG4 — Switch disconnector fuse, TeSys GS, 4P, 125A, fuse type NFC, size 22x58 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2kg4",
+      "recordPath": "equipment/se-article-gs2kg4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2kg4.json"
+    },
+    {
+      "id": "se-article-31127",
+      "name": "31127 — switch disconnector, Compact INS250, 250A, with red rotary handle and yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31127",
+      "recordPath": "equipment/se-article-31127.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31127.json"
+    },
+    {
+      "id": "se-article-gv2le03",
+      "name": "GV2LE03 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,0.4A,magnetic,toggle control,screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2le03",
+      "recordPath": "equipment/se-article-gv2le03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2le03.json"
+    },
+    {
+      "id": "se-article-lv429260",
+      "name": "LV429260 — aluminium bare cable connectors, Compact NSX, EasyPact CVS, for 1 cable 120 mm² to 185 mm², 250 A, set of 4 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429260",
+      "recordPath": "equipment/se-article-lv429260.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429260.json"
+    },
+    {
+      "id": "se-article-lv426402",
+      "name": "LV426402 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 32 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426402",
+      "recordPath": "equipment/se-article-lv426402.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426402.json"
+    },
+    {
+      "id": "se-article-a9z64225",
+      "name": "A9Z64225 — Residual current circuit breaker (RCCB), Acti9 iID, 2P, 25A, B-SI type, 300mA, double terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9z64225",
+      "recordPath": "equipment/se-article-a9z64225.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9z64225.json"
+    },
+    {
+      "id": "se-article-lv426204",
+      "name": "LV426204 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 3P 3d, 50 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426204",
+      "recordPath": "equipment/se-article-lv426204.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426204.json"
+    },
+    {
+      "id": "se-article-gv4p115n6",
+      "name": "GV4P115N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 115A, Icu 50kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4p115n6",
+      "recordPath": "equipment/se-article-gv4p115n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4p115n6.json"
+    },
+    {
+      "id": "se-article-gv2me026",
+      "name": "GV2ME026 — TeSys GV2 Manual Starter and Protector, thermal magnetic circuit protector, push buttons, 0.16...0.25 A, ring lug terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me026",
+      "recordPath": "equipment/se-article-gv2me026.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me026.json"
+    },
+    {
+      "id": "se-article-31364",
+      "name": "31364 — switch disconnector, Compact INV1600, visible break, 1600A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31364",
+      "recordPath": "equipment/se-article-31364.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31364.json"
+    },
+    {
+      "id": "se-article-c063s4nafm",
+      "name": "C063S4NAFM — Switch disconnector, ComPacT NS630b NA, 4P, fixed, manually operated, 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063s4nafm",
+      "recordPath": "equipment/se-article-c063s4nafm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063s4nafm.json"
+    },
+    {
+      "id": "se-article-31374",
+      "name": "31374 — switch disconnector, Compact INV1000, visible break, 1000 A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31374",
+      "recordPath": "equipment/se-article-31374.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31374.json"
+    },
+    {
+      "id": "se-article-bjf46035",
+      "name": "BJF46035 — Circuit breaker, PowerPacT B, 35A, 4 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf46035",
+      "recordPath": "equipment/se-article-bjf46035.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf46035.json"
+    },
+    {
+      "id": "se-article-lv426411",
+      "name": "LV426411 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 25 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426411",
+      "recordPath": "equipment/se-article-lv426411.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426411.json"
+    },
+    {
+      "id": "se-article-31106",
+      "name": "31106 — Switch disconnector, ComPact, Compact INS250 , 250 A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31106",
+      "recordPath": "equipment/se-article-31106.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31106.json"
+    },
+    {
+      "id": "se-article-lrd05l",
+      "name": "LRD05L — Thermal overload relay, TeSys Deca, 690VAC, 0.63 to 1A, 1NO+1NC, class 20, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd05l",
+      "recordPath": "equipment/se-article-lrd05l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd05l.json"
+    },
+    {
+      "id": "se-article-gs2qqg3",
+      "name": "GS2QQG3 — Switch disconnector fuse, TeSys GS, 3P, 400A, fuse type DIN, size 2",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2qqg3",
+      "recordPath": "equipment/se-article-gs2qqg3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2qqg3.json"
+    },
+    {
+      "id": "se-article-lrd318",
+      "name": "LRD318 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 12 to 18A, 1NO+1NC, class 10A, EverLink BTR screw connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd318",
+      "recordPath": "equipment/se-article-lrd318.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd318.json"
+    },
+    {
+      "id": "se-article-gv4pe03n",
+      "name": "GV4PE03N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 3.5A, Icu 50kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe03n",
+      "recordPath": "equipment/se-article-gv4pe03n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe03n.json"
+    },
+    {
+      "id": "se-article-gvaed011",
+      "name": "GVAED011 — Add-on contact block,TeSys Deca Frame 2/3,1NC+1NO(fault),front,for GV2/GV3(except GV3ME)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gvaed011",
+      "recordPath": "equipment/se-article-gvaed011.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gvaed011.json"
+    },
+    {
+      "id": "se-article-lv426501",
+      "name": "LV426501 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 25 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426501",
+      "recordPath": "equipment/se-article-lv426501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426501.json"
+    },
+    {
+      "id": "se-article-gs2l3",
+      "name": "GS2L3 — Switch disconnector fuse, TeSys GS, 3P, 160A, fuse type DIN, size 0",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2l3",
+      "recordPath": "equipment/se-article-gs2l3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2l3.json"
+    },
+    {
+      "id": "se-article-28924",
+      "name": "28924 — switch disconnector, Compact INS100, 100A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28924",
+      "recordPath": "equipment/se-article-28924.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28924.json"
+    },
+    {
+      "id": "se-article-lv426225",
+      "name": "LV426225 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 63 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426225",
+      "recordPath": "equipment/se-article-lv426225.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426225.json"
+    },
+    {
+      "id": "se-article-bjf16110",
+      "name": "BJF16110 — Circuit breaker, PowerPacT B, 110A, 1 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf16110",
+      "recordPath": "equipment/se-article-bjf16110.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf16110.json"
+    },
+    {
+      "id": "se-article-lv426109",
+      "name": "LV426109 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 160 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426109",
+      "recordPath": "equipment/se-article-lv426109.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426109.json"
+    },
+    {
+      "id": "se-article-31182",
+      "name": "31182 — switch disconnector, Compact INV200, visible break, 200 A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31182",
+      "recordPath": "equipment/se-article-31182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31182.json"
+    },
+    {
+      "id": "se-article-lv429405",
+      "name": "LV429405 — MN undervoltage release, ComPacT NSX, rated voltage 48 VAC 50/60 Hz, screwless spring terminal connections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429405",
+      "recordPath": "equipment/se-article-lv429405.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429405.json"
+    },
+    {
+      "id": "se-article-gv2l03",
+      "name": "GV2L03 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 0.4A, magnetic, rotary handle, screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2l03",
+      "recordPath": "equipment/se-article-gv2l03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2l03.json"
+    },
+    {
+      "id": "se-article-31102",
+      "name": "31102 — Switch disconnector, ComPact, Compact INS250-200 , 200 A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31102",
+      "recordPath": "equipment/se-article-31102.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31102.json"
+    },
+    {
+      "id": "se-article-lv426601",
+      "name": "LV426601 — Switch disconnector, ComPact NSXm NA, 3P, 100A rating, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426601",
+      "recordPath": "equipment/se-article-lv426601.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426601.json"
+    },
+    {
+      "id": "se-article-bdf36040",
+      "name": "BDF36040 — Circuit breaker, PowerPacT B, 40A, 3 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf36040",
+      "recordPath": "equipment/se-article-bdf36040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf36040.json"
+    },
+    {
+      "id": "se-article-gv2me073",
+      "name": "GV2ME073 — Motor circuit breaker, TeSys Deca, 3P, 1.6 to 2.5A, thermal magnetic, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me073",
+      "recordPath": "equipment/se-article-gv2me073.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me073.json"
+    },
+    {
+      "id": "se-article-gs2lb3",
+      "name": "GS2LB3 — Switch disconnector fuse, TeSys GS, 3P, 160A, fuse type BS, size B1, B2",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2lb3",
+      "recordPath": "equipment/se-article-gs2lb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2lb3.json"
+    },
+    {
+      "id": "se-article-gs2llb4",
+      "name": "GS2LLB4 — Switch disconnector fuse, TeSys GS, 4P, 160A, fuse type BS, size A4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2llb4",
+      "recordPath": "equipment/se-article-gs2llb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2llb4.json"
+    },
+    {
+      "id": "se-article-31186",
+      "name": "31186 — switch disconnector, Compact INV250, visible break, 250A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31186",
+      "recordPath": "equipment/se-article-31186.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31186.json"
+    },
+    {
+      "id": "se-article-lu2ba0es",
+      "name": "LU2BA0ES — Reversing power base, TeSys Ultra, 3P, 1NO + 1NC, 12A, 690VAC, 48 to 72VAC/DC coil, without control terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu2ba0es",
+      "recordPath": "equipment/se-article-lu2ba0es.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu2ba0es.json"
+    },
+    {
+      "id": "se-article-c160s4wm",
+      "name": "C160S4WM — Switch disconnector basic frame, ComPacT NS1600 type NA, 4P, drawout, manually operated, 1600A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c160s4wm",
+      "recordPath": "equipment/se-article-c160s4wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c160s4wm.json"
+    },
+    {
+      "id": "se-article-bgf36110",
+      "name": "BGF36110 — Circuit breaker, PowerPacT B, 110A, 3 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf36110",
+      "recordPath": "equipment/se-article-bgf36110.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf36110.json"
+    },
+    {
+      "id": "se-article-bjf36030",
+      "name": "BJF36030 — Circuit breaker, PowerPacT B, 30A, 3 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf36030",
+      "recordPath": "equipment/se-article-bjf36030.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf36030.json"
+    },
+    {
+      "id": "se-article-33448",
+      "name": "33448 — Basic switch disconnector, ComPacT NS1600NA, fixed, electrically operated, 1600A, 690VAC 50/60Hz, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33448",
+      "recordPath": "equipment/se-article-33448.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33448.json"
+    },
+    {
+      "id": "se-article-a9s65392",
+      "name": "A9S65392 — switch disconnector iSW - 3P - 125 A - 415 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s65392",
+      "recordPath": "equipment/se-article-a9s65392.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s65392.json"
+    },
+    {
+      "id": "se-article-lrd3256",
+      "name": "LRD3256 — Thermal overload relay,TeSys Deca,17-25A,1NO+1NC,class 10A,EverLink lugs ring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3256",
+      "recordPath": "equipment/se-article-lrd3256.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3256.json"
+    },
+    {
+      "id": "se-article-28911",
+      "name": "28911 — switch disconnector, Compact INS125, 125A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28911",
+      "recordPath": "equipment/se-article-28911.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28911.json"
+    },
+    {
+      "id": "se-article-c100s3fm",
+      "name": "C100S3FM — Switch disconnector basic frame, ComPacT NS1000 type NA, 3P, fixed, manually operated, 1000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100s3fm",
+      "recordPath": "equipment/se-article-c100s3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100s3fm.json"
+    },
+    {
+      "id": "se-article-gv4pe25n",
+      "name": "GV4PE25N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 25A, Icu 50kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe25n",
+      "recordPath": "equipment/se-article-gv4pe25n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe25n.json"
+    },
+    {
+      "id": "se-article-bdf46030",
+      "name": "BDF46030 — Circuit breaker, PowerPacT B, 30A, 4 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf46030",
+      "recordPath": "equipment/se-article-bdf46030.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf46030.json"
+    },
+    {
+      "id": "se-article-a9s65440",
+      "name": "A9S65440 — switch disconnector iSW - 4P - 40 A - 415 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s65440",
+      "recordPath": "equipment/se-article-a9s65440.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s65440.json"
+    },
+    {
+      "id": "se-article-lv426324",
+      "name": "LV426324 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 4d, 50 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426324",
+      "recordPath": "equipment/se-article-lv426324.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426324.json"
+    },
+    {
+      "id": "se-article-lv426315",
+      "name": "LV426315 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 63 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426315",
+      "recordPath": "equipment/se-article-lv426315.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426315.json"
+    },
+    {
+      "id": "se-article-lrd03",
+      "name": "LRD03 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 0.25 to 0.4A, 1NO+1NC, class 10A, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd03",
+      "recordPath": "equipment/se-article-lrd03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd03.json"
+    },
+    {
+      "id": "se-article-gv2me32a",
+      "name": "GV2ME32A — TeSys GV2ME - Snap In - disj. moteur - 24 à 32A - 3P 3d -  magnéto-thermique",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me32a",
+      "recordPath": "equipment/se-article-gv2me32a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me32a.json"
+    },
+    {
+      "id": "se-article-c125s3fm",
+      "name": "C125S3FM — Switch disconnector basic frame, ComPacT NS1250 type NA, 3P, fixed, manually operated, 1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c125s3fm",
+      "recordPath": "equipment/se-article-c125s3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c125s3fm.json"
+    },
+    {
+      "id": "se-article-bdf26070",
+      "name": "BDF26070 — Circuit breaker, PowerPacT B, 70A, 2 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf26070",
+      "recordPath": "equipment/se-article-bdf26070.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf26070.json"
+    },
+    {
+      "id": "se-article-lv426127",
+      "name": "LV426127 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 100 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426127",
+      "recordPath": "equipment/se-article-lv426127.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426127.json"
+    },
+    {
+      "id": "se-article-gv4pe25b",
+      "name": "GV4PE25B — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 25A, Icu 25kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe25b",
+      "recordPath": "equipment/se-article-gv4pe25b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe25b.json"
+    },
+    {
+      "id": "se-article-31175",
+      "name": "31175 — switch disconnector, Compact INV630, visible break, 630A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31175",
+      "recordPath": "equipment/se-article-31175.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31175.json"
+    },
+    {
+      "id": "se-article-gv4le03n6",
+      "name": "GV4LE03N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 3.5A, Icu 50kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le03n6",
+      "recordPath": "equipment/se-article-gv4le03n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le03n6.json"
+    },
+    {
+      "id": "se-article-gs2lg4",
+      "name": "GS2LG4 — Switch disconnector fuse, TeSys GS, 4P, 160A, fuse type DIN, size 0",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2lg4",
+      "recordPath": "equipment/se-article-gs2lg4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2lg4.json"
+    },
+    {
+      "id": "se-article-a9s65363",
+      "name": "A9S65363 — switch disconnector iSW - 3P - 63 A - 415 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s65363",
+      "recordPath": "equipment/se-article-a9s65363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s65363.json"
+    },
+    {
+      "id": "se-article-lv426426",
+      "name": "LV426426 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 80 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426426",
+      "recordPath": "equipment/se-article-lv426426.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426426.json"
+    },
+    {
+      "id": "se-article-gv3l32",
+      "name": "GV3L32 — Motor circuit breaker,TeSys Deca frame 3,3P,32A,magnetic,rotary handle,EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3l32",
+      "recordPath": "equipment/se-article-gv3l32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3l32.json"
+    },
+    {
+      "id": "se-article-bgf36070",
+      "name": "BGF36070 — Circuit breaker, PowerPacT B, 70A, 3 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf36070",
+      "recordPath": "equipment/se-article-bgf36070.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf36070.json"
+    },
+    {
+      "id": "se-article-gv4pe12s6",
+      "name": "GV4PE12S6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 12.5A, Icu 100kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe12s6",
+      "recordPath": "equipment/se-article-gv4pe12s6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe12s6.json"
+    },
+    {
+      "id": "se-article-gv4le25n6",
+      "name": "GV4LE25N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 25A, Icu 50kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le25n6",
+      "recordPath": "equipment/se-article-gv4le25n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le25n6.json"
+    },
+    {
+      "id": "se-article-c320s3fm",
+      "name": "C320S3FM — Switch disconnector basic frame, ComPacT NS3200 type NA, 3P, fixed, manually operated, 3200A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c320s3fm",
+      "recordPath": "equipment/se-article-c320s3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c320s3fm.json"
+    },
+    {
+      "id": "se-article-a9s66340",
+      "name": "A9S66340 — switch disconnector iSW - 3P - 40 A - 415 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s66340",
+      "recordPath": "equipment/se-article-a9s66340.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s66340.json"
+    },
+    {
+      "id": "se-article-gv2me043",
+      "name": "GV2ME043 — Motor circuit breaker,TeSys Deca frame 2,3P,0.4-0.63A,thermal magnetic,push button,spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me043",
+      "recordPath": "equipment/se-article-gv2me043.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me043.json"
+    },
+    {
+      "id": "se-article-bgf46050",
+      "name": "BGF46050 — Circuit breaker, PowerPacT B, 50A, 4 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf46050",
+      "recordPath": "equipment/se-article-bgf46050.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf46050.json"
+    },
+    {
+      "id": "se-article-bjf16045",
+      "name": "BJF16045 — Circuit breaker, PowerPacT B, 45A, 1 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf16045",
+      "recordPath": "equipment/se-article-bjf16045.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf16045.json"
+    },
+    {
+      "id": "se-article-a9s65140",
+      "name": "A9S65140 — switch disconnector iSW - 1P - 40 A - 240 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s65140",
+      "recordPath": "equipment/se-article-a9s65140.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s65140.json"
+    },
+    {
+      "id": "se-article-bjf46090",
+      "name": "BJF46090 — Circuit breaker, PowerPacT B, 90A, 4 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf46090",
+      "recordPath": "equipment/se-article-bjf46090.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf46090.json"
+    },
+    {
+      "id": "se-article-31379",
+      "name": "31379 — switch disconnector, Compact INV1600, visible break, 1600 A, with red rotary handle and yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31379",
+      "recordPath": "equipment/se-article-31379.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31379.json"
+    },
+    {
+      "id": "se-article-28949",
+      "name": "28949 — terminal blocks, 4 x 25mm2, set of 3",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28949",
+      "recordPath": "equipment/se-article-28949.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28949.json"
+    },
+    {
+      "id": "se-article-gv4p115n",
+      "name": "GV4P115N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 115A, Icu 50kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4p115n",
+      "recordPath": "equipment/se-article-gv4p115n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4p115n.json"
+    },
+    {
+      "id": "se-article-bdf16030",
+      "name": "BDF16030 — Circuit breaker, PowerPacT B, 30A, 1 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf16030",
+      "recordPath": "equipment/se-article-bdf16030.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf16030.json"
+    },
+    {
+      "id": "se-article-18895",
+      "name": "18895 — switch-disconnector NG125NA - 3 poles + N - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18895",
+      "recordPath": "equipment/se-article-18895.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18895.json"
+    },
+    {
+      "id": "se-article-gv2me14a",
+      "name": "GV2ME14A — TeSys GV2ME - Snap In - disj. moteur - 6 à 10A - 3P 3d -  magnéto-thermique",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me14a",
+      "recordPath": "equipment/se-article-gv2me14a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me14a.json"
+    },
+    {
+      "id": "se-article-31112",
+      "name": "31112 — switch disconnector, Compact INS500, 500A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31112",
+      "recordPath": "equipment/se-article-31112.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31112.json"
+    },
+    {
+      "id": "se-article-lu2bb0es",
+      "name": "LU2BB0ES — Reversing power base, TeSys U, 3P, 32A/690V, coil 48-72V AC/DC, without control terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu2bb0es",
+      "recordPath": "equipment/se-article-lu2bb0es.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu2bb0es.json"
+    },
+    {
+      "id": "se-article-lrd4367",
+      "name": "LRD4367 — Thermal Overload Relays, TeSys LR.D, TeSys Deca, 95...120A, class 10A, lug clamps",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd4367",
+      "recordPath": "equipment/se-article-lrd4367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd4367.json"
+    },
+    {
+      "id": "se-article-gs2tb3",
+      "name": "GS2TB3 — Switch disconnector fuse, TeSys GS, 3P, 800A, fuse type BS, size C3",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2tb3",
+      "recordPath": "equipment/se-article-gs2tb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2tb3.json"
+    },
+    {
+      "id": "se-article-gv2me10",
+      "name": "GV2ME10 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 4 to 6.3A, thermal magnetic, screw clamp terminals, button control",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me10",
+      "recordPath": "equipment/se-article-gv2me10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me10.json"
+    },
+    {
+      "id": "se-article-gv4pe02s6",
+      "name": "GV4PE02S6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 2A, Icu 100kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe02s6",
+      "recordPath": "equipment/se-article-gv4pe02s6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe02s6.json"
+    },
+    {
+      "id": "se-article-31126",
+      "name": "31126 — switch disconnector, Compact INS250, 250A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31126",
+      "recordPath": "equipment/se-article-31126.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31126.json"
+    },
+    {
+      "id": "se-article-lv426423",
+      "name": "LV426423 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 40 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426423",
+      "recordPath": "equipment/se-article-lv426423.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426423.json"
+    },
+    {
+      "id": "se-article-lrd016",
+      "name": "LRD016 — Thermal overload relay, TeSys Deca, 690VAC, 0.1 to 0.16A, 1NO+1NC, class 10A, lugs ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd016",
+      "recordPath": "equipment/se-article-lrd016.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd016.json"
+    },
+    {
+      "id": "se-article-gv2l20",
+      "name": "GV2L20 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 18A, magnetic, rotary handle, screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2l20",
+      "recordPath": "equipment/se-article-gv2l20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2l20.json"
+    },
+    {
+      "id": "se-article-gv2me21a",
+      "name": "GV2ME21A — TeSys GV2ME - Snap In - disj. moteur - 17 à 23A - 3P 3d -  magnéto-thermique",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me21a",
+      "recordPath": "equipment/se-article-gv2me21a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me21a.json"
+    },
+    {
+      "id": "se-article-31130",
+      "name": "31130 — switch disconnector, Compact INS400, 400A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31130",
+      "recordPath": "equipment/se-article-31130.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31130.json"
+    },
+    {
+      "id": "se-article-c125s4nafm",
+      "name": "C125S4NAFM — Switch disconnector, ComPacT NS1250 NA, 4P, fixed, manually operated, 1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c125s4nafm",
+      "recordPath": "equipment/se-article-c125s4nafm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c125s4nafm.json"
+    },
+    {
+      "id": "se-article-33455",
+      "name": "33455 — Basic switch disconnector, ComPacT NS1000NA, withdrawable, electrically operated, 1000A, 690VAC 50/60Hz, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33455",
+      "recordPath": "equipment/se-article-33455.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33455.json"
+    },
+    {
+      "id": "se-article-lr3d32l",
+      "name": "LR3D32L — Thermal overload relay, TeSys Deca, 690VAC, 23 to 32A, 1NO+1NC, class 20, screw terminal, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d32l",
+      "recordPath": "equipment/se-article-lr3d32l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d32l.json"
+    },
+    {
+      "id": "se-article-lv429385",
+      "name": "LV429385 — MX shunt release, ComPacT NSX, rated voltage 48 VAC 50/60 Hz, screwless spring terminal connections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429385",
+      "recordPath": "equipment/se-article-lv429385.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429385.json"
+    },
+    {
+      "id": "se-article-lv426413",
+      "name": "LV426413 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 40 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426413",
+      "recordPath": "equipment/se-article-lv426413.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426413.json"
+    },
+    {
+      "id": "se-article-lv426300",
+      "name": "LV426300 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 16 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426300",
+      "recordPath": "equipment/se-article-lv426300.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426300.json"
+    },
+    {
+      "id": "se-article-33451",
+      "name": "33451 — Basic switch disconnector, ComPacT NS630bNA, withdrawable, electrically operated, 630A, 690VAC 50/60Hz, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33451",
+      "recordPath": "equipment/se-article-33451.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33451.json"
+    },
+    {
+      "id": "se-article-bgf36020",
+      "name": "BGF36020 — Circuit breaker, PowerPacT B, 20A, 3 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf36020",
+      "recordPath": "equipment/se-article-bgf36020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf36020.json"
+    },
+    {
+      "id": "se-article-lv426108",
+      "name": "LV426108 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 125 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426108",
+      "recordPath": "equipment/se-article-lv426108.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426108.json"
+    },
+    {
+      "id": "se-article-lv426971",
+      "name": "LV426971 — EverLink connector with control wire terminal, ComPacT NSXm, for 1 cable 2.5mmÂ² to 95mmÂ², 160A max, 4 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426971",
+      "recordPath": "equipment/se-article-lv426971.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426971.json"
+    },
+    {
+      "id": "se-article-bmxftb2000",
+      "name": "BMXFTB2000 — terminal block, Modicon X80, 20-pin removable caged, 1 x 0.34..1mm2",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxftb2000",
+      "recordPath": "equipment/se-article-bmxftb2000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxftb2000.json"
+    },
+    {
+      "id": "se-article-bdf16100",
+      "name": "BDF16100 — Circuit breaker, PowerPacT B, 100A, 1 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf16100",
+      "recordPath": "equipment/se-article-bdf16100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf16100.json"
+    },
+    {
+      "id": "se-article-gv4pe80b",
+      "name": "GV4PE80B — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 80A, Icu 25kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe80b",
+      "recordPath": "equipment/se-article-gv4pe80b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe80b.json"
+    },
+    {
+      "id": "se-article-31195",
+      "name": "31195 — switch disconnector, Compact INV630, visible break, 630 A, with red rotary handle and yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31195",
+      "recordPath": "equipment/se-article-31195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31195.json"
+    },
+    {
+      "id": "se-article-lrd10",
+      "name": "LRD10 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 3P, 4 to 6A, 1NO+1NC, class 10A, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd10",
+      "recordPath": "equipment/se-article-lrd10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd10.json"
+    },
+    {
+      "id": "se-article-bdf46020",
+      "name": "BDF46020 — Circuit breaker, PowerPacT B, 20A, 4 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf46020",
+      "recordPath": "equipment/se-article-bdf46020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf46020.json"
+    },
+    {
+      "id": "se-article-33445",
+      "name": "33445 — basic switch disconnector, Compact NS1000 NA, fixed, electrically operated, 1000 A, 690 VAC 50/60 Hz, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33445",
+      "recordPath": "equipment/se-article-33445.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33445.json"
+    },
+    {
+      "id": "se-article-bdf26030",
+      "name": "BDF26030 — Circuit breaker, PowerPacT B, 30A, 2 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf26030",
+      "recordPath": "equipment/se-article-bdf26030.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf26030.json"
+    },
+    {
+      "id": "se-article-gv3p32",
+      "name": "GV3P32 — Motor circuit breaker,TeSys Deca frame 3,3P,23-32A,thermal magnetic,EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3p32",
+      "recordPath": "equipment/se-article-gv3p32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3p32.json"
+    },
+    {
+      "id": "se-article-31167",
+      "name": "31167 — switch disconnector, Compact INV250, visible break, 250A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31167",
+      "recordPath": "equipment/se-article-31167.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31167.json"
+    },
+    {
+      "id": "se-article-gv4p80n",
+      "name": "GV4P80N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 80A, Icu 50kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4p80n",
+      "recordPath": "equipment/se-article-gv4p80n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4p80n.json"
+    },
+    {
+      "id": "se-article-gv4pe50b",
+      "name": "GV4PE50B — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 50A, Icu 25kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe50b",
+      "recordPath": "equipment/se-article-gv4pe50b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe50b.json"
+    },
+    {
+      "id": "se-article-bmxftb4000",
+      "name": "BMXFTB4000 — terminal block, Modicon X80, 40-pin removable caged",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxftb4000",
+      "recordPath": "equipment/se-article-bmxftb4000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxftb4000.json"
+    },
+    {
+      "id": "se-article-lrd01",
+      "name": "LRD01 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 0.1 to 0.16A, 1NO+1NC, class 10A, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd01",
+      "recordPath": "equipment/se-article-lrd01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd01.json"
+    },
+    {
+      "id": "se-article-31124",
+      "name": "31124 — switch disconnector, Compact INS250-160, 160A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31124",
+      "recordPath": "equipment/se-article-31124.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31124.json"
+    },
+    {
+      "id": "se-article-31363",
+      "name": "31363 — switch disconnector, Compact INV1250, visible break, 1250A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31363",
+      "recordPath": "equipment/se-article-31363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31363.json"
+    },
+    {
+      "id": "se-article-gs2db3",
+      "name": "GS2DB3 — Switch disconnector fuse, TeSys GS, 3P, 32A, fuse type BS, size A1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2db3",
+      "recordPath": "equipment/se-article-gs2db3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2db3.json"
+    },
+    {
+      "id": "se-article-lv426528",
+      "name": "LV426528 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 125 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426528",
+      "recordPath": "equipment/se-article-lv426528.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426528.json"
+    },
+    {
+      "id": "se-article-lrd12",
+      "name": "LRD12 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 5.5 to 8A, 1NO+1NC, class 10A, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd12",
+      "recordPath": "equipment/se-article-lrd12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd12.json"
+    },
+    {
+      "id": "se-article-lv426516",
+      "name": "LV426516 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 80 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426516",
+      "recordPath": "equipment/se-article-lv426516.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426516.json"
+    },
+    {
+      "id": "se-article-gv2p02",
+      "name": "GV2P02 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 0.16 to 0.25A, thermal magnetic, screw clamp terminals, rotary handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2p02",
+      "recordPath": "equipment/se-article-gv2p02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2p02.json"
+    },
+    {
+      "id": "se-article-bgf46020",
+      "name": "BGF46020 — Circuit breaker, PowerPacT B, 20A, 4 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf46020",
+      "recordPath": "equipment/se-article-bgf46020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf46020.json"
+    },
+    {
+      "id": "se-article-31367",
+      "name": "31367 — switch disconnector, Compact INV2000, visible break, 2000A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31367",
+      "recordPath": "equipment/se-article-31367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31367.json"
+    },
+    {
+      "id": "se-article-lv426503",
+      "name": "LV426503 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 40 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426503",
+      "recordPath": "equipment/se-article-lv426503.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426503.json"
+    },
+    {
+      "id": "se-article-lv426129",
+      "name": "LV426129 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 160 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426129",
+      "recordPath": "equipment/se-article-lv426129.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426129.json"
+    },
+    {
+      "id": "se-article-lv426523",
+      "name": "LV426523 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 40 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426523",
+      "recordPath": "equipment/se-article-lv426523.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426523.json"
+    },
+    {
+      "id": "se-article-bdf36035",
+      "name": "BDF36035 — Circuit breaker, PowerPacT B, 35A, 3 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf36035",
+      "recordPath": "equipment/se-article-bdf36035.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf36035.json"
+    },
+    {
+      "id": "se-article-31194",
+      "name": "31194 — switch disconnector, Compact INV630, visible break, 630A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31194",
+      "recordPath": "equipment/se-article-31194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31194.json"
+    },
+    {
+      "id": "se-article-lrd21l",
+      "name": "LRD21L — Thermal overload relay, TeSys Deca, 690VAC, 12 to 18A, 1NO+1NC, class 20, for D18 to D38, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd21l",
+      "recordPath": "equipment/se-article-lrd21l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd21l.json"
+    },
+    {
+      "id": "se-article-18894",
+      "name": "18894 — switch-disconnector NG125NA - 3 poles + N - 80 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18894",
+      "recordPath": "equipment/se-article-18894.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18894.json"
+    },
+    {
+      "id": "se-article-gv2rt10",
+      "name": "GV2RT10 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,4-6.3A,thermal magnetic,screw clamp terminals,toggle handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2rt10",
+      "recordPath": "equipment/se-article-gv2rt10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2rt10.json"
+    },
+    {
+      "id": "se-article-gv2me223",
+      "name": "GV2ME223 — Motor circuit breaker,TeSys Deca frame 2,3P,20-25A,thermal magnetic,push button,spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me223",
+      "recordPath": "equipment/se-article-gv2me223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me223.json"
+    },
+    {
+      "id": "se-article-gvae203",
+      "name": "GVAE203 — Add-on contact block,TeSys Deca Frame 2/3,2NO,frontspring terminal,for GV2/GV3(except GV3ME)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gvae203",
+      "recordPath": "equipment/se-article-gvae203.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gvae203.json"
+    },
+    {
+      "id": "se-article-lv426200",
+      "name": "LV426200 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 3P 3d, 16 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426200",
+      "recordPath": "equipment/se-article-lv426200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426200.json"
+    },
+    {
+      "id": "se-article-gv4le02n",
+      "name": "GV4LE02N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 2A, Icu 50kA, magnetic, EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le02n",
+      "recordPath": "equipment/se-article-gv4le02n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le02n.json"
+    },
+    {
+      "id": "se-article-gv4l02n",
+      "name": "GV4L02N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 2A, Icu 50kA, magnetic, EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4l02n",
+      "recordPath": "equipment/se-article-gv4l02n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4l02n.json"
+    },
+    {
+      "id": "se-article-lrd036",
+      "name": "LRD036 — Thermal overload relay,TeSys Deca,0.25-0.4A,1NO+1NC,class 10A,lug terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd036",
+      "recordPath": "equipment/se-article-lrd036.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd036.json"
+    }
+  ]
+}

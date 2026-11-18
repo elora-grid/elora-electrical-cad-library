@@ -1,0 +1,171 @@
+# Weidmüller — VT-TM-I 18 MC NE BL — Conductor/Cable marker / Cable coding system, 4 mm, Polyamide 66, blue
+
+Weidmüller VT-TM-I 18 MC NE BL — Conductor/Cable marker / Cable coding system, 4 mm, Polyamide 66, blue. Manufacturer CAD files for transformers equipment selection and layout, identified by article 1714101693.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1714101693) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1714101693.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1714101693.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/vt-tm-i-18-mc-ne-bl/p/1714101693/downloads#engineering-support)
+
+- Category: Transformers & earthing
+- Entry type: product
+- Part number: 1714101693
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: VT-TM-I 18 MC NE BL — Conductor/Cable marker / Cable coding system, 4 mm, Polyamide 66, blue
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1714101693
+- Manufacturer reference: 1714101693
+- Manufacturer type: VT-TM-I 18 MC NE BL
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1714101693 ([source](https://eshop.weidmueller.com.cn/en/vt-tm-i-18-mc-ne-bl/p/1714101693/downloads#engineering-support))
+- Manufacturer type: VT-TM-I 18 MC NE BL ([source](https://eshop.weidmueller.com.cn/en/vt-tm-i-18-mc-ne-bl/p/1714101693/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/vt-tm-i-18-mc-ne-bl/p/1714101693/downloads#engineering-support))
+
+## What the equipment does
+
+Conductors carry electrical power or signals between equipment. The drawing marks show which paths connect and which simply pass one another.
+
+In a substation control panel, the wiring diagram lets a technician trace a trip signal from a relay through terminals to the breaker circuit.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/vt-tm-i-18-mc-ne-bl/p/1714101693/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1714101693. The files above belong to Weidmüller's VT-TM-I 18 MC NE BL — Conductor/Cable marker / Cable coding system, 4 mm, Polyamide 66, blue resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller VT-TM-I 18 MC NE BL — Conductor/Cable marker / Cable coding system, 4 mm, Polyamide 66, blue: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1714101693/native-85b47ed1a0831dbc18da4e90-zip?asset=c973994714f69de5bafcad14da5ed6580d0829c7328697af60d82c382797c1af)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1714101693). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Transformer envelope](https://eloragrid.ai/objects/transformer-envelope)
+- [Control transformer](https://eloragrid.ai/objects/ga-control-transformer)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1714101693)
+
+- 1714101693\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1714101693\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 1714101693.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1714101693\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/33ce4ff7-ee1e-4cc7-8c87-18f805e368f7/original/1714101693_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1714101693/native-85b47ed1a0831dbc18da4e90-zip)
+- Redistribution: unknown
+- Original SHA-256: 85b47ed1a0831dbc18da4e9065c43d18458c3e2dc9e0ff6e3bb0d8d59d001a20
+- Original bytes: 28121
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/33ce4ff7-ee1e-4cc7-8c87-18f805e368f7/original/1714101693_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 28121 bytes
+- Delivery SHA-256: 85b47ed1a0831dbc18da4e9065c43d18458c3e2dc9e0ff6e3bb0d8d59d001a20
+
+<details>
+<summary>Archive members</summary>
+
+- 1714101693\_back.DWG
+- 1714101693\_bottom.DWG
+- 1714101693\_front.DWG
+- 1714101693\_left.DWG
+- 1714101693\_right.DWG
+- 1714101693\_top.DWG
+
+</details>
+
+### 1714101693\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/5243a94a-b9a8-420b-a608-d05aa969b680/original/1714101693_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1714101693/native-dcadd4ca5235a8190429e872-zip)
+- Redistribution: unknown
+- Original SHA-256: dcadd4ca5235a8190429e872f036dce0fd55bfae597a5185ac4f3a4605196ef0
+- Original bytes: 24016
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/5243a94a-b9a8-420b-a608-d05aa969b680/original/1714101693_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 24016 bytes
+- Delivery SHA-256: dcadd4ca5235a8190429e872f036dce0fd55bfae597a5185ac4f3a4605196ef0
+
+<details>
+<summary>Archive members</summary>
+
+- 1714101693\_back.DXF
+- 1714101693\_bottom.DXF
+- 1714101693\_front.DXF
+- 1714101693\_left.DXF
+- 1714101693\_right.DXF
+- 1714101693\_top.DXF
+
+</details>
+
+### 1714101693.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/88368993-c279-4325-93e9-e1d22ce63a32/original/1714101693.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1714101693/native-3a4cfa611ecc0b3bd162daac-step)
+- Redistribution: unknown
+- Original SHA-256: 3a4cfa611ecc0b3bd162daac9ae48029bf2e1c48bad8c6db3d4617a317676c67
+- Original bytes: 27913
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/88368993-c279-4325-93e9-e1d22ce63a32/original/1714101693.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 6642 bytes
+- Delivery SHA-256: 365d87b836ecb84308151b62a7ae23d73b26746c846f3c14b2ecc1444e53409a
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

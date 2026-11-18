@@ -1,0 +1,2922 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 60,
+  "entries": [
+    {
+      "id": "eaton-article-088545",
+      "name": "55TQ18 — Button plate for push-button, Name: Clamp, 18 x 18",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-088545",
+      "recordPath": "equipment/eaton-article-088545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-088545.json"
+    },
+    {
+      "id": "eaton-article-104481",
+      "name": "DILMF115(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 115 A, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104481",
+      "recordPath": "equipment/eaton-article-104481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104481.json"
+    },
+    {
+      "id": "eaton-article-104430",
+      "name": "DILMF14-01(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 12 A, 1 NC, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104430",
+      "recordPath": "equipment/eaton-article-104430.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104430.json"
+    },
+    {
+      "id": "eaton-article-104459",
+      "name": "DILMF40(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 40 A, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104459",
+      "recordPath": "equipment/eaton-article-104459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104459.json"
+    },
+    {
+      "id": "eaton-article-104478",
+      "name": "DILMF115(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 115 A, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104478",
+      "recordPath": "equipment/eaton-article-104478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104478.json"
+    },
+    {
+      "id": "eaton-article-104480",
+      "name": "DILMF115(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 115 A, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104480",
+      "recordPath": "equipment/eaton-article-104480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104480.json"
+    },
+    {
+      "id": "eaton-article-104421",
+      "name": "DILMF11-10(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 9 A, 1 N/O, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104421",
+      "recordPath": "equipment/eaton-article-104421.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104421.json"
+    },
+    {
+      "id": "eaton-article-104441",
+      "name": "DILMF17-01(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 18 A, 1 NC, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104441",
+      "recordPath": "equipment/eaton-article-104441.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104441.json"
+    },
+    {
+      "id": "eaton-article-104452",
+      "name": "DILMF32-10(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 32 A, 1 N/O, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104452",
+      "recordPath": "equipment/eaton-article-104452.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104452.json"
+    },
+    {
+      "id": "eaton-article-104462",
+      "name": "DILMF50(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 50 A, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104462",
+      "recordPath": "equipment/eaton-article-104462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104462.json"
+    },
+    {
+      "id": "eaton-article-104461",
+      "name": "DILMF40(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 40 A, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104461",
+      "recordPath": "equipment/eaton-article-104461.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104461.json"
+    },
+    {
+      "id": "eaton-article-104431",
+      "name": "DILMF14-01(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 12 A, 1 NC, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104431",
+      "recordPath": "equipment/eaton-article-104431.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104431.json"
+    },
+    {
+      "id": "eaton-article-104450",
+      "name": "DILMF32-10(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 32 A, 1 N/O, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104450",
+      "recordPath": "equipment/eaton-article-104450.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104450.json"
+    },
+    {
+      "id": "eaton-article-104471",
+      "name": "DILMF80(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 80 A, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104471",
+      "recordPath": "equipment/eaton-article-104471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104471.json"
+    },
+    {
+      "id": "eaton-article-104469",
+      "name": "DILMF65(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 65 A, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104469",
+      "recordPath": "equipment/eaton-article-104469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104469.json"
+    },
+    {
+      "id": "eaton-article-104410",
+      "name": "DILMF8-10(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 7 A, 1 N/O, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104410",
+      "recordPath": "equipment/eaton-article-104410.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104410.json"
+    },
+    {
+      "id": "eaton-article-104460",
+      "name": "DILMF40(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 40 A, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104460",
+      "recordPath": "equipment/eaton-article-104460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104460.json"
+    },
+    {
+      "id": "eaton-article-104423",
+      "name": "DILMF11-01(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 9 A, 1 NC, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104423",
+      "recordPath": "equipment/eaton-article-104423.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104423.json"
+    },
+    {
+      "id": "eaton-article-104435",
+      "name": "DILMF17-10(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 18 A, 1 N/O, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104435",
+      "recordPath": "equipment/eaton-article-104435.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104435.json"
+    },
+    {
+      "id": "eaton-article-104417",
+      "name": "DILMF8-01(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 7 A, 1 NC, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104417",
+      "recordPath": "equipment/eaton-article-104417.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104417.json"
+    },
+    {
+      "id": "eaton-article-104437",
+      "name": "DILMF17-10(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 18 A, 1 N/O, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104437",
+      "recordPath": "equipment/eaton-article-104437.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104437.json"
+    },
+    {
+      "id": "eaton-article-104415",
+      "name": "DILMF8-01(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 7 A, 1 NC, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104415",
+      "recordPath": "equipment/eaton-article-104415.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104415.json"
+    },
+    {
+      "id": "eaton-article-104447",
+      "name": "DILMF25-01(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 25 A, 1 NC, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104447",
+      "recordPath": "equipment/eaton-article-104447.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104447.json"
+    },
+    {
+      "id": "eaton-article-104457",
+      "name": "DILMF32-01(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 32 A, 1 NC, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104457",
+      "recordPath": "equipment/eaton-article-104457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104457.json"
+    },
+    {
+      "id": "eaton-article-104424",
+      "name": "DILMF11-01(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 9 A, 1 NC, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104424",
+      "recordPath": "equipment/eaton-article-104424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104424.json"
+    },
+    {
+      "id": "eaton-article-104453",
+      "name": "DILMF32-10(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 32 A, 1 N/O, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104453",
+      "recordPath": "equipment/eaton-article-104453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104453.json"
+    },
+    {
+      "id": "eaton-article-104463",
+      "name": "DILMF50(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 50 A, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104463",
+      "recordPath": "equipment/eaton-article-104463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104463.json"
+    },
+    {
+      "id": "eaton-article-104454",
+      "name": "DILMF32-01(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 32 A, 1 NC, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104454",
+      "recordPath": "equipment/eaton-article-104454.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104454.json"
+    },
+    {
+      "id": "eaton-article-104426",
+      "name": "DILMF14-10(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 12 A, 1 N/O, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104426",
+      "recordPath": "equipment/eaton-article-104426.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104426.json"
+    },
+    {
+      "id": "eaton-article-104448",
+      "name": "DILMF25-01(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 25 A, 1 NC, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104448",
+      "recordPath": "equipment/eaton-article-104448.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104448.json"
+    },
+    {
+      "id": "eaton-article-104429",
+      "name": "DILMF14-10(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 12 A, 1 N/O, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104429",
+      "recordPath": "equipment/eaton-article-104429.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104429.json"
+    },
+    {
+      "id": "eaton-article-104443",
+      "name": "DILMF25-10(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 25 A, 1 N/O, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104443",
+      "recordPath": "equipment/eaton-article-104443.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104443.json"
+    },
+    {
+      "id": "eaton-article-104465",
+      "name": "DILMF50(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 50 A, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104465",
+      "recordPath": "equipment/eaton-article-104465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104465.json"
+    },
+    {
+      "id": "eaton-article-104416",
+      "name": "DILMF8-01(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 7 A, 1 NC, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104416",
+      "recordPath": "equipment/eaton-article-104416.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104416.json"
+    },
+    {
+      "id": "eaton-article-104464",
+      "name": "DILMF50(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 50 A, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104464",
+      "recordPath": "equipment/eaton-article-104464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104464.json"
+    },
+    {
+      "id": "eaton-article-104477",
+      "name": "DILMF95(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 95 A, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104477",
+      "recordPath": "equipment/eaton-article-104477.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104477.json"
+    },
+    {
+      "id": "eaton-article-104479",
+      "name": "DILMF115(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 115 A, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104479",
+      "recordPath": "equipment/eaton-article-104479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104479.json"
+    },
+    {
+      "id": "eaton-article-104442",
+      "name": "DILMF25-10(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 25 A, 1 N/O, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104442",
+      "recordPath": "equipment/eaton-article-104442.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104442.json"
+    },
+    {
+      "id": "eaton-article-104412",
+      "name": "DILMF8-10(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 7 A, 1 N/O, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104412",
+      "recordPath": "equipment/eaton-article-104412.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104412.json"
+    },
+    {
+      "id": "eaton-article-104414",
+      "name": "DILMF8-01(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 7 A, 1 NC, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104414",
+      "recordPath": "equipment/eaton-article-104414.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104414.json"
+    },
+    {
+      "id": "eaton-article-104473",
+      "name": "DILMF80(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 80 A, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104473",
+      "recordPath": "equipment/eaton-article-104473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104473.json"
+    },
+    {
+      "id": "eaton-article-104434",
+      "name": "DILMF17-10(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 18 A, 1 N/O, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104434",
+      "recordPath": "equipment/eaton-article-104434.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104434.json"
+    },
+    {
+      "id": "eaton-article-104444",
+      "name": "DILMF25-10(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 25 A, 1 N/O, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104444",
+      "recordPath": "equipment/eaton-article-104444.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104444.json"
+    },
+    {
+      "id": "eaton-article-104468",
+      "name": "DILMF65(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 65 A, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104468",
+      "recordPath": "equipment/eaton-article-104468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104468.json"
+    },
+    {
+      "id": "eaton-article-104419",
+      "name": "DILMF11-10(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 9 A, 1 N/O, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104419",
+      "recordPath": "equipment/eaton-article-104419.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104419.json"
+    },
+    {
+      "id": "eaton-article-104427",
+      "name": "DILMF14-10(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 12 A, 1 N/O, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104427",
+      "recordPath": "equipment/eaton-article-104427.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104427.json"
+    },
+    {
+      "id": "eaton-article-104438",
+      "name": "DILMF17-01(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 18 A, 1 NC, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104438",
+      "recordPath": "equipment/eaton-article-104438.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104438.json"
+    },
+    {
+      "id": "eaton-article-104413",
+      "name": "DILMF8-10(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 7 A, 1 N/O, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104413",
+      "recordPath": "equipment/eaton-article-104413.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104413.json"
+    },
+    {
+      "id": "eaton-article-104445",
+      "name": "DILMF25-10(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 25 A, 1 N/O, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104445",
+      "recordPath": "equipment/eaton-article-104445.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104445.json"
+    },
+    {
+      "id": "eaton-article-104466",
+      "name": "DILMF65(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 65 A, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104466",
+      "recordPath": "equipment/eaton-article-104466.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104466.json"
+    },
+    {
+      "id": "eaton-article-104476",
+      "name": "DILMF95(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 95 A, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104476",
+      "recordPath": "equipment/eaton-article-104476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104476.json"
+    },
+    {
+      "id": "eaton-article-104458",
+      "name": "DILMF40(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 40 A, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104458",
+      "recordPath": "equipment/eaton-article-104458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104458.json"
+    },
+    {
+      "id": "eaton-article-104467",
+      "name": "DILMF65(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 65 A, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104467",
+      "recordPath": "equipment/eaton-article-104467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104467.json"
+    },
+    {
+      "id": "eaton-article-104433",
+      "name": "DILMF14-01(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 12 A, 1 NC, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104433",
+      "recordPath": "equipment/eaton-article-104433.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104433.json"
+    },
+    {
+      "id": "eaton-article-104420",
+      "name": "DILMF11-10(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 9 A, 1 N/O, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104420",
+      "recordPath": "equipment/eaton-article-104420.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104420.json"
+    },
+    {
+      "id": "eaton-article-104440",
+      "name": "DILMF17-01(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 18 A, 1 NC, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104440",
+      "recordPath": "equipment/eaton-article-104440.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104440.json"
+    },
+    {
+      "id": "eaton-article-104449",
+      "name": "DILMF25-01(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 25 A, 1 NC, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104449",
+      "recordPath": "equipment/eaton-article-104449.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104449.json"
+    },
+    {
+      "id": "eaton-article-104470",
+      "name": "DILMF80(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 80 A, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104470",
+      "recordPath": "equipment/eaton-article-104470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104470.json"
+    },
+    {
+      "id": "eaton-article-104472",
+      "name": "DILMF80(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 80 A, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104472",
+      "recordPath": "equipment/eaton-article-104472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104472.json"
+    },
+    {
+      "id": "eaton-article-104432",
+      "name": "DILMF14-01(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 12 A, 1 NC, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104432",
+      "recordPath": "equipment/eaton-article-104432.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104432.json"
+    },
+    {
+      "id": "eaton-article-104422",
+      "name": "DILMF11-01(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 9 A, 1 NC, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104422",
+      "recordPath": "equipment/eaton-article-104422.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104422.json"
+    },
+    {
+      "id": "eaton-article-104451",
+      "name": "DILMF32-10(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 32 A, 1 N/O, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104451",
+      "recordPath": "equipment/eaton-article-104451.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104451.json"
+    },
+    {
+      "id": "eaton-article-104411",
+      "name": "DILMF8-10(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 7 A, 1 N/O, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104411",
+      "recordPath": "equipment/eaton-article-104411.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104411.json"
+    },
+    {
+      "id": "eaton-article-104436",
+      "name": "DILMF17-10(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 18 A, 1 N/O, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104436",
+      "recordPath": "equipment/eaton-article-104436.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104436.json"
+    },
+    {
+      "id": "eaton-article-104455",
+      "name": "DILMF32-01(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 32 A, 1 NC, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104455",
+      "recordPath": "equipment/eaton-article-104455.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104455.json"
+    },
+    {
+      "id": "eaton-article-104456",
+      "name": "DILMF32-01(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 32 A, 1 NC, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104456",
+      "recordPath": "equipment/eaton-article-104456.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104456.json"
+    },
+    {
+      "id": "eaton-article-104446",
+      "name": "DILMF25-01(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 25 A, 1 NC, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104446",
+      "recordPath": "equipment/eaton-article-104446.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104446.json"
+    },
+    {
+      "id": "eaton-article-104474",
+      "name": "DILMF95(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 95 A, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104474",
+      "recordPath": "equipment/eaton-article-104474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104474.json"
+    },
+    {
+      "id": "eaton-article-104475",
+      "name": "DILMF95(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 95 A, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104475",
+      "recordPath": "equipment/eaton-article-104475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104475.json"
+    },
+    {
+      "id": "eaton-article-104425",
+      "name": "DILMF11-01(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 9 A, 1 NC, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104425",
+      "recordPath": "equipment/eaton-article-104425.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104425.json"
+    },
+    {
+      "id": "eaton-article-104428",
+      "name": "DILMF14-10(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 12 A, 1 N/O, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104428",
+      "recordPath": "equipment/eaton-article-104428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104428.json"
+    },
+    {
+      "id": "eaton-article-104439",
+      "name": "DILMF17-01(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 18 A, 1 NC, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104439",
+      "recordPath": "equipment/eaton-article-104439.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104439.json"
+    },
+    {
+      "id": "eaton-article-104418",
+      "name": "DILMF11-10(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 9 A, 1 N/O, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104418",
+      "recordPath": "equipment/eaton-article-104418.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104418.json"
+    },
+    {
+      "id": "eaton-article-104811",
+      "name": "DILM25-01(RDC12) — Contactor, 3 pole, 380 V 400 V 11 kW, RDC 12: 12 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104811",
+      "recordPath": "equipment/eaton-article-104811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104811.json"
+    },
+    {
+      "id": "eaton-article-106365",
+      "name": "DILM25-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 11 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106365",
+      "recordPath": "equipment/eaton-article-106365.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106365.json"
+    },
+    {
+      "id": "eaton-article-104486",
+      "name": "DILM150-XZK — Additional terminal, for DILM80-150",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104486",
+      "recordPath": "equipment/eaton-article-104486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104486.json"
+    },
+    {
+      "id": "eaton-article-106817",
+      "name": "LS-02-ZB — Safety position switch, LS(4)…ZB, Safety position switches, Complete unit, 2 NC, Insulated material, Cage Clamp, -25 - +70 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106817",
+      "recordPath": "equipment/eaton-article-106817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106817.json"
+    },
+    {
+      "id": "eaton-article-106369",
+      "name": "DILM12-22(24VDC) — Contactor, 380 V 400 V 5.5 kW, 2 N/O, 2 NC, 24 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106369",
+      "recordPath": "equipment/eaton-article-106369.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106369.json"
+    },
+    {
+      "id": "eaton-article-106363",
+      "name": "DILM15-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 7.5 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106363",
+      "recordPath": "equipment/eaton-article-106363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106363.json"
+    },
+    {
+      "id": "eaton-article-106373",
+      "name": "DILM32-22(RDC24) — Contactor, 380 V 400 V 15 kW, 2 N/O, 2 NC, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106373",
+      "recordPath": "equipment/eaton-article-106373.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106373.json"
+    },
+    {
+      "id": "eaton-article-106819",
+      "name": "LS-11-ZB — Safety position switch, 1N/O+1N/C, insulated material, +actuator ZB, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106819",
+      "recordPath": "equipment/eaton-article-106819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106819.json"
+    },
+    {
+      "id": "eaton-article-106362",
+      "name": "DILM12-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 5.5 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106362",
+      "recordPath": "equipment/eaton-article-106362.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106362.json"
+    },
+    {
+      "id": "eaton-article-106366",
+      "name": "DILM32-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 15 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106366",
+      "recordPath": "equipment/eaton-article-106366.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106366.json"
+    },
+    {
+      "id": "eaton-article-106372",
+      "name": "DILM25-22(RDC24) — Contactor, 380 V 400 V 11 kW, 2 N/O, 2 NC, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106372",
+      "recordPath": "equipment/eaton-article-106372.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106372.json"
+    },
+    {
+      "id": "eaton-article-104812",
+      "name": "DILM25-10(RDC12) — Contactor, 3 pole, 380 V 400 V 11 kW, 1 N/O, RDC 12: 12 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104812",
+      "recordPath": "equipment/eaton-article-104812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104812.json"
+    },
+    {
+      "id": "eaton-article-109191",
+      "name": "DILM72(110V50HZ,120V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 110 V 50 Hz, 120 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109191",
+      "recordPath": "equipment/eaton-article-109191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109191.json"
+    },
+    {
+      "id": "eaton-article-106870",
+      "name": "LS-11S-ZB — Safety position switch, 1N/O+1N/C, insulated material, +actuator ZB, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106870",
+      "recordPath": "equipment/eaton-article-106870.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106870.json"
+    },
+    {
+      "id": "eaton-article-104484",
+      "name": "DILMF150(RAC120) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 150 A, RAC 120: 100 - 120 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104484",
+      "recordPath": "equipment/eaton-article-104484.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104484.json"
+    },
+    {
+      "id": "eaton-article-107012",
+      "name": "DILM170(RAC120) — Contactor, 3 pole, 380 V 400 V 90 kW, RAC 120: 100 - 120 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107012",
+      "recordPath": "equipment/eaton-article-107012.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107012.json"
+    },
+    {
+      "id": "eaton-article-107011",
+      "name": "DILM170(RAC48) — Contactor, 3 pole, 380 V 400 V 90 kW, RAC 48: 42 - 48 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107011",
+      "recordPath": "equipment/eaton-article-107011.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107011.json"
+    },
+    {
+      "id": "eaton-article-106367",
+      "name": "DILM7-22(24VDC) — Contactor, 380 V 400 V 3 kW, 2 N/O, 2 NC, 24 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106367",
+      "recordPath": "equipment/eaton-article-106367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106367.json"
+    },
+    {
+      "id": "eaton-article-107016",
+      "name": "DILM170(RDC24) — Contactor, 3 pole, 380 V 400 V 90 kW, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107016",
+      "recordPath": "equipment/eaton-article-107016.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107016.json"
+    },
+    {
+      "id": "eaton-article-106370",
+      "name": "DILM15-22(24VDC) — Contactor, 380 V 400 V 7.5 kW, 2 N/O, 2 NC, 24 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106370",
+      "recordPath": "equipment/eaton-article-106370.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106370.json"
+    },
+    {
+      "id": "eaton-article-107015",
+      "name": "DILM170(RAC500) — Contactor, 3 pole, 380 V 400 V 90 kW, RAC 500: 480 - 500 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107015",
+      "recordPath": "equipment/eaton-article-107015.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107015.json"
+    },
+    {
+      "id": "eaton-article-106371",
+      "name": "DILM17-22(RDC24) — Contactor, 380 V 400 V 7.5 kW, 2 N/O, 2 NC, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106371",
+      "recordPath": "equipment/eaton-article-106371.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106371.json"
+    },
+    {
+      "id": "eaton-article-109183",
+      "name": "DILM72(240V50HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 240 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109183",
+      "recordPath": "equipment/eaton-article-109183.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109183.json"
+    },
+    {
+      "id": "eaton-article-107017",
+      "name": "DILM170(RDC60) — Contactor, 3 pole, 380 V 400 V 90 kW, RDC 60: 48 - 60 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107017",
+      "recordPath": "equipment/eaton-article-107017.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107017.json"
+    },
+    {
+      "id": "eaton-article-107670",
+      "name": "DILM72(230V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107670",
+      "recordPath": "equipment/eaton-article-107670.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107670.json"
+    },
+    {
+      "id": "eaton-article-109200",
+      "name": "DILM72(220V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 220 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109200",
+      "recordPath": "equipment/eaton-article-109200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109200.json"
+    },
+    {
+      "id": "eaton-article-109209",
+      "name": "DILM72(RDC240) — Contactor, 3 pole, 380 V 400 V 37 kW, RDC 240: 200 - 240 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109209",
+      "recordPath": "equipment/eaton-article-109209.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109209.json"
+    },
+    {
+      "id": "eaton-article-107018",
+      "name": "DILM170(RDC130) — Contactor, 3 pole, 380 V 400 V 90 kW, RDC 130: 110 - 130 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107018",
+      "recordPath": "equipment/eaton-article-107018.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107018.json"
+    },
+    {
+      "id": "eaton-article-104485",
+      "name": "DILMF150(RAC240) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 150 A, RAC 240: 190 - 240 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104485",
+      "recordPath": "equipment/eaton-article-104485.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104485.json"
+    },
+    {
+      "id": "eaton-article-109195",
+      "name": "DILM72(400V50HZ,440V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 400 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109195",
+      "recordPath": "equipment/eaton-article-109195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109195.json"
+    },
+    {
+      "id": "eaton-article-109201",
+      "name": "DILM72(230V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 230 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109201",
+      "recordPath": "equipment/eaton-article-109201.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109201.json"
+    },
+    {
+      "id": "eaton-article-106361",
+      "name": "DILM9-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 4 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106361",
+      "recordPath": "equipment/eaton-article-106361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106361.json"
+    },
+    {
+      "id": "eaton-article-106364",
+      "name": "DILM17-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 7.5 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106364",
+      "recordPath": "equipment/eaton-article-106364.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106364.json"
+    },
+    {
+      "id": "eaton-article-109199",
+      "name": "DILM72(110V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 110 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109199",
+      "recordPath": "equipment/eaton-article-109199.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109199.json"
+    },
+    {
+      "id": "eaton-article-109197",
+      "name": "DILM72(24V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 24 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109197",
+      "recordPath": "equipment/eaton-article-109197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109197.json"
+    },
+    {
+      "id": "eaton-article-106368",
+      "name": "DILM9-22(24VDC) — Contactor, 380 V 400 V 4 kW, 2 N/O, 2 NC, 24 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106368",
+      "recordPath": "equipment/eaton-article-106368.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106368.json"
+    },
+    {
+      "id": "eaton-article-107019",
+      "name": "DILM170(RDC240) — Contactor, 3 pole, 380 V 400 V 90 kW, RDC 240: 200 - 240 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107019",
+      "recordPath": "equipment/eaton-article-107019.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107019.json"
+    },
+    {
+      "id": "eaton-article-107010",
+      "name": "DILM170(RAC24) — Contactor, 3 pole, 380 V 400 V 90 kW, RAC 24: 24 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107010",
+      "recordPath": "equipment/eaton-article-107010.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107010.json"
+    },
+    {
+      "id": "eaton-article-104482",
+      "name": "DILMF150(RAC24) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 150 A, RAC 24: 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104482",
+      "recordPath": "equipment/eaton-article-104482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104482.json"
+    },
+    {
+      "id": "eaton-article-107013",
+      "name": "DILM170(RAC240) — Contactor, 3 pole, 380 V 400 V 90 kW, RAC 240: 190 - 240 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107013",
+      "recordPath": "equipment/eaton-article-107013.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107013.json"
+    },
+    {
+      "id": "eaton-article-107014",
+      "name": "DILM170(RAC440) — Contactor, 3 pole, 380 V 400 V 90 kW, RAC 440: 380 - 440 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107014",
+      "recordPath": "equipment/eaton-article-107014.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107014.json"
+    },
+    {
+      "id": "eaton-article-109208",
+      "name": "DILM72(RDC130) — Contactor, 3 pole, 380 V 400 V 37 kW, RDC 130: 110 - 130 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109208",
+      "recordPath": "equipment/eaton-article-109208.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109208.json"
+    },
+    {
+      "id": "eaton-article-106360",
+      "name": "DILM7-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 3 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106360",
+      "recordPath": "equipment/eaton-article-106360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106360.json"
+    },
+    {
+      "id": "eaton-article-107671",
+      "name": "DILM72(RDC24) — Contactor, 3 pole, 380 V 400 V 37 kW, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107671",
+      "recordPath": "equipment/eaton-article-107671.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107671.json"
+    },
+    {
+      "id": "eaton-article-109193",
+      "name": "DILM72(220V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 220 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109193",
+      "recordPath": "equipment/eaton-article-109193.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109193.json"
+    },
+    {
+      "id": "eaton-article-106871",
+      "name": "LS-11-ZB/X — Safety position switch, 1N/O+1N/C, insulated material, without actuator, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-106871",
+      "recordPath": "equipment/eaton-article-106871.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-106871.json"
+    },
+    {
+      "id": "eaton-article-104483",
+      "name": "DILMF150(RAC48) — Contactors for Semiconductor Industries acc. to SEMI F47, 380 V 400 V: 150 A, RAC 48: 42 - 48 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-104483",
+      "recordPath": "equipment/eaton-article-104483.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-104483.json"
+    },
+    {
+      "id": "eaton-article-109790",
+      "name": "DILMP32-10(110V50HZ,120V60HZ) — Contactor, 4 pole, AC operation, AC-1: 32 A, 1 N/O, 110 V 50 Hz, 120 V 60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109790",
+      "recordPath": "equipment/eaton-article-109790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109790.json"
+    },
+    {
+      "id": "eaton-article-109819",
+      "name": "DILMP45-10(110V50HZ,120V60HZ) — Contactor, 4 pole, AC operation, AC-1: 45 A, 1 N/O, 110 V 50 Hz, 120 V 60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109819",
+      "recordPath": "equipment/eaton-article-109819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109819.json"
+    },
+    {
+      "id": "eaton-article-109797",
+      "name": "DILMP32-10(230V50HZ,240V60HZ) — Contactor, 4 pole, AC operation, AC-1: 32 A, 1 N/O, 230 V 50 Hz, 240 V 60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109797",
+      "recordPath": "equipment/eaton-article-109797.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109797.json"
+    },
+    {
+      "id": "eaton-article-109828",
+      "name": "DILMP45-10(24V50/60HZ) — Contactor, 4 pole, AC operation, AC-1: 45 A, 1 N/O, 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109828",
+      "recordPath": "equipment/eaton-article-109828.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109828.json"
+    },
+    {
+      "id": "eaton-article-109799",
+      "name": "DILMP32-10(24V50/60HZ) — Contactor, 4 pole, AC operation, AC-1: 32 A, 1 N/O, 24 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109799",
+      "recordPath": "equipment/eaton-article-109799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109799.json"
+    },
+    {
+      "id": "eaton-article-109826",
+      "name": "DILMP45-10(230V50HZ,240V60HZ) — Contactor, 4 pole, AC operation, AC-1: 45 A, 1 N/O, 230 V 50 Hz, 240 V 60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109826",
+      "recordPath": "equipment/eaton-article-109826.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109826.json"
+    },
+    {
+      "id": "eaton-article-109811",
+      "name": "DILMP32-10(RDC24) — Contactor, 4 pole, DC operation, AC-1: 32 A, 1 N/O, RDC 24: 24 - 27 V DC, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109811",
+      "recordPath": "equipment/eaton-article-109811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109811.json"
+    },
+    {
+      "id": "eaton-article-109796",
+      "name": "DILMP32-10(230V50/60HZ) — Contactor, 4 pole, AC operation, AC-1: 32 A, 1 N/O, 230 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109796",
+      "recordPath": "equipment/eaton-article-109796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109796.json"
+    },
+    {
+      "id": "eaton-article-109825",
+      "name": "DILMP45-10(230V50/60HZ) — Contactor, 4 pole, AC operation, AC-1: 45 A, 1 N/O, 230 V 50/60 Hz, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109825",
+      "recordPath": "equipment/eaton-article-109825.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109825.json"
+    },
+    {
+      "id": "eaton-article-109840",
+      "name": "DILMP45-10(RDC24) — Contactor, 4 pole, DC operation, AC-1: 45 A, 1 N/O, RDC 24: 24 - 27 V DC, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-109840",
+      "recordPath": "equipment/eaton-article-109840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-109840.json"
+    },
+    {
+      "id": "eaton-article-112458",
+      "name": "DILM38-01(400V50HZ,440V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, 400 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112458",
+      "recordPath": "equipment/eaton-article-112458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112458.json"
+    },
+    {
+      "id": "eaton-article-112462",
+      "name": "DILM38-01(110V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, 110 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112462",
+      "recordPath": "equipment/eaton-article-112462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112462.json"
+    },
+    {
+      "id": "eaton-article-112433",
+      "name": "DILM38-10(42V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 42 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112433",
+      "recordPath": "equipment/eaton-article-112433.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112433.json"
+    },
+    {
+      "id": "eaton-article-112444",
+      "name": "DILM38-10(RDC130) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, RDC 130: 110 - 130 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112444",
+      "recordPath": "equipment/eaton-article-112444.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112444.json"
+    },
+    {
+      "id": "eaton-article-112471",
+      "name": "DILM38-01(RDC60) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, RDC 60: 48 - 60 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112471",
+      "recordPath": "equipment/eaton-article-112471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112471.json"
+    },
+    {
+      "id": "eaton-article-112443",
+      "name": "DILM38-10(RDC60) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, RDC 60: 48 - 60 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112443",
+      "recordPath": "equipment/eaton-article-112443.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112443.json"
+    },
+    {
+      "id": "eaton-article-112430",
+      "name": "DILM38-10(400V50HZ,440V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 400 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112430",
+      "recordPath": "equipment/eaton-article-112430.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112430.json"
+    },
+    {
+      "id": "eaton-article-112446",
+      "name": "DILM38-01(24V50HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, 24 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112446",
+      "recordPath": "equipment/eaton-article-112446.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112446.json"
+    },
+    {
+      "id": "eaton-article-112434",
+      "name": "DILM38-10(110V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 110 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112434",
+      "recordPath": "equipment/eaton-article-112434.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112434.json"
+    },
+    {
+      "id": "eaton-article-112429",
+      "name": "DILM38-10(380V50HZ,440V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 380 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112429",
+      "recordPath": "equipment/eaton-article-112429.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112429.json"
+    },
+    {
+      "id": "eaton-article-112464",
+      "name": "DILM38-01(230V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, 230 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112464",
+      "recordPath": "equipment/eaton-article-112464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112464.json"
+    },
+    {
+      "id": "eaton-article-112445",
+      "name": "DILM38-10(RDC240) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, RDC 240: 200 - 240 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112445",
+      "recordPath": "equipment/eaton-article-112445.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112445.json"
+    },
+    {
+      "id": "eaton-article-112426",
+      "name": "DILM38-10(190V50HZ,220V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 190 V 50 Hz, 220 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112426",
+      "recordPath": "equipment/eaton-article-112426.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112426.json"
+    },
+    {
+      "id": "eaton-article-112456",
+      "name": "DILM38-01(230V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112456",
+      "recordPath": "equipment/eaton-article-112456.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112456.json"
+    },
+    {
+      "id": "eaton-article-112460",
+      "name": "DILM38-01(24V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, 24 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112460",
+      "recordPath": "equipment/eaton-article-112460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112460.json"
+    },
+    {
+      "id": "eaton-article-112435",
+      "name": "DILM38-10(220V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 220 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112435",
+      "recordPath": "equipment/eaton-article-112435.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112435.json"
+    },
+    {
+      "id": "eaton-article-112424",
+      "name": "DILM38-10(42V50HZ,48V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 42 V 50 Hz, 48 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112424",
+      "recordPath": "equipment/eaton-article-112424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112424.json"
+    },
+    {
+      "id": "eaton-article-112463",
+      "name": "DILM38-01(220V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, 220 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112463",
+      "recordPath": "equipment/eaton-article-112463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112463.json"
+    },
+    {
+      "id": "eaton-article-112428",
+      "name": "DILM38-10(230V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112428",
+      "recordPath": "equipment/eaton-article-112428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112428.json"
+    },
+    {
+      "id": "eaton-article-112432",
+      "name": "DILM38-10(24V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 24 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112432",
+      "recordPath": "equipment/eaton-article-112432.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112432.json"
+    },
+    {
+      "id": "eaton-article-112431",
+      "name": "DILM38-10(415V50HZ,480V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 415 V 50 Hz, 480 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112431",
+      "recordPath": "equipment/eaton-article-112431.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112431.json"
+    },
+    {
+      "id": "eaton-article-112473",
+      "name": "DILM38-01(RDC240) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, RDC 240: 200 - 240 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112473",
+      "recordPath": "equipment/eaton-article-112473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112473.json"
+    },
+    {
+      "id": "eaton-article-112470",
+      "name": "DILM38-01(RDC24) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112470",
+      "recordPath": "equipment/eaton-article-112470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112470.json"
+    },
+    {
+      "id": "eaton-article-112378",
+      "name": "DILM38-10(24V50HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 24 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112378",
+      "recordPath": "equipment/eaton-article-112378.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112378.json"
+    },
+    {
+      "id": "eaton-article-115399",
+      "name": "LS-11D/P — Position switch, Roller plunger, Complete device, 1 N/O, 1 NC (late-break), Cage Clamp, Yellow, Insulated material, -25 - +70 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-115399",
+      "recordPath": "equipment/eaton-article-115399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-115399.json"
+    },
+    {
+      "id": "eaton-article-112472",
+      "name": "DILM38-01(RDC130) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, RDC 130: 110 - 130 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112472",
+      "recordPath": "equipment/eaton-article-112472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112472.json"
+    },
+    {
+      "id": "eaton-article-112420",
+      "name": "DILM38-10(240V50HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 240 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112420",
+      "recordPath": "equipment/eaton-article-112420.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112420.json"
+    },
+    {
+      "id": "eaton-article-112453",
+      "name": "DILM38-01(110V50HZ,120V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, 110 V 50 Hz, 120 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112453",
+      "recordPath": "equipment/eaton-article-112453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112453.json"
+    },
+    {
+      "id": "eaton-article-112442",
+      "name": "DILM38-10(RDC24) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112442",
+      "recordPath": "equipment/eaton-article-112442.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112442.json"
+    },
+    {
+      "id": "eaton-article-112436",
+      "name": "DILM38-10(230V50/60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 230 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112436",
+      "recordPath": "equipment/eaton-article-112436.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112436.json"
+    },
+    {
+      "id": "eaton-article-112425",
+      "name": "DILM38-10(110V50HZ,120V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 110 V 50 Hz, 120 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112425",
+      "recordPath": "equipment/eaton-article-112425.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112425.json"
+    },
+    {
+      "id": "eaton-article-112427",
+      "name": "DILM38-10(220V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 220 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112427",
+      "recordPath": "equipment/eaton-article-112427.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112427.json"
+    },
+    {
+      "id": "eaton-article-112440",
+      "name": "DILM38-10(*V50HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, *V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112440",
+      "recordPath": "equipment/eaton-article-112440.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112440.json"
+    },
+    {
+      "id": "eaton-article-110959",
+      "name": "LS-11S-ZB/X — Safety position switch, 1N/O+1N/C, insulated material, without actuator, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-110959",
+      "recordPath": "equipment/eaton-article-110959.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-110959.json"
+    },
+    {
+      "id": "eaton-article-112468",
+      "name": "DILM38-01(*V50HZ) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 NC, *V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112468",
+      "recordPath": "equipment/eaton-article-112468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112468.json"
+    },
+    {
+      "id": "eaton-article-115410",
+      "name": "LS-02/P — Position switch, Roller plunger, Complete device, 2 NC, Cage clamp, Yellow, Insulated material, -25 - +70 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-115410",
+      "recordPath": "equipment/eaton-article-115410.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-115410.json"
+    },
+    {
+      "id": "eaton-article-112438",
+      "name": "DILM38-10(TVC100) — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, TVC100: 100 V 50 Hz/100-110 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112438",
+      "recordPath": "equipment/eaton-article-112438.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112438.json"
+    },
+    {
+      "id": "eaton-article-116702",
+      "name": "LS-02A — Position switch, Rounded plunger, Basic device, expandable, 2 NC, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, EN 50047 Form B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-116702",
+      "recordPath": "equipment/eaton-article-116702.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-116702.json"
+    },
+    {
+      "id": "eaton-article-116704",
+      "name": "LS-11A — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, EN 50047 Form B, version A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-116704",
+      "recordPath": "equipment/eaton-article-116704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-116704.json"
+    },
+    {
+      "id": "eaton-article-119722",
+      "name": "LS-11-SW-ZB — Safety position switch, 1N/O+1N/C, cover black, +actuator ZB, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-119722",
+      "recordPath": "equipment/eaton-article-119722.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-119722.json"
+    },
+    {
+      "id": "eaton-article-119723",
+      "name": "LS-11S-SW-ZB — Safety position switch, 1N/O+1N/C, cover black, +actuator ZB, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-119723",
+      "recordPath": "equipment/eaton-article-119723.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-119723.json"
+    },
+    {
+      "id": "eaton-article-116706",
+      "name": "LS-20B — Position switch, Rounded plunger, Basic device, expandable, 2 N/O, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, version B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-116706",
+      "recordPath": "equipment/eaton-article-116706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-116706.json"
+    },
+    {
+      "id": "eaton-article-127132",
+      "name": "DILEM12-10-G(24VDC) — Contactor, 24 V DC, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127132",
+      "recordPath": "equipment/eaton-article-127132.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127132.json"
+    },
+    {
+      "id": "eaton-article-127079",
+      "name": "DILEM12-10(24V50/60HZ) — Contactor, 24 V 50/60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127079",
+      "recordPath": "equipment/eaton-article-127079.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127079.json"
+    },
+    {
+      "id": "eaton-article-127074",
+      "name": "DILEM12-10(220V50HZ,240V60HZ) — Contactor, 220 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127074",
+      "recordPath": "equipment/eaton-article-127074.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127074.json"
+    },
+    {
+      "id": "eaton-article-127088",
+      "name": "DILEM12-01(110V50HZ,120V60HZ) — Contactor, 110 V 50 Hz, 120 V 60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127088",
+      "recordPath": "equipment/eaton-article-127088.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127088.json"
+    },
+    {
+      "id": "eaton-article-127082",
+      "name": "DILEM12-10(230V50/60HZ) — Contactor, 230 V 50/60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127082",
+      "recordPath": "equipment/eaton-article-127082.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127082.json"
+    },
+    {
+      "id": "eaton-article-127091",
+      "name": "DILEM12-01(230V50HZ,240V60HZ) — Contactor, 230 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127091",
+      "recordPath": "equipment/eaton-article-127091.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127091.json"
+    },
+    {
+      "id": "eaton-article-127098",
+      "name": "DILEM12-01(230V50/60HZ) — Contactor, 230 V 50/60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127098",
+      "recordPath": "equipment/eaton-article-127098.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127098.json"
+    },
+    {
+      "id": "eaton-article-127067",
+      "name": "DILEM12-10(24V50HZ) — Contactor, 24 V 50 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127067",
+      "recordPath": "equipment/eaton-article-127067.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127067.json"
+    },
+    {
+      "id": "eaton-article-127072",
+      "name": "DILEM12-10(110V50HZ,120V60HZ) — Contactor, 110 V 50 Hz, 120 V 60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127072",
+      "recordPath": "equipment/eaton-article-127072.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127072.json"
+    },
+    {
+      "id": "eaton-article-127075",
+      "name": "DILEM12-10(230V50HZ,240V60HZ) — Contactor, 230 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127075",
+      "recordPath": "equipment/eaton-article-127075.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127075.json"
+    },
+    {
+      "id": "eaton-article-127137",
+      "name": "DILEM12-01-G(24VDC) — Contactor, 24 V DC, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127137",
+      "recordPath": "equipment/eaton-article-127137.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127137.json"
+    },
+    {
+      "id": "eaton-article-127095",
+      "name": "DILEM12-01(24V50/60HZ) — Contactor, 24 V 50/60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127095",
+      "recordPath": "equipment/eaton-article-127095.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127095.json"
+    },
+    {
+      "id": "eaton-article-127076",
+      "name": "DILEM12-10(380V50HZ,440V60HZ) — Contactor, 380 V 50 Hz, 440 V 60 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127076",
+      "recordPath": "equipment/eaton-article-127076.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127076.json"
+    },
+    {
+      "id": "eaton-article-127083",
+      "name": "DILEM12-01(24V50HZ) — Contactor, 24 V 50 Hz, 3 pole, 380 V 400 V, 5.5 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127083",
+      "recordPath": "equipment/eaton-article-127083.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127083.json"
+    },
+    {
+      "id": "eaton-article-158133",
+      "name": "DILA-31(120VDC) — Contactor relay, 120 V DC, 3 N/O, 1 NC, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158133",
+      "recordPath": "equipment/eaton-article-158133.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158133.json"
+    },
+    {
+      "id": "eaton-article-158151",
+      "name": "DILEEM-10(240V50HZ,277V60HZ) — Contactor, 240 V 50 Hz, 277 V 60 Hz, 3 pole, 380 V 400 V, 3 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158151",
+      "recordPath": "equipment/eaton-article-158151.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158151.json"
+    },
+    {
+      "id": "eaton-article-158148",
+      "name": "DILEEM-01-G(120VDC) — Contactor, 120 V DC, 3 pole, 380 V 400 V, 3 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158148",
+      "recordPath": "equipment/eaton-article-158148.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158148.json"
+    },
+    {
+      "id": "eaton-article-158150",
+      "name": "DILEEM-10(208V60HZ) — Contactor, 208 V 60 Hz, 3 pole, 380 V 400 V, 3 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158150",
+      "recordPath": "equipment/eaton-article-158150.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158150.json"
+    },
+    {
+      "id": "eaton-article-158135",
+      "name": "DILA-31(240V50HZ,277V60HZ) — Contactor relay, 240 V 50 Hz, 277 V 60 Hz, 3 N/O, 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158135",
+      "recordPath": "equipment/eaton-article-158135.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158135.json"
+    },
+    {
+      "id": "eaton-article-158138",
+      "name": "DILA-40(120VDC) — Contactor relay, 120 V DC, 4 N/O, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158138",
+      "recordPath": "equipment/eaton-article-158138.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158138.json"
+    },
+    {
+      "id": "eaton-article-158170",
+      "name": "DILER-22(208V60HZ) — Contactor relay, 208 V 60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158170",
+      "recordPath": "equipment/eaton-article-158170.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158170.json"
+    },
+    {
+      "id": "eaton-article-158127",
+      "name": "DILA-22(120VDC) — Contactor relay, 120 V DC, 2 N/O, 2 NC, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158127",
+      "recordPath": "equipment/eaton-article-158127.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158127.json"
+    },
+    {
+      "id": "eaton-article-156509",
+      "name": "LS-02-CC/RL — Position switch, Rotary lever, Complete device, 2 NC, Cage Clamp, Yellow, Insulated material, -40 - +70 °C, EN 50047 Form A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-156509",
+      "recordPath": "equipment/eaton-article-156509.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-156509.json"
+    },
+    {
+      "id": "eaton-article-158157",
+      "name": "DILEM-01(380V60HZ) — Contactor, 380 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158157",
+      "recordPath": "equipment/eaton-article-158157.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158157.json"
+    },
+    {
+      "id": "eaton-article-158142",
+      "name": "DILA-40(550V50HZ,600V60HZ) — Contactor relay, 550 V 50 Hz, 600 V 60 Hz, 4 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158142",
+      "recordPath": "equipment/eaton-article-158142.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158142.json"
+    },
+    {
+      "id": "eaton-article-158174",
+      "name": "DILER-22-G(120VDC) — Contactor relay, 120 V DC, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158174",
+      "recordPath": "equipment/eaton-article-158174.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158174.json"
+    },
+    {
+      "id": "eaton-article-158173",
+      "name": "DILER-22(550V50HZ,600V60HZ) — Contactor relay, 550 V 50 Hz, 600 V 60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158173",
+      "recordPath": "equipment/eaton-article-158173.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158173.json"
+    },
+    {
+      "id": "eaton-article-158156",
+      "name": "DILEM-01(240V50HZ,277V60HZ) — Contactor, 240 V 50 Hz, 277 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158156",
+      "recordPath": "equipment/eaton-article-158156.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158156.json"
+    },
+    {
+      "id": "eaton-article-158149",
+      "name": "DILEEM-10(12V50/60HZ) — Contactor, 12 V 50/60 Hz, 3 pole, 380 V 400 V, 3 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158149",
+      "recordPath": "equipment/eaton-article-158149.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158149.json"
+    },
+    {
+      "id": "eaton-article-158131",
+      "name": "DILA-22(550V50HZ,600V60HZ) — Contactor relay, 550 V 50 Hz, 600 V 60 Hz, 2 N/O, 2 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158131",
+      "recordPath": "equipment/eaton-article-158131.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158131.json"
+    },
+    {
+      "id": "eaton-article-158159",
+      "name": "DILEM-01-G(120VDC) — Contactor, 120 V DC, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158159",
+      "recordPath": "equipment/eaton-article-158159.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158159.json"
+    },
+    {
+      "id": "eaton-article-158217",
+      "name": "DILM7-01(550V50HZ,600V60HZ) — Contactor, 3 pole, 380 V 400 V 3 kW, 1 NC, 550 V 50 Hz, 600 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158217",
+      "recordPath": "equipment/eaton-article-158217.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158217.json"
+    },
+    {
+      "id": "eaton-article-158193",
+      "name": "DILM12-10(240V50HZ,277V60HZ) — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 240 V 50 Hz, 277 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158193",
+      "recordPath": "equipment/eaton-article-158193.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158193.json"
+    },
+    {
+      "id": "eaton-article-158204",
+      "name": "DILM15-10(550V50HZ,600V60HZ) — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 N/O, 550 V 50 Hz, 600 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158204",
+      "recordPath": "equipment/eaton-article-158204.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158204.json"
+    },
+    {
+      "id": "eaton-article-158190",
+      "name": "DILM12-01(550V50HZ,600V60HZ) — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 NC, 550 V 50 Hz, 600 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158190",
+      "recordPath": "equipment/eaton-article-158190.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158190.json"
+    },
+    {
+      "id": "eaton-article-158200",
+      "name": "DILM15-10(120VDC) — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 N/O, 120 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158200",
+      "recordPath": "equipment/eaton-article-158200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158200.json"
+    },
+    {
+      "id": "eaton-article-158191",
+      "name": "DILM12-10(120VDC) — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 120 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158191",
+      "recordPath": "equipment/eaton-article-158191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158191.json"
+    },
+    {
+      "id": "eaton-article-158214",
+      "name": "DILM7-01(120VDC) — Contactor, 3 pole, 380 V 400 V 3 kW, 1 NC, 120 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158214",
+      "recordPath": "equipment/eaton-article-158214.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158214.json"
+    },
+    {
+      "id": "eaton-article-158222",
+      "name": "DILM9-01(120VDC) — Contactor, 3 pole, 380 V 400 V 4 kW, 1 NC, 120 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158222",
+      "recordPath": "equipment/eaton-article-158222.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158222.json"
+    },
+    {
+      "id": "eaton-article-158186",
+      "name": "DILER-40-G(120VDC) — Contactor relay, 120 V DC, N/O = Normally open: 4 N/O, Screw terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158186",
+      "recordPath": "equipment/eaton-article-158186.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158186.json"
+    },
+    {
+      "id": "eaton-article-158229",
+      "name": "DILM9-10(550V50HZ,600V60HZ) — Contactor, 3 pole, 380 V 400 V 4 kW, 1 N/O, 550 V 50 Hz, 600 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158229",
+      "recordPath": "equipment/eaton-article-158229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158229.json"
+    },
+    {
+      "id": "eaton-article-158227",
+      "name": "DILM9-10(12V50/60HZ) — Contactor, 3 pole, 380 V 400 V 4 kW, 1 N/O, 12 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158227",
+      "recordPath": "equipment/eaton-article-158227.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158227.json"
+    },
+    {
+      "id": "eaton-article-158187",
+      "name": "DILM12-01(120VDC) — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 NC, 120 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158187",
+      "recordPath": "equipment/eaton-article-158187.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158187.json"
+    },
+    {
+      "id": "eaton-article-158226",
+      "name": "DILM9-10(120VDC) — Contactor, 3 pole, 380 V 400 V 4 kW, 1 N/O, 120 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158226",
+      "recordPath": "equipment/eaton-article-158226.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158226.json"
+    },
+    {
+      "id": "eaton-article-158194",
+      "name": "DILM12-10(550V50HZ,600V60HZ) — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 550 V 50 Hz, 600 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158194",
+      "recordPath": "equipment/eaton-article-158194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158194.json"
+    },
+    {
+      "id": "eaton-article-158218",
+      "name": "DILM7-10(120VDC) — Contactor, 3 pole, 380 V 400 V 3 kW, 1 N/O, 120 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158218",
+      "recordPath": "equipment/eaton-article-158218.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158218.json"
+    },
+    {
+      "id": "eaton-article-158221",
+      "name": "DILM7-10(550V50HZ,600V60HZ) — Contactor, 3 pole, 380 V 400 V 3 kW, 1 N/O, 550 V 50 Hz, 600 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158221",
+      "recordPath": "equipment/eaton-article-158221.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158221.json"
+    },
+    {
+      "id": "eaton-article-158195",
+      "name": "DILM15-01(120VDC) — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 NC, 120 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158195",
+      "recordPath": "equipment/eaton-article-158195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158195.json"
+    },
+    {
+      "id": "eaton-article-178132",
+      "name": "LS-11S-M12A — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, EN 50047 Form B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178132",
+      "recordPath": "equipment/eaton-article-178132.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178132.json"
+    },
+    {
+      "id": "eaton-article-176886",
+      "name": "LS-02A-CC — Position switch, Rounded plunger, Basic device, expandable, 2 NC, Cage Clamp, Yellow, Insulated material, -40 - +70 °C, EN 50047 Form B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176886",
+      "recordPath": "equipment/eaton-article-176886.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176886.json"
+    },
+    {
+      "id": "eaton-article-176879",
+      "name": "LS-11-CC — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -40 - +70 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176879",
+      "recordPath": "equipment/eaton-article-176879.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176879.json"
+    },
+    {
+      "id": "eaton-article-176884",
+      "name": "LS-11DA-CC — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC (late-break), Cage Clamp, Yellow, Insulated material, -40 - +70 °C, version A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176884",
+      "recordPath": "equipment/eaton-article-176884.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176884.json"
+    },
+    {
+      "id": "eaton-article-178128",
+      "name": "LS-02-M12A — Position switch, Rounded plunger, Basic device, expandable, 2 NC, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178128",
+      "recordPath": "equipment/eaton-article-178128.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178128.json"
+    },
+    {
+      "id": "eaton-article-176885",
+      "name": "LS-20A-CC — Position switch, Rounded plunger, Basic device, expandable, 2 N/O, Cage Clamp, Yellow, Insulated material, -40 - +70 °C, version A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176885",
+      "recordPath": "equipment/eaton-article-176885.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176885.json"
+    },
+    {
+      "id": "eaton-article-179674",
+      "name": "LS-11S-CC/RL — Position switch, Rotary lever, Complete unit, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, -40 - +70 °C, EN 50047 Form A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179674",
+      "recordPath": "equipment/eaton-article-179674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179674.json"
+    },
+    {
+      "id": "eaton-article-178143",
+      "name": "LS-11S/RLA-M12A — Position switch, Adjustable roller lever, Complete device, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178143",
+      "recordPath": "equipment/eaton-article-178143.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178143.json"
+    },
+    {
+      "id": "eaton-article-178135",
+      "name": "LS-20B-M12A — Position switch, Rounded plunger, Basic device, expandable, 2 N/O, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, version B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178135",
+      "recordPath": "equipment/eaton-article-178135.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178135.json"
+    },
+    {
+      "id": "eaton-article-178141",
+      "name": "LS-11S/P-M12A — Position switch, Roller plunger, Complete device, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, EN 50047 Form C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178141",
+      "recordPath": "equipment/eaton-article-178141.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178141.json"
+    },
+    {
+      "id": "eaton-article-178134",
+      "name": "LS-20A-M12A — Position switch, Rounded plunger, Basic device, expandable, 2 N/O, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, version A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178134",
+      "recordPath": "equipment/eaton-article-178134.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178134.json"
+    },
+    {
+      "id": "eaton-article-176880",
+      "name": "LS-02-CC — Position switch, Rounded plunger, Basic device, expandable, 2 NC, Cage Clamp, Yellow, Insulated material, -40 - +70 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176880",
+      "recordPath": "equipment/eaton-article-176880.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176880.json"
+    },
+    {
+      "id": "eaton-article-178137",
+      "name": "LS-11/P-M12A — Position switch, Roller plunger, Complete device, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, EN 50047 Form C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178137",
+      "recordPath": "equipment/eaton-article-178137.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178137.json"
+    },
+    {
+      "id": "eaton-article-176888",
+      "name": "LS-20B-CC — Position switch, Rounded plunger, Basic device, expandable, 2 N/O, Cage Clamp, Yellow, Insulated material, -40 - +70 °C, version B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176888",
+      "recordPath": "equipment/eaton-article-176888.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176888.json"
+    },
+    {
+      "id": "eaton-article-178129",
+      "name": "LS-11-M12A — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178129",
+      "recordPath": "equipment/eaton-article-178129.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178129.json"
+    },
+    {
+      "id": "eaton-article-178133",
+      "name": "LS-20-M12A — Position switch, Rounded plunger, Basic device, expandable, 2 N/O, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178133",
+      "recordPath": "equipment/eaton-article-178133.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178133.json"
+    },
+    {
+      "id": "eaton-article-178142",
+      "name": "LS-11S/RL-M12A — Position switch, Rotary lever, Complete device, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, EN 50047 Form A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178142",
+      "recordPath": "equipment/eaton-article-178142.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178142.json"
+    },
+    {
+      "id": "eaton-article-179677",
+      "name": "LS-11S-CC/S — Position switch, Spring-rod actuator, Complete unit, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, -35 - +70 °C, Not to be used as a safety position switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179677",
+      "recordPath": "equipment/eaton-article-179677.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179677.json"
+    },
+    {
+      "id": "eaton-article-178139",
+      "name": "LS-11/RLA-M12A — Position switch, Adjustable roller lever, Complete device, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178139",
+      "recordPath": "equipment/eaton-article-178139.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178139.json"
+    },
+    {
+      "id": "eaton-article-176881",
+      "name": "LS-11S-CC — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -40 - +70 °C, EN 50047 Form B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176881",
+      "recordPath": "equipment/eaton-article-176881.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176881.json"
+    },
+    {
+      "id": "eaton-article-178130",
+      "name": "LS-11D-M12A — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC (late-break), Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178130",
+      "recordPath": "equipment/eaton-article-178130.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178130.json"
+    },
+    {
+      "id": "eaton-article-176882",
+      "name": "LS-11D-CC — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC (late-break), Cage Clamp, Yellow, Insulated material, -40 - +70 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176882",
+      "recordPath": "equipment/eaton-article-176882.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176882.json"
+    },
+    {
+      "id": "eaton-article-176887",
+      "name": "LS-11A-CC — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -40 - +70 °C, EN 50047 Form B, version A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176887",
+      "recordPath": "equipment/eaton-article-176887.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176887.json"
+    },
+    {
+      "id": "eaton-article-178145",
+      "name": "LS-11S/S-M12A — Position switch, Spring-rod actuator, Complete device, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, Not to be used as a safety position switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178145",
+      "recordPath": "equipment/eaton-article-178145.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178145.json"
+    },
+    {
+      "id": "eaton-article-178131",
+      "name": "LS-11DA-M12A — Position switch, Rounded plunger, Basic device, expandable, 1 N/O, 1 NC (late-break), Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, version A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178131",
+      "recordPath": "equipment/eaton-article-178131.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178131.json"
+    },
+    {
+      "id": "eaton-article-178138",
+      "name": "LS-11/RL-M12A — Position switch, Rotary lever, Complete device, 1 N/O, 1 NC, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, EN 50047 Form A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178138",
+      "recordPath": "equipment/eaton-article-178138.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178138.json"
+    },
+    {
+      "id": "eaton-article-178144",
+      "name": "LS-11S/RR-M12A — Position switch, Actuating rod, Complete device, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178144",
+      "recordPath": "equipment/eaton-article-178144.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178144.json"
+    },
+    {
+      "id": "eaton-article-178140",
+      "name": "LS-11S/L-M12A — Position switch, Roller lever, Complete device, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, Insulated material, -25 - +70 °C, with M12 connector, EN 50047 Form E, Long",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178140",
+      "recordPath": "equipment/eaton-article-178140.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178140.json"
+    },
+    {
+      "id": "eaton-article-179675",
+      "name": "LS-11S-CC/RR — Position switch, Actuating rod, Complete unit, 1 N/O, 1 NC, Snap-action contact - Yes, Cage Clamp, Yellow, -40 - +70 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179675",
+      "recordPath": "equipment/eaton-article-179675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179675.json"
+    },
+    {
+      "id": "eaton-article-176883",
+      "name": "LS-20-CC — Position switch, Rounded plunger, Basic device, expandable, 2 N/O, Cage Clamp, Yellow, Insulated material, -40 - +70 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-176883",
+      "recordPath": "equipment/eaton-article-176883.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-176883.json"
+    }
+  ]
+}

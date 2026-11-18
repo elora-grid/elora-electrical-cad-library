@@ -1,0 +1,2969 @@
+{
+  "schemaVersion": 1,
+  "category": "protection",
+  "page": 9,
+  "entries": [
+    {
+      "id": "se-article-33681",
+      "name": "33681 — adjustable time delay relay for voltage release MN, 100-130 VAC 50/60 Hz, 100-130 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33681",
+      "recordPath": "equipment/se-article-33681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33681.json"
+    },
+    {
+      "id": "se-article-lr3d365",
+      "name": "LR3D365 — Thermal overload relay, TeSys Deca, 690VAC, 48 to 65A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d365",
+      "recordPath": "equipment/se-article-lr3d365.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d365.json"
+    },
+    {
+      "id": "se-article-lr3d3326",
+      "name": "LR3D3326 — TeSys Deca thermal overload relays - 23...32 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d3326",
+      "recordPath": "equipment/se-article-lr3d3326.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d3326.json"
+    },
+    {
+      "id": "se-article-65290",
+      "name": "65290 — Control unit MicroLogic 5.0P, ComPacT NS630b/NS1600, fixed, selective protections (LSI), power meter",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-65290",
+      "recordPath": "equipment/se-article-65290.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-65290.json"
+    },
+    {
+      "id": "se-article-lrd023",
+      "name": "LRD023 — TeSys Deca thermal overload relays - 0.16...0.25 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd023",
+      "recordPath": "equipment/se-article-lrd023.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd023.json"
+    },
+    {
+      "id": "se-article-lr3d04",
+      "name": "LR3D04 — TeSys Deca thermal overload relays - 0.4...0.63 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d04",
+      "recordPath": "equipment/se-article-lr3d04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d04.json"
+    },
+    {
+      "id": "se-article-lrd3363",
+      "name": "LRD3363 — Thermal Overload Relays, TeSys LR.D, TeSys Deca, 63...80A, class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3363",
+      "recordPath": "equipment/se-article-lrd3363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3363.json"
+    },
+    {
+      "id": "se-article-lr3d06",
+      "name": "LR3D06 — Thermal overload relay, TeSys Deca, 690VAC, 1 to 1.6A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d06",
+      "recordPath": "equipment/se-article-lr3d06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d06.json"
+    },
+    {
+      "id": "se-article-lrd32l6",
+      "name": "LRD32L6 — TeSys Deca thermal overload relays - 23...32 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd32l6",
+      "recordPath": "equipment/se-article-lrd32l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd32l6.json"
+    },
+    {
+      "id": "se-article-lrd3361",
+      "name": "LRD3361 — Thermal Overload Relays, TeSys LR.D, TeSys Deca, 55...70 A , class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3361",
+      "recordPath": "equipment/se-article-lrd3361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3361.json"
+    },
+    {
+      "id": "se-article-lrd313",
+      "name": "LRD313 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 9 to 13A, 1NO+1NC, class 10A, EverLink BTR screw",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd313",
+      "recordPath": "equipment/se-article-lrd313.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd313.json"
+    },
+    {
+      "id": "se-article-lr9d5569",
+      "name": "LR9D5569 — Thermal Overload Relays, TeSys LR.D, TeSys Deca, 90...150A, class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr9d5569",
+      "recordPath": "equipment/se-article-lr9d5569.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr9d5569.json"
+    },
+    {
+      "id": "se-article-lr3d08",
+      "name": "LR3D08 — Thermal overload relay, TeSys Deca, 690VAC, 2.5 to 4A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d08",
+      "recordPath": "equipment/se-article-lr3d08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d08.json"
+    },
+    {
+      "id": "se-article-lr3d16l",
+      "name": "LR3D16L — Thermal overload relay, TeSys Deca, 690VAC, 9 to 13A, 1NO+1NC, class 20, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d16l",
+      "recordPath": "equipment/se-article-lr3d16l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d16l.json"
+    },
+    {
+      "id": "se-article-lr3d056",
+      "name": "LR3D056 — TeSys Deca thermal overload relays - 0.63...1 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d056",
+      "recordPath": "equipment/se-article-lr3d056.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d056.json"
+    },
+    {
+      "id": "se-article-lr3d14",
+      "name": "LR3D14 — Thermal overload relay, TeSys Deca, 690VAC, 7 to 10A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d14",
+      "recordPath": "equipment/se-article-lr3d14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d14.json"
+    },
+    {
+      "id": "se-article-lr3d086",
+      "name": "LR3D086 — TeSys Deca thermal overload relays - 2.5...4 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d086",
+      "recordPath": "equipment/se-article-lr3d086.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d086.json"
+    },
+    {
+      "id": "se-article-lr3d07l6",
+      "name": "LR3D07L6 — TeSys Deca thermal overload relays - 1.6...2.5 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d07l6",
+      "recordPath": "equipment/se-article-lr3d07l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d07l6.json"
+    },
+    {
+      "id": "se-article-lr3d4365",
+      "name": "LR3D4365 — TeSys Deca thermal overload relays , 80...104A , class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d4365",
+      "recordPath": "equipment/se-article-lr3d4365.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d4365.json"
+    },
+    {
+      "id": "se-article-lr3d3506",
+      "name": "LR3D3506 — TeSys Deca thermal overload relays - 37...50 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d3506",
+      "recordPath": "equipment/se-article-lr3d3506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d3506.json"
+    },
+    {
+      "id": "se-article-lrd3357",
+      "name": "LRD3357 — Thermal overload relays, TeSys Deca,  37...50 A , class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3357",
+      "recordPath": "equipment/se-article-lrd3357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3357.json"
+    },
+    {
+      "id": "se-article-lr9d5567",
+      "name": "LR9D5567 — Thermal Overload Relays, TeSys LR.D, TeSys Deca, 60...100A, class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr9d5567",
+      "recordPath": "equipment/se-article-lr9d5567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr9d5567.json"
+    },
+    {
+      "id": "se-article-lrd216",
+      "name": "LRD216 — TeSys Deca thermal overload relays - 12...18 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd216",
+      "recordPath": "equipment/se-article-lrd216.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd216.json"
+    },
+    {
+      "id": "se-article-lrd013",
+      "name": "LRD013 — TeSys Deca thermal overload relays - 0.1...0.16 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd013",
+      "recordPath": "equipment/se-article-lrd013.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd013.json"
+    },
+    {
+      "id": "se-article-lr9d5367",
+      "name": "LR9D5367 — Thermal Overload Relays, TeSys LR.D, TeSys Deca, 60...100A, class 10",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr9d5367",
+      "recordPath": "equipment/se-article-lr9d5367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr9d5367.json"
+    },
+    {
+      "id": "se-article-lr3d12",
+      "name": "LR3D12 — Thermal overload relay, TeSys Deca, 690VAC, 5.5 to 8A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d12",
+      "recordPath": "equipment/se-article-lr3d12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d12.json"
+    },
+    {
+      "id": "se-article-lrd3353",
+      "name": "LRD3353 — thermal overload relays, TeSys Deca, 23...32A , class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3353",
+      "recordPath": "equipment/se-article-lrd3353.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3353.json"
+    },
+    {
+      "id": "se-article-33540",
+      "name": "33540 — Control unit MicroLogic 6.0E, ComPacT NS630b/NS1600, drawout, selective and earth fault protections (LSIG), energy meter",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33540",
+      "recordPath": "equipment/se-article-33540.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33540.json"
+    },
+    {
+      "id": "se-article-33680",
+      "name": "33680 — adjustable time delay relay for voltage release MN, 48-60 VAC 50/60 Hz, 48-60 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33680",
+      "recordPath": "equipment/se-article-33680.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33680.json"
+    },
+    {
+      "id": "se-article-lrd066",
+      "name": "LRD066 — TeSys Deca thermal overload relays - 1...1.6 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd066",
+      "recordPath": "equipment/se-article-lrd066.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd066.json"
+    },
+    {
+      "id": "se-article-lr3d32l6",
+      "name": "LR3D32L6 — TeSys Deca thermal overload relays - 23...32 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d32l6",
+      "recordPath": "equipment/se-article-lr3d32l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d32l6.json"
+    },
+    {
+      "id": "se-article-lrd16l6",
+      "name": "LRD16L6 — TeSys Deca thermal overload relays - 9...13 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd16l6",
+      "recordPath": "equipment/se-article-lrd16l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd16l6.json"
+    },
+    {
+      "id": "se-article-lr3d22l6",
+      "name": "LR3D22L6 — TeSys Deca thermal overload relays - 17...24 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d22l6",
+      "recordPath": "equipment/se-article-lr3d22l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d22l6.json"
+    },
+    {
+      "id": "se-article-lr3d21",
+      "name": "LR3D21 — Thermal overload relay, TeSys Deca, 690VAC, 12 to 18A, 1NO+1NC, class 10A, for D18â€¦D38 unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d21",
+      "recordPath": "equipment/se-article-lr3d21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d21.json"
+    },
+    {
+      "id": "se-article-lrd350l6",
+      "name": "LRD350L6 — TeSys Deca thermal overload relays - 37...50 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd350l6",
+      "recordPath": "equipment/se-article-lrd350l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd350l6.json"
+    },
+    {
+      "id": "se-article-lr3d126",
+      "name": "LR3D126 — TeSys Deca thermal overload relays - 5.5...8 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d126",
+      "recordPath": "equipment/se-article-lr3d126.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d126.json"
+    },
+    {
+      "id": "se-article-lr3d12l6",
+      "name": "LR3D12L6 — TeSys Deca thermal overload relays - 5.5...8 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d12l6",
+      "recordPath": "equipment/se-article-lr3d12l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d12l6.json"
+    },
+    {
+      "id": "se-article-lrd365l",
+      "name": "LRD365L — Thermal overload relay, TeSys Deca, 690VAC, 48 to 65A, 1NO+1NC, class 20, for D40A to D65A, EverLink BTR screw",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd365l",
+      "recordPath": "equipment/se-article-lrd365l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd365l.json"
+    },
+    {
+      "id": "se-article-lr2d3563",
+      "name": "LR2D3563 — TeSys Deca thermal overload relays,63...80A,class 20,for D80/95(3P)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr2d3563",
+      "recordPath": "equipment/se-article-lr2d3563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr2d3563.json"
+    },
+    {
+      "id": "se-article-lr3d3186",
+      "name": "LR3D3186 — TeSys Deca thermal overload relays - 12...18 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d3186",
+      "recordPath": "equipment/se-article-lr3d3186.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d3186.json"
+    },
+    {
+      "id": "se-article-lr3d146",
+      "name": "LR3D146 — TeSys Deca thermal overload relays - 7...10 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d146",
+      "recordPath": "equipment/se-article-lr3d146.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d146.json"
+    },
+    {
+      "id": "se-article-lr3d32",
+      "name": "LR3D32 — TeSys Deca thermal overload relays - 23...32 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d32",
+      "recordPath": "equipment/se-article-lr3d32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d32.json"
+    },
+    {
+      "id": "se-article-lr3d05l",
+      "name": "LR3D05L — TeSys Deca thermal overload relays - 0.63...1 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d05l",
+      "recordPath": "equipment/se-article-lr3d05l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d05l.json"
+    },
+    {
+      "id": "se-article-lrd3136",
+      "name": "LRD3136 — TeSys Deca thermal overload relays - 9...13 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3136",
+      "recordPath": "equipment/se-article-lrd3136.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3136.json"
+    },
+    {
+      "id": "se-article-lr2d3555",
+      "name": "LR2D3555 — TeSys Deca thermal overload relays,30...40A,class 20,for D80/95(3P)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr2d3555",
+      "recordPath": "equipment/se-article-lr2d3555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr2d3555.json"
+    },
+    {
+      "id": "se-article-lr3d350",
+      "name": "LR3D350 — Thermal overload relay, TeSys Deca, 690VAC, 37 to 50A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d350",
+      "recordPath": "equipment/se-article-lr3d350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d350.json"
+    },
+    {
+      "id": "se-article-lrd063",
+      "name": "LRD063 — TeSys Deca thermal overload relays - 1...1.6 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd063",
+      "recordPath": "equipment/se-article-lrd063.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd063.json"
+    },
+    {
+      "id": "se-article-lr3d325",
+      "name": "LR3D325 — Thermal overload relay, TeSys Deca, 690VAC, 17 to 25A, 1NO+1NC, class 10A, for D40Aâ€¦D65A unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d325",
+      "recordPath": "equipment/se-article-lr3d325.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d325.json"
+    },
+    {
+      "id": "se-article-lrd073",
+      "name": "LRD073 — TeSys Deca thermal overload relays - 1.6...2.5 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd073",
+      "recordPath": "equipment/se-article-lrd073.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd073.json"
+    },
+    {
+      "id": "se-article-lrd076",
+      "name": "LRD076 — TeSys Deca thermal overload relays - 1.6...2.5 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd076",
+      "recordPath": "equipment/se-article-lrd076.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd076.json"
+    },
+    {
+      "id": "se-article-lr3d10",
+      "name": "LR3D10 — Thermal overload relay, TeSys Deca, 690VAC, 4 to 6A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d10",
+      "recordPath": "equipment/se-article-lr3d10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d10.json"
+    },
+    {
+      "id": "se-article-33684",
+      "name": "33684 — non - adjustable time delay relay for voltage release MN - 100/130 V AC/DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33684",
+      "recordPath": "equipment/se-article-33684.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33684.json"
+    },
+    {
+      "id": "se-article-lrd213",
+      "name": "LRD213 — TeSys Deca thermal overload relays - 12...18 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd213",
+      "recordPath": "equipment/se-article-lrd213.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd213.json"
+    },
+    {
+      "id": "se-article-lr3d10l6",
+      "name": "LR3D10L6 — TeSys Deca thermal overload relays - 4...6 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d10l6",
+      "recordPath": "equipment/se-article-lr3d10l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d10l6.json"
+    },
+    {
+      "id": "se-article-lr3d04l6",
+      "name": "LR3D04L6 — TeSys Deca thermal overload relays - 0.4...0.63 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d04l6",
+      "recordPath": "equipment/se-article-lr3d04l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d04l6.json"
+    },
+    {
+      "id": "se-article-lrd3186",
+      "name": "LRD3186 — TeSys Deca thermal overload relays - 12...18 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3186",
+      "recordPath": "equipment/se-article-lrd3186.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3186.json"
+    },
+    {
+      "id": "se-article-lrd356",
+      "name": "LRD356 — TeSys Deca thermal overload relays - 30...38 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd356",
+      "recordPath": "equipment/se-article-lrd356.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd356.json"
+    },
+    {
+      "id": "se-article-lr3d318",
+      "name": "LR3D318 — Thermal overload relay, TeSys Deca, 690VAC, 12 to 18A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d318",
+      "recordPath": "equipment/se-article-lr3d318.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d318.json"
+    },
+    {
+      "id": "se-article-lrd163",
+      "name": "LRD163 — TeSys Deca thermal overload relays - 9...13 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd163",
+      "recordPath": "equipment/se-article-lrd163.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd163.json"
+    },
+    {
+      "id": "se-article-lrd08l6",
+      "name": "LRD08L6 — TeSys Deca thermal overload relays - 2.5...4 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd08l6",
+      "recordPath": "equipment/se-article-lrd08l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd08l6.json"
+    },
+    {
+      "id": "se-article-lv429427",
+      "name": "LV429427 — non adjustable time delay relay for MN voltage release, 220/240 VAC 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429427",
+      "recordPath": "equipment/se-article-lv429427.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429427.json"
+    },
+    {
+      "id": "se-article-lrd043",
+      "name": "LRD043 — TeSys Deca thermal overload relays - 0.4...0.63 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd043",
+      "recordPath": "equipment/se-article-lrd043.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd043.json"
+    },
+    {
+      "id": "se-article-lrd3406",
+      "name": "LRD3406 — Thermal overload relay,TeSys Deca,30-40A,1NO+1NC,class 10A,EverLink lugs ring",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3406",
+      "recordPath": "equipment/se-article-lrd3406.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3406.json"
+    },
+    {
+      "id": "se-article-lr3d08l6",
+      "name": "LR3D08L6 — TeSys Deca thermal overload relays - 2.5...4 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d08l6",
+      "recordPath": "equipment/se-article-lr3d08l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d08l6.json"
+    },
+    {
+      "id": "se-article-lrd05l6",
+      "name": "LRD05L6 — TeSys Deca thermal overload relays - 0.63...1 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd05l6",
+      "recordPath": "equipment/se-article-lrd05l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd05l6.json"
+    },
+    {
+      "id": "se-article-lr3d16",
+      "name": "LR3D16 — Thermal overload relay, TeSys Deca, 690VAC, 9 to 13A, 1NO+1NC, class 10A, for D12â€¦D38 unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d16",
+      "recordPath": "equipment/se-article-lr3d16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d16.json"
+    },
+    {
+      "id": "se-article-lrd332l6",
+      "name": "LRD332L6 — TeSys Deca thermal overload relays - 23...32 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd332l6",
+      "recordPath": "equipment/se-article-lrd332l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd332l6.json"
+    },
+    {
+      "id": "se-article-65294",
+      "name": "65294 — Control unit MicroLogic 6.0P, ComPacT NS630b/NS1600, drawout, selective and earth fault protections (LSIG), power meter",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-65294",
+      "recordPath": "equipment/se-article-65294.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-65294.json"
+    },
+    {
+      "id": "se-article-65293",
+      "name": "65293 — Control unit MicroLogic 5.0P, ComPacT NS630b/NS1600, drawout, selective protections (LSI), power meter",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-65293",
+      "recordPath": "equipment/se-article-65293.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-65293.json"
+    },
+    {
+      "id": "se-article-lrd106",
+      "name": "LRD106 — TeSys Deca thermal overload relays - 4...6 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd106",
+      "recordPath": "equipment/se-article-lrd106.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd106.json"
+    },
+    {
+      "id": "se-article-lrd07l6",
+      "name": "LRD07L6 — TeSys Deca thermal overload relays - 1.6...2.5 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd07l6",
+      "recordPath": "equipment/se-article-lrd07l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd07l6.json"
+    },
+    {
+      "id": "se-article-lr3d14l",
+      "name": "LR3D14L — Thermal overload relay, TeSys Deca, 690VAC, 7 to 10A, 1NO+1NC, class 20, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d14l",
+      "recordPath": "equipment/se-article-lr3d14l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d14l.json"
+    },
+    {
+      "id": "se-article-lrd123",
+      "name": "LRD123 — TeSys Deca thermal overload relays - 5.5...8 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd123",
+      "recordPath": "equipment/se-article-lrd123.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd123.json"
+    },
+    {
+      "id": "se-article-lrd046",
+      "name": "LRD046 — TeSys Deca thermal overload relays - 0.4...0.63 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd046",
+      "recordPath": "equipment/se-article-lrd046.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd046.json"
+    },
+    {
+      "id": "se-article-33682",
+      "name": "33682 — adjustable time delay relay for voltage release MN, 200-250 VAC 50/60 Hz, 200-250 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33682",
+      "recordPath": "equipment/se-article-33682.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33682.json"
+    },
+    {
+      "id": "se-article-lr3d066",
+      "name": "LR3D066 — TeSys Deca thermal overload relays - 1...1.6 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d066",
+      "recordPath": "equipment/se-article-lr3d066.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d066.json"
+    },
+    {
+      "id": "se-article-lr3d3256",
+      "name": "LR3D3256 — TeSys Deca thermal overload relays - 17...25 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d3256",
+      "recordPath": "equipment/se-article-lr3d3256.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d3256.json"
+    },
+    {
+      "id": "se-article-lrd350l",
+      "name": "LRD350L — Thermal overload relay, TeSys Deca, 690VAC, 37 to 50A, 1NO+1NC, class 20, for D40A to D65A, EverLink springs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd350l",
+      "recordPath": "equipment/se-article-lrd350l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd350l.json"
+    },
+    {
+      "id": "se-article-lr3d21l6",
+      "name": "LR3D21L6 — TeSys Deca thermal overload relays - 12...18 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d21l6",
+      "recordPath": "equipment/se-article-lr3d21l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d21l6.json"
+    },
+    {
+      "id": "se-article-lrd325l",
+      "name": "LRD325L — Thermal overload relay, TeSys Deca, 690VAC, 17 to 25A, 1NO+1NC, class 20, for D40A to D65A, EverLink BTR screw",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd325l",
+      "recordPath": "equipment/se-article-lrd325l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd325l.json"
+    },
+    {
+      "id": "se-article-lr3d3136",
+      "name": "LR3D3136 — TeSys Deca thermal overload relays - 9...13 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d3136",
+      "recordPath": "equipment/se-article-lr3d3136.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d3136.json"
+    },
+    {
+      "id": "se-article-lr3d22",
+      "name": "LR3D22 — TeSys Deca thermal overload relays - 16...24 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d22",
+      "recordPath": "equipment/se-article-lr3d22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d22.json"
+    },
+    {
+      "id": "se-article-lrd22l6",
+      "name": "LRD22L6 — TeSys Deca thermal overload relays - 17...24 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd22l6",
+      "recordPath": "equipment/se-article-lrd22l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd22l6.json"
+    },
+    {
+      "id": "se-article-65291",
+      "name": "65291 — Control unit MicroLogic 6.0P, ComPacT NS630b/NS1600, fixed, selective and earth fault protections (LSIG), power meter",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-65291",
+      "recordPath": "equipment/se-article-65291.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-65291.json"
+    },
+    {
+      "id": "se-article-lr3d12l",
+      "name": "LR3D12L — Thermal overload relay, TeSys Deca, 690VAC, 5.5 to 8A, 1NO+1NC, class 20, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d12l",
+      "recordPath": "equipment/se-article-lr3d12l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d12l.json"
+    },
+    {
+      "id": "se-article-lrd350",
+      "name": "LRD350 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 37 to 50A, 1NO+1NC, class 10A, EverLink BTR screw",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd350",
+      "recordPath": "equipment/se-article-lrd350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd350.json"
+    },
+    {
+      "id": "se-article-lr3d07l",
+      "name": "LR3D07L — Thermal overload relay, TeSys Deca, 690VAC, 1.6 to 2.5A, 1NO+1NC, class 20, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d07l",
+      "recordPath": "equipment/se-article-lr3d07l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d07l.json"
+    },
+    {
+      "id": "se-article-lr2d3522",
+      "name": "LR2D3522 — TeSys Deca thermal overload relays,17...25A,class 20,for D80/95(3P)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr2d3522",
+      "recordPath": "equipment/se-article-lr2d3522.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr2d3522.json"
+    },
+    {
+      "id": "se-article-lr3d340",
+      "name": "LR3D340 — Thermal overload relay, TeSys Deca, 690VAC, 30 to 40A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d340",
+      "recordPath": "equipment/se-article-lr3d340.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d340.json"
+    },
+    {
+      "id": "se-article-lrd14l6",
+      "name": "LRD14L6 — TeSys Deca thermal overload relays - 7...10 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd14l6",
+      "recordPath": "equipment/se-article-lrd14l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd14l6.json"
+    },
+    {
+      "id": "se-article-lrd325l6",
+      "name": "LRD325L6 — TeSys Deca thermal overload relays - 17...25 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd325l6",
+      "recordPath": "equipment/se-article-lrd325l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd325l6.json"
+    },
+    {
+      "id": "se-article-lrd313l6",
+      "name": "LRD313L6 — TeSys Deca thermal overload relays - 9...13 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd313l6",
+      "recordPath": "equipment/se-article-lrd313l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd313l6.json"
+    },
+    {
+      "id": "se-article-lrd340l",
+      "name": "LRD340L — Thermal overload relay, TeSys Deca, 690VAC, 30 to 40A, 1NO+1NC, class 20, for D40A to D65A, EverLink BTR screw",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd340l",
+      "recordPath": "equipment/se-article-lrd340l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd340l.json"
+    },
+    {
+      "id": "se-article-lrd02",
+      "name": "LRD02 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 0.16 to 0.25A, 1NO+1NC, class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd02",
+      "recordPath": "equipment/se-article-lrd02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd02.json"
+    },
+    {
+      "id": "se-article-lr3d3406",
+      "name": "LR3D3406 — TeSys Deca thermal overload relays - 30...40 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d3406",
+      "recordPath": "equipment/se-article-lr3d3406.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d3406.json"
+    },
+    {
+      "id": "se-article-lrd365l6",
+      "name": "LRD365L6 — Thermal overload relay,TeSys Deca,48-65A,1NO+1NC,class 20,EverLink lugs ring",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd365l6",
+      "recordPath": "equipment/se-article-lrd365l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd365l6.json"
+    },
+    {
+      "id": "se-article-lr3d35",
+      "name": "LR3D35 — TeSys Deca thermal overload relays - 30...38 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d35",
+      "recordPath": "equipment/se-article-lr3d35.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d35.json"
+    },
+    {
+      "id": "se-article-lr3d10l",
+      "name": "LR3D10L — Thermal overload relay, TeSys Deca, 690VAC, 4 to 6A, 1NO+1NC, class 20, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d10l",
+      "recordPath": "equipment/se-article-lr3d10l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d10l.json"
+    },
+    {
+      "id": "se-article-lrd325",
+      "name": "LRD325 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 17 to 25A, 1NO+1NC, class 10A, EverLink BTR screw",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd325",
+      "recordPath": "equipment/se-article-lrd325.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd325.json"
+    },
+    {
+      "id": "se-article-lrd12l6",
+      "name": "LRD12L6 — TeSys Deca thermal overload relays - 5.5...8 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd12l6",
+      "recordPath": "equipment/se-article-lrd12l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd12l6.json"
+    },
+    {
+      "id": "se-article-lr3d22l",
+      "name": "LR3D22L — Thermal overload relay, TeSys Deca, 690VAC, 17 to 24A, 1NO+1NC, class 20, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d22l",
+      "recordPath": "equipment/se-article-lr3d22l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d22l.json"
+    },
+    {
+      "id": "se-article-lr3d16l6",
+      "name": "LR3D16L6 — TeSys Deca thermal overload relays - 9...13 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d16l6",
+      "recordPath": "equipment/se-article-lr3d16l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d16l6.json"
+    },
+    {
+      "id": "se-article-33683",
+      "name": "33683 — adjustable time delay relay for voltage release MN, 380-480 VAC 50/60 Hz, 380-480 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33683",
+      "recordPath": "equipment/se-article-33683.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33683.json"
+    },
+    {
+      "id": "se-article-lr3d4369",
+      "name": "LR3D4369 — TeSys Deca thermal overload relays , 110...140A , class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d4369",
+      "recordPath": "equipment/se-article-lr3d4369.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d4369.json"
+    },
+    {
+      "id": "se-article-lrd04l6",
+      "name": "LRD04L6 — TeSys Deca thermal overload relays - 0.4...0.63 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd04l6",
+      "recordPath": "equipment/se-article-lrd04l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd04l6.json"
+    },
+    {
+      "id": "se-article-lrd3355",
+      "name": "LRD3355 — thermal overload relays, TeSys Deca, 30...40A, class 10A, motor protection",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3355",
+      "recordPath": "equipment/se-article-lrd3355.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3355.json"
+    },
+    {
+      "id": "se-article-65295",
+      "name": "65295 — Control unit MicroLogic 7.0P, ComPacT NS630b/NS1600, drawout, selective + earth leakage protections (LSIV), power meter",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-65295",
+      "recordPath": "equipment/se-article-65295.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-65295.json"
+    },
+    {
+      "id": "se-article-lr3d05l6",
+      "name": "LR3D05L6 — TeSys Deca thermal overload relays - 0.63...1 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d05l6",
+      "recordPath": "equipment/se-article-lr3d05l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d05l6.json"
+    },
+    {
+      "id": "se-article-lr2d3557",
+      "name": "LR2D3557 — TeSys Deca thermal overload relays,37...50A,class 20,for D80/95(3P)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr2d3557",
+      "recordPath": "equipment/se-article-lr2d3557.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr2d3557.json"
+    },
+    {
+      "id": "se-article-lrd3359",
+      "name": "LRD3359 — Thermal overload relays, TeSys Deca,  48...65 A , class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3359",
+      "recordPath": "equipment/se-article-lrd3359.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3359.json"
+    },
+    {
+      "id": "se-article-lrd326",
+      "name": "LRD326 — TeSys Deca thermal overload relays - 23...32 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd326",
+      "recordPath": "equipment/se-article-lrd326.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd326.json"
+    },
+    {
+      "id": "se-article-lr3d3656",
+      "name": "LR3D3656 — TeSys Deca thermal overload relays - 48...65 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d3656",
+      "recordPath": "equipment/se-article-lr3d3656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d3656.json"
+    },
+    {
+      "id": "se-article-lrd226",
+      "name": "LRD226 — TeSys Deca thermal overload relays - 16...24 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd226",
+      "recordPath": "equipment/se-article-lrd226.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd226.json"
+    },
+    {
+      "id": "se-article-lr3d04l",
+      "name": "LR3D04L — TeSys Deca thermal overload relays - 0.4...0.63 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d04l",
+      "recordPath": "equipment/se-article-lr3d04l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d04l.json"
+    },
+    {
+      "id": "se-article-lr3d332",
+      "name": "LR3D332 — Thermal overload relay, TeSys Deca, 690VAC, 23 to 32A, 1NO+1NC, class 10A, for D40Aâ€¦D65A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d332",
+      "recordPath": "equipment/se-article-lr3d332.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d332.json"
+    },
+    {
+      "id": "se-article-lrd3506",
+      "name": "LRD3506 — Thermal overload relay,TeSys Deca,37-50A,1NO+1NC,class 10A,EverLink lugs ring",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3506",
+      "recordPath": "equipment/se-article-lrd3506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3506.json"
+    },
+    {
+      "id": "se-article-lrd103",
+      "name": "LRD103 — TeSys Deca thermal overload relays - 4...6 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd103",
+      "recordPath": "equipment/se-article-lrd103.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd103.json"
+    },
+    {
+      "id": "se-article-lrd3656",
+      "name": "LRD3656 — Thermal overload relay,TeSys Deca,48-65A,1NO+1NC,class 10A,EverLink lugs ring",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd3656",
+      "recordPath": "equipment/se-article-lrd3656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd3656.json"
+    },
+    {
+      "id": "se-article-lrd21l6",
+      "name": "LRD21L6 — TeSys Deca thermal overload relays - 12...18 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd21l6",
+      "recordPath": "equipment/se-article-lrd21l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd21l6.json"
+    },
+    {
+      "id": "se-article-lrd340l6",
+      "name": "LRD340L6 — Thermal overload relay,TeSys Deca,30-40A,1NO+1NC,class 20,EverLink lugs ring",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd340l6",
+      "recordPath": "equipment/se-article-lrd340l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd340l6.json"
+    },
+    {
+      "id": "se-article-33685",
+      "name": "33685 — non - adjustable time delay relay for voltage release MN - 200/250 V AC/DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33685",
+      "recordPath": "equipment/se-article-33685.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33685.json"
+    },
+    {
+      "id": "se-article-lr3d076",
+      "name": "LR3D076 — TeSys Deca thermal overload relays - 1.6...2.5 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d076",
+      "recordPath": "equipment/se-article-lr3d076.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d076.json"
+    },
+    {
+      "id": "se-article-lr3d01",
+      "name": "LR3D01 — Thermal overload relay, TeSys Deca, 690VAC, 0.1 to 0.16A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d01",
+      "recordPath": "equipment/se-article-lr3d01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d01.json"
+    },
+    {
+      "id": "se-article-lrd10l6",
+      "name": "LRD10L6 — TeSys Deca thermal overload relays - 4...6 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd10l6",
+      "recordPath": "equipment/se-article-lrd10l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd10l6.json"
+    },
+    {
+      "id": "se-article-lr3d14l6",
+      "name": "LR3D14L6 — TeSys Deca thermal overload relays - 7...10 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d14l6",
+      "recordPath": "equipment/se-article-lr3d14l6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d14l6.json"
+    },
+    {
+      "id": "se-article-lr9d67",
+      "name": "LR9D67 — Electronic Thermal Overload Relay, TeSys LR.D, TeSys Deca, 60...100A, class 10...20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr9d67",
+      "recordPath": "equipment/se-article-lr9d67.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr9d67.json"
+    },
+    {
+      "id": "se-article-lr3d05",
+      "name": "LR3D05 — TeSys Deca thermal overload relays - 0.63...1 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d05",
+      "recordPath": "equipment/se-article-lr3d05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d05.json"
+    },
+    {
+      "id": "se-article-lr3d07",
+      "name": "LR3D07 — Thermal overload relay, TeSys Deca, 690VAC, 1.6 to 2.5A, 1NO+1NC, class 10A, for unbalanced loads",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d07",
+      "recordPath": "equipment/se-article-lr3d07.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d07.json"
+    },
+    {
+      "id": "se-article-lr9d69",
+      "name": "LR9D69 — Electronic Thermal Overload Relay, TeSys LR.D, TeSys Deca, 90...150A, class 10...20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr9d69",
+      "recordPath": "equipment/se-article-lr9d69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr9d69.json"
+    },
+    {
+      "id": "se-article-lr3d06l",
+      "name": "LR3D06L — TeSys Deca thermal overload relays - 1...1.6 A - class 20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d06l",
+      "recordPath": "equipment/se-article-lr3d06l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d06l.json"
+    },
+    {
+      "id": "se-article-lr3d03",
+      "name": "LR3D03 — TeSys Deca thermal overload relays - 0.25...0.4 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d03",
+      "recordPath": "equipment/se-article-lr3d03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d03.json"
+    },
+    {
+      "id": "se-article-lr3d4367",
+      "name": "LR3D4367 — TeSys Deca thermal overload relays , 95...120A , class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d4367",
+      "recordPath": "equipment/se-article-lr3d4367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d4367.json"
+    },
+    {
+      "id": "se-article-lr3d02",
+      "name": "LR3D02 — TeSys Deca thermal overload relays - 0.16...0.25 A - class 10A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lr3d02",
+      "recordPath": "equipment/se-article-lr3d02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lr3d02.json"
+    },
+    {
+      "id": "se-article-bmxdrc0805",
+      "name": "BMXDRC0805 — discrete output module, Modicon X80,  8 NO or NC relay outputs, 24 to 240V AC, 24 to 125V DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxdrc0805",
+      "recordPath": "equipment/se-article-bmxdrc0805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxdrc0805.json"
+    },
+    {
+      "id": "se-article-abe7p16t334",
+      "name": "ABE7P16T334 — sub-base for plug-in relay ABE7 - 16 channels - fuses - relay 12.5 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-abe7p16t334",
+      "recordPath": "equipment/se-article-abe7p16t334.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-abe7p16t334.json"
+    },
+    {
+      "id": "se-article-782xdxh10110d",
+      "name": "782XDXH10-110D — Hermetically sealed plug-in relays, SE Relays, 3A, 4 CO, 110VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh10110d",
+      "recordPath": "equipment/se-article-782xdxh10110d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh10110d.json"
+    },
+    {
+      "id": "se-article-782xdxh21240a",
+      "name": "782XDXH21-240A — Hermetically sealed plug-in relays, SE Relays, 5A, 4 CO, 240VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh21240a",
+      "recordPath": "equipment/se-article-782xdxh21240a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh21240a.json"
+    },
+    {
+      "id": "se-article-782xbxh2124d",
+      "name": "782XBXH21-24D — Hermetically sealed plug-in relays, SE Relays, 5A, 2 CO, 24VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xbxh2124d",
+      "recordPath": "equipment/se-article-782xbxh2124d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xbxh2124d.json"
+    },
+    {
+      "id": "se-article-782xdxh10120a",
+      "name": "782XDXH10-120A — Hermetically sealed plug-in relays, SE Relays, 3A, 4 CO, 120VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh10120a",
+      "recordPath": "equipment/se-article-782xdxh10120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh10120a.json"
+    },
+    {
+      "id": "se-article-782xdxh10240a",
+      "name": "782XDXH10-240A — Hermetically sealed plug-in relays, SE Relays, 3A, 4 CO, 240VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh10240a",
+      "recordPath": "equipment/se-article-782xdxh10240a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh10240a.json"
+    },
+    {
+      "id": "se-article-bmxddm16025",
+      "name": "BMXDDM16025 — discrete mixed IO module, Modicon X80, 8 inputs, 24V DC, 8 relay outputs, 24 to 240V AC positive",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxddm16025",
+      "recordPath": "equipment/se-article-bmxddm16025.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxddm16025.json"
+    },
+    {
+      "id": "se-article-782xdxh1024d",
+      "name": "782XDXH10-24D — Hermetically sealed plug-in relays, SE Relays, 3A, 4 CO, 24VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh1024d",
+      "recordPath": "equipment/se-article-782xdxh1024d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh1024d.json"
+    },
+    {
+      "id": "se-article-bmxdra0815",
+      "name": "BMXDRA0815 — discrete output module, Modicon X80, 8 NO relay outputs, 24 to 240V AC, 24 to 125V DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxdra0815",
+      "recordPath": "equipment/se-article-bmxdra0815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxdra0815.json"
+    },
+    {
+      "id": "se-article-la4dfb",
+      "name": "LA4DFB — TeSys Deca, interface amplifier module, relay, 24V DC / 250V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-la4dfb",
+      "recordPath": "equipment/se-article-la4dfb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-la4dfb.json"
+    },
+    {
+      "id": "se-article-782xdxh2148d",
+      "name": "782XDXH21-48D — Hermetically sealed plug-in relays, SE Relays, 5A, 4 CO, 48VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh2148d",
+      "recordPath": "equipment/se-article-782xdxh2148d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh2148d.json"
+    },
+    {
+      "id": "se-article-782xdxh2124d",
+      "name": "782XDXH21-24D — Hermetically sealed plug-in relays, SE Relays, 5A, 4 CO, 24VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh2124d",
+      "recordPath": "equipment/se-article-782xdxh2124d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh2124d.json"
+    },
+    {
+      "id": "se-article-782xdxh106a",
+      "name": "782XDXH10-6A — Hermetically sealed plug-in relays, SE Relays, 3A, 4 CO, 6VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh106a",
+      "recordPath": "equipment/se-article-782xdxh106a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh106a.json"
+    },
+    {
+      "id": "se-article-bmxdra0804t",
+      "name": "BMXDRA0804T — discrete output module, Modicon X80, 8 NO relay outputs, 100 to 150V DC, extended temperature",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxdra0804t",
+      "recordPath": "equipment/se-article-bmxdra0804t.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxdra0804t.json"
+    },
+    {
+      "id": "se-article-782xdxh21120a",
+      "name": "782XDXH21-120A — Hermetically sealed plug-in relays, SE Relays, 5A, 4 CO, 120VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh21120a",
+      "recordPath": "equipment/se-article-782xdxh21120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh21120a.json"
+    },
+    {
+      "id": "se-article-bmxdra1605",
+      "name": "BMXDRA1605 — discrete output module, Modicon X80, 16 NO relay outputs, 24 to 240V AC, 24 to 48V DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxdra1605",
+      "recordPath": "equipment/se-article-bmxdra1605.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxdra1605.json"
+    },
+    {
+      "id": "se-article-782xdxh1024a",
+      "name": "782XDXH10-24A — Hermetically sealed plug-in relays, SE Relays, 3A, 4 CO, 24VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh1024a",
+      "recordPath": "equipment/se-article-782xdxh1024a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh1024a.json"
+    },
+    {
+      "id": "se-article-16782cbj1",
+      "name": "16-782CBJ-1 — Coil bus jumper system, SE Relays, for 782H/792 relays, insulated",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-16782cbj1",
+      "recordPath": "equipment/se-article-16782cbj1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-16782cbj1.json"
+    },
+    {
+      "id": "se-article-782xdxh106d",
+      "name": "782XDXH10-6D — Hermetically sealed plug-in relays, SE Relays, 3A, 4 CO, 6VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh106d",
+      "recordPath": "equipment/se-article-782xdxh106d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh106d.json"
+    },
+    {
+      "id": "se-article-782xdxh2112d",
+      "name": "782XDXH21-12D — Hermetically sealed plug-in relays, SE Relays, 5A, 4 CO, 12VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xdxh2112d",
+      "recordPath": "equipment/se-article-782xdxh2112d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xdxh2112d.json"
+    },
+    {
+      "id": "se-article-703791",
+      "name": "70-379-1 — Socket, SE Relays, 5A, 14 pins, for printed circuit board, for 782H / 792 relays,",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-703791",
+      "recordPath": "equipment/se-article-703791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-703791.json"
+    },
+    {
+      "id": "se-article-704021",
+      "name": "70-402-1 — Socket, SE Relays general purpose relay accessory, DPDT, 10A, 300 V, 8 pins, pins for printed circuit board, 782 series",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-704021",
+      "recordPath": "equipment/se-article-704021.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-704021.json"
+    },
+    {
+      "id": "eaton-article-014479",
+      "name": "ZE-2,4 — Overload relay, Ir= 1.6 - 2.4 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014479",
+      "recordPath": "equipment/eaton-article-014479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014479.json"
+    },
+    {
+      "id": "eaton-article-014285",
+      "name": "ZE-0,24 — Overload relay, Ir= 0.16 - 0.24 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014285",
+      "recordPath": "equipment/eaton-article-014285.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014285.json"
+    },
+    {
+      "id": "eaton-article-014263",
+      "name": "ZE-0,16 — Overload relay, Ir= 0.1 - 0.16 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014263",
+      "recordPath": "equipment/eaton-article-014263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014263.json"
+    },
+    {
+      "id": "eaton-article-014376",
+      "name": "ZE-1,0 — Overload relay, Ir= 0.6 - 1 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014376",
+      "recordPath": "equipment/eaton-article-014376.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014376.json"
+    },
+    {
+      "id": "eaton-article-014432",
+      "name": "ZE-1,6 — Overload relay, Ir= 1 - 1.6 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014432",
+      "recordPath": "equipment/eaton-article-014432.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014432.json"
+    },
+    {
+      "id": "eaton-article-014333",
+      "name": "ZE-0,6 — Overload relay, Ir= 0.4 - 0.6 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014333",
+      "recordPath": "equipment/eaton-article-014333.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014333.json"
+    },
+    {
+      "id": "eaton-article-014752",
+      "name": "ZE-12 — Overload relay, Ir= 9 - 12 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014752",
+      "recordPath": "equipment/eaton-article-014752.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014752.json"
+    },
+    {
+      "id": "eaton-article-014708",
+      "name": "ZE-9 — Overload relay, Ir= 6 - 9 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014708",
+      "recordPath": "equipment/eaton-article-014708.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014708.json"
+    },
+    {
+      "id": "eaton-article-014565",
+      "name": "ZE-6 — Overload relay, Ir= 4 - 6 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014565",
+      "recordPath": "equipment/eaton-article-014565.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014565.json"
+    },
+    {
+      "id": "eaton-article-014518",
+      "name": "ZE-4 — Overload relay, Ir= 2.4 - 4 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014518",
+      "recordPath": "equipment/eaton-article-014518.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014518.json"
+    },
+    {
+      "id": "eaton-article-014300",
+      "name": "ZE-0,4 — Overload relay, Ir= 0.24 - 0.4 A, 1 N/O, 1 N/C, Direct mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014300",
+      "recordPath": "equipment/eaton-article-014300.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-014300.json"
+    },
+    {
+      "id": "eaton-article-136480",
+      "name": "ZEB12-1,65 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 0.33 - 1.65 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136480",
+      "recordPath": "equipment/eaton-article-136480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136480.json"
+    },
+    {
+      "id": "eaton-article-136495",
+      "name": "ZEB32-5/KK — Overload relay, Separate mounting, Earth-fault protection: none, Ir= 1 - 5 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136495",
+      "recordPath": "equipment/eaton-article-136495.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136495.json"
+    },
+    {
+      "id": "eaton-article-136496",
+      "name": "ZEB32-20/KK — Overload relay, Separate mounting, Earth-fault protection: none, Ir= 4 - 20 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136496",
+      "recordPath": "equipment/eaton-article-136496.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136496.json"
+    },
+    {
+      "id": "eaton-article-139574",
+      "name": "Z5-125/FF225A — Overload relay, Ir= 95 - 125 A, 1 N/O, 1 N/C, For use with: DILM185A, DILM225A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-139574",
+      "recordPath": "equipment/eaton-article-139574.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-139574.json"
+    },
+    {
+      "id": "eaton-article-139576",
+      "name": "Z5-220/FF225A — Overload relay, Ir= 160 - 220 A, 1 N/O, 1 N/C, For use with: DILM185A, DILM225A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-139576",
+      "recordPath": "equipment/eaton-article-139576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-139576.json"
+    },
+    {
+      "id": "eaton-article-136497",
+      "name": "ZEB32-45/KK — Overload relay, Separate mounting, Earth-fault protection: none, Ir= 9 - 45 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136497",
+      "recordPath": "equipment/eaton-article-136497.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136497.json"
+    },
+    {
+      "id": "eaton-article-136506",
+      "name": "ZEB150-100 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 20 - 100 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136506",
+      "recordPath": "equipment/eaton-article-136506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136506.json"
+    },
+    {
+      "id": "eaton-article-136481",
+      "name": "ZEB12-5 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 1 - 5 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136481",
+      "recordPath": "equipment/eaton-article-136481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136481.json"
+    },
+    {
+      "id": "eaton-article-136509",
+      "name": "ZEB150-100-GF/KK — Overload relay, Separate mounting, Earth-fault protection: with, Ir= 20 - 100 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136509",
+      "recordPath": "equipment/eaton-article-136509.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136509.json"
+    },
+    {
+      "id": "eaton-article-136484",
+      "name": "ZEB12-5-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 1 - 5 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136484",
+      "recordPath": "equipment/eaton-article-136484.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136484.json"
+    },
+    {
+      "id": "eaton-article-136485",
+      "name": "ZEB12-20-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 4 - 20 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136485",
+      "recordPath": "equipment/eaton-article-136485.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136485.json"
+    },
+    {
+      "id": "eaton-article-136493",
+      "name": "ZEB32-45-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 9 - 45 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136493",
+      "recordPath": "equipment/eaton-article-136493.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136493.json"
+    },
+    {
+      "id": "eaton-article-136503",
+      "name": "ZEB65-45-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 9 - 45 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136503",
+      "recordPath": "equipment/eaton-article-136503.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136503.json"
+    },
+    {
+      "id": "eaton-article-136507",
+      "name": "ZEB150-100-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 20 - 100 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136507",
+      "recordPath": "equipment/eaton-article-136507.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136507.json"
+    },
+    {
+      "id": "eaton-article-139575",
+      "name": "Z5-160/FF225A — Overload relay, Ir= 120 - 160 A, 1 N/O, 1 N/C, For use with: DILM185A, DILM225A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-139575",
+      "recordPath": "equipment/eaton-article-139575.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-139575.json"
+    },
+    {
+      "id": "eaton-article-136488",
+      "name": "ZEB32-20 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 4 - 20 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136488",
+      "recordPath": "equipment/eaton-article-136488.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136488.json"
+    },
+    {
+      "id": "eaton-article-136504",
+      "name": "ZEB65-100 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 20 - 100 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136504",
+      "recordPath": "equipment/eaton-article-136504.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136504.json"
+    },
+    {
+      "id": "eaton-article-136500",
+      "name": "ZEB32-20-GF/KK — Overload relay, Separate mounting, Earth-fault protection: with, Ir= 4 - 20 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136500",
+      "recordPath": "equipment/eaton-article-136500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136500.json"
+    },
+    {
+      "id": "eaton-article-136483",
+      "name": "ZEB12-1,65-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 0.33 - 1.65 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136483",
+      "recordPath": "equipment/eaton-article-136483.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136483.json"
+    },
+    {
+      "id": "eaton-article-136502",
+      "name": "ZEB65-45 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 9 - 45 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136502",
+      "recordPath": "equipment/eaton-article-136502.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136502.json"
+    },
+    {
+      "id": "eaton-article-136487",
+      "name": "ZEB32-5 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 1 - 5 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136487",
+      "recordPath": "equipment/eaton-article-136487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136487.json"
+    },
+    {
+      "id": "eaton-article-136492",
+      "name": "ZEB32-20-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 4 - 20 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136492",
+      "recordPath": "equipment/eaton-article-136492.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136492.json"
+    },
+    {
+      "id": "eaton-article-136494",
+      "name": "ZEB32-1,65/KK — Overload relay, Separate mounting, Earth-fault protection: none, Ir= 0.33 - 1.65 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136494",
+      "recordPath": "equipment/eaton-article-136494.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136494.json"
+    },
+    {
+      "id": "eaton-article-136491",
+      "name": "ZEB32-5-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 1 - 5 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136491",
+      "recordPath": "equipment/eaton-article-136491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136491.json"
+    },
+    {
+      "id": "eaton-article-136490",
+      "name": "ZEB32-1,65-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 0.33 - 1.65 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136490",
+      "recordPath": "equipment/eaton-article-136490.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136490.json"
+    },
+    {
+      "id": "eaton-article-136499",
+      "name": "ZEB32-5-GF/KK — Overload relay, Separate mounting, Earth-fault protection: with, Ir= 1 - 5 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136499",
+      "recordPath": "equipment/eaton-article-136499.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136499.json"
+    },
+    {
+      "id": "eaton-article-136508",
+      "name": "ZEB150-100/KK — Overload relay, Separate mounting, Earth-fault protection: none, Ir= 20 - 100 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136508",
+      "recordPath": "equipment/eaton-article-136508.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136508.json"
+    },
+    {
+      "id": "eaton-article-139577",
+      "name": "Z5-250/FF225A — Overload relay, Ir= 200 - 250 A, 1 N/O, 1 N/C, For use with: DILM185A, DILM225A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-139577",
+      "recordPath": "equipment/eaton-article-139577.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-139577.json"
+    },
+    {
+      "id": "eaton-article-139578",
+      "name": "Z5-300/FF250 — Overload relay, Ir= 200 - 300 A, 1 N/O, 1 N/C, For use with: DILM300A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-139578",
+      "recordPath": "equipment/eaton-article-139578.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-139578.json"
+    },
+    {
+      "id": "eaton-article-136482",
+      "name": "ZEB12-20 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 4 - 20 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136482",
+      "recordPath": "equipment/eaton-article-136482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136482.json"
+    },
+    {
+      "id": "eaton-article-136486",
+      "name": "ZEB32-1,65 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 0.33 - 1.65 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136486",
+      "recordPath": "equipment/eaton-article-136486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136486.json"
+    },
+    {
+      "id": "eaton-article-136489",
+      "name": "ZEB32-45 — Overload relay, Direct mounting, Earth-fault protection: none, Ir= 9 - 45 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136489",
+      "recordPath": "equipment/eaton-article-136489.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136489.json"
+    },
+    {
+      "id": "eaton-article-136505",
+      "name": "ZEB65-100-GF — Overload relay, Direct mounting, Earth-fault protection: with, Ir= 20 - 100 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136505",
+      "recordPath": "equipment/eaton-article-136505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136505.json"
+    },
+    {
+      "id": "eaton-article-136501",
+      "name": "ZEB32-45-GF/KK — Overload relay, Separate mounting, Earth-fault protection: with, Ir= 9 - 45 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136501",
+      "recordPath": "equipment/eaton-article-136501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136501.json"
+    },
+    {
+      "id": "eaton-article-136498",
+      "name": "ZEB32-1,65-GF/KK — Overload relay, Separate mounting, Earth-fault protection: with, Ir= 0.33 - 1.65 A, 1 N/O, 1 N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-136498",
+      "recordPath": "equipment/eaton-article-136498.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-136498.json"
+    },
+    {
+      "id": "eaton-article-139573",
+      "name": "Z5-100/FF225A — Overload relay, Ir= 70 - 100 A, 1 N/O, 1 N/C, For use with: DILM185A, DILM225A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-139573",
+      "recordPath": "equipment/eaton-article-139573.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-139573.json"
+    },
+    {
+      "id": "eaton-article-139572",
+      "name": "Z5-70/FF225A — Overload relay, Ir= 50 - 70 A, 1 N/O, 1 N/C, For use with: DILM185A, DILM225A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-139572",
+      "recordPath": "equipment/eaton-article-139572.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-139572.json"
+    },
+    {
+      "id": "eaton-article-278471",
+      "name": "ZB150-125/KK — Overload relay, ZB150, Ir= 95 - 125 A, 1 N/O, 1 N/C, Separate mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278471",
+      "recordPath": "equipment/eaton-article-278471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278471.json"
+    },
+    {
+      "id": "eaton-article-278469",
+      "name": "ZB150-70/KK — Overload relay, ZB150, Ir= 50 - 70 A, 1 N/O, 1 N/C, Separate mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278469",
+      "recordPath": "equipment/eaton-article-278469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278469.json"
+    },
+    {
+      "id": "eaton-article-278461",
+      "name": "ZB150-35 — Overload relay, ZB150, Ir= 25 - 35 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278461",
+      "recordPath": "equipment/eaton-article-278461.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278461.json"
+    },
+    {
+      "id": "eaton-article-278473",
+      "name": "ZB32-XEZ — Individual mounting base, for ZB32 overload relay",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278473",
+      "recordPath": "equipment/eaton-article-278473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278473.json"
+    },
+    {
+      "id": "eaton-article-278459",
+      "name": "ZB65-57 — Overload relay, ZB65, Ir= 40 - 57 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278459",
+      "recordPath": "equipment/eaton-article-278459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278459.json"
+    },
+    {
+      "id": "eaton-article-278458",
+      "name": "ZB65-40 — Overload relay, ZB65, Ir= 24 - 40 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278458",
+      "recordPath": "equipment/eaton-article-278458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278458.json"
+    },
+    {
+      "id": "eaton-article-278455",
+      "name": "ZB65-10 — Overload relay, ZB65, Ir= 6 - 10 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278455",
+      "recordPath": "equipment/eaton-article-278455.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278455.json"
+    },
+    {
+      "id": "eaton-article-278464",
+      "name": "ZB150-100 — Overload relay, ZB150, Ir= 70 - 100 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278464",
+      "recordPath": "equipment/eaton-article-278464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278464.json"
+    },
+    {
+      "id": "eaton-article-278472",
+      "name": "ZB150-150/KK — Overload relay, ZB150, Ir= 120 - 150 A, 1 N/O, 1 N/C, Separate mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278472",
+      "recordPath": "equipment/eaton-article-278472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278472.json"
+    },
+    {
+      "id": "eaton-article-278468",
+      "name": "ZB150-50/KK — Overload relay, ZB150, Ir= 35 - 50 A, 1 N/O, 1 N/C, Separate mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278468",
+      "recordPath": "equipment/eaton-article-278468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278468.json"
+    },
+    {
+      "id": "eaton-article-278466",
+      "name": "ZB150-150 — Overload relay, ZB150, Ir= 120 - 150 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278466",
+      "recordPath": "equipment/eaton-article-278466.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278466.json"
+    },
+    {
+      "id": "eaton-article-278457",
+      "name": "ZB65-24 — Overload relay, ZB65, Ir= 16 - 24 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278457",
+      "recordPath": "equipment/eaton-article-278457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278457.json"
+    },
+    {
+      "id": "eaton-article-278474",
+      "name": "ZB65-XEZ — Individual mounting base, for ZB65 overload relay",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278474",
+      "recordPath": "equipment/eaton-article-278474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278474.json"
+    },
+    {
+      "id": "eaton-article-278463",
+      "name": "ZB150-70 — Overload relay, ZB150, Ir= 50 - 70 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278463",
+      "recordPath": "equipment/eaton-article-278463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278463.json"
+    },
+    {
+      "id": "eaton-article-278456",
+      "name": "ZB65-16 — Overload relay, ZB65, Ir= 10 - 16 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278456",
+      "recordPath": "equipment/eaton-article-278456.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278456.json"
+    },
+    {
+      "id": "eaton-article-278470",
+      "name": "ZB150-100/KK — Overload relay, ZB150, Ir= 70 - 100 A, 1 N/O, 1 N/C, Separate mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278470",
+      "recordPath": "equipment/eaton-article-278470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278470.json"
+    },
+    {
+      "id": "eaton-article-278462",
+      "name": "ZB150-50 — Overload relay, ZB150, Ir= 35 - 50 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278462",
+      "recordPath": "equipment/eaton-article-278462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278462.json"
+    },
+    {
+      "id": "eaton-article-278465",
+      "name": "ZB150-125 — Overload relay, ZB150, Ir= 95 - 125 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278465",
+      "recordPath": "equipment/eaton-article-278465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278465.json"
+    },
+    {
+      "id": "eaton-article-278460",
+      "name": "ZB65-65 — Overload relay, ZB65, Ir= 50 - 65 A, 1 N/O, 1 N/C, Direct mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278460",
+      "recordPath": "equipment/eaton-article-278460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278460.json"
+    },
+    {
+      "id": "eaton-article-278467",
+      "name": "ZB150-35/KK — Overload relay, ZB150, Ir= 25 - 35 A, 1 N/O, 1 N/C, Separate mounting, IP00",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278467",
+      "recordPath": "equipment/eaton-article-278467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278467.json"
+    },
+    {
+      "id": "eaton-article-269471",
+      "name": "EMT6-KDB — Thermistor overload relay for machine protection, 1N/O+1N/C, 24-240VAC/DC, with reclosing lockout",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-269471",
+      "recordPath": "equipment/eaton-article-269471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-269471.json"
+    },
+    {
+      "id": "eaton-article-066166",
+      "name": "EMT6 — Thermistor overload relay for machine protection, 1W , 24-240V50/60Hz, 24-240VDC, without reclosing lockout",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-066166",
+      "recordPath": "equipment/eaton-article-066166.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-066166.json"
+    },
+    {
+      "id": "eaton-article-269470",
+      "name": "EMT6-K — Thermistor overload relay for machine protection, 1N/O+1N/C, 24-240VAC/DC, without reclosing lockout",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-269470",
+      "recordPath": "equipment/eaton-article-269470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-269470.json"
+    },
+    {
+      "id": "eaton-article-066168",
+      "name": "EMT6-DBK — Thermistor overload relay for machine protection, multi-function, 24-240V50/60HZ/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-066168",
+      "recordPath": "equipment/eaton-article-066168.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-066168.json"
+    },
+    {
+      "id": "eaton-article-066167",
+      "name": "EMT6-DB — Thermistor overload relay for machine protection, 24-240V50/60HZ/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-066167",
+      "recordPath": "equipment/eaton-article-066167.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-066167.json"
+    },
+    {
+      "id": "eaton-article-031891",
+      "name": "ETR4-69-A — Timing relay, 1W, 0.05s-100h, multi-function, 24-240VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-031891",
+      "recordPath": "equipment/eaton-article-031891.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-031891.json"
+    },
+    {
+      "id": "eaton-article-031882",
+      "name": "ETR4-11-A — Timing relay, 1W, 0.05s-100h, 24-240V50/60Hz, 24-240VDC, on-delayed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-031882",
+      "recordPath": "equipment/eaton-article-031882.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-031882.json"
+    },
+    {
+      "id": "eaton-article-031887",
+      "name": "ETR4-69-W — Timing relay, 1W, 0.05s-100h, multi-function, 400VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-031887",
+      "recordPath": "equipment/eaton-article-031887.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-031887.json"
+    },
+    {
+      "id": "eaton-article-031883",
+      "name": "ETR4-11-W — Timing relay, 1W, 0.05s-60h, on-delayed, 400VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-031883",
+      "recordPath": "equipment/eaton-article-031883.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-031883.json"
+    },
+    {
+      "id": "eaton-article-031884",
+      "name": "ETR4-51-A — Timing relay, star-delta, 50 ms, 1W, 3-60s, 24-240VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-031884",
+      "recordPath": "equipment/eaton-article-031884.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-031884.json"
+    },
+    {
+      "id": "eaton-article-031888",
+      "name": "ETR4-70-A — Timing relay, 2W, 0.05s-100h, multi-function, 24-240VAC/DC, potentiometer connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-031888",
+      "recordPath": "equipment/eaton-article-031888.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-031888.json"
+    },
+    {
+      "id": "eaton-article-031885",
+      "name": "ETR4-51-W — Timing relay, star-delta, 50 ms, 1W, 3-60s, 400VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-031885",
+      "recordPath": "equipment/eaton-article-031885.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-031885.json"
+    },
+    {
+      "id": "eaton-article-100665",
+      "name": "Z-S48/4S — Impulse relay, 48AC/24DC, 4 N/O, 16A, 50Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-100665",
+      "recordPath": "equipment/eaton-article-100665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-100665.json"
+    },
+    {
+      "id": "eaton-article-103168",
+      "name": "Z-TN230/2S2O — Pre-selection relay, 230V 50Hz, 2N/C+2N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-103168",
+      "recordPath": "equipment/eaton-article-103168.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-103168.json"
+    },
+    {
+      "id": "eaton-article-119428",
+      "name": "ETR2-69-D — Timing relay, 2W, 0.05s-100h, multi-function, 12-240VAC 50/60Hz, 12-240VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-119428",
+      "recordPath": "equipment/eaton-article-119428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-119428.json"
+    },
+    {
+      "id": "eaton-article-119426",
+      "name": "ETR2-11-D — Timing relay, 2W, 0.05s-100h, on-delayed, 24-240VAC 50/60Hz, 24-48VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-119426",
+      "recordPath": "equipment/eaton-article-119426.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-119426.json"
+    },
+    {
+      "id": "eaton-article-119427",
+      "name": "ETR2-12-D — Timing relay, 2W, 0.05s-100h, off-delayed, 24-240VAC 50/60Hz, 24-48VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-119427",
+      "recordPath": "equipment/eaton-article-119427.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-119427.json"
+    },
+    {
+      "id": "eaton-article-262689",
+      "name": "ETR2-69 — Timing relay, 1W, 0.05s-100h, multi-function, 24-240VAC 50/60Hz, 24-48VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262689",
+      "recordPath": "equipment/eaton-article-262689.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262689.json"
+    },
+    {
+      "id": "eaton-article-262686",
+      "name": "ETR2-12 — Timing relay, 0.05s-100h, 24-240VAC 50/60Hz, 24-48VDC, 1W, off-delayed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262686",
+      "recordPath": "equipment/eaton-article-262686.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262686.json"
+    },
+    {
+      "id": "eaton-article-262684",
+      "name": "ETR2-11 — Timing relay, 1W, 0.05s-100h, 24-240VAV 50/60Hz, 24-48VDC, on-delayed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262684",
+      "recordPath": "equipment/eaton-article-262684.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262684.json"
+    },
+    {
+      "id": "eaton-article-262688",
+      "name": "ETR2-42 — Timing relay, 0.05s-100h, 24-240VAC 50/60Hz, 24-48VDC, 1W, flashing",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262688",
+      "recordPath": "equipment/eaton-article-262688.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262688.json"
+    },
+    {
+      "id": "eaton-article-262730",
+      "name": "ETR2-44 — Timing relay, 0.05s-100h, 24-240VAC 50/60Hz, 24-48VDC, 1W, flashing, 2 times",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262730",
+      "recordPath": "equipment/eaton-article-262730.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262730.json"
+    },
+    {
+      "id": "eaton-article-262687",
+      "name": "ETR2-21 — Timing relay, 0.05s-100h, 24-240VAC 50/60Hz, 24-48VDC, 1W, fleeting contact on energization",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262687",
+      "recordPath": "equipment/eaton-article-262687.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262687.json"
+    },
+    {
+      "id": "eaton-article-265261",
+      "name": "Z-S240/S — Impulse relay, 240AC, 1 N/O, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265261",
+      "recordPath": "equipment/eaton-article-265261.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265261.json"
+    },
+    {
+      "id": "eaton-article-265262",
+      "name": "Z-S230/S — Impulse relay, 230AC, 1 N/O, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265262",
+      "recordPath": "equipment/eaton-article-265262.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265262.json"
+    },
+    {
+      "id": "eaton-article-265269",
+      "name": "Z-S240/SS — Impulse relay, 240AC, 2 N/O, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265269",
+      "recordPath": "equipment/eaton-article-265269.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265269.json"
+    }
+  ]
+}

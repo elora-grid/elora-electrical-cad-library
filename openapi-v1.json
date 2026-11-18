@@ -2,8 +2,8 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Elora CAD Library agent API",
-    "version": "1.0.0",
-    "description": "Find manufacturer files and download prepared formats. Public originals require no Elora signup. Only exclusive Elora conversions require a free verified account. Shared service capacity budgets are reported in RateLimit headers. Delivery admission reserves attachment sizes; it is not confirmed transfer or billing."
+    "version": "1.2.0",
+    "description": "Public discovery; anonymous API trial 3 files/25 MiB daily. Reusable registration allows 100 files per UTC calendar month. Existing active paid Elora Grid plans, verified by the account service, allow 10,000 files/month. Global hosted delivery remains capped at 10 GiB/day. No new plan/price or automatic purchase."
   },
   "servers": [
     {
@@ -568,15 +568,68 @@
               "maxLength": 401,
               "description": "artifact_id returned by the manifest; URL-encode it."
             }
+          },
+          {
+            "name": "Idempotency-Key",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "pattern": "^[a-zA-Z0-9_-]{8,80}$"
+            },
+            "description": "Reuse for the same artifact for up to five minutes. Conflicting/expired keys return 409. Retries recheck publication and do not double-reserve quotas. Without a key, identical requests deduplicate within a five-minute bucket."
           }
         ],
-        "security": [],
+        "security": [
+          {},
+          {
+            "RegistrationBearer": []
+          }
+        ],
         "responses": {
           "302": {
-            "description": "Redirect to approved public file or, for HTML clients, the fixed app account screen."
+            "description": "Redirect to approved public file or, for HTML clients, the fixed app account screen.",
+            "headers": {
+              "X-CAD-Allowance-Tier": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "Current allowance; reset is seconds until 00:00 UTC."
+              },
+              "X-CAD-Files-Limit": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "Current allowance; reset is seconds until 00:00 UTC."
+              },
+              "X-CAD-Files-Remaining": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "Current allowance; reset is seconds until 00:00 UTC."
+              },
+              "X-CAD-Bytes-Limit": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "Current allowance; reset is seconds until 00:00 UTC."
+              },
+              "X-CAD-Bytes-Remaining": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "Current allowance; reset is seconds until 00:00 UTC."
+              },
+              "X-CAD-Allowance-Reset": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "Current allowance; reset is seconds until 00:00 UTC."
+              }
+            }
           },
           "401": {
-            "description": "Exclusive conversion requires free account. Request Accept: application/json for next_action.",
+            "description": "Anonymous trial exhausted: register once. Exclusive conversions always require verified account/OAuth.",
             "content": {
               "application/json": {
                 "schema": {
@@ -585,6 +638,9 @@
               }
             }
           },
+          "402": {
+            "description": "100-file free month exhausted. Sign into an existing active paid Elora Grid plan; review actual offers at /settings#billing. No automatic charge."
+          },
           "404": {
             "description": "Withdrawn or unknown file"
           },
@@ -592,7 +648,7 @@
             "description": "Awaiting access review"
           },
           "429": {
-            "description": "Obey Retry-After"
+            "description": "10,000-file paid month, daily byte budget, or global delivery capacity exhausted. Honour Retry-After."
           },
           "503": {
             "description": "Storage or exclusive account delivery unavailable"
@@ -635,6 +691,33 @@
                 }
               }
             }
+          }
+        }
+      }
+    },
+    "/allowance": {
+      "get": {
+        "operationId": "getCadAllowance",
+        "summary": "Read remaining daily allowance before delivery; no quota consumption",
+        "security": [
+          {},
+          {
+            "RegistrationBearer": []
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Current principal allowance, fixed policy and UTC reset",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Quota status unavailable; no zero-usage claim"
           }
         }
       }
@@ -1316,6 +1399,15 @@
             "type": "string",
             "pattern": "^[a-f0-9]{64}$",
             "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+          },
+          "allowance": {
+            "$ref": "#/components/schemas/Allowance"
+          },
+          "allowance_reset": {
+            "type": "string"
+          },
+          "paid_plan_verification_required": {
+            "const": true
           }
         },
         "required": [
@@ -1475,8 +1567,63 @@
           },
           "guide": {
             "type": "string"
+          },
+          "download_allowances": {
+            "type": "object"
+          },
+          "allowance_reset": {
+            "type": "string"
+          },
+          "website_registration_required": {
+            "const": true
+          },
+          "paid_plan_verification_required": {
+            "const": true
           }
         }
+      },
+      "Allowance": {
+        "type": "object",
+        "properties": {
+          "allowed": {
+            "type": "boolean"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "files_remaining": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "bytes_remaining": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "reset": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 2678400
+          },
+          "bytes_reset": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 86400
+          }
+        },
+        "required": [
+          "allowed",
+          "reason",
+          "files_remaining",
+          "bytes_remaining",
+          "reset"
+        ]
+      }
+    },
+    "securitySchemes": {
+      "RegistrationBearer": {
+        "type": "http",
+        "scheme": "bearer",
+        "description": "Optional 30-day public-download registration credential. Obtain after same-origin website registration via explicit POST /api/cad-library/credential. Never send email or credential in a URL. This does not grant exclusive conversion access."
       }
     }
   },

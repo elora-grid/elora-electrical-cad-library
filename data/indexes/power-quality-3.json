@@ -1,0 +1,3005 @@
+{
+  "schemaVersion": 1,
+  "category": "power-quality",
+  "page": 3,
+  "entries": [
+    {
+      "id": "se-article-atv212wd11n4c",
+      "name": "ATV212WD11N4C — variable speed drive, Altivar 212, 11kW, 15hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd11n4c",
+      "recordPath": "equipment/se-article-atv212wd11n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd11n4c.json"
+    },
+    {
+      "id": "se-article-blrch300a360b40",
+      "name": "BLRCH300A360B40 — heavy duty PowerLogic PFC Capacitor, 30/36 kvar - 400 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch300a360b40",
+      "recordPath": "equipment/se-article-blrch300a360b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch300a360b40.json"
+    },
+    {
+      "id": "se-article-blrch208a250b40",
+      "name": "BLRCH208A250B40 — heavy duty PowerLogic PFC Capacitor, 20.8/25 kvar - 400 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch208a250b40",
+      "recordPath": "equipment/se-article-blrch208a250b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch208a250b40.json"
+    },
+    {
+      "id": "se-article-atv630c22n4",
+      "name": "ATV630C22N4 — variable speed drive, Altivar Process ATV600, ATV630, 220kW, 350hp, 380 to 480V, IP00",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630c22n4",
+      "recordPath": "equipment/se-article-atv630c22n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630c22n4.json"
+    },
+    {
+      "id": "se-article-atv630d18n4zu",
+      "name": "ATV630D18N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 18kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d18n4zu",
+      "recordPath": "equipment/se-article-atv630d18n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d18n4zu.json"
+    },
+    {
+      "id": "se-article-atv212wu55n4",
+      "name": "ATV212WU55N4 — variable speed drive, Altivar 212, 5.5kW, 7.5hp, 480V, 3 phases, with EMC class C2, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wu55n4",
+      "recordPath": "equipment/se-article-atv212wu55n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wu55n4.json"
+    },
+    {
+      "id": "se-article-atv630d90n4zu",
+      "name": "ATV630D90N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 90kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d90n4zu",
+      "recordPath": "equipment/se-article-atv630d90n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d90n4zu.json"
+    },
+    {
+      "id": "se-article-atv630d90n4",
+      "name": "ATV630D90N4 — variable speed drive, Altivar Process ATV600, ATV630, 90kW, 125hp, 380 to 480V, IP21, UL type 1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d90n4",
+      "recordPath": "equipment/se-article-atv630d90n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d90n4.json"
+    },
+    {
+      "id": "se-article-atv930d55n4z",
+      "name": "ATV930D55N4Z — variable speed drive, Altivar Process ATV900, ATV930, 55kW, 380 to 480V, cabinet Integration, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d55n4z",
+      "recordPath": "equipment/se-article-atv930d55n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d55n4z.json"
+    },
+    {
+      "id": "se-article-blrcs125a150b40",
+      "name": "BLRCS125A150B40 — PowerLogic PFC Capacitor;PowerLogic;capacitor;power factor correction;power factor correction component;capacitor can;compensation",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs125a150b40",
+      "recordPath": "equipment/se-article-blrcs125a150b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs125a150b40.json"
+    },
+    {
+      "id": "se-article-atv630d22m3",
+      "name": "ATV630D22M3 — variable speed drive, Altivar Process ATV600, ATV630, 22kW, 30hp, 200 to 240V, IP21, UL type 1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d22m3",
+      "recordPath": "equipment/se-article-atv630d22m3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d22m3.json"
+    },
+    {
+      "id": "se-article-atv212hd55n4",
+      "name": "ATV212HD55N4 — variable speed drive, Altivar 212, 55kW, 75hp, 480V, 3 phases, with EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hd55n4",
+      "recordPath": "equipment/se-article-atv212hd55n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hd55n4.json"
+    },
+    {
+      "id": "se-article-atv630d30n4z",
+      "name": "ATV630D30N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 30kW, 380 to 480V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d30n4z",
+      "recordPath": "equipment/se-article-atv630d30n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d30n4z.json"
+    },
+    {
+      "id": "se-article-atv630d37n4z",
+      "name": "ATV630D37N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 37kW, 380 to 480V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d37n4z",
+      "recordPath": "equipment/se-article-atv630d37n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d37n4z.json"
+    },
+    {
+      "id": "se-article-atv212wu22n4",
+      "name": "ATV212WU22N4 — variable speed drive, Altivar 212, 2.2kW, 3hp, 480V, 3 phases, with EMC class C2, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wu22n4",
+      "recordPath": "equipment/se-article-atv212wu22n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wu22n4.json"
+    },
+    {
+      "id": "se-article-atv930d15n4zu",
+      "name": "ATV930D15N4ZU — variable speed drive, Altivar Process ATV900, ATV930, 20hp, 380 to 480V, cabinet Integration, IP20, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d15n4zu",
+      "recordPath": "equipment/se-article-atv930d15n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d15n4zu.json"
+    },
+    {
+      "id": "se-article-atv630d15n4",
+      "name": "ATV630D15N4 — variable speed drive, Altivar Process ATV600, ATV630, 15kW, 20hp, 380 to 480V, IP21, UL type 1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d15n4",
+      "recordPath": "equipment/se-article-atv630d15n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d15n4.json"
+    },
+    {
+      "id": "se-article-atv630u30n4z",
+      "name": "ATV630U30N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 3kW, 380 to 480 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630u30n4z",
+      "recordPath": "equipment/se-article-atv630u30n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630u30n4z.json"
+    },
+    {
+      "id": "se-article-atv650d15n4e",
+      "name": "ATV650D15N4E — variable speed drive, Altivar Process ATV600, ATV650, 15kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d15n4e",
+      "recordPath": "equipment/se-article-atv650d15n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d15n4e.json"
+    },
+    {
+      "id": "se-article-atv650u40n4",
+      "name": "ATV650U40N4 — variable speed drive, Altivar Process ATV600, ATV650, 4kW, 400 to 480V, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650u40n4",
+      "recordPath": "equipment/se-article-atv650u40n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650u40n4.json"
+    },
+    {
+      "id": "se-article-blrch377a452b52",
+      "name": "BLRCH377A452B52 — heavy duty PowerLogic PFC Capacitor, 37.7/45.2 kvar - 525 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch377a452b52",
+      "recordPath": "equipment/se-article-blrch377a452b52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch377a452b52.json"
+    },
+    {
+      "id": "se-article-atv630u40n4zu",
+      "name": "ATV630U40N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 4kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630u40n4zu",
+      "recordPath": "equipment/se-article-atv630u40n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630u40n4zu.json"
+    },
+    {
+      "id": "se-article-atv930u40n4zu",
+      "name": "ATV930U40N4ZU — variable speed drive, Altivar Process ATV900, ATV930, 5hp, 380 to 480V, cabinet Integration, IP20, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930u40n4zu",
+      "recordPath": "equipment/se-article-atv930u40n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930u40n4zu.json"
+    },
+    {
+      "id": "se-article-atv212hu75m3x",
+      "name": "ATV212HU75M3X — variable speed drive, Altivar 212, 7.5kW, 10hp, 240V, 3 phases, without EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hu75m3x",
+      "recordPath": "equipment/se-article-atv212hu75m3x.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hu75m3x.json"
+    },
+    {
+      "id": "se-article-blrcs208a250b48",
+      "name": "BLRCS208A250B48 — PowerLogic PFC Capacitor;PowerLogic;capacitor;power factor correction;power factor correction component;capacitor can;compensation",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs208a250b48",
+      "recordPath": "equipment/se-article-blrcs208a250b48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs208a250b48.json"
+    },
+    {
+      "id": "se-article-atv630d55n4z",
+      "name": "ATV630D55N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 55kW, 380 to 480V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d55n4z",
+      "recordPath": "equipment/se-article-atv630d55n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d55n4z.json"
+    },
+    {
+      "id": "se-article-atv930d30n4z",
+      "name": "ATV930D30N4Z — variable speed drive, Altivar Process ATV900, ATV930, 30kW, 380 to 480V, cabinet Integration, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d30n4z",
+      "recordPath": "equipment/se-article-atv930d30n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d30n4z.json"
+    },
+    {
+      "id": "se-article-atv212wd18n4c",
+      "name": "ATV212WD18N4C — variable speed drive, Altivar 212, 18.5kW, 25hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd18n4c",
+      "recordPath": "equipment/se-article-atv212wd18n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd18n4c.json"
+    },
+    {
+      "id": "se-article-atv630u15n4zu",
+      "name": "ATV630U15N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 1.5kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630u15n4zu",
+      "recordPath": "equipment/se-article-atv630u15n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630u15n4zu.json"
+    },
+    {
+      "id": "se-article-atv212wd37n4c",
+      "name": "ATV212WD37N4C — variable speed drive, Altivar 212, 37kW, 50hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd37n4c",
+      "recordPath": "equipment/se-article-atv212wd37n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd37n4c.json"
+    },
+    {
+      "id": "se-article-atv630d75n4z",
+      "name": "ATV630D75N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 75kW, 380 to 480V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d75n4z",
+      "recordPath": "equipment/se-article-atv630d75n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d75n4z.json"
+    },
+    {
+      "id": "se-article-atv630u22n4z",
+      "name": "ATV630U22N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 2,2kW, 380 to 480 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630u22n4z",
+      "recordPath": "equipment/se-article-atv630u22n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630u22n4z.json"
+    },
+    {
+      "id": "se-article-blrch400a480b40",
+      "name": "BLRCH400A480B40 — heavy duty PowerLogic PFC Capacitor, 40/48 kvar - 400 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch400a480b40",
+      "recordPath": "equipment/se-article-blrch400a480b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch400a480b40.json"
+    },
+    {
+      "id": "se-article-blrch250a300b52",
+      "name": "BLRCH250A300B52 — heavy duty PowerLogic PFC Capacitor, 25/30 kvar - 525 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch250a300b52",
+      "recordPath": "equipment/se-article-blrch250a300b52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch250a300b52.json"
+    },
+    {
+      "id": "se-article-blrcs100a120b44",
+      "name": "BLRCS100A120B44 — EasyLogic PFC Capacitor;capacitor;power factor correction;power factor correction component;capacitor can;compensation",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs100a120b44",
+      "recordPath": "equipment/se-article-blrcs100a120b44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs100a120b44.json"
+    },
+    {
+      "id": "se-article-blrcs315a378b48",
+      "name": "BLRCS315A378B48 — EasyLogic PFC Capacitor, 31.5/37.8 kvar - 480 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs315a378b48",
+      "recordPath": "equipment/se-article-blrcs315a378b48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs315a378b48.json"
+    },
+    {
+      "id": "se-article-atv930d18n4zu",
+      "name": "ATV930D18N4ZU — variable speed drive, Altivar Process ATV900, ATV930, 25hp, 380 to 480V, cabinet Integration, IP20, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d18n4zu",
+      "recordPath": "equipment/se-article-atv930d18n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d18n4zu.json"
+    },
+    {
+      "id": "se-article-atv650d55n4e",
+      "name": "ATV650D55N4E — variable speed drive, Altivar Process ATV600, ATV650, 55kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d55n4e",
+      "recordPath": "equipment/se-article-atv650d55n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d55n4e.json"
+    },
+    {
+      "id": "se-article-blrcs104a125b40",
+      "name": "BLRCS104A125B40 — EasyLogic PFC Capacitor;capacitor;power factor correction;power factor correction component;capacitor can;compensation",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs104a125b40",
+      "recordPath": "equipment/se-article-blrcs104a125b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs104a125b40.json"
+    },
+    {
+      "id": "se-article-atv630d45n4",
+      "name": "ATV630D45N4 — variable speed drive, Altivar Process ATV600, ATV630, 45kW, 60hp, 380 to 480V, IP21, UL type 1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d45n4",
+      "recordPath": "equipment/se-article-atv630d45n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d45n4.json"
+    },
+    {
+      "id": "se-article-atv650d75n4",
+      "name": "ATV650D75N4 — variable speed drive, Altivar Process ATV600, ATV650, 75kW, 100hp, 380 to 480V, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d75n4",
+      "recordPath": "equipment/se-article-atv650d75n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d75n4.json"
+    },
+    {
+      "id": "se-article-atv930d37n4z",
+      "name": "ATV930D37N4Z — variable speed drive, Altivar Process ATV900, ATV930, 37kW, 380 to 480V, cabinet Integration, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d37n4z",
+      "recordPath": "equipment/se-article-atv930d37n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d37n4z.json"
+    },
+    {
+      "id": "se-article-atv650d18n4",
+      "name": "ATV650D18N4 — variable speed drive, Altivar Process ATV600, ATV650, 18.5kW, 400 to 480V, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d18n4",
+      "recordPath": "equipment/se-article-atv650d18n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d18n4.json"
+    },
+    {
+      "id": "se-article-blrch571a000b44",
+      "name": "BLRCH571A000B44 — heavy duty PowerLogic PFC Capacitor, 57.1/0 kvar - 440 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch571a000b44",
+      "recordPath": "equipment/se-article-blrch571a000b44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch571a000b44.json"
+    },
+    {
+      "id": "se-article-atv310hd22n4ef",
+      "name": "ATV310HD22N4EF — Variable speed drive, Altivar 310, heavy duty, 22kW, 30hp, normal duty, 30kW, 40hp, 380 to 460V, C3 EMC embedded",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv310hd22n4ef",
+      "recordPath": "equipment/se-article-atv310hd22n4ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv310hd22n4ef.json"
+    },
+    {
+      "id": "se-article-atv212wd55n4c",
+      "name": "ATV212WD55N4C — variable speed drive, Altivar 212, 55kW, 40hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd55n4c",
+      "recordPath": "equipment/se-article-atv212wd55n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd55n4c.json"
+    },
+    {
+      "id": "se-article-atv630d55n4zu",
+      "name": "ATV630D55N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 55kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d55n4zu",
+      "recordPath": "equipment/se-article-atv630d55n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d55n4zu.json"
+    },
+    {
+      "id": "se-article-atv930u15n4zu",
+      "name": "ATV930U15N4ZU — variable speed drive, Altivar Process ATV900, ATV930, 2hp, 380 to 480V, cabinet Integration, IP20, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930u15n4zu",
+      "recordPath": "equipment/se-article-atv930u15n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930u15n4zu.json"
+    },
+    {
+      "id": "se-article-atv650u40n4e",
+      "name": "ATV650U40N4E — variable speed drive, Altivar Process ATV600, ATV650, 4kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650u40n4e",
+      "recordPath": "equipment/se-article-atv650u40n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650u40n4e.json"
+    },
+    {
+      "id": "se-article-atv212wd15n4c",
+      "name": "ATV212WD15N4C — variable speed drive, Altivar 212, 15kW, 20hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd15n4c",
+      "recordPath": "equipment/se-article-atv212wd15n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd15n4c.json"
+    },
+    {
+      "id": "se-article-atv212wd18n4",
+      "name": "ATV212WD18N4 — variable speed drive, Altivar 212, 18.5kW, 25hp, 480V, 3 phases, with EMC class C2, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd18n4",
+      "recordPath": "equipment/se-article-atv212wd18n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd18n4.json"
+    },
+    {
+      "id": "se-article-atv212hu40n4",
+      "name": "ATV212HU40N4 — variable speed drive, Altivar 212, 4kW, 5hp, 480V, 3 phases, with EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hu40n4",
+      "recordPath": "equipment/se-article-atv212hu40n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hu40n4.json"
+    },
+    {
+      "id": "se-article-atv650u30n4",
+      "name": "ATV650U30N4 — variable speed drive, Altivar Process ATV600, ATV650, 3kW, 380 to 480V, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650u30n4",
+      "recordPath": "equipment/se-article-atv650u30n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650u30n4.json"
+    },
+    {
+      "id": "se-article-atv212hu55m3x",
+      "name": "ATV212HU55M3X — variable speed drive, Altivar 212, 5.5kW, 7.5hp, 240V, 3 phases, without EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hu55m3x",
+      "recordPath": "equipment/se-article-atv212hu55m3x.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hu55m3x.json"
+    },
+    {
+      "id": "se-article-atv930u22n4z",
+      "name": "ATV930U22N4Z — variable speed drive, Altivar Process ATV900, ATV930, 2.2kW, 380 to 480V, cabinet Integration, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930u22n4z",
+      "recordPath": "equipment/se-article-atv930u22n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930u22n4z.json"
+    },
+    {
+      "id": "se-article-blrcs200a240b40",
+      "name": "BLRCS200A240B40 — PowerLogic PFC Capacitor;PowerLogic;capacitor;power factor correction;power factor correction component;capacitor can;compensation",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs200a240b40",
+      "recordPath": "equipment/se-article-blrcs200a240b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs200a240b40.json"
+    },
+    {
+      "id": "se-article-atv630d30n4zu",
+      "name": "ATV630D30N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 30kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d30n4zu",
+      "recordPath": "equipment/se-article-atv630d30n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d30n4zu.json"
+    },
+    {
+      "id": "se-article-atv212w075n4c",
+      "name": "ATV212W075N4C — variable speed drive, Altivar 212, 0.75kW, 1hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212w075n4c",
+      "recordPath": "equipment/se-article-atv212w075n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212w075n4c.json"
+    },
+    {
+      "id": "se-article-atv630d30n4",
+      "name": "ATV630D30N4 — variable speed drive, Altivar Process ATV600, ATV630, 30kW, 40hp, 380 to 480V, IP21, UL type 1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d30n4",
+      "recordPath": "equipment/se-article-atv630d30n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d30n4.json"
+    },
+    {
+      "id": "se-article-atv630d18n4z",
+      "name": "ATV630D18N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 18kW, 380 to 480V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d18n4z",
+      "recordPath": "equipment/se-article-atv630d18n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d18n4z.json"
+    },
+    {
+      "id": "se-article-blrch288a346b48",
+      "name": "BLRCH288A346B48 — heavy duty PowerLogic PFC Capacitor, 28.8/34.6 kvar - 480 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch288a346b48",
+      "recordPath": "equipment/se-article-blrch288a346b48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch288a346b48.json"
+    },
+    {
+      "id": "se-article-atv650u55n4e",
+      "name": "ATV650U55N4E — variable speed drive, Altivar Process ATV600, ATV650, 5.5kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650u55n4e",
+      "recordPath": "equipment/se-article-atv650u55n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650u55n4e.json"
+    },
+    {
+      "id": "se-article-blrch150a180b40",
+      "name": "BLRCH150A180B40 — heavy duty PowerLogic PFC Capacitor, 15/18 kvar - 400 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch150a180b40",
+      "recordPath": "equipment/se-article-blrch150a180b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch150a180b40.json"
+    },
+    {
+      "id": "se-article-atv930d22n4z",
+      "name": "ATV930D22N4Z — variable speed drive, Altivar Process ATV900, ATV930, 22kW, 380 to 480V, cabinet Integration, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d22n4z",
+      "recordPath": "equipment/se-article-atv930d22n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d22n4z.json"
+    },
+    {
+      "id": "se-article-atv212wu15n4c",
+      "name": "ATV212WU15N4C — variable speed drive, Altivar 212, 1.5kW, 2hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wu15n4c",
+      "recordPath": "equipment/se-article-atv212wu15n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wu15n4c.json"
+    },
+    {
+      "id": "se-article-atv930d11n4zu",
+      "name": "ATV930D11N4ZU — variable speed drive, Altivar Process ATV900, ATV930, 15hp, 380 to 480V, cabinet Integration, IP20, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d11n4zu",
+      "recordPath": "equipment/se-article-atv930d11n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d11n4zu.json"
+    },
+    {
+      "id": "se-article-atv212hd22n4",
+      "name": "ATV212HD22N4 — variable speed drive, Altivar 212, 22kW, 30hp, 480V, 3 phases, with EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hd22n4",
+      "recordPath": "equipment/se-article-atv212hd22n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hd22n4.json"
+    },
+    {
+      "id": "se-article-atv212wd22n4c",
+      "name": "ATV212WD22N4C — variable speed drive, Altivar 212, 22kW, 30hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd22n4c",
+      "recordPath": "equipment/se-article-atv212wd22n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd22n4c.json"
+    },
+    {
+      "id": "se-article-atv650d11n4",
+      "name": "ATV650D11N4 — variable speed drive, Altivar Process ATV600, ATV650, 11kW, 400 to 480V, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d11n4",
+      "recordPath": "equipment/se-article-atv650d11n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d11n4.json"
+    },
+    {
+      "id": "se-article-atv212wd22n4",
+      "name": "ATV212WD22N4 — variable speed drive, Altivar 212, 22kW, 30hp, 480V, 3 phases, with EMC class C2, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd22n4",
+      "recordPath": "equipment/se-article-atv212wd22n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd22n4.json"
+    },
+    {
+      "id": "se-article-atv630u07n4zu",
+      "name": "ATV630U07N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 0.75kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630u07n4zu",
+      "recordPath": "equipment/se-article-atv630u07n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630u07n4zu.json"
+    },
+    {
+      "id": "se-article-atv930d45n4z",
+      "name": "ATV930D45N4Z — variable speed drive, Altivar Process ATV900, ATV930, 45kW, 380 to 480V, cabinet Integration, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d45n4z",
+      "recordPath": "equipment/se-article-atv930d45n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d45n4z.json"
+    },
+    {
+      "id": "se-article-atv650u22n4e",
+      "name": "ATV650U22N4E — variable speed drive, Altivar Process ATV600, ATV650, 2.2kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650u22n4e",
+      "recordPath": "equipment/se-article-atv650u22n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650u22n4e.json"
+    },
+    {
+      "id": "se-article-atv630d15n4z",
+      "name": "ATV630D15N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 15kW, 380 to 480V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d15n4z",
+      "recordPath": "equipment/se-article-atv630d15n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d15n4z.json"
+    },
+    {
+      "id": "se-article-atv630d45n4zu",
+      "name": "ATV630D45N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 45kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d45n4zu",
+      "recordPath": "equipment/se-article-atv630d45n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d45n4zu.json"
+    },
+    {
+      "id": "se-article-atv650u15n4e",
+      "name": "ATV650U15N4E — variable speed drive, Altivar Process ATV600, ATV650, 1.5kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650u15n4e",
+      "recordPath": "equipment/se-article-atv650u15n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650u15n4e.json"
+    },
+    {
+      "id": "se-article-blrcs200a240b44",
+      "name": "BLRCS200A240B44 — EasyLogic PFC Capacitor;capacitor;power factor correction;power factor correction component;capacitor can;compensation",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs200a240b44",
+      "recordPath": "equipment/se-article-blrcs200a240b44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs200a240b44.json"
+    },
+    {
+      "id": "se-article-blrcs285a342b44",
+      "name": "BLRCS285A342B44 — EasyLogic PFC Capacitor;capacitor;power factor correction;power factor correction component;capacitor can;compensation",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs285a342b44",
+      "recordPath": "equipment/se-article-blrcs285a342b44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs285a342b44.json"
+    },
+    {
+      "id": "se-article-atv650d45n4e",
+      "name": "ATV650D45N4E — variable speed drive, Altivar Process ATV600, ATV650, 45kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d45n4e",
+      "recordPath": "equipment/se-article-atv650d45n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d45n4e.json"
+    },
+    {
+      "id": "se-article-atv310hd18n4e",
+      "name": "ATV310HD18N4E — Variable speed drive, Altivar 310, heavy duty, 18.5kW, 25hp, normal duty, 22kW, 30hp, 380 to 460V, without EMC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv310hd18n4e",
+      "recordPath": "equipment/se-article-atv310hd18n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv310hd18n4e.json"
+    },
+    {
+      "id": "se-article-atv212hu40m3x",
+      "name": "ATV212HU40M3X — variable speed drive, Altivar 212, 4kW, 5hp, 240V, 3 phases, without EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hu40m3x",
+      "recordPath": "equipment/se-article-atv212hu40m3x.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hu40m3x.json"
+    },
+    {
+      "id": "se-article-atv650d18n4e",
+      "name": "ATV650D18N4E — variable speed drive, Altivar Process ATV600, ATV650, 18.5kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d18n4e",
+      "recordPath": "equipment/se-article-atv650d18n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d18n4e.json"
+    },
+    {
+      "id": "se-article-atv212hu15n4",
+      "name": "ATV212HU15N4 — variable speed drive, Altivar 212, 1.5kW, 2hp, 480V, 3 phases, with EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hu15n4",
+      "recordPath": "equipment/se-article-atv212hu15n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hu15n4.json"
+    },
+    {
+      "id": "se-article-atv212hd11n4",
+      "name": "ATV212HD11N4 — variable speed drive, Altivar 212, 11kW, 15hp, 480V, 3 phases, with EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hd11n4",
+      "recordPath": "equipment/se-article-atv212hd11n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hd11n4.json"
+    },
+    {
+      "id": "se-article-atv630c31n4",
+      "name": "ATV630C31N4 — variable speed drive, Altivar Process ATV600, ATV630, 315kW, 500hp, 380 to 480V, IP00",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630c31n4",
+      "recordPath": "equipment/se-article-atv630c31n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630c31n4.json"
+    },
+    {
+      "id": "se-article-atv930u55n4zu",
+      "name": "ATV930U55N4ZU — variable speed drive, Altivar Process ATV900, ATV930, 7.5hp, 380 to 480V, cabinet Integration, IP20, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930u55n4zu",
+      "recordPath": "equipment/se-article-atv930u55n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930u55n4zu.json"
+    },
+    {
+      "id": "se-article-atv930u55n4z",
+      "name": "ATV930U55N4Z — variable speed drive, Altivar Process ATV900, ATV930, 5.5kW, 380 to 480V, cabinet Integration, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930u55n4z",
+      "recordPath": "equipment/se-article-atv930u55n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930u55n4z.json"
+    },
+    {
+      "id": "se-article-atv650d22n4",
+      "name": "ATV650D22N4 — variable speed drive, Altivar Process ATV600, ATV650, 22kW, 30hp, 380 to 480V, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d22n4",
+      "recordPath": "equipment/se-article-atv650d22n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d22n4.json"
+    },
+    {
+      "id": "se-article-atv212wd55n4",
+      "name": "ATV212WD55N4 — variable speed drive, Altivar 212, 55kW, 75hp, 480V, 3 phases, with EMC class C2, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd55n4",
+      "recordPath": "equipment/se-article-atv212wd55n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd55n4.json"
+    },
+    {
+      "id": "se-article-atv930d18n4z",
+      "name": "ATV930D18N4Z — variable speed drive, Altivar Process ATV900, ATV930, 18kW, 380 to 480V, cabinet Integration, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d18n4z",
+      "recordPath": "equipment/se-article-atv930d18n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d18n4z.json"
+    },
+    {
+      "id": "se-article-atv650d30n4e",
+      "name": "ATV650D30N4E — variable speed drive, Altivar Process ATV600, ATV650, 30kW, 40hp, 380 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d30n4e",
+      "recordPath": "equipment/se-article-atv650d30n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d30n4e.json"
+    },
+    {
+      "id": "se-article-atv212hd18m3x",
+      "name": "ATV212HD18M3X — variable speed drive, Altivar 212, 18.5kW, 25hp, 240V, 3 phases, without EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hd18m3x",
+      "recordPath": "equipment/se-article-atv212hd18m3x.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hd18m3x.json"
+    },
+    {
+      "id": "se-article-blrch050a060b40",
+      "name": "BLRCH050A060B40 — heavy duty PowerLogic PFC Capacitor, 5/6 kvar - 400 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch050a060b40",
+      "recordPath": "equipment/se-article-blrch050a060b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch050a060b40.json"
+    },
+    {
+      "id": "se-article-atv630u75n4zu",
+      "name": "ATV630U75N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 7.5kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630u75n4zu",
+      "recordPath": "equipment/se-article-atv630u75n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630u75n4zu.json"
+    },
+    {
+      "id": "se-article-atv630d75n4",
+      "name": "ATV630D75N4 — variable speed drive, Altivar Process ATV600, ATV630, 75kW, 100hp, 380 to 480V, IP21, UL type 1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d75n4",
+      "recordPath": "equipment/se-article-atv630d75n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d75n4.json"
+    },
+    {
+      "id": "se-article-atv212wu40n4c",
+      "name": "ATV212WU40N4C — variable speed drive, Altivar 212, 4kW, 5hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wu40n4c",
+      "recordPath": "equipment/se-article-atv212wu40n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wu40n4c.json"
+    },
+    {
+      "id": "se-article-atv650u22n4",
+      "name": "ATV650U22N4 — variable speed drive, Altivar Process ATV600, ATV650, 2.2kW, 400 to 480V, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650u22n4",
+      "recordPath": "equipment/se-article-atv650u22n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650u22n4.json"
+    },
+    {
+      "id": "se-article-atv930c11n4",
+      "name": "ATV930C11N4 — variable speed drive, Altivar Process ATV900, ATV930, 110kW, 380 to 480V, with braking unit, IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930c11n4",
+      "recordPath": "equipment/se-article-atv930c11n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930c11n4.json"
+    },
+    {
+      "id": "se-article-blrch125a150b40",
+      "name": "BLRCH125A150B40 — heavy duty PowerLogic PFC Capacitor, 12.5/15 kvar - 400 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch125a150b40",
+      "recordPath": "equipment/se-article-blrch125a150b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch125a150b40.json"
+    },
+    {
+      "id": "se-article-atv650d90n4e",
+      "name": "ATV650D90N4E — variable speed drive, Altivar Process ATV600, ATV650, 90kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d90n4e",
+      "recordPath": "equipment/se-article-atv650d90n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d90n4e.json"
+    },
+    {
+      "id": "se-article-atv212wu40n4",
+      "name": "ATV212WU40N4 — variable speed drive, Altivar 212, 4kW, 5hp, 480V, 3 phases, with EMC class C2, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wu40n4",
+      "recordPath": "equipment/se-article-atv212wu40n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wu40n4.json"
+    },
+    {
+      "id": "se-article-blrch170a204b48",
+      "name": "BLRCH170A204B48 — heavy duty PowerLogic PFC Capacitor, 17/20.4 kvar - 480 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch170a204b48",
+      "recordPath": "equipment/se-article-blrch170a204b48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch170a204b48.json"
+    },
+    {
+      "id": "se-article-atv630d45n4z",
+      "name": "ATV630D45N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP00, 45kW, 380 to 480V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d45n4z",
+      "recordPath": "equipment/se-article-atv630d45n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d45n4z.json"
+    },
+    {
+      "id": "se-article-atv212wd45n4",
+      "name": "ATV212WD45N4 — variable speed drive, Altivar 212, 45kW, 60hp, 480V, 3 phases, with EMC class C2, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wd45n4",
+      "recordPath": "equipment/se-article-atv212wd45n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wd45n4.json"
+    },
+    {
+      "id": "se-article-blrcs150a180b40",
+      "name": "BLRCS150A180B40 — PowerLogic PFC Capacitor;PowerLogic;capacitor;power factor correction;power factor correction component;capacitor can;compensation",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrcs150a180b40",
+      "recordPath": "equipment/se-article-blrcs150a180b40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrcs150a180b40.json"
+    },
+    {
+      "id": "se-article-blrch339a407b48",
+      "name": "BLRCH339A407B48 — heavy duty PowerLogic PFC Capacitor, 33.9/40.7 kvar - 480 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch339a407b48",
+      "recordPath": "equipment/se-article-blrch339a407b48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch339a407b48.json"
+    },
+    {
+      "id": "se-article-atv650u07n4",
+      "name": "ATV650U07N4 — variable speed drive, Altivar Process ATV600, ATV650, 0.75kW, 1hp, 380 to 480V, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650u07n4",
+      "recordPath": "equipment/se-article-atv650u07n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650u07n4.json"
+    },
+    {
+      "id": "se-article-atv212wu75n4",
+      "name": "ATV212WU75N4 — variable speed drive, Altivar 212, 7.5kW, 10hp, 480V, 3 phases, with EMC class C2, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wu75n4",
+      "recordPath": "equipment/se-article-atv212wu75n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wu75n4.json"
+    },
+    {
+      "id": "se-article-atv212hd37n4",
+      "name": "ATV212HD37N4 — variable speed drive, Altivar 212, 37kW, 50hp, 480V, 3 phases, with EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hd37n4",
+      "recordPath": "equipment/se-article-atv212hd37n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hd37n4.json"
+    },
+    {
+      "id": "se-article-atv212wu55n4c",
+      "name": "ATV212WU55N4C — variable speed drive, Altivar 212, 5.5kW, 7.5hp, 480V, 3 phases, with EMC class C1, IP55",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212wu55n4c",
+      "recordPath": "equipment/se-article-atv212wu55n4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212wu55n4c.json"
+    },
+    {
+      "id": "se-article-atv930u22n4zu",
+      "name": "ATV930U22N4ZU — variable speed drive, Altivar Process ATV900, ATV930, 3hp, 380 to 480V, cabinet Integration, IP20, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930u22n4zu",
+      "recordPath": "equipment/se-article-atv930u22n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930u22n4zu.json"
+    },
+    {
+      "id": "se-article-atv212hd15n4",
+      "name": "ATV212HD15N4 — variable speed drive, Altivar 212, 15kW, 20hp, 480V, 3 phases, with EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hd15n4",
+      "recordPath": "equipment/se-article-atv212hd15n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hd15n4.json"
+    },
+    {
+      "id": "se-article-atv212hd18n4",
+      "name": "ATV212HD18N4 — variable speed drive, Altivar 212, 18.5kW, 25hp, 480V, 3 phases, with EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212hd18n4",
+      "recordPath": "equipment/se-article-atv212hd18n4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212hd18n4.json"
+    },
+    {
+      "id": "se-article-atv212h075m3x",
+      "name": "ATV212H075M3X — variable speed drive, Altivar 212, 0.75kW, 1hp, 240V, 3 phases, without EMC, IP21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv212h075m3x",
+      "recordPath": "equipment/se-article-atv212h075m3x.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv212h075m3x.json"
+    },
+    {
+      "id": "se-article-atv630d22n4z",
+      "name": "ATV630D22N4Z — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 22kW, 380 to 480V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d22n4z",
+      "recordPath": "equipment/se-article-atv630d22n4z.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d22n4z.json"
+    },
+    {
+      "id": "se-article-atv310hd15n4ef",
+      "name": "ATV310HD15N4EF — Variable speed drive, Altivar 310, heavy duty, 15kW, 20hp, normal duty, 18.5kW, 25hp, 380 to 460V, C3 EMC embedded",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv310hd15n4ef",
+      "recordPath": "equipment/se-article-atv310hd15n4ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv310hd15n4ef.json"
+    },
+    {
+      "id": "se-article-atv630d15n4zu",
+      "name": "ATV630D15N4ZU — variable speed drive, Altivar Process ATV600, ATV630, cabinet Integration, IP20, 15kW, 380...480V, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d15n4zu",
+      "recordPath": "equipment/se-article-atv630d15n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d15n4zu.json"
+    },
+    {
+      "id": "se-article-atv930d55n4zu",
+      "name": "ATV930D55N4ZU — variable speed drive, Altivar Process ATV900, ATV930, 75hp, 380 to 480V, cabinet Integration, IP20, for US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv930d55n4zu",
+      "recordPath": "equipment/se-article-atv930d55n4zu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv930d55n4zu.json"
+    },
+    {
+      "id": "se-article-blrch500a000b44",
+      "name": "BLRCH500A000B44 — heavy duty PowerLogic PFC Capacitor, 50/0 kvar - 440 V - 50/60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-blrch500a000b44",
+      "recordPath": "equipment/se-article-blrch500a000b44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-blrch500a000b44.json"
+    },
+    {
+      "id": "se-article-atv650d75n4e",
+      "name": "ATV650D75N4E — variable speed drive, Altivar Process ATV600, ATV650, 75kW, 400 to 480V, IP55, disconnect switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv650d75n4e",
+      "recordPath": "equipment/se-article-atv650d75n4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv650d75n4e.json"
+    },
+    {
+      "id": "se-article-atv630d37m3",
+      "name": "ATV630D37M3 — variable speed drive, Altivar Process ATV600, ATV630, 37kW, 50hp, 200 to 240V, IP21, UL type 1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-atv630d37m3",
+      "recordPath": "equipment/se-article-atv630d37m3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-atv630d37m3.json"
+    },
+    {
+      "id": "eaton-article-43102cefe2c319ad8f094f1f",
+      "name": "DG1-353D3FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 3.1 A, 1.5 kW, NEMA 1, IP21, FS1, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-43102cefe2c319ad8f094f1f",
+      "recordPath": "equipment/eaton-article-43102cefe2c319ad8f094f1f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-43102cefe2c319ad8f094f1f.json"
+    },
+    {
+      "id": "eaton-article-9f924c90f5d216ba6ba3a4af",
+      "name": "DG1-35080FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 74.4 A, 55 kW, NEMA 1, IP21, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9f924c90f5d216ba6ba3a4af",
+      "recordPath": "equipment/eaton-article-9f924c90f5d216ba6ba3a4af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9f924c90f5d216ba6ba3a4af.json"
+    },
+    {
+      "id": "eaton-article-02518be60517ff156401fab4",
+      "name": "DG1-35027FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 25.1 A, 18.5 kW, IP54, NEMA 12, FS3, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-02518be60517ff156401fab4",
+      "recordPath": "equipment/eaton-article-02518be60517ff156401fab4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-02518be60517ff156401fab4.json"
+    },
+    {
+      "id": "eaton-article-f2dcefe1f8d6b697f9578d2d",
+      "name": "DG1-35018FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 16.7 A, 11 kW, NEMA 1, IP21, FS2, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f2dcefe1f8d6b697f9578d2d",
+      "recordPath": "equipment/eaton-article-f2dcefe1f8d6b697f9578d2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f2dcefe1f8d6b697f9578d2d.json"
+    },
+    {
+      "id": "eaton-article-7520b829a3ae2a1bffa794ff",
+      "name": "DG1-35041FN-C21C — Variable frequency drive, 600 V AC, 3-phase, 38.1 A, 30 kW, NEMA 1, IP21, FS4, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7520b829a3ae2a1bffa794ff",
+      "recordPath": "equipment/eaton-article-7520b829a3ae2a1bffa794ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7520b829a3ae2a1bffa794ff.json"
+    },
+    {
+      "id": "eaton-article-af4356148f42027ecae2d6e4",
+      "name": "DG1-35010FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 9.3 A, 5.5 kW, NEMA 12, IP54, FS2, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-af4356148f42027ecae2d6e4",
+      "recordPath": "equipment/eaton-article-af4356148f42027ecae2d6e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-af4356148f42027ecae2d6e4.json"
+    },
+    {
+      "id": "eaton-article-041219283c1456549257a1d7",
+      "name": "DG1-35144FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 133.9 A, 110 kW, IP54, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-041219283c1456549257a1d7",
+      "recordPath": "equipment/eaton-article-041219283c1456549257a1d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-041219283c1456549257a1d7.json"
+    },
+    {
+      "id": "eaton-article-db53cf6c2a7e909fd5cac681",
+      "name": "DG1-35208FN-C54C — Variable frequency drive, 600 V AC, 3-phase, 193.3 A, 160 kW, NEMA 12, IP54, FS6, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-db53cf6c2a7e909fd5cac681",
+      "recordPath": "equipment/eaton-article-db53cf6c2a7e909fd5cac681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-db53cf6c2a7e909fd5cac681.json"
+    },
+    {
+      "id": "eaton-article-d5fb388373ff32fdc02a1a97",
+      "name": "DG1-35144FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 133.9 A, 110 kW, IP21, NEMA 1, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d5fb388373ff32fdc02a1a97",
+      "recordPath": "equipment/eaton-article-d5fb388373ff32fdc02a1a97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d5fb388373ff32fdc02a1a97.json"
+    },
+    {
+      "id": "eaton-article-c7d6cf2c81ba6ce7dd18d59f",
+      "name": "DG1-35208FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 193.3 A, 160 kW, IP54, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c7d6cf2c81ba6ce7dd18d59f",
+      "recordPath": "equipment/eaton-article-c7d6cf2c81ba6ce7dd18d59f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c7d6cf2c81ba6ce7dd18d59f.json"
+    },
+    {
+      "id": "eaton-article-d9805fd27d4da851f8dd6985",
+      "name": "DG1-35208FN-C21C — Variable frequency drive, 600 V AC, 3-phase, 193.3 A, 160 kW, IP21, NEMA 1, FS6, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d9805fd27d4da851f8dd6985",
+      "recordPath": "equipment/eaton-article-d9805fd27d4da851f8dd6985.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d9805fd27d4da851f8dd6985.json"
+    },
+    {
+      "id": "eaton-article-03dbcc53e2e07baceff0927c",
+      "name": "DG1-35018FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 16.7 A, 11 kW, IP54, NEMA 12, FS2, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-03dbcc53e2e07baceff0927c",
+      "recordPath": "equipment/eaton-article-03dbcc53e2e07baceff0927c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-03dbcc53e2e07baceff0927c.json"
+    },
+    {
+      "id": "eaton-article-aff3bdfd0df12348374c238d",
+      "name": "DG1-35062FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 57.6 A, 45 kW, NEMA 12, IP54, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-aff3bdfd0df12348374c238d",
+      "recordPath": "equipment/eaton-article-aff3bdfd0df12348374c238d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-aff3bdfd0df12348374c238d.json"
+    },
+    {
+      "id": "eaton-article-e811058854ee5e9fff41371d",
+      "name": "DG1-35144FN-C21C — Variable frequency drive, 600 V AC, 3-phase, 133.9 A, 110 kW, IP21, NEMA 1, FS6, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e811058854ee5e9fff41371d",
+      "recordPath": "equipment/eaton-article-e811058854ee5e9fff41371d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e811058854ee5e9fff41371d.json"
+    },
+    {
+      "id": "eaton-article-1c4876498213ab46c339a5dc",
+      "name": "DG1-35062FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 57.6 A, 45 kW, IP21, NEMA 1, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1c4876498213ab46c339a5dc",
+      "recordPath": "equipment/eaton-article-1c4876498213ab46c339a5dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1c4876498213ab46c339a5dc.json"
+    },
+    {
+      "id": "eaton-article-d9be92654defe65c4e6f2003",
+      "name": "DG1-357D5FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 7 A, 4 kW, IP21, NEMA 1, FS1, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d9be92654defe65c4e6f2003",
+      "recordPath": "equipment/eaton-article-d9be92654defe65c4e6f2003.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d9be92654defe65c4e6f2003.json"
+    },
+    {
+      "id": "eaton-article-8d7b3d32057c9bacf97585ca",
+      "name": "DG1-35062FN-C54C — Variable frequency drive, 600 V AC, 3-phase, 57.6 A, 45 kW, NEMA 12, IP54, FS4, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8d7b3d32057c9bacf97585ca",
+      "recordPath": "equipment/eaton-article-8d7b3d32057c9bacf97585ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8d7b3d32057c9bacf97585ca.json"
+    },
+    {
+      "id": "eaton-article-9271d2fe803f61e140cc555f",
+      "name": "DG1-35041FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 38.1 A, 30 kW, IP21, NEMA 1, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9271d2fe803f61e140cc555f",
+      "recordPath": "equipment/eaton-article-9271d2fe803f61e140cc555f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9271d2fe803f61e140cc555f.json"
+    },
+    {
+      "id": "eaton-article-8d58f1a2f6d6c28a0fddacdb",
+      "name": "DG1-35144FN-C54C — Variable frequency drive, 600 V AC, 3-phase, 133.9 A, 110 kW, NEMA 12, IP54, FS6, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8d58f1a2f6d6c28a0fddacdb",
+      "recordPath": "equipment/eaton-article-8d58f1a2f6d6c28a0fddacdb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8d58f1a2f6d6c28a0fddacdb.json"
+    },
+    {
+      "id": "eaton-article-bc3a27315e0c4fdb842eb9a6",
+      "name": "DG1-35125FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 116.2 A, 90 kW, IP54, NEMA 12, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bc3a27315e0c4fdb842eb9a6",
+      "recordPath": "equipment/eaton-article-bc3a27315e0c4fdb842eb9a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bc3a27315e0c4fdb842eb9a6.json"
+    },
+    {
+      "id": "eaton-article-9fc467feb71792c75d91a603",
+      "name": "DG1-35080FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 74.4 A, 55 kW, IP54, NEMA 12, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9fc467feb71792c75d91a603",
+      "recordPath": "equipment/eaton-article-9fc467feb71792c75d91a603.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9fc467feb71792c75d91a603.json"
+    },
+    {
+      "id": "eaton-article-53d6b9a247e287932be37920",
+      "name": "DG1-35010FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 9.3 A, 5.5 kW, IP21, NEMA 1, FS2, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-53d6b9a247e287932be37920",
+      "recordPath": "equipment/eaton-article-53d6b9a247e287932be37920.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-53d6b9a247e287932be37920.json"
+    },
+    {
+      "id": "eaton-article-269421b5019d335d5aa9cabd",
+      "name": "DG1-35100FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 93 A, 75 kW, NEMA 12, IP54, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-269421b5019d335d5aa9cabd",
+      "recordPath": "equipment/eaton-article-269421b5019d335d5aa9cabd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-269421b5019d335d5aa9cabd.json"
+    },
+    {
+      "id": "eaton-article-4d0c4ec9202e54459dbcfb39",
+      "name": "DG1-35041FN-C54C — Variable frequency drive, 600 V AC, 3-phase, 38.1 A, 30 kW, IP54, NEMA 12, FS4, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4d0c4ec9202e54459dbcfb39",
+      "recordPath": "equipment/eaton-article-4d0c4ec9202e54459dbcfb39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4d0c4ec9202e54459dbcfb39.json"
+    },
+    {
+      "id": "eaton-article-2d8db8c0ed6c2075e697f32b",
+      "name": "DG1-35062FN-C21C — Variable frequency drive, 600 V AC, 3-phase, 57.6 A, 45 kW, NEMA 1, IP21, FS4, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2d8db8c0ed6c2075e697f32b",
+      "recordPath": "equipment/eaton-article-2d8db8c0ed6c2075e697f32b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2d8db8c0ed6c2075e697f32b.json"
+    },
+    {
+      "id": "eaton-article-2b1b8bea41d128776394d19a",
+      "name": "DG1-35022FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 20.4 A, 15 kW, NEMA 12, IP54, FS3, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2b1b8bea41d128776394d19a",
+      "recordPath": "equipment/eaton-article-2b1b8bea41d128776394d19a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2b1b8bea41d128776394d19a.json"
+    },
+    {
+      "id": "eaton-article-112fa23eda8664e85f7a3934",
+      "name": "DG1-35041FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 38.1 A, 30 kW, IP54, NEMA 12, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-112fa23eda8664e85f7a3934",
+      "recordPath": "equipment/eaton-article-112fa23eda8664e85f7a3934.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-112fa23eda8664e85f7a3934.json"
+    },
+    {
+      "id": "eaton-article-1894556787828e6233ee567a",
+      "name": "DG1-35125FN-C54C — Variable frequency drive, 600 V AC, 3-phase, 116.2 A, 90 kW, IP54, NEMA 12, FS5, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1894556787828e6233ee567a",
+      "recordPath": "equipment/eaton-article-1894556787828e6233ee567a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1894556787828e6233ee567a.json"
+    },
+    {
+      "id": "eaton-article-3c21e35b1d431eaa38939b30",
+      "name": "DG1-35080FN-C21C — Variable frequency drive, 600 V AC, 3-phase, 74.4 A, 55 kW, IP21, NEMA 1, FS5, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3c21e35b1d431eaa38939b30",
+      "recordPath": "equipment/eaton-article-3c21e35b1d431eaa38939b30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3c21e35b1d431eaa38939b30.json"
+    },
+    {
+      "id": "eaton-article-4bccc6834a109b3f8c2b9127",
+      "name": "DG1-357D5FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 7 A, 4 kW, NEMA 12, IP54, FS1, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4bccc6834a109b3f8c2b9127",
+      "recordPath": "equipment/eaton-article-4bccc6834a109b3f8c2b9127.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4bccc6834a109b3f8c2b9127.json"
+    },
+    {
+      "id": "eaton-article-077672b7181e3fcf45e820e4",
+      "name": "DG1-35100FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 93 A, 75 kW, IP21, NEMA 1, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-077672b7181e3fcf45e820e4",
+      "recordPath": "equipment/eaton-article-077672b7181e3fcf45e820e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-077672b7181e3fcf45e820e4.json"
+    },
+    {
+      "id": "eaton-article-b499cd21c18610ea56de1580",
+      "name": "DG1-35027FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 25.1 A, 18.5 kW, NEMA 1, IP21, FS3, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b499cd21c18610ea56de1580",
+      "recordPath": "equipment/eaton-article-b499cd21c18610ea56de1580.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b499cd21c18610ea56de1580.json"
+    },
+    {
+      "id": "eaton-article-ced83ecc2228928857a8af46",
+      "name": "DG1-35052FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 48.3 A, 37 kW, NEMA 12, IP54, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ced83ecc2228928857a8af46",
+      "recordPath": "equipment/eaton-article-ced83ecc2228928857a8af46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ced83ecc2228928857a8af46.json"
+    },
+    {
+      "id": "eaton-article-e9462aa59f537638d24d472d",
+      "name": "DG1-35034FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 31.6 A, 22 kW, IP54, NEMA 12, FS3, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e9462aa59f537638d24d472d",
+      "recordPath": "equipment/eaton-article-e9462aa59f537638d24d472d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e9462aa59f537638d24d472d.json"
+    },
+    {
+      "id": "eaton-article-52160aef77a5b6700b188607",
+      "name": "DG1-35125FN-C21C — Variable frequency drive, 600 V AC, 3-phase, 116.2 A, 90 kW, IP21, NEMA 1, FS5, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-52160aef77a5b6700b188607",
+      "recordPath": "equipment/eaton-article-52160aef77a5b6700b188607.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-52160aef77a5b6700b188607.json"
+    },
+    {
+      "id": "eaton-article-f6d550285ea74d04c350ecde",
+      "name": "DG1-35100FN-C54C — Variable frequency drive, 600 V AC, 3-phase, 93 A, 75 kW, NEMA 12, IP54, FS5, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f6d550285ea74d04c350ecde",
+      "recordPath": "equipment/eaton-article-f6d550285ea74d04c350ecde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f6d550285ea74d04c350ecde.json"
+    },
+    {
+      "id": "eaton-article-d62baafba665a21fe10b9019",
+      "name": "DG1-354D5FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 4.2 A, 2.2 kW, IP21, NEMA 1, FS1, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d62baafba665a21fe10b9019",
+      "recordPath": "equipment/eaton-article-d62baafba665a21fe10b9019.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d62baafba665a21fe10b9019.json"
+    },
+    {
+      "id": "eaton-article-6b8450b4a79bfc22811e4a42",
+      "name": "DG1-35208FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 193.3 A, 160 kW, NEMA 1, IP21, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6b8450b4a79bfc22811e4a42",
+      "recordPath": "equipment/eaton-article-6b8450b4a79bfc22811e4a42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6b8450b4a79bfc22811e4a42.json"
+    },
+    {
+      "id": "eaton-article-475dc5c179d2e23843ec0685",
+      "name": "DG1-35052FN-C21C — Variable frequency drive, 600 V AC, 3-phase, 48.3 A, 37 kW, NEMA 1, IP21, FS4, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-475dc5c179d2e23843ec0685",
+      "recordPath": "equipment/eaton-article-475dc5c179d2e23843ec0685.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-475dc5c179d2e23843ec0685.json"
+    },
+    {
+      "id": "eaton-article-b2ab3e771bf25319b8da4369",
+      "name": "DG1-353D3FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 3.1 A, 1.5 kW, IP54, NEMA 12, FS1, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b2ab3e771bf25319b8da4369",
+      "recordPath": "equipment/eaton-article-b2ab3e771bf25319b8da4369.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b2ab3e771bf25319b8da4369.json"
+    },
+    {
+      "id": "eaton-article-56d33d658e6a190007a3f3ea",
+      "name": "DG1-35052FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 48.3 A, 37 kW, NEMA 1, IP21, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-56d33d658e6a190007a3f3ea",
+      "recordPath": "equipment/eaton-article-56d33d658e6a190007a3f3ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-56d33d658e6a190007a3f3ea.json"
+    },
+    {
+      "id": "eaton-article-e76acdec23d9a30fde83b125",
+      "name": "DG1-35100FN-C21C — Variable frequency drive, 600 V AC, 3-phase, 93 A, 75 kW, NEMA 1, IP21, FS5, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e76acdec23d9a30fde83b125",
+      "recordPath": "equipment/eaton-article-e76acdec23d9a30fde83b125.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e76acdec23d9a30fde83b125.json"
+    },
+    {
+      "id": "eaton-article-9b5351c67282e5a7a012ac7c",
+      "name": "DG1-35080FN-C54C — Variable frequency drive, 600 V AC, 3-phase, 74.4 A, 55 kW, NEMA 12, IP54, FS5, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9b5351c67282e5a7a012ac7c",
+      "recordPath": "equipment/eaton-article-9b5351c67282e5a7a012ac7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9b5351c67282e5a7a012ac7c.json"
+    },
+    {
+      "id": "eaton-article-836cb216c048a86ff6ed5959",
+      "name": "DG1-35125FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 116.2 A, 90 kW, NEMA 1, IP21, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-836cb216c048a86ff6ed5959",
+      "recordPath": "equipment/eaton-article-836cb216c048a86ff6ed5959.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-836cb216c048a86ff6ed5959.json"
+    },
+    {
+      "id": "eaton-article-e6ef39153674115cf936edb5",
+      "name": "DG1-35013FB-C54C — Variable frequency drive, 600 V AC, 3-phase, 12.5 A, 7.5 kW, IP54, NEMA 12, FS2, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e6ef39153674115cf936edb5",
+      "recordPath": "equipment/eaton-article-e6ef39153674115cf936edb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e6ef39153674115cf936edb5.json"
+    },
+    {
+      "id": "eaton-article-059a66d29a51755d446ea671",
+      "name": "DG1-35013FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 12.5 A, 7.5 kW, NEMA 1, IP21, FS2, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-059a66d29a51755d446ea671",
+      "recordPath": "equipment/eaton-article-059a66d29a51755d446ea671.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-059a66d29a51755d446ea671.json"
+    },
+    {
+      "id": "eaton-article-c54d07d7c0281cc6c78a6585",
+      "name": "DG1-35052FN-C54C — Variable frequency drive, 600 V AC, 3-phase, 48.3 A, 37 kW, IP54, NEMA 12, FS4, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c54d07d7c0281cc6c78a6585",
+      "recordPath": "equipment/eaton-article-c54d07d7c0281cc6c78a6585.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c54d07d7c0281cc6c78a6585.json"
+    },
+    {
+      "id": "eaton-article-8fb7072003da74b162877223",
+      "name": "DG1-35034FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 31.6 A, 22 kW, IP21, NEMA 1, FS3, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8fb7072003da74b162877223",
+      "recordPath": "equipment/eaton-article-8fb7072003da74b162877223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8fb7072003da74b162877223.json"
+    },
+    {
+      "id": "eaton-article-4fc2f10905cdc70a11bcac13",
+      "name": "DG1-35022FB-C21C — Variable frequency drive, 600 V AC, 3-phase, 20.4 A, 15 kW, IP21, NEMA 1, FS3, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4fc2f10905cdc70a11bcac13",
+      "recordPath": "equipment/eaton-article-4fc2f10905cdc70a11bcac13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4fc2f10905cdc70a11bcac13.json"
+    },
+    {
+      "id": "eaton-article-185752",
+      "name": "DC1-345D8FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 5.8 A, 2.2 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185752",
+      "recordPath": "equipment/eaton-article-185752.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185752.json"
+    },
+    {
+      "id": "eaton-article-185755",
+      "name": "DC1-349D5FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 9.5 A, 4 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185755",
+      "recordPath": "equipment/eaton-article-185755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185755.json"
+    },
+    {
+      "id": "eaton-article-185746",
+      "name": "DC1-344D1FN-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP20/NEMA 0, Radio interference suppression filter, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185746",
+      "recordPath": "equipment/eaton-article-185746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185746.json"
+    },
+    {
+      "id": "eaton-article-185742",
+      "name": "DC1-34024NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 24 A, 11 kW, IP20/NEMA 0, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185742",
+      "recordPath": "equipment/eaton-article-185742.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185742.json"
+    },
+    {
+      "id": "eaton-article-185749",
+      "name": "DC1-344D1FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185749",
+      "recordPath": "equipment/eaton-article-185749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185749.json"
+    },
+    {
+      "id": "eaton-article-185733",
+      "name": "DC1-349D5NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 9.5 A, 4 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185733",
+      "recordPath": "equipment/eaton-article-185733.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185733.json"
+    },
+    {
+      "id": "eaton-article-185721",
+      "name": "DC1-342D2NN-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 2.2 A, 0.75 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185721",
+      "recordPath": "equipment/eaton-article-185721.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185721.json"
+    },
+    {
+      "id": "eaton-article-185727",
+      "name": "DC1-344D1NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185727",
+      "recordPath": "equipment/eaton-article-185727.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185727.json"
+    },
+    {
+      "id": "eaton-article-185739",
+      "name": "DC1-34018NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 18 A, 7.5 kW, IP20/NEMA 0, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185739",
+      "recordPath": "equipment/eaton-article-185739.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185739.json"
+    },
+    {
+      "id": "eaton-article-185736",
+      "name": "DC1-34014NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 14 A, 5.5 kW, IP20/NEMA 0, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185736",
+      "recordPath": "equipment/eaton-article-185736.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185736.json"
+    },
+    {
+      "id": "eaton-article-185743",
+      "name": "DC1-342D2FN-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 2.2 A, 0.75 kW, IP20/NEMA 0, Radio interference suppression filter, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185743",
+      "recordPath": "equipment/eaton-article-185743.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185743.json"
+    },
+    {
+      "id": "eaton-article-185724",
+      "name": "DC1-344D1NN-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185724",
+      "recordPath": "equipment/eaton-article-185724.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185724.json"
+    },
+    {
+      "id": "eaton-article-185730",
+      "name": "DC1-345D8NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 5.8 A, 2.2 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185730",
+      "recordPath": "equipment/eaton-article-185730.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185730.json"
+    },
+    {
+      "id": "eaton-article-185797",
+      "name": "DC1-12011NB-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 10.5 A, 2.2 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185797",
+      "recordPath": "equipment/eaton-article-185797.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185797.json"
+    },
+    {
+      "id": "eaton-article-185842",
+      "name": "DC1-32018FB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 18 A, 4 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185842",
+      "recordPath": "equipment/eaton-article-185842.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185842.json"
+    },
+    {
+      "id": "eaton-article-185765",
+      "name": "DC1-1D2D3NN-A20CE1 — Variable frequency drive, 115 V AC, single-phase, 2.3 A, 0.37 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185765",
+      "recordPath": "equipment/eaton-article-185765.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185765.json"
+    },
+    {
+      "id": "eaton-article-185818",
+      "name": "DC1-322D3NN-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 2.3 A, 0.37 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185818",
+      "recordPath": "equipment/eaton-article-185818.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185818.json"
+    },
+    {
+      "id": "eaton-article-185778",
+      "name": "DC1-32030NB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 30 A, 7.5 kW, IP20/NEMA 0, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185778",
+      "recordPath": "equipment/eaton-article-185778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185778.json"
+    },
+    {
+      "id": "eaton-article-185815",
+      "name": "DC1-12011FB-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 10.5 A, 2.2 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185815",
+      "recordPath": "equipment/eaton-article-185815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185815.json"
+    },
+    {
+      "id": "eaton-article-185812",
+      "name": "DC1-127D0FB-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185812",
+      "recordPath": "equipment/eaton-article-185812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185812.json"
+    },
+    {
+      "id": "eaton-article-186076",
+      "name": "DC1-S1011NB-A20CE1 — Variable frequency drive, 115 V AC, single-phase, 10.5 A, 0.55 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-186076",
+      "recordPath": "equipment/eaton-article-186076.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-186076.json"
+    },
+    {
+      "id": "eaton-article-185803",
+      "name": "DC1-122D3FN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 2.3 A, 0.37 kW, IP20/NEMA 0, Radio interference suppression filter, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185803",
+      "recordPath": "equipment/eaton-article-185803.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185803.json"
+    },
+    {
+      "id": "eaton-article-186082",
+      "name": "DC1-S27D0NN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 0.75 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-186082",
+      "recordPath": "equipment/eaton-article-186082.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-186082.json"
+    },
+    {
+      "id": "eaton-article-185761",
+      "name": "DC1-34018FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 18 A, 7.5 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185761",
+      "recordPath": "equipment/eaton-article-185761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185761.json"
+    },
+    {
+      "id": "eaton-article-186088",
+      "name": "DC1-S24D3FN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 4.3 A, 0.37 kW, IP20/NEMA 0, Radio interference suppression filter, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-186088",
+      "recordPath": "equipment/eaton-article-186088.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-186088.json"
+    },
+    {
+      "id": "eaton-article-185775",
+      "name": "DC1-32030FB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 30 A, 7.5 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185775",
+      "recordPath": "equipment/eaton-article-185775.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185775.json"
+    },
+    {
+      "id": "eaton-article-185794",
+      "name": "DC1-127D0NB-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185794",
+      "recordPath": "equipment/eaton-article-185794.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185794.json"
+    },
+    {
+      "id": "eaton-article-185839",
+      "name": "DC1-32011FB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 10.5 A, 2.2 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185839",
+      "recordPath": "equipment/eaton-article-185839.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185839.json"
+    },
+    {
+      "id": "eaton-article-185833",
+      "name": "DC1-32018NB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 18 A, 4 kW, IP20/NEMA 0, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185833",
+      "recordPath": "equipment/eaton-article-185833.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185833.json"
+    },
+    {
+      "id": "eaton-article-185780",
+      "name": "DC1-34030FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 30 A, 15 kW, IP20/NEMA 0, Brake chopper, braking transistor, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185780",
+      "recordPath": "equipment/eaton-article-185780.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185780.json"
+    },
+    {
+      "id": "eaton-article-186079",
+      "name": "DC1-S24D3NN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 4.3 A, 0.37 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-186079",
+      "recordPath": "equipment/eaton-article-186079.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-186079.json"
+    },
+    {
+      "id": "eaton-article-185782",
+      "name": "DC1-34046FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 46 A, 22 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185782",
+      "recordPath": "equipment/eaton-article-185782.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185782.json"
+    },
+    {
+      "id": "eaton-article-185800",
+      "name": "DC1-12015NB-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 15.3 A, 4 kW, IP20/NEMA 0, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185800",
+      "recordPath": "equipment/eaton-article-185800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185800.json"
+    },
+    {
+      "id": "eaton-article-185830",
+      "name": "DC1-32011NB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 10.5 A, 2.2 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185830",
+      "recordPath": "equipment/eaton-article-185830.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185830.json"
+    },
+    {
+      "id": "eaton-article-185844",
+      "name": "DC1-34046NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 46 A, 22 kW, IP20/NEMA 0, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185844",
+      "recordPath": "equipment/eaton-article-185844.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185844.json"
+    },
+    {
+      "id": "eaton-article-186091",
+      "name": "DC1-S27D0FN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 0.75 kW, IP20/NEMA 0, Radio interference suppression filter, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-186091",
+      "recordPath": "equipment/eaton-article-186091.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-186091.json"
+    },
+    {
+      "id": "eaton-article-185758",
+      "name": "DC1-34014FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 14 A, 5.5 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185758",
+      "recordPath": "equipment/eaton-article-185758.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185758.json"
+    },
+    {
+      "id": "eaton-article-185836",
+      "name": "DC1-327D0FB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 7 A, 1.5 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185836",
+      "recordPath": "equipment/eaton-article-185836.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185836.json"
+    },
+    {
+      "id": "eaton-article-185776",
+      "name": "DC1-32046FB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 46 A, 11 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185776",
+      "recordPath": "equipment/eaton-article-185776.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185776.json"
+    },
+    {
+      "id": "eaton-article-185788",
+      "name": "DC1-124D3NN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 4.3 A, 0.75 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185788",
+      "recordPath": "equipment/eaton-article-185788.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185788.json"
+    },
+    {
+      "id": "eaton-article-185774",
+      "name": "DC1-32024FB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 24 A, 5.5 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185774",
+      "recordPath": "equipment/eaton-article-185774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185774.json"
+    },
+    {
+      "id": "eaton-article-185809",
+      "name": "DC1-127D0FN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP20/NEMA 0, Radio interference suppression filter, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185809",
+      "recordPath": "equipment/eaton-article-185809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185809.json"
+    },
+    {
+      "id": "eaton-article-185821",
+      "name": "DC1-324D3NN-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 4.3 A, 0.75 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185821",
+      "recordPath": "equipment/eaton-article-185821.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185821.json"
+    },
+    {
+      "id": "eaton-article-185771",
+      "name": "DC1-1D5D8NB-A20CE1 — Variable frequency drive, 115 V AC, single-phase, 5.8 A, 1.1 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185771",
+      "recordPath": "equipment/eaton-article-185771.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185771.json"
+    },
+    {
+      "id": "eaton-article-185827",
+      "name": "DC1-327D0NB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 7 A, 1.5 kW, IP20/NEMA 0, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185827",
+      "recordPath": "equipment/eaton-article-185827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185827.json"
+    },
+    {
+      "id": "eaton-article-185779",
+      "name": "DC1-32046NB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 46 A, 11 kW, IP20/NEMA 0, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185779",
+      "recordPath": "equipment/eaton-article-185779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185779.json"
+    },
+    {
+      "id": "eaton-article-185785",
+      "name": "DC1-122D3NN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 2.3 A, 0.37 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185785",
+      "recordPath": "equipment/eaton-article-185785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185785.json"
+    },
+    {
+      "id": "eaton-article-185764",
+      "name": "DC1-34024FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 24 A, 11 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185764",
+      "recordPath": "equipment/eaton-article-185764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185764.json"
+    },
+    {
+      "id": "eaton-article-185784",
+      "name": "DC1-34039NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 39 A, 18.5 kW, IP20/NEMA 0, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185784",
+      "recordPath": "equipment/eaton-article-185784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185784.json"
+    },
+    {
+      "id": "eaton-article-185806",
+      "name": "DC1-124D3FN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 4.3 A, 0.75 kW, IP20/NEMA 0, Radio interference suppression filter, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185806",
+      "recordPath": "equipment/eaton-article-185806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185806.json"
+    },
+    {
+      "id": "eaton-article-185824",
+      "name": "DC1-327D0NN-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 7 A, 1.5 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185824",
+      "recordPath": "equipment/eaton-article-185824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185824.json"
+    },
+    {
+      "id": "eaton-article-185791",
+      "name": "DC1-127D0NN-A20CE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185791",
+      "recordPath": "equipment/eaton-article-185791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185791.json"
+    },
+    {
+      "id": "eaton-article-185783",
+      "name": "DC1-34030NB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 30 A, 15 kW, IP20/NEMA 0, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185783",
+      "recordPath": "equipment/eaton-article-185783.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185783.json"
+    },
+    {
+      "id": "eaton-article-185777",
+      "name": "DC1-32024NB-A20CE1 — Variable frequency drive, 230 V AC, 3-phase, 24 A, 5.5 kW, IP20/NEMA 0, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185777",
+      "recordPath": "equipment/eaton-article-185777.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185777.json"
+    },
+    {
+      "id": "eaton-article-185781",
+      "name": "DC1-34039FB-A20CE1 — Variable frequency drive, 400 V AC, 3-phase, 39 A, 18.5 kW, IP20/NEMA 0, Radio interference suppression filter, Brake chopper, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185781",
+      "recordPath": "equipment/eaton-article-185781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185781.json"
+    },
+    {
+      "id": "eaton-article-185768",
+      "name": "DC1-1D4D3NN-A20CE1 — Variable frequency drive, 115 V AC, single-phase, 4.3 A, 0.75 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185768",
+      "recordPath": "equipment/eaton-article-185768.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185768.json"
+    },
+    {
+      "id": "eaton-article-186073",
+      "name": "DC1-S17D0NN-A20CE1 — Variable frequency drive, 115 V AC, single-phase, 7 A, 0.37 kW, IP20/NEMA 0, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-186073",
+      "recordPath": "equipment/eaton-article-186073.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-186073.json"
+    },
+    {
+      "id": "eaton-article-199416",
+      "name": "DC1-327D0FN-A6SOE1 — Variable frequency drive, 230 V AC, 3-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Local controls, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199416",
+      "recordPath": "equipment/eaton-article-199416.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199416.json"
+    },
+    {
+      "id": "eaton-article-199404",
+      "name": "DC1-127D0FN-A6SOE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Local controls, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199404",
+      "recordPath": "equipment/eaton-article-199404.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199404.json"
+    },
+    {
+      "id": "eaton-article-199388",
+      "name": "DC1-S24D3FN-A6SOE1 — Variable frequency drive, 230 V AC, 1-phase, 4.3 A, 0.37 kW, IP66/NEMA 4X, Local controls, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199388",
+      "recordPath": "equipment/eaton-article-199388.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199388.json"
+    },
+    {
+      "id": "eaton-article-199397",
+      "name": "DC1-1D5D8NB-A66OE1 — Variable frequency drive, 115 V AC, 1-phase, 5.8 A, 1.1 kW, IP66/NEMA 4X, Brake chopper, Additional PCB protection, UV resistant, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199397",
+      "recordPath": "equipment/eaton-article-199397.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199397.json"
+    },
+    {
+      "id": "eaton-article-199395",
+      "name": "DC1-1D4D3NN-A66OE1 — Variable frequency drive, 115 V AC, 1-phase, 4.3 A, 0.75 kW, IP66/NEMA 4X, 7-digital display assembly, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199395",
+      "recordPath": "equipment/eaton-article-199395.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199395.json"
+    },
+    {
+      "id": "eaton-article-199414",
+      "name": "DC1-324D3FN-A6SOE1 — Variable frequency drive, 230 V AC, 3-phase, 4.3 A, 0.75 kW, IP66/NEMA 4X, Local controls, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199414",
+      "recordPath": "equipment/eaton-article-199414.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199414.json"
+    },
+    {
+      "id": "eaton-article-199402",
+      "name": "DC1-124D3FN-A6SOE1 — Variable frequency drive, 230 V AC, 1-phase, 4.3 A, 0.75 kW, IP66/NEMA 4X, Local controls, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199402",
+      "recordPath": "equipment/eaton-article-199402.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199402.json"
+    },
+    {
+      "id": "eaton-article-199425",
+      "name": "DC1-32030FB-A66OE1 — Variable frequency drive, 230 V AC, 3-phase, 30 A, 7.5 kW, IP66/NEMA 4X, Brake chopper, Additional PCB protection, UV resistant, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199425",
+      "recordPath": "equipment/eaton-article-199425.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199425.json"
+    },
+    {
+      "id": "eaton-article-199423",
+      "name": "DC1-32024FB-A66OE1 — Variable frequency drive, 230 V AC, 3-phase, 24 A, 5.5 kW, IP66/NEMA 4X, Brake chopper, Additional PCB protection, UV resistant, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199423",
+      "recordPath": "equipment/eaton-article-199423.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199423.json"
+    },
+    {
+      "id": "eaton-article-199424",
+      "name": "DC1-32024FB-A6SOE1 — Variable frequency drive, 230 V AC, 3-phase, 24 A, 5.5 kW, IP66/NEMA 4X, Brake chopper, Local controls, Additional PCB protection, UV resistant, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199424",
+      "recordPath": "equipment/eaton-article-199424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199424.json"
+    },
+    {
+      "id": "eaton-article-199403",
+      "name": "DC1-127D0FN-A66OE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP66/NEMA 4X, 7-digital display assembly, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199403",
+      "recordPath": "equipment/eaton-article-199403.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199403.json"
+    },
+    {
+      "id": "eaton-article-199396",
+      "name": "DC1-1D4D3NN-A6SOE1 — Variable frequency drive, 115 V AC, 1-phase, 4.3 A, 0.75 kW, IP66/NEMA 4X, Local controls, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199396",
+      "recordPath": "equipment/eaton-article-199396.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199396.json"
+    },
+    {
+      "id": "eaton-article-199398",
+      "name": "DC1-1D5D8NB-A6SOE1 — Variable frequency drive, 115 V AC, 1-phase, 5.8 A, 1.1 kW, IP66/NEMA 4X, Brake chopper, Local controls, Additional PCB protection, UV resistant, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199398",
+      "recordPath": "equipment/eaton-article-199398.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199398.json"
+    },
+    {
+      "id": "eaton-article-199407",
+      "name": "DC1-12011FB-A66OE1 — Variable frequency drive, 230 V AC, 1-phase, 10.5 A, 2.2 kW, IP66/NEMA 4X, Brake chopper, Additional PCB protection, UV resistant, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199407",
+      "recordPath": "equipment/eaton-article-199407.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199407.json"
+    },
+    {
+      "id": "eaton-article-199390",
+      "name": "DC1-S27D0FN-A6SOE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 0.75 kW, IP66/NEMA 4X, Local controls, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199390",
+      "recordPath": "equipment/eaton-article-199390.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199390.json"
+    },
+    {
+      "id": "eaton-article-199406",
+      "name": "DC1-127D0FB-A6SOE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Brake chopper, Local controls, Additional PCB protection, UV resistant, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199406",
+      "recordPath": "equipment/eaton-article-199406.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199406.json"
+    },
+    {
+      "id": "eaton-article-199421",
+      "name": "DC1-32018FB-A66OE1 — Variable frequency drive, 230 V AC, 3-phase, 18 A, 4 kW, IP66/NEMA 4X, Brake chopper, Additional PCB protection, UV resistant, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199421",
+      "recordPath": "equipment/eaton-article-199421.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199421.json"
+    },
+    {
+      "id": "eaton-article-199431",
+      "name": "DC1-344D1FN-A66OE1 — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP66/NEMA 4X, 7-digital display assembly, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199431",
+      "recordPath": "equipment/eaton-article-199431.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199431.json"
+    },
+    {
+      "id": "eaton-article-199393",
+      "name": "DC1-1D2D3NN-A66OE1 — Variable frequency drive, 115 V AC, 1-phase, 2.3 A, 0.37 kW, IP66/NEMA 4X, 7-digital display assembly, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199393",
+      "recordPath": "equipment/eaton-article-199393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199393.json"
+    },
+    {
+      "id": "eaton-article-199399",
+      "name": "DC1-122D3FN-A66OE1 — Variable frequency drive, 230 V AC, 1-phase, 2.3 A, 0.37 kW, IP66/NEMA 4X, 7-digital display assembly, Additional PCB protection, UV resistant, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199399",
+      "recordPath": "equipment/eaton-article-199399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199399.json"
+    },
+    {
+      "id": "eaton-article-199405",
+      "name": "DC1-127D0FB-A66OE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Brake chopper, Additional PCB protection, UV resistant, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199405",
+      "recordPath": "equipment/eaton-article-199405.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199405.json"
+    },
+    {
+      "id": "eaton-article-199420",
+      "name": "DC1-32011FB-A6SOE1 — Variable frequency drive, 230 V AC, 3-phase, 10.5 A, 2.2 kW, IP66/NEMA 4X, Brake chopper, Local controls, Additional PCB protection, UV resistant, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199420",
+      "recordPath": "equipment/eaton-article-199420.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199420.json"
+    },
+    {
+      "id": "eaton-article-199428",
+      "name": "DC1-32046FB-A6SOE1 — Variable frequency drive, 230 V AC, 3-phase, 46 A, 11 kW, IP66/NEMA 4X, Brake chopper, Local controls, Additional PCB protection, UV resistant, FS4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199428",
+      "recordPath": "equipment/eaton-article-199428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199428.json"
+    }
+  ]
+}

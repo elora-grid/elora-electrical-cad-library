@@ -1,0 +1,171 @@
+# Weidmüller — TRZ 24VDC 1CO AGSNO — Standard all-or-nothing relay / Relay module, 24 V DC ±20 %, Green LED, Free-wheeling diode, Reverse polarity protection, 1 CO contact (AgSnO) , 250 V AC, 6 A, Tension-clamp connection, Test button available: No
+
+Weidmüller TRZ 24VDC 1CO AGSNO — Standard all-or-nothing relay / Relay module, 24 V DC ±20 %, Green LED, Free-wheeling diode, Reverse polarity protection, 1 CO contact (AgSnO) , 250 V AC, 6 A, Tension-clamp connection, Test button available: No. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1984550000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1984550000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1984550000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1984550000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/trz-24vdc-1co-agsno/p/1984550000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1984550000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: TRZ 24VDC 1CO AGSNO — Standard all-or-nothing relay / Relay module, 24 V DC ±20 %, Green LED, Free-wheeling diode, Reverse polarity protection, 1 CO contact (AgSnO) , 250 V AC, 6 A, Tension-clamp connection, Test button available: No
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1984550000
+- Manufacturer reference: 1984550000
+- Manufacturer type: TRZ 24VDC 1CO AGSNO
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1984550000 ([source](https://eshop.weidmueller.com.cn/en/trz-24vdc-1co-agsno/p/1984550000/downloads#engineering-support))
+- Manufacturer type: TRZ 24VDC 1CO AGSNO ([source](https://eshop.weidmueller.com.cn/en/trz-24vdc-1co-agsno/p/1984550000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/trz-24vdc-1co-agsno/p/1984550000/downloads#engineering-support))
+
+## What the equipment does
+
+An LED produces light when operated with the appropriate electrical current. It is commonly used to indicate an electronic device's state.
+
+On a switchgear control module, an LED can show that an input is active or that the module has power.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/trz-24vdc-1co-agsno/p/1984550000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1984550000. The files above belong to Weidmüller's TRZ 24VDC 1CO AGSNO — Standard all-or-nothing relay / Relay module, 24 V DC ±20 %, Green LED, Free-wheeling diode, Reverse polarity protection, 1 CO contact (AgSnO) , 250 V AC, 6 A, Tension-clamp connection, Test button available: No resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller TRZ 24VDC 1CO AGSNO — Standard all-or-nothing relay / Relay module, 24 V DC ±20 %, Green LED, Free-wheeling diode, Reverse polarity protection, 1 CO contact (AgSnO) , 250 V AC, 6 A, Tension-clamp connection, Test button available: No: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1984550000/native-11b87539722fcce96c2e77b6-zip?asset=5266099743065b3c394890d99d3e4ac7aff46b7f52c2fa0a1a7f91bb15cadce2)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1984550000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1984550000)
+
+- 1984550000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1984550000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1984550000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1984550000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/7de58457-c7dd-48ee-9305-4e08f10c717b/original/1984550000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1984550000/native-11b87539722fcce96c2e77b6-zip)
+- Redistribution: unknown
+- Original SHA-256: 11b87539722fcce96c2e77b6b30763a9fb9b6010094f20889c616d596d155241
+- Original bytes: 170436
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/7de58457-c7dd-48ee-9305-4e08f10c717b/original/1984550000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 170436 bytes
+- Delivery SHA-256: 11b87539722fcce96c2e77b6b30763a9fb9b6010094f20889c616d596d155241
+
+<details>
+<summary>Archive members</summary>
+
+- 1984550000\_back.DWG
+- 1984550000\_bottom.DWG
+- 1984550000\_front.DWG
+- 1984550000\_left.DWG
+- 1984550000\_right.DWG
+- 1984550000\_top.DWG
+
+</details>
+
+### 1984550000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/78babce4-df17-4634-b5a8-9c4384df31fa/original/1984550000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1984550000/native-fbe4fef7fb2bb198119a2dbd-step)
+- Redistribution: unknown
+- Original SHA-256: fbe4fef7fb2bb198119a2dbdb2dd2e5a11aee2ba87d3a62aca521a42a4a8ba34
+- Original bytes: 1492088
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/78babce4-df17-4634-b5a8-9c4384df31fa/original/1984550000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 248583 bytes
+- Delivery SHA-256: df5f76568b4fba6e4a1ab5857f5cf6b76c2f0cc932054804a85e2f5d86c5911a
+
+### 1984550000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/51515d1a-ebe4-42c8-a60a-620691432ce5/original/1984550000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1984550000/native-148a306f3a1fbdbb1c67eaf8-zip)
+- Redistribution: unknown
+- Original SHA-256: 148a306f3a1fbdbb1c67eaf860a57845202ada993bcbd3866351103847f54dba
+- Original bytes: 140024
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/51515d1a-ebe4-42c8-a60a-620691432ce5/original/1984550000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 140024 bytes
+- Delivery SHA-256: 148a306f3a1fbdbb1c67eaf860a57845202ada993bcbd3866351103847f54dba
+
+<details>
+<summary>Archive members</summary>
+
+- 1984550000\_back.DXF
+- 1984550000\_bottom.DXF
+- 1984550000\_front.DXF
+- 1984550000\_left.DXF
+- 1984550000\_right.DXF
+- 1984550000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

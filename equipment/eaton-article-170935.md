@@ -27,10 +27,10 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available native formats: DWG / STEP
 - Listed file formats: DWG, STEP
 - Listed files: 2
-- Available previews: No browser preview; original files are downloadable
+- Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -65,6 +65,12 @@ Eaton supplied the original files through https://ecat.eaton.com/downloads/eefb6
 ## Choosing a file
 
 Use eaton-rcd-with-overcurrent-protection-3d-models-frbm-3n-rcbo.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-rcd-with-overcurrent-protection-3d-models-frbm-3n-rcbo.stp. Use eaton-rcbo-mcad-drawings-frbm-3n-rcbo.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-rcbo-mcad-drawings-frbm-3n-rcbo.dwg.
+
+## Preview
+
+![Eaton FRBM6-D13/3N/01 — RCD/MCB combination, 13 A, 100 mA, MCB trip characteristic: D, 3p+N, RCD trip characteristic: AC: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-170935/native-5be491ecbef20cf7bcc9c1f7-dwg?asset=5be491ecbef20cf7bcc9c1f7d4f8347291cf80d97e59b60c1c97c462402784bb)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170935). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 

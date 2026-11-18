@@ -27,10 +27,10 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available native formats: DWG / STEP
 - Listed file formats: DWG, STEP
 - Listed files: 2
-- Available previews: No browser preview; original files are downloadable
+- Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -65,6 +65,12 @@ Eaton supplied the original files through https://ecat.eaton.com/downloads/fad49
 ## Choosing a file
 
 Use eaton-non-selective-universal-mcb-3d-models-faz-na-3p.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-non-selective-universal-mcb-3d-models-faz-na-3p.stp. Use eaton-non-selective-universal-mcb-drawings-faz-na-3p.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-non-selective-universal-mcb-drawings-faz-na-3p.dwg.
+
+## Preview
+
+![Eaton FAZ-D15/3-RT — Miniature circuit breaker (MCB), 15 A, 3p, characteristic: D: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-102309/native-48418f7d8885a474af5c9d82-dwg?asset=48418f7d8885a474af5c9d829ecbe371151701c3505e88a85184e6c94ea8aa26)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-102309). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 

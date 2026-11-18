@@ -1,0 +1,171 @@
+# Weidmüller — A2T 4 FS-FT-PE 60-150V BK — Fuse terminal block / Fuse terminal, PUSH IN, 4 mm², 150 V, 6.3 A, G-Si. 5 x 20, black
+
+Weidmüller A2T 4 FS-FT-PE 60-150V BK — Fuse terminal block / Fuse terminal, PUSH IN, 4 mm², 150 V, 6.3 A, G-Si. 5 x 20, black. Manufacturer CAD files for wiring equipment selection and layout, identified by article 2817040000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2817040000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2817040000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-2817040000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/a2t-4-fs-ft-pe-60-150v-bk/p/2817040000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 2817040000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: A2T 4 FS-FT-PE 60-150V BK — Fuse terminal block / Fuse terminal, PUSH IN, 4 mm², 150 V, 6.3 A, G-Si. 5 x 20, black
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 2817040000
+- Manufacturer reference: 2817040000
+- Manufacturer type: A2T 4 FS-FT-PE 60-150V BK
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 2817040000 ([source](https://eshop.weidmueller.com.cn/en/a2t-4-fs-ft-pe-60-150v-bk/p/2817040000/downloads#engineering-support))
+- Manufacturer type: A2T 4 FS-FT-PE 60-150V BK ([source](https://eshop.weidmueller.com.cn/en/a2t-4-fs-ft-pe-60-150v-bk/p/2817040000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/a2t-4-fs-ft-pe-60-150v-bk/p/2817040000/downloads#engineering-support))
+
+## What the equipment does
+
+A fused terminal combines a wire connection point with a fuse holder so a branch circuit can be connected and protected in one assembly.
+
+In a switchgear control panel, it can provide an identified fused supply connection to an auxiliary device.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/a2t-4-fs-ft-pe-60-150v-bk/p/2817040000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 2817040000. The files above belong to Weidmüller's A2T 4 FS-FT-PE 60-150V BK — Fuse terminal block / Fuse terminal, PUSH IN, 4 mm², 150 V, 6.3 A, G-Si. 5 x 20, black resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller A2T 4 FS-FT-PE 60-150V BK — Fuse terminal block / Fuse terminal, PUSH IN, 4 mm², 150 V, 6.3 A, G-Si. 5 x 20, black: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-2817040000/native-adb9443f48f94cbb882f3214-zip?asset=2142eda54453e22de77e9e6d407f671dc02e875aa76b806abf2da793e0145255)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-2817040000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-2817040000)
+
+- 2817040000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 2817040000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 2817040000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 2817040000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/27380661-c369-4d17-abde-6a6e1b2f3442/original/2817040000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-2817040000/native-adb9443f48f94cbb882f3214-zip)
+- Redistribution: unknown
+- Original SHA-256: adb9443f48f94cbb882f3214e3624532cc951a6ebbb15cfa23ee6e0c28677930
+- Original bytes: 201155
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/27380661-c369-4d17-abde-6a6e1b2f3442/original/2817040000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 201155 bytes
+- Delivery SHA-256: adb9443f48f94cbb882f3214e3624532cc951a6ebbb15cfa23ee6e0c28677930
+
+<details>
+<summary>Archive members</summary>
+
+- 2817040000\_back.DXF
+- 2817040000\_bottom.DXF
+- 2817040000\_front.DXF
+- 2817040000\_left.DXF
+- 2817040000\_right.DXF
+- 2817040000\_top.DXF
+
+</details>
+
+### 2817040000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/183c9097-f100-4178-a4f3-5847ef239011/original/2817040000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-2817040000/native-90df0fd0436a98b1cfc0168d-step)
+- Redistribution: unknown
+- Original SHA-256: 90df0fd0436a98b1cfc0168d1fef2db00e964cd8bac2d61b590438c36efbf8ff
+- Original bytes: 6852213
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/183c9097-f100-4178-a4f3-5847ef239011/original/2817040000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 1290952 bytes
+- Delivery SHA-256: 54e2ef7b0b52b1a3a838057e26f68f106b329d73e73a073abd71ea13b66c30c3
+
+### 2817040000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/a244e71a-13ce-470e-8059-5267fcab4edc/original/2817040000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-2817040000/native-faf664ff0252a4afe7993601-zip)
+- Redistribution: unknown
+- Original SHA-256: faf664ff0252a4afe79936018cd48a6f605288f3213e8b517fef5efc8ed5fe09
+- Original bytes: 222648
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/a244e71a-13ce-470e-8059-5267fcab4edc/original/2817040000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 222648 bytes
+- Delivery SHA-256: faf664ff0252a4afe79936018cd48a6f605288f3213e8b517fef5efc8ed5fe09
+
+<details>
+<summary>Archive members</summary>
+
+- 2817040000\_back.DWG
+- 2817040000\_bottom.DWG
+- 2817040000\_front.DWG
+- 2817040000\_left.DWG
+- 2817040000\_right.DWG
+- 2817040000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,1781 @@
+{
+  "schemaVersion": 1,
+  "category": "automation",
+  "page": 42,
+  "entries": [
+    {
+      "id": "eaton-article-216977",
+      "name": "M22-DLH-G-X1 — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, green, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216977",
+      "recordPath": "equipment/eaton-article-216977.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216977.json"
+    },
+    {
+      "id": "eaton-article-220921",
+      "name": "M22-DG-X — Pushbutton, RMQ-Titan, Guard-ring, momentary, Without button plate, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-220921",
+      "recordPath": "equipment/eaton-article-220921.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-220921.json"
+    },
+    {
+      "id": "eaton-article-216973",
+      "name": "M22-DLH-B — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, Blue, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216973",
+      "recordPath": "equipment/eaton-article-216973.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216973.json"
+    },
+    {
+      "id": "eaton-article-218145",
+      "name": "M22-DDL-S-X4/X5 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, black, black, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218145",
+      "recordPath": "equipment/eaton-article-218145.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218145.json"
+    },
+    {
+      "id": "eaton-article-217436",
+      "name": "M22-WRK3-* — Selector switch, RMQ-Titan, With thumb-grip, maintained, 3 positions, selectable, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-217436",
+      "recordPath": "equipment/eaton-article-217436.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-217436.json"
+    },
+    {
+      "id": "eaton-article-216975",
+      "name": "M22-DLH-R-X0 — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216975",
+      "recordPath": "equipment/eaton-article-216975.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216975.json"
+    },
+    {
+      "id": "eaton-article-226838",
+      "name": "M22-WR3-X94 — Selector switch, RMQ-Titan, With rotary head, maintained, 3 positions, inscribed, Bezel: titanium, Auto 0 Man.",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-226838",
+      "recordPath": "equipment/eaton-article-226838.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-226838.json"
+    },
+    {
+      "id": "eaton-article-226837",
+      "name": "M22S-WR-* — Selector switch, RMQ-Titan, With rotary head, maintained, 2 positions, individual facility for inscription, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-226837",
+      "recordPath": "equipment/eaton-article-226837.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-226837.json"
+    },
+    {
+      "id": "eaton-article-226840",
+      "name": "M22-WR3-* — Selector switch, RMQ-Titan, With rotary head, maintained, 3 positions, individual facility for inscription, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-226840",
+      "recordPath": "equipment/eaton-article-226840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-226840.json"
+    },
+    {
+      "id": "eaton-article-226841",
+      "name": "M22S-WR3-* — Selector switch, RMQ-Titan, With rotary head, maintained, 3 positions, individual facility for inscription, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-226841",
+      "recordPath": "equipment/eaton-article-226841.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-226841.json"
+    },
+    {
+      "id": "eaton-article-226839",
+      "name": "M22S-WR3-X94 — Selector switch, RMQ-Titan, With rotary head, maintained, 3 positions, inscribed, Bezel: black, Auto 0 Man.",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-226839",
+      "recordPath": "equipment/eaton-article-226839.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-226839.json"
+    },
+    {
+      "id": "eaton-article-226836",
+      "name": "M22-WR-* — Selector switch, RMQ-Titan, With rotary head, maintained, 2 positions, individual facility for inscription, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-226836",
+      "recordPath": "equipment/eaton-article-226836.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-226836.json"
+    },
+    {
+      "id": "eaton-article-216979",
+      "name": "M22-DLH-W-X0 — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, White, inscribed 0, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216979",
+      "recordPath": "equipment/eaton-article-216979.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216979.json"
+    },
+    {
+      "id": "eaton-article-216980",
+      "name": "M22S-DLH-W-X0 — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, White, inscribed 0, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216980",
+      "recordPath": "equipment/eaton-article-216980.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216980.json"
+    },
+    {
+      "id": "eaton-article-216981",
+      "name": "M22-DLH-W-X1 — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, White, inscribed 1, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216981",
+      "recordPath": "equipment/eaton-article-216981.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216981.json"
+    },
+    {
+      "id": "eaton-article-217437",
+      "name": "M22S-WRK3-* — Selector switch, RMQ-Titan, With thumb-grip, maintained, 3 positions, selectable, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-217437",
+      "recordPath": "equipment/eaton-article-217437.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-217437.json"
+    },
+    {
+      "id": "eaton-article-217439",
+      "name": "M22S-WRLK3-*/* — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, selectable, 3 positions, selectable, selectable, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-217439",
+      "recordPath": "equipment/eaton-article-217439.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-217439.json"
+    },
+    {
+      "id": "eaton-article-218146",
+      "name": "M22S-DDL-S-X4/X5 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, black, black, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218146",
+      "recordPath": "equipment/eaton-article-218146.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218146.json"
+    },
+    {
+      "id": "eaton-article-216972",
+      "name": "M22S-DLH-Y — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, yellow, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216972",
+      "recordPath": "equipment/eaton-article-216972.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216972.json"
+    },
+    {
+      "id": "eaton-article-216978",
+      "name": "M22S-DLH-G-X1 — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, green, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216978",
+      "recordPath": "equipment/eaton-article-216978.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216978.json"
+    },
+    {
+      "id": "eaton-article-216976",
+      "name": "M22S-DLH-R-X0 — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216976",
+      "recordPath": "equipment/eaton-article-216976.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216976.json"
+    },
+    {
+      "id": "eaton-article-216982",
+      "name": "M22S-DLH-W-X1 — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, White, inscribed 1, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216982",
+      "recordPath": "equipment/eaton-article-216982.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216982.json"
+    },
+    {
+      "id": "eaton-article-216974",
+      "name": "M22S-DLH-B — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, Blue, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216974",
+      "recordPath": "equipment/eaton-article-216974.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216974.json"
+    },
+    {
+      "id": "eaton-article-217438",
+      "name": "M22-WRLK3-*/* — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, selectable, 3 positions, selectable, selectable, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-217438",
+      "recordPath": "equipment/eaton-article-217438.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-217438.json"
+    },
+    {
+      "id": "eaton-article-230961",
+      "name": "M22-DGL-X — Illuminated pushbutton actuator, RMQ-Titan, Guard-ring, momentary, Without button plate, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230961",
+      "recordPath": "equipment/eaton-article-230961.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230961.json"
+    },
+    {
+      "id": "eaton-article-231274",
+      "name": "M22-XGWK — Guard-ring, selector switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231274",
+      "recordPath": "equipment/eaton-article-231274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231274.json"
+    },
+    {
+      "id": "eaton-article-230350",
+      "name": "M22S-DDL-*-*-* — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, selectable, individual facility for inscription, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230350",
+      "recordPath": "equipment/eaton-article-230350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230350.json"
+    },
+    {
+      "id": "eaton-article-239374",
+      "name": "DILM12-XEV — Link, electrical interlock, for DILM7-M12",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239374",
+      "recordPath": "equipment/eaton-article-239374.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239374.json"
+    },
+    {
+      "id": "eaton-article-263469",
+      "name": "M22-PVLT — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, 38 mm, Illuminated with LED element, Turn-to-release function, Red, yellow, RAL 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-263469",
+      "recordPath": "equipment/eaton-article-263469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-263469.json"
+    },
+    {
+      "id": "eaton-article-263467",
+      "name": "M22-PVT — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, 38 mm, Non-illuminated, Turn-to-release function, Red, yellow, RAL 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-263467",
+      "recordPath": "equipment/eaton-article-263467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-263467.json"
+    },
+    {
+      "id": "eaton-article-248437",
+      "name": "ZP-NHK — Auxiliary contact, for PLS, postal Code, PKNM, ZP-A40, ZP-ASA, Z-MS, 2W, 0.5HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-248437",
+      "recordPath": "equipment/eaton-article-248437.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-248437.json"
+    },
+    {
+      "id": "eaton-article-257063",
+      "name": "Q25PV-S — Emergency-stop/emergency stop pushbutton, black, maintained",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-257063",
+      "recordPath": "equipment/eaton-article-257063.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-257063.json"
+    },
+    {
+      "id": "eaton-article-257064",
+      "name": "Q25LPV-S — Emergency-stop/emergency stop illuminated pushbutton, black, maintained",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-257064",
+      "recordPath": "equipment/eaton-article-257064.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-257064.json"
+    },
+    {
+      "id": "eaton-article-248330",
+      "name": "Z-T/3S1O — Pushbutton, 400 V, 16 A, 3 N/O, 1 N/C, black, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-248330",
+      "recordPath": "equipment/eaton-article-248330.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-248330.json"
+    },
+    {
+      "id": "eaton-article-248328",
+      "name": "Z-T/4S-G — Pushbutton, 400 V, 16 A, 4 N/O, green, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-248328",
+      "recordPath": "equipment/eaton-article-248328.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-248328.json"
+    },
+    {
+      "id": "eaton-article-266128",
+      "name": "LS-XRLA30 — Adjustable roller lever, D=30mm",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266128",
+      "recordPath": "equipment/eaton-article-266128.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266128.json"
+    },
+    {
+      "id": "eaton-article-276297",
+      "name": "Z-PUL230/SS — Pushbutton with LED, signal lamp 110-240 V, 250 V, 16 A, 2 N/O, green, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276297",
+      "recordPath": "equipment/eaton-article-276297.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276297.json"
+    },
+    {
+      "id": "eaton-article-276291",
+      "name": "Z-PU/S — Pushbutton with LED, 250 V, 16 A, 1 N/O, green, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276291",
+      "recordPath": "equipment/eaton-article-276291.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276291.json"
+    },
+    {
+      "id": "eaton-article-276293",
+      "name": "Z-PU/SO — Pushbutton with LED, 250 V, 16 A, 1 N/O, 1 N/C, black, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276293",
+      "recordPath": "equipment/eaton-article-276293.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276293.json"
+    },
+    {
+      "id": "eaton-article-276295",
+      "name": "Z-PUL24/SS — Pushbutton with LED, signal lamp 12-24 V, 250 V, 16 A, 2 N/O, green, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276295",
+      "recordPath": "equipment/eaton-article-276295.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276295.json"
+    },
+    {
+      "id": "eaton-article-276296",
+      "name": "Z-PUL24/SO — Pushbutton with LED, signal lamp 12-24 V, 250 V, 16 A, 1 N/O, 1 N/C, black, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276296",
+      "recordPath": "equipment/eaton-article-276296.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276296.json"
+    },
+    {
+      "id": "eaton-article-276294",
+      "name": "Z-PU/OO — Pushbutton with LED, 250 V, 16 A, 2 N/C, red, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276294",
+      "recordPath": "equipment/eaton-article-276294.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276294.json"
+    },
+    {
+      "id": "eaton-article-276292",
+      "name": "Z-PU/SS — Pushbutton with LED, 250 V, 16 A, 2 N/O, green, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276292",
+      "recordPath": "equipment/eaton-article-276292.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276292.json"
+    },
+    {
+      "id": "eaton-article-276298",
+      "name": "Z-PUL230/SO — Pushbutton with LED, signal lamp 110-240 V, 250 V, 16 A, 1 N/O, 1 N/C, black, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276298",
+      "recordPath": "equipment/eaton-article-276298.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276298.json"
+    },
+    {
+      "id": "eaton-article-276299",
+      "name": "Z-PUL230/OO — Pushbutton with LED, signal lamp 110-240 V, 250 V, 16 A, 2 N/C, red, IP40",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276299",
+      "recordPath": "equipment/eaton-article-276299.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276299.json"
+    },
+    {
+      "id": "eaton-article-276969",
+      "name": "DILMP20(220V50HZ,240V60HZ) — Contactor, 4 pole, 22 A, 220 V 50 Hz, 240 V 60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276969",
+      "recordPath": "equipment/eaton-article-276969.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276969.json"
+    },
+    {
+      "id": "eaton-article-276973",
+      "name": "DILMP20(415V50HZ,480V60HZ) — Contactor, 4 pole, 22 A, 415 V 50 Hz, 480 V 60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276973",
+      "recordPath": "equipment/eaton-article-276973.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276973.json"
+    },
+    {
+      "id": "eaton-article-276972",
+      "name": "DILMP20(400V50HZ,440V60HZ) — Contactor, 4 pole, 22 A, 400 V 50 Hz, 440 V 60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276972",
+      "recordPath": "equipment/eaton-article-276972.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276972.json"
+    },
+    {
+      "id": "eaton-article-276968",
+      "name": "DILMP20(190V50HZ,220V60HZ) — Contactor, 4 pole, 22 A, 190 V 50 Hz, 220 V 60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276968",
+      "recordPath": "equipment/eaton-article-276968.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276968.json"
+    },
+    {
+      "id": "eaton-article-276959",
+      "name": "DILMP20(240V50HZ) — Contactor, 4 pole, 22 A, 240 V 50 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276959",
+      "recordPath": "equipment/eaton-article-276959.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276959.json"
+    },
+    {
+      "id": "eaton-article-276961",
+      "name": "DILMP20(24V60HZ) — Contactor, 4 pole, 22 A, 24 V 60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276961",
+      "recordPath": "equipment/eaton-article-276961.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276961.json"
+    },
+    {
+      "id": "eaton-article-276964",
+      "name": "DILMP20(208V60HZ) — Contactor, 4 pole, 22 A, 208 V 60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276964",
+      "recordPath": "equipment/eaton-article-276964.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276964.json"
+    },
+    {
+      "id": "eaton-article-276989",
+      "name": "DILMP20(220VDC) — Contactor, 4 pole, 22 A, 220 V DC, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276989",
+      "recordPath": "equipment/eaton-article-276989.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276989.json"
+    },
+    {
+      "id": "eaton-article-276965",
+      "name": "DILMP20(600V60HZ) — Contactor, 4 pole, 22 A, 600 V 60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276965",
+      "recordPath": "equipment/eaton-article-276965.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276965.json"
+    },
+    {
+      "id": "eaton-article-276979",
+      "name": "DILMP20(380V50/60HZ) — Contactor, 4 pole, 22 A, 380 V 50/60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276979",
+      "recordPath": "equipment/eaton-article-276979.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276979.json"
+    },
+    {
+      "id": "eaton-article-276958",
+      "name": "DILMP20(48V50HZ) — Contactor, 4 pole, 22 A, 48 V 50 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276958",
+      "recordPath": "equipment/eaton-article-276958.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276958.json"
+    },
+    {
+      "id": "eaton-article-276982",
+      "name": "DILMP20(*V50HZ) — Contactor, 4 pole, 22 A, *V 50 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276982",
+      "recordPath": "equipment/eaton-article-276982.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276982.json"
+    },
+    {
+      "id": "eaton-article-276971",
+      "name": "DILMP20(380V50HZ,440V60HZ) — Contactor, 4 pole, 22 A, 380 V 50 Hz, 440 V 60 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276971",
+      "recordPath": "equipment/eaton-article-276971.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276971.json"
+    },
+    {
+      "id": "eaton-article-276957",
+      "name": "DILMP20(24V50HZ) — Contactor, 4 pole, 22 A, 24 V 50 Hz, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276957",
+      "recordPath": "equipment/eaton-article-276957.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276957.json"
+    },
+    {
+      "id": "eaton-article-276984",
+      "name": "DILMP20(12VDC) — Contactor, 4 pole, 22 A, 12 V DC, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276984",
+      "recordPath": "equipment/eaton-article-276984.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276984.json"
+    },
+    {
+      "id": "eaton-article-276986",
+      "name": "DILMP20(48VDC) — Contactor, 4 pole, 22 A, 48 V DC, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276986",
+      "recordPath": "equipment/eaton-article-276986.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276986.json"
+    },
+    {
+      "id": "eaton-article-276990",
+      "name": "DILMP20(*VDC) — Contactor, 4 pole, 22 A, *V DC, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276990",
+      "recordPath": "equipment/eaton-article-276990.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-276990.json"
+    },
+    {
+      "id": "eaton-article-281581",
+      "name": "NZM1-XMV — Interlock, mechanical, size 1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281581",
+      "recordPath": "equipment/eaton-article-281581.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-281581.json"
+    },
+    {
+      "id": "eaton-article-281583",
+      "name": "NZM3-XMV — Interlock, mechanical, size 3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281583",
+      "recordPath": "equipment/eaton-article-281583.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-281583.json"
+    },
+    {
+      "id": "eaton-article-279431",
+      "name": "M22-WRK4 — Selector switch, RMQ-Titan, With thumb-grip, maintained, 4 positions, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-279431",
+      "recordPath": "equipment/eaton-article-279431.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-279431.json"
+    },
+    {
+      "id": "eaton-article-286052",
+      "name": "ZP-IHK — Auxiliary contact, for PLS, postal Code, PKNM, ZP-A40...-ASA...IHK...WHK, Z-MS, 1N/O+1N/C, 0.5HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-286052",
+      "recordPath": "equipment/eaton-article-286052.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-286052.json"
+    },
+    {
+      "id": "eaton-article-286338",
+      "name": "M22-DI4-S-X7 — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, 4-fold, opposing pushbuttons mechanically interlocked, Bezel: titanium, arrow up",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-286338",
+      "recordPath": "equipment/eaton-article-286338.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-286338.json"
+    },
+    {
+      "id": "eaton-article-284396",
+      "name": "M22-WLKV-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), yellow, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284396",
+      "recordPath": "equipment/eaton-article-284396.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284396.json"
+    },
+    {
+      "id": "eaton-article-286336",
+      "name": "M22-D4-S-X7 — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, black, 4-fold, opposing pushbuttons not mechanically interlocked, Bezel: titanium, arrow up",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-286336",
+      "recordPath": "equipment/eaton-article-286336.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-286336.json"
+    },
+    {
+      "id": "eaton-article-279419",
+      "name": "M22-WR4 — Selector switch, RMQ-Titan, With rotary head, maintained, 4 positions, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-279419",
+      "recordPath": "equipment/eaton-article-279419.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-279419.json"
+    },
+    {
+      "id": "eaton-article-284397",
+      "name": "M22-WLKV-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), Blue, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284397",
+      "recordPath": "equipment/eaton-article-284397.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284397.json"
+    },
+    {
+      "id": "eaton-article-284830",
+      "name": "M22-DDLM-GR-X1/X0 — Double actuator pushbutton, RMQ-Titan, Pushbutton actuator I and indicator light flush, pushbutton actuator 0 non-flush, momentary, White lens, green, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284830",
+      "recordPath": "equipment/eaton-article-284830.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284830.json"
+    },
+    {
+      "id": "eaton-article-284394",
+      "name": "M22-WLKV-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), red, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284394",
+      "recordPath": "equipment/eaton-article-284394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284394.json"
+    },
+    {
+      "id": "eaton-article-281584",
+      "name": "NZM4-XMV — Interlock, mechanical, size 4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281584",
+      "recordPath": "equipment/eaton-article-281584.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-281584.json"
+    },
+    {
+      "id": "eaton-article-279411",
+      "name": "M22-D4-S — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, 4-fold, opposing pushbuttons not mechanically interlocked, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-279411",
+      "recordPath": "equipment/eaton-article-279411.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-279411.json"
+    },
+    {
+      "id": "eaton-article-284814",
+      "name": "M22-DDLF-GR-X1/X0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights flush, momentary, White lens, green, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284814",
+      "recordPath": "equipment/eaton-article-284814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284814.json"
+    },
+    {
+      "id": "eaton-article-284395",
+      "name": "M22-WLKV-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), green, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284395",
+      "recordPath": "equipment/eaton-article-284395.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284395.json"
+    },
+    {
+      "id": "eaton-article-284393",
+      "name": "M22-WLKV-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), White, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284393",
+      "recordPath": "equipment/eaton-article-284393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284393.json"
+    },
+    {
+      "id": "eaton-article-279432",
+      "name": "M22S-WRK4 — Selector switch, RMQ-Titan, With thumb-grip, maintained, 4 positions, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-279432",
+      "recordPath": "equipment/eaton-article-279432.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-279432.json"
+    },
+    {
+      "id": "eaton-article-279413",
+      "name": "M22-D4-*-* — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, 4-fold, opposing pushbuttons not mechanically interlocked, selectable, individual facility for inscription, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-279413",
+      "recordPath": "equipment/eaton-article-279413.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-279413.json"
+    },
+    {
+      "id": "eaton-article-284832",
+      "name": "M22-DDLM-WS-X1/X0 — Double actuator pushbutton, RMQ-Titan, Pushbutton actuator I and indicator light flush, pushbutton actuator 0 non-flush, momentary, White lens, white, black, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284832",
+      "recordPath": "equipment/eaton-article-284832.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284832.json"
+    },
+    {
+      "id": "eaton-article-284540",
+      "name": "M22S-WLKV-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), green, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284540",
+      "recordPath": "equipment/eaton-article-284540.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284540.json"
+    },
+    {
+      "id": "eaton-article-281582",
+      "name": "NZM2-XMV — Interlock, mechanical, size 2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281582",
+      "recordPath": "equipment/eaton-article-281582.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-281582.json"
+    },
+    {
+      "id": "eaton-article-284399",
+      "name": "M22S-WLKV-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), red, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284399",
+      "recordPath": "equipment/eaton-article-284399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284399.json"
+    },
+    {
+      "id": "eaton-article-284544",
+      "name": "M22S-WLKV-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), Blue, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284544",
+      "recordPath": "equipment/eaton-article-284544.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284544.json"
+    },
+    {
+      "id": "eaton-article-284398",
+      "name": "M22S-WLKV-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), White, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284398",
+      "recordPath": "equipment/eaton-article-284398.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284398.json"
+    },
+    {
+      "id": "eaton-article-286337",
+      "name": "M22S-D4-S-X7 — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, black, 4-fold, opposing pushbuttons not mechanically interlocked, Bezel: black, arrow up",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-286337",
+      "recordPath": "equipment/eaton-article-286337.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-286337.json"
+    },
+    {
+      "id": "eaton-article-284815",
+      "name": "M22S-DDLF-GR-X1/X0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights flush, momentary, White lens, green, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284815",
+      "recordPath": "equipment/eaton-article-284815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284815.json"
+    },
+    {
+      "id": "eaton-article-284819",
+      "name": "M22S-DDLF-*-*-* — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights flush, momentary, White lens, selectable, individual facility for inscription, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284819",
+      "recordPath": "equipment/eaton-article-284819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284819.json"
+    },
+    {
+      "id": "eaton-article-284833",
+      "name": "M22S-DDLM-WS-X1/X0 — Double actuator pushbutton, RMQ-Titan, Pushbutton actuator I and indicator light flush, pushbutton actuator 0 non-flush, momentary, White lens, white, black, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284833",
+      "recordPath": "equipment/eaton-article-284833.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284833.json"
+    },
+    {
+      "id": "eaton-article-279412",
+      "name": "M22S-D4-S — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, 4-fold, opposing pushbuttons not mechanically interlocked, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-279412",
+      "recordPath": "equipment/eaton-article-279412.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-279412.json"
+    },
+    {
+      "id": "eaton-article-279414",
+      "name": "M22S-D4-*-* — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, 4-fold, opposing pushbuttons not mechanically interlocked, selectable, individual facility for inscription, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-279414",
+      "recordPath": "equipment/eaton-article-279414.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-279414.json"
+    },
+    {
+      "id": "eaton-article-286339",
+      "name": "M22S-DI4-S-X7 — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, 4-fold, opposing pushbuttons mechanically interlocked, Bezel: black, arrow up",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-286339",
+      "recordPath": "equipment/eaton-article-286339.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-286339.json"
+    },
+    {
+      "id": "eaton-article-286340",
+      "name": "M22-DI4-*-* — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, 4-fold, opposing pushbuttons mechanically interlocked, selectable, individual facility for inscription, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-286340",
+      "recordPath": "equipment/eaton-article-286340.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-286340.json"
+    },
+    {
+      "id": "eaton-article-284786",
+      "name": "M22-WR3-X7 — Selector switch, RMQ-Titan",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284786",
+      "recordPath": "equipment/eaton-article-284786.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284786.json"
+    },
+    {
+      "id": "eaton-article-284543",
+      "name": "M22S-WLKV-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), yellow, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284543",
+      "recordPath": "equipment/eaton-article-284543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284543.json"
+    },
+    {
+      "id": "eaton-article-284818",
+      "name": "M22-DDLF-*-*-* — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights flush, momentary, White lens, selectable, individual facility for inscription, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284818",
+      "recordPath": "equipment/eaton-article-284818.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284818.json"
+    },
+    {
+      "id": "eaton-article-284817",
+      "name": "M22S-DDLF-WS-X1/X0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights flush, momentary, White lens, white, black, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284817",
+      "recordPath": "equipment/eaton-article-284817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284817.json"
+    },
+    {
+      "id": "eaton-article-284831",
+      "name": "M22S-DDLM-GR-X1/X0 — Double actuator pushbutton, RMQ-Titan, Pushbutton actuator I and indicator light flush, pushbutton actuator 0 non-flush, momentary, White lens, green, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284831",
+      "recordPath": "equipment/eaton-article-284831.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284831.json"
+    },
+    {
+      "id": "eaton-article-279430",
+      "name": "M22S-WR4 — Selector switch, RMQ-Titan, With rotary head, maintained, 4 positions, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-279430",
+      "recordPath": "equipment/eaton-article-279430.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-279430.json"
+    },
+    {
+      "id": "eaton-article-284816",
+      "name": "M22-DDLF-WS-X1/X0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights flush, momentary, White lens, white, black, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-284816",
+      "recordPath": "equipment/eaton-article-284816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-284816.json"
+    },
+    {
+      "id": "eaton-article-286341",
+      "name": "M22S-DI4-*-* — Position pushbutton, RMQ-Titan, Actuators non-flush, momentary, 4-fold, opposing pushbuttons mechanically interlocked, selectable, individual facility for inscription, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-286341",
+      "recordPath": "equipment/eaton-article-286341.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-286341.json"
+    },
+    {
+      "id": "eaton-article-286053",
+      "name": "ZP-WHK — Auxiliary contact, for PLS, postal Code, PKNM, ZP-A40...-ASA...IHK...WHK, Z-MS, 1W, 0.5HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-286053",
+      "recordPath": "equipment/eaton-article-286053.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-286053.json"
+    },
+    {
+      "id": "eaton-article-184747",
+      "name": "C441LS — DeviceNet communication module, 24 V DC, for S811+ soft starter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-184747",
+      "recordPath": "equipment/eaton-article-184747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-184747.json"
+    },
+    {
+      "id": "eaton-article-184746",
+      "name": "C441QS — Communication module PROFIBUS, 24 V DC, for S811+ soft starter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-184746",
+      "recordPath": "equipment/eaton-article-184746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-184746.json"
+    },
+    {
+      "id": "eaton-article-118560",
+      "name": "DIL-SWD-32-001 — Function element, contactor, SmartWire-DT, DIL/MSC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-118560",
+      "recordPath": "equipment/eaton-article-118560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-118560.json"
+    },
+    {
+      "id": "eaton-article-180693",
+      "name": "DE11-122D3FN-N20NN01 — Variable speed starters, Rated operational voltage 230 V AC, 1-phase, Ie 2.3 A, 0.37 kW, 0.5 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180693",
+      "recordPath": "equipment/eaton-article-180693.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180693.json"
+    },
+    {
+      "id": "eaton-article-180697",
+      "name": "DE11-129D6FN-N20NN01 — Variable speed starters, Rated operational voltage 230 V AC, 1-phase, Ie 9.6 A, 2.2 kW, 3 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180697",
+      "recordPath": "equipment/eaton-article-180697.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180697.json"
+    },
+    {
+      "id": "eaton-article-180702",
+      "name": "DE11-346D6FN-N20NN01 — Variable speed starters, Rated operational voltage 400 V AC, 3-phase, Ie 6.6 A, 3 kW, 3 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180702",
+      "recordPath": "equipment/eaton-article-180702.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180702.json"
+    },
+    {
+      "id": "eaton-article-180703",
+      "name": "DE11-348D5FN-N20NN01 — Variable speed starters, Rated operational voltage 400 V AC, 3-phase, Ie 8.5 A, 4 kW, 5 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180703",
+      "recordPath": "equipment/eaton-article-180703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180703.json"
+    },
+    {
+      "id": "eaton-article-180700",
+      "name": "DE11-343D6FN-N20NN01 — Variable speed starters, Rated operational voltage 400 V AC, 3-phase, Ie 3.6 A, 1.5 kW, 2 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180700",
+      "recordPath": "equipment/eaton-article-180700.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180700.json"
+    },
+    {
+      "id": "eaton-article-180694",
+      "name": "DE11-122D7FN-N20NN01 — Variable speed starters, Rated operational voltage 230 V AC, 1-phase, Ie 2.7 A, 0.55 kW, 0.5 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180694",
+      "recordPath": "equipment/eaton-article-180694.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180694.json"
+    },
+    {
+      "id": "eaton-article-180696",
+      "name": "DE11-127D0FN-N20NN01 — Variable speed starters, Rated operational voltage 230 V AC, 1-phase, Ie 7 A, 1.5 kW, 2 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180696",
+      "recordPath": "equipment/eaton-article-180696.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180696.json"
+    },
+    {
+      "id": "eaton-article-180699",
+      "name": "DE11-342D1FN-N20NN01 — Variable speed starters, Rated operational voltage 400 V AC, 3-phase, Ie 2.1 A, 0.75 kW, 1 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180699",
+      "recordPath": "equipment/eaton-article-180699.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180699.json"
+    },
+    {
+      "id": "eaton-article-180704",
+      "name": "DE11-34011FN-N20NN01 — Variable speed starters, Rated operational voltage 400 V AC, 3-phase, Ie 11.3 A, 5.5 kW, 7.5 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180704",
+      "recordPath": "equipment/eaton-article-180704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180704.json"
+    },
+    {
+      "id": "eaton-article-180705",
+      "name": "DE11-34016FN-N20NN01 — Variable speed starters, Rated operational voltage 400 V AC, 3-phase, Ie 16 A, 7.5 kW, 10 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180705",
+      "recordPath": "equipment/eaton-article-180705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180705.json"
+    },
+    {
+      "id": "eaton-article-180698",
+      "name": "DE11-341D3FN-N20NN01 — Variable speed starters, Rated operational voltage 400 V AC, 3-phase, Ie 1.3 A, 0.37 kW, 0.5 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180698",
+      "recordPath": "equipment/eaton-article-180698.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180698.json"
+    },
+    {
+      "id": "eaton-article-180692",
+      "name": "DE11-121D4FN-N20NN01 — Variable speed starters, Rated operational voltage 230 V AC, 1-phase, Ie 1.4 A, 0.25 kW, 0.33 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180692",
+      "recordPath": "equipment/eaton-article-180692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180692.json"
+    },
+    {
+      "id": "eaton-article-180695",
+      "name": "DE11-124D3FN-N20NN01 — Variable speed starters, Rated operational voltage 230 V AC, 1-phase, Ie 4.3 A, 0.75 kW, 1 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180695",
+      "recordPath": "equipment/eaton-article-180695.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180695.json"
+    },
+    {
+      "id": "eaton-article-180701",
+      "name": "DE11-345D0FN-N20NN01 — Variable speed starters, Rated operational voltage 400 V AC, 3-phase, Ie 5 A, 2.2 kW, 3 HP, Radio interference suppression filter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-180701",
+      "recordPath": "equipment/eaton-article-180701.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-180701.json"
+    },
+    {
+      "id": "eaton-article-118561",
+      "name": "DIL-SWD-32-002 — Function element, contactor, SmartWire-DT, DIL/MSC, manual/auto",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-118561",
+      "recordPath": "equipment/eaton-article-118561.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-118561.json"
+    },
+    {
+      "id": "eaton-article-212313",
+      "name": "EASY620-DC-TE — I/O expansion, 24 V DC, 12DI, 8DO-Trans, easyLink",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-212313",
+      "recordPath": "equipment/eaton-article-212313.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-212313.json"
+    },
+    {
+      "id": "eaton-article-144063",
+      "name": "EU5E-SWD-2A2A — SWD I/O module, 2 analog inputs, 2 analog outputs, parameterizable 0-10V/0-20mA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-144063",
+      "recordPath": "equipment/eaton-article-144063.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-144063.json"
+    },
+    {
+      "id": "eaton-article-144062",
+      "name": "EU5E-SWD-4AX — I/O module, SmartWire-DT, 24 V DC, 4AI configurable 0-10V/0-20mA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-144062",
+      "recordPath": "equipment/eaton-article-144062.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-144062.json"
+    },
+    {
+      "id": "eaton-article-10e7221a115f6cafce9f0ef1",
+      "name": "XV-102-L6-57TVRC-10 — Touch panel XV-102, 24 V DC, 5.7 Inch, 1 x USB, 1 x RS-232, 1 x RS-485, 1 x CAN, Linux, Resistive touch, PLC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-10e7221a115f6cafce9f0ef1",
+      "recordPath": "equipment/eaton-article-10e7221a115f6cafce9f0ef1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-10e7221a115f6cafce9f0ef1.json"
+    },
+    {
+      "id": "eaton-article-8608d6020972e40919163613",
+      "name": "XV-102-L6-70TWRC-10 — Touch panel XV-102, 24 V DC, 7 Inch, 1 x USB, 1 x RS-232, 1 x RS-485, 1 x CAN, Linux, Resistive touch, PLC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8608d6020972e40919163613",
+      "recordPath": "equipment/eaton-article-8608d6020972e40919163613.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8608d6020972e40919163613.json"
+    },
+    {
+      "id": "eaton-article-8d007b1f1ecfc2c38975f230",
+      "name": "XV-102-L5-35TQRC-10 — Touch panel XV-102, 24 V DC, 3.5 Inch, 1 x USB, 1 x RS-232, Linux, Resistive touch, PLC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8d007b1f1ecfc2c38975f230",
+      "recordPath": "equipment/eaton-article-8d007b1f1ecfc2c38975f230.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8d007b1f1ecfc2c38975f230.json"
+    },
+    {
+      "id": "eaton-article-daf5ad1c3b525245394ff022",
+      "name": "XV-102-L6-35TQRC-10 — Touch panel XV-102, 24 V DC, 3.5 Inch, 1 x USB, 1 x RS-485, 1 x CAN, Linux, Resistive touch, PLC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-daf5ad1c3b525245394ff022",
+      "recordPath": "equipment/eaton-article-daf5ad1c3b525245394ff022.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-daf5ad1c3b525245394ff022.json"
+    },
+    {
+      "id": "eaton-article-db77898a850cdfceb3e41275",
+      "name": "S711-NET-PROFINET-2 — 2-port PROFINET communication module for S711 soft starter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-db77898a850cdfceb3e41275",
+      "recordPath": "equipment/eaton-article-db77898a850cdfceb3e41275.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-db77898a850cdfceb3e41275.json"
+    },
+    {
+      "id": "eaton-article-9eff9b07329c78574f598afe",
+      "name": "S711-NET-MODBUSTCP-2 — 2-port Modbus TCP communication module for S711 soft starter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9eff9b07329c78574f598afe",
+      "recordPath": "equipment/eaton-article-9eff9b07329c78574f598afe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9eff9b07329c78574f598afe.json"
+    },
+    {
+      "id": "eaton-article-76aafd7b280b0537ce5c1dc0",
+      "name": "S711-KEY-LCD — LCD control unit for S711 soft starter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-76aafd7b280b0537ce5c1dc0",
+      "recordPath": "equipment/eaton-article-76aafd7b280b0537ce5c1dc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-76aafd7b280b0537ce5c1dc0.json"
+    },
+    {
+      "id": "eaton-article-116382",
+      "name": "EU5E-SWD-4D4D — SWD I/O module, 24 V DC, 4 digital inputs, 4 digital transistor -outputs 0, 0.5A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-116382",
+      "recordPath": "equipment/eaton-article-116382.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-116382.json"
+    },
+    {
+      "id": "eaton-article-116381",
+      "name": "EU5E-SWD-8DX — I/O module, SmartWire-DT, 24 V DC, 8DI",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-116381",
+      "recordPath": "equipment/eaton-article-116381.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-116381.json"
+    },
+    {
+      "id": "eaton-article-172560",
+      "name": "EU5E-SWD-4PT-2 — SmartWire-DT I/O module, 24 V DC, 4 AI configurable Pt100 / Pt1000: -100 - +400°C, Ni1000: -50 - +200 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172560",
+      "recordPath": "equipment/eaton-article-172560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172560.json"
+    },
+    {
+      "id": "eaton-article-144061",
+      "name": "EU5E-SWD-X8D — I/O module, SmartWire-DT, 24 V DC, 8DO-Trans, 0.5A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-144061",
+      "recordPath": "equipment/eaton-article-144061.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-144061.json"
+    },
+    {
+      "id": "eaton-article-262152",
+      "name": "XC-CPU101-C64K-8DI-6DO — Modular PLC, 24 V DC, 8DI, 6DO, RS232, CAN, 64kB",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262152",
+      "recordPath": "equipment/eaton-article-262152.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262152.json"
+    },
+    {
+      "id": "eaton-article-274399",
+      "name": "XC-CPU101-C256K-8DI-6DO — Modular PLC, 24 V DC, 8DI, 6DO, RS232, CAN, 256kB",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-274399",
+      "recordPath": "equipment/eaton-article-274399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-274399.json"
+    },
+    {
+      "id": "eaton-article-144064",
+      "name": "EU5E-SWD-4PT — I/O module, SmartWire-DT, 24 V DC, 4AI configurable Pt100 / Pt1000: -50 - +200°C, Ni1000: -50 - +150 °C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-144064",
+      "recordPath": "equipment/eaton-article-144064.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-144064.json"
+    },
+    {
+      "id": "eaton-article-262146",
+      "name": "XC-CPU101-C128K-8DI-6DO — Modular PLC, 24 V DC, 8DI, 6DO, RS232, CAN, 128kB",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262146",
+      "recordPath": "equipment/eaton-article-262146.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262146.json"
+    },
+    {
+      "id": "eaton-article-168880",
+      "name": "SWD4-FFR-PF1-1 — Feeder module, SmartWire-DT, supply for contactors/cards of a local SWD segment",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-168880",
+      "recordPath": "equipment/eaton-article-168880.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-168880.json"
+    },
+    {
+      "id": "eaton-article-262409",
+      "name": "XIOC-2AI-1AO-U1 — Analog I/O module for XC100/200, 24 V DC, 2AI, 1AO(0-10V)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262409",
+      "recordPath": "equipment/eaton-article-262409.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262409.json"
+    },
+    {
+      "id": "eaton-article-262322",
+      "name": "XIOC-16DX — Digital I/O module for XC100/200, 24 V DC, 4DI and 12DI/DO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262322",
+      "recordPath": "equipment/eaton-article-262322.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262322.json"
+    },
+    {
+      "id": "eaton-article-281544",
+      "name": "XIOC-4AI-2AO-U1-I1 — Analog I/O module for XC100/200, 24 V DC, 4AI, 2AO(0-10V, 0-20mA)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281544",
+      "recordPath": "equipment/eaton-article-281544.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-281544.json"
+    },
+    {
+      "id": "eaton-article-281545",
+      "name": "XIOC-2AI-1AO-U1-I1 — Analog I/O module for XC100/200, 24 V DC, 2AI, 1AO(0-10V, 0-20mA)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281545",
+      "recordPath": "equipment/eaton-article-281545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-281545.json"
+    },
+    {
+      "id": "eaton-article-262405",
+      "name": "XIOC-4AI-2AO-U1 — Analog I/O module for XC100/200, 24 V DC, 4AI, 2AO(0-10V)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-262405",
+      "recordPath": "equipment/eaton-article-262405.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-262405.json"
+    },
+    {
+      "id": "eaton-article-183181",
+      "name": "XN-322-4AIO-U2 — Analog I/O module, 2 analog inputs and 2 analog outputs, +/-10 V, Uref",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183181",
+      "recordPath": "equipment/eaton-article-183181.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183181.json"
+    },
+    {
+      "id": "eaton-article-183178",
+      "name": "XN-322-8DIO-PD05 — Digital I/O module, 4 digital inputs and 4 digital outputs 24 V DC each, pulse-switching",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183178",
+      "recordPath": "equipment/eaton-article-183178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183178.json"
+    },
+    {
+      "id": "eaton-article-289169",
+      "name": "XC-CPU101-FC128K-8DI-6DO — Modular PLC, 24 V DC, 8DI, 6DO, RS232, optical CAN, 128kB",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-289169",
+      "recordPath": "equipment/eaton-article-289169.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-289169.json"
+    },
+    {
+      "id": "eaton-article-183182",
+      "name": "XN-322-4AIO-I — Analog I/O module, 2 analog inputs and 2 analog outputs, 0/4 to 20 mA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183182",
+      "recordPath": "equipment/eaton-article-183182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183182.json"
+    },
+    {
+      "id": "eaton-article-183179",
+      "name": "XN-322-16DIO-PD05 — Digital I/O module, 8 digital inputs and 8 digital outputs 24 V DC each, pulse-switching",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183179",
+      "recordPath": "equipment/eaton-article-183179.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183179.json"
+    }
+  ]
+}

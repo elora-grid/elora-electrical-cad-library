@@ -1,0 +1,171 @@
+# Weidmüller — HDC 10B SBU 2PG16G — Shell for rectangular connectors / Housing (industry plug-in connectors) Base housing, Side-locking clamp on lower side, Size: 4, IP65 (in plugged condition)
+
+Weidmüller HDC 10B SBU 2PG16G — Shell for rectangular connectors / Housing (industry plug-in connectors) Base housing, Side-locking clamp on lower side, Size: 4, IP65 (in plugged condition). Manufacturer CAD files for wiring equipment selection and layout, identified by article 1654380000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1654380000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1654380000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1654380000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/hdc-10b-sbu-2pg16g/p/1654380000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1654380000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: HDC 10B SBU 2PG16G — Shell for rectangular connectors / Housing (industry plug-in connectors) Base housing, Side-locking clamp on lower side, Size: 4, IP65 (in plugged condition)
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1654380000
+- Manufacturer reference: 1654380000
+- Manufacturer type: HDC 10B SBU 2PG16G
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1654380000 ([source](https://eshop.weidmueller.com.cn/en/hdc-10b-sbu-2pg16g/p/1654380000/downloads#engineering-support))
+- Manufacturer type: HDC 10B SBU 2PG16G ([source](https://eshop.weidmueller.com.cn/en/hdc-10b-sbu-2pg16g/p/1654380000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/hdc-10b-sbu-2pg16g/p/1654380000/downloads#engineering-support))
+
+## What the equipment does
+
+A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
+
+In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/hdc-10b-sbu-2pg16g/p/1654380000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1654380000. The files above belong to Weidmüller's HDC 10B SBU 2PG16G — Shell for rectangular connectors / Housing (industry plug-in connectors) Base housing, Side-locking clamp on lower side, Size: 4, IP65 (in plugged condition) resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller HDC 10B SBU 2PG16G — Shell for rectangular connectors / Housing (industry plug-in connectors) Base housing, Side-locking clamp on lower side, Size: 4, IP65 (in plugged condition): drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1654380000/native-c38e818c8883af575980392b-zip?asset=e5638d8f17371827fc77defb7a451be64850a68ba1760a3d95a626f2a8bd456c)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1654380000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1654380000)
+
+- 1654380000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1654380000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1654380000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1654380000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/9abcfe9d-ea56-4ad5-b9ea-c1aa6de1b1cf/original/1654380000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1654380000/native-c38e818c8883af575980392b-zip)
+- Redistribution: unknown
+- Original SHA-256: c38e818c8883af575980392b117b06497857e6d0cb9d79dd92eeec884aca784b
+- Original bytes: 63286
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/9abcfe9d-ea56-4ad5-b9ea-c1aa6de1b1cf/original/1654380000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 63286 bytes
+- Delivery SHA-256: c38e818c8883af575980392b117b06497857e6d0cb9d79dd92eeec884aca784b
+
+<details>
+<summary>Archive members</summary>
+
+- 1654380000\_back.DWG
+- 1654380000\_bottom.DWG
+- 1654380000\_front.DWG
+- 1654380000\_left.DWG
+- 1654380000\_right.DWG
+- 1654380000\_top.DWG
+
+</details>
+
+### 1654380000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/35fa8d30-eb5d-4715-8f25-595ae25ab309/original/1654380000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1654380000/native-f5efad771a769d9b0771fa46-step)
+- Redistribution: unknown
+- Original SHA-256: f5efad771a769d9b0771fa4684461db33133dc3d9304819de561a94cd19ad001
+- Original bytes: 478017
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/35fa8d30-eb5d-4715-8f25-595ae25ab309/original/1654380000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 85285 bytes
+- Delivery SHA-256: d210ce8ac8790a1a66e55699ce57f57b87f56afb58b23ec860ae217e59c6d968
+
+### 1654380000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/0c257826-b8ea-461e-8755-fd020902ecc9/original/1654380000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1654380000/native-73ead62090601dbfc479d8f5-zip)
+- Redistribution: unknown
+- Original SHA-256: 73ead62090601dbfc479d8f5bf8f9925e1836f94e0d3f0f8dd6c08debe7b8d49
+- Original bytes: 33864
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/0c257826-b8ea-461e-8755-fd020902ecc9/original/1654380000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 33864 bytes
+- Delivery SHA-256: 73ead62090601dbfc479d8f5bf8f9925e1836f94e0d3f0f8dd6c08debe7b8d49
+
+<details>
+<summary>Archive members</summary>
+
+- 1654380000\_back.DXF
+- 1654380000\_bottom.DXF
+- 1654380000\_front.DXF
+- 1654380000\_left.DXF
+- 1654380000\_right.DXF
+- 1654380000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

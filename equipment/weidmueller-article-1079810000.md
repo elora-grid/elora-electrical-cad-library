@@ -1,0 +1,171 @@
+# Weidmüller — HDC HP 550 F 95 — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, 550, HighPower 550 A, 95 mm², 23.5 mm, turned
+
+Weidmüller HDC HP 550 F 95 — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, 550, HighPower 550 A, 95 mm², 23.5 mm, turned. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1079810000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1079810000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1079810000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1079810000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/hdc-hp-550-f-95/p/1079810000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1079810000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: HDC HP 550 F 95 — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, 550, HighPower 550 A, 95 mm², 23.5 mm, turned
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1079810000
+- Manufacturer reference: 1079810000
+- Manufacturer type: HDC HP 550 F 95
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1079810000 ([source](https://eshop.weidmueller.com.cn/en/hdc-hp-550-f-95/p/1079810000/downloads#engineering-support))
+- Manufacturer type: HDC HP 550 F 95 ([source](https://eshop.weidmueller.com.cn/en/hdc-hp-550-f-95/p/1079810000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/hdc-hp-550-f-95/p/1079810000/downloads#engineering-support))
+
+## What the equipment does
+
+A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
+
+In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/hdc-hp-550-f-95/p/1079810000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1079810000. The files above belong to Weidmüller's HDC HP 550 F 95 — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, 550, HighPower 550 A, 95 mm², 23.5 mm, turned resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, ZIP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller HDC HP 550 F 95 — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, 550, HighPower 550 A, 95 mm², 23.5 mm, turned: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1079810000/native-baaf6938b622da98eca3c220-zip?asset=b838069d4fd5d33eddf6241b07b48c3de0072d475f97db8f1a5a0c61e0d5317e)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1079810000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1079810000)
+
+- 1079810000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1079810000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 1079810000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1079810000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b6b8254c-3819-45dc-ae90-b1167d19684a/original/1079810000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1079810000/native-4b048e6f324a9b9e151b82a1-step)
+- Redistribution: unknown
+- Original SHA-256: 4b048e6f324a9b9e151b82a17eb4e8a230f2f2b18a9416bf8d765e45f3283892
+- Original bytes: 255238
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b6b8254c-3819-45dc-ae90-b1167d19684a/original/1079810000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 47230 bytes
+- Delivery SHA-256: 3b9ef1771cc32cb8de46c4685a6af5f52d8caf0620bd2ac64f43600df5030e19
+
+### 1079810000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/329a1317-c3ff-47e2-b96a-549866cf7a70/original/1079810000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1079810000/native-baaf6938b622da98eca3c220-zip)
+- Redistribution: unknown
+- Original SHA-256: baaf6938b622da98eca3c22005da926bbebf8aca7bb96ca5158cc2bbcecce806
+- Original bytes: 35520
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/329a1317-c3ff-47e2-b96a-549866cf7a70/original/1079810000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 35520 bytes
+- Delivery SHA-256: baaf6938b622da98eca3c22005da926bbebf8aca7bb96ca5158cc2bbcecce806
+
+<details>
+<summary>Archive members</summary>
+
+- 1079810000\_back.DXF
+- 1079810000\_bottom.DXF
+- 1079810000\_front.DXF
+- 1079810000\_left.DXF
+- 1079810000\_right.DXF
+- 1079810000\_top.DXF
+
+</details>
+
+### 1079810000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/6730514d-6aff-4cc6-afc1-06300376a440/original/1079810000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1079810000/native-127014fddc94a49f1af55f57-zip)
+- Redistribution: unknown
+- Original SHA-256: 127014fddc94a49f1af55f574c7d580f35a87b939464f180ea09da40b3ea56f8
+- Original bytes: 42902
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/6730514d-6aff-4cc6-afc1-06300376a440/original/1079810000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 42902 bytes
+- Delivery SHA-256: 127014fddc94a49f1af55f574c7d580f35a87b939464f180ea09da40b3ea56f8
+
+<details>
+<summary>Archive members</summary>
+
+- 1079810000\_back.DWG
+- 1079810000\_bottom.DWG
+- 1079810000\_front.DWG
+- 1079810000\_left.DWG
+- 1079810000\_right.DWG
+- 1079810000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

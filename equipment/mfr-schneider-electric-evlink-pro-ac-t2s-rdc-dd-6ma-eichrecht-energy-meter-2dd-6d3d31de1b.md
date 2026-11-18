@@ -29,7 +29,7 @@ Use the manufacturer configuration named EVlink Pro AC T2S RDC-DD 6mA Eichrecht 
 - Available previews: 1 drawing previews
 - Recorded revisions: 1.1
 - Source checked: 2026-11-11
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 

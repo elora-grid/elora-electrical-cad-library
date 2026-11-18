@@ -1,0 +1,147 @@
+# Eaton — DILM115-22(RAC120) — Contactor, 380 V 400 V 55 kW, 2 N/O, 2 NC, RAC 120: 110 - 120 V 50/60 Hz, AC operation, Screw terminals
+
+Eaton DILM115-22(RAC120) — Contactor, 380 V 400 V 55 kW, 2 N/O, 2 NC, RAC 120: 110 - 120 V 50/60 Hz, AC operation, Screw terminals. Manufacturer CAD files for wiring equipment selection and layout, identified by article 239577.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239577) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-239577.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-239577.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 239577
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Download the retained manufacturer CAD originals from this library. ZIP packages contain the unchanged named native CAD file; manufacturer archive provenance is retained separately.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: DILM115-22(RAC120) — Contactor, 380 V 400 V 55 kW, 2 N/O, 2 NC, RAC 120: 110 - 120 V 50/60 Hz, AC operation, Screw terminals
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 239577
+- Manufacturer reference: 239577
+- Manufacturer type: DILM115-22(RAC120)
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 239577 ([source](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip))
+- Manufacturer type: DILM115-22(RAC120) ([source](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip)
+
+## Choosing a file
+
+Start with 239577. The files above belong to Eaton's DILM115-22(RAC120) — Contactor, 380 V 400 V 55 kW, 2 N/O, 2 NC, RAC 120: 110 - 120 V 50/60 Hz, AC operation, Screw terminals resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Eaton DILM115-22(RAC120) — Contactor, 380 V 400 V 55 kW, 2 N/O, 2 NC, RAC 120: 110 - 120 V 50/60 Hz, AC operation, Screw terminals: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-239577/native-80a273cdb6fbf241f20ccb1a-dwg?asset=80a273cdb6fbf241f20ccb1a646a5671cd9b4352559008be33e5c4985ad6294f)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239577). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/eaton-article-239577)
+
+- dil\_m80\_150\_22.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-iec-contactors-mcad-drawings-dil-m80-150-22.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-iec-contactors-mcad-drawings-dil-m80-170.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### dil\_m80\_150\_22.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-239577/native-c6a7d046f31b0aba68c73e2d-step)
+- Redistribution: unknown
+- Original SHA-256: c6a7d046f31b0aba68c73e2d8b5ac47d234f3517272be0b18dd29afe22e65647
+- Original bytes: 1614035
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 226344 bytes
+- Delivery SHA-256: 52f67109c89cab647dd9a5558fd07d27e6ae0b8a411beda4182331345874529f
+
+### eaton-iec-contactors-mcad-drawings-dil-m80-150-22.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-239577/native-80a273cdb6fbf241f20ccb1a-dwg)
+- Redistribution: unknown
+- Original SHA-256: 80a273cdb6fbf241f20ccb1a646a5671cd9b4352559008be33e5c4985ad6294f
+- Original bytes: 636896
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 521534 bytes
+- Delivery SHA-256: 8e14f755e72d59f0bfe881506504b0436dee2802bf7a79bbcf496ffe6d9bd17c
+
+### eaton-iec-contactors-mcad-drawings-dil-m80-170.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-239577/native-fc7801381d5684acc06ac681-dwg)
+- Redistribution: unknown
+- Original SHA-256: fc7801381d5684acc06ac681b7fb5175949371e4d268ebbbd5875cd772f942c4
+- Original bytes: 495264
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/64df0dc8-994c-4562-a831-17676eab70f6/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 388652 bytes
+- Delivery SHA-256: 7071ea29fd9d92795122849dacfb87b200bd94996528224a00bf3e002e0e5dce
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

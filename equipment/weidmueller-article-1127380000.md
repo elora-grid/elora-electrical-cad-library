@@ -1,0 +1,171 @@
+# Weidmüller — TOZ 24-230VUC 24VDC2A — Optocoupler (relay) / Solid-state relay, 24...230 V UC ±10 %, Rectifier 3...33 V DC, 2 A, Tension-clamp connection
+
+Weidmüller TOZ 24-230VUC 24VDC2A — Optocoupler (relay) / Solid-state relay, 24...230 V UC ±10 %, Rectifier 3...33 V DC, 2 A, Tension-clamp connection. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1127380000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1127380000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1127380000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1127380000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/toz-24-230vuc-24vdc2a/p/1127380000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1127380000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: TOZ 24-230VUC 24VDC2A — Optocoupler (relay) / Solid-state relay, 24...230 V UC ±10 %, Rectifier 3...33 V DC, 2 A, Tension-clamp connection
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1127380000
+- Manufacturer reference: 1127380000
+- Manufacturer type: TOZ 24-230VUC 24VDC2A
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1127380000 ([source](https://eshop.weidmueller.com.cn/en/toz-24-230vuc-24vdc2a/p/1127380000/downloads#engineering-support))
+- Manufacturer type: TOZ 24-230VUC 24VDC2A ([source](https://eshop.weidmueller.com.cn/en/toz-24-230vuc-24vdc2a/p/1127380000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/toz-24-230vuc-24vdc2a/p/1127380000/downloads#engineering-support))
+
+## What the equipment does
+
+An electrical isolator passes information or energy between circuits without a direct conducting connection across its isolation barrier.
+
+Inside a substation relay, an isolation interface can pass a measurement or command between separate electronic circuits.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/toz-24-230vuc-24vdc2a/p/1127380000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1127380000. The files above belong to Weidmüller's TOZ 24-230VUC 24VDC2A — Optocoupler (relay) / Solid-state relay, 24...230 V UC ±10 %, Rectifier 3...33 V DC, 2 A, Tension-clamp connection resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller TOZ 24-230VUC 24VDC2A — Optocoupler (relay) / Solid-state relay, 24...230 V UC ±10 %, Rectifier 3...33 V DC, 2 A, Tension-clamp connection: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1127380000/native-06461aa181278b3d6904a814-zip?asset=4807ede0275caa7df2c33aa9115826282a01befffefbe40fceb657a910f3f6a4)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1127380000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1127380000)
+
+- 1127380000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1127380000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1127380000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1127380000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/54152c77-176f-42a1-8b6f-99f0be1ac2ff/original/1127380000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1127380000/native-06461aa181278b3d6904a814-zip)
+- Redistribution: unknown
+- Original SHA-256: 06461aa181278b3d6904a8145ada56c63f8189616498f14d66fc0a397323dd15
+- Original bytes: 170413
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/54152c77-176f-42a1-8b6f-99f0be1ac2ff/original/1127380000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 170413 bytes
+- Delivery SHA-256: 06461aa181278b3d6904a8145ada56c63f8189616498f14d66fc0a397323dd15
+
+<details>
+<summary>Archive members</summary>
+
+- 1127380000\_back.DWG
+- 1127380000\_bottom.DWG
+- 1127380000\_front.DWG
+- 1127380000\_left.DWG
+- 1127380000\_right.DWG
+- 1127380000\_top.DWG
+
+</details>
+
+### 1127380000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/304654bc-a58a-473f-acec-1b387c131737/original/1127380000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1127380000/native-3cb892d8a4c9d37243681734-step)
+- Redistribution: unknown
+- Original SHA-256: 3cb892d8a4c9d37243681734f07aaa8bf895f1ed22dda06feeec9d8a7bd1b240
+- Original bytes: 1481898
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/304654bc-a58a-473f-acec-1b387c131737/original/1127380000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 247187 bytes
+- Delivery SHA-256: deb2eadb47b16d2e7f43eac5a7d895430695b91864afb8e1b56ca942714ac460
+
+### 1127380000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/a30ead48-501d-4f88-9495-53c4add84dff/original/1127380000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1127380000/native-2de2ff7c24f28071265f3937-zip)
+- Redistribution: unknown
+- Original SHA-256: 2de2ff7c24f28071265f39373adc081a46402fc29ff1263bae852ab0328964d4
+- Original bytes: 140185
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/a30ead48-501d-4f88-9495-53c4add84dff/original/1127380000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 140185 bytes
+- Delivery SHA-256: 2de2ff7c24f28071265f39373adc081a46402fc29ff1263bae852ab0328964d4
+
+<details>
+<summary>Archive members</summary>
+
+- 1127380000\_back.DXF
+- 1127380000\_bottom.DXF
+- 1127380000\_front.DXF
+- 1127380000\_left.DXF
+- 1127380000\_right.DXF
+- 1127380000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

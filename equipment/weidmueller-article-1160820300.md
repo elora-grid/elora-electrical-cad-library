@@ -1,0 +1,171 @@
+# Weidmüller — SAIL-M8G-4S3.0UIE — Copper data cable (Assembled) / Copper data cable (Assembled), One end without connector, Number of poles: 4, Cable length: 3 m, pin, straight
+
+Weidmüller SAIL-M8G-4S3.0UIE — Copper data cable (Assembled) / Copper data cable (Assembled), One end without connector, Number of poles: 4, Cable length: 3 m, pin, straight. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1160820300.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1160820300) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1160820300.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1160820300.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/sail-m8g-4s3-0uie/p/1160820300/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1160820300
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: SAIL-M8G-4S3.0UIE — Copper data cable (Assembled) / Copper data cable (Assembled), One end without connector, Number of poles: 4, Cable length: 3 m, pin, straight
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1160820300
+- Manufacturer reference: 1160820300
+- Manufacturer type: SAIL-M8G-4S3.0UIE
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1160820300 ([source](https://eshop.weidmueller.com.cn/en/sail-m8g-4s3-0uie/p/1160820300/downloads#engineering-support))
+- Manufacturer type: SAIL-M8G-4S3.0UIE ([source](https://eshop.weidmueller.com.cn/en/sail-m8g-4s3-0uie/p/1160820300/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/sail-m8g-4s3-0uie/p/1160820300/downloads#engineering-support))
+
+## What the equipment does
+
+A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
+
+In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/sail-m8g-4s3-0uie/p/1160820300/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1160820300. The files above belong to Weidmüller's SAIL-M8G-4S3.0UIE — Copper data cable (Assembled) / Copper data cable (Assembled), One end without connector, Number of poles: 4, Cable length: 3 m, pin, straight resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, ZIP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller SAIL-M8G-4S3.0UIE — Copper data cable (Assembled) / Copper data cable (Assembled), One end without connector, Number of poles: 4, Cable length: 3 m, pin, straight: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1160820300/native-76cd5ae40621bf793bba02ad-zip?asset=2e9736d61f2301b8ea965abfad1d05ac3a9934611bcd3e959ebfa18652b86abb)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1160820300). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1160820300)
+
+- 1160820200.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1160820300\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1160820300\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1160820200.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/01f48c8a-9d2a-42b4-ba47-b30ceed39949/original/1160820200.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1160820300/native-524f27eff72c69dc4a768082-step)
+- Redistribution: unknown
+- Original SHA-256: 524f27eff72c69dc4a768082fc60819277b2dcf4e0200ebaa117ce322461d930
+- Original bytes: 413047
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/01f48c8a-9d2a-42b4-ba47-b30ceed39949/original/1160820200.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 78000 bytes
+- Delivery SHA-256: 256d289aaf88eda23feb85554de95b6800e32519a7c8ff95378022e886242010
+
+### 1160820300\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b8679f79-b5e4-46ad-8b7c-e69905ba39ae/original/1160820300_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1160820300/native-76cd5ae40621bf793bba02ad-zip)
+- Redistribution: unknown
+- Original SHA-256: 76cd5ae40621bf793bba02ade9c2cabad9e7d94a1f2c4209292c1d42e0f25852
+- Original bytes: 63012
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b8679f79-b5e4-46ad-8b7c-e69905ba39ae/original/1160820300_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 63012 bytes
+- Delivery SHA-256: 76cd5ae40621bf793bba02ade9c2cabad9e7d94a1f2c4209292c1d42e0f25852
+
+<details>
+<summary>Archive members</summary>
+
+- 1160820300\_back.DWG
+- 1160820300\_bottom.DWG
+- 1160820300\_front.DWG
+- 1160820300\_left.DWG
+- 1160820300\_right.DWG
+- 1160820300\_top.DWG
+
+</details>
+
+### 1160820300\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/a5e01786-1b52-462a-b39f-ce17cd27c48e/original/1160820300_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1160820300/native-4d650b5449d264317cb668c9-zip)
+- Redistribution: unknown
+- Original SHA-256: 4d650b5449d264317cb668c98c8f0afba60938d9bb46a6cb6839351b8031f167
+- Original bytes: 50066
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/a5e01786-1b52-462a-b39f-ce17cd27c48e/original/1160820300_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 50066 bytes
+- Delivery SHA-256: 4d650b5449d264317cb668c98c8f0afba60938d9bb46a6cb6839351b8031f167
+
+<details>
+<summary>Archive members</summary>
+
+- 1160820300\_back.DXF
+- 1160820300\_bottom.DXF
+- 1160820300\_front.DXF
+- 1160820300\_left.DXF
+- 1160820300\_right.DXF
+- 1160820300\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

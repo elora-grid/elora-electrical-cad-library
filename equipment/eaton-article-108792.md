@@ -27,10 +27,10 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available native formats: DWG / STEP
 - Listed file formats: DWG, STEP
 - Listed files: 2
-- Available previews: No browser preview; original files are downloadable
+- Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -65,6 +65,12 @@ Eaton supplied the original files through https://ecat.eaton.com/downloads/cbb5b
 ## Choosing a file
 
 Use zb65.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified zb65.stp. Use zb65.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified zb65.dwg.
+
+## Preview
+
+![Eaton ZB65-75 — Overload relay, ZB65, Ir= 65 - 75 A, 1 N/O, 1 N/C, Direct mounting, IP00: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-108792/native-f0b07c88b9f48b5045e1a9bc-dwg?asset=f0b07c88b9f48b5045e1a9bce824ee430630205ded969a1cf7daf3083b4c957c)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-108792). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 

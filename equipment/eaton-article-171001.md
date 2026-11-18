@@ -1,0 +1,125 @@
+# Eaton — FRBM4-C25/3N/003-A — RCD/MCB combination, 25 A, 30 mA, MCB trip characteristic: C, 3p+N, RCD trip characteristic: A
+
+Eaton FRBM4-C25/3N/003-A — RCD/MCB combination, 25 A, 30 mA, MCB trip characteristic: C, 3p+N, RCD trip characteristic: A. Manufacturer CAD files for breakers equipment selection and layout, identified by article 171001.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171001) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-171001.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-171001.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip)
+
+- Category: Breakers & accessories
+- Entry type: product
+- Part number: 171001
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Download the retained manufacturer CAD originals from this library. ZIP packages contain the unchanged named native CAD file; manufacturer archive provenance is retained separately.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: FRBM4-C25/3N/003-A — RCD/MCB combination, 25 A, 30 mA, MCB trip characteristic: C, 3p+N, RCD trip characteristic: A
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 171001
+- Manufacturer reference: 171001
+- Manufacturer type: FRBM4-C25/3N/003-A
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 171001 ([source](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip))
+- Manufacturer type: FRBM4-C25/3N/003-A ([source](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+In a substation, the feeder breaker opens when the protection system detects a fault on the outgoing circuit.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip)
+
+## Choosing a file
+
+Start with 171001. The files above belong to Eaton's FRBM4-C25/3N/003-A — RCD/MCB combination, 25 A, 30 mA, MCB trip characteristic: C, 3p+N, RCD trip characteristic: A resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Eaton FRBM4-C25/3N/003-A — RCD/MCB combination, 25 A, 30 mA, MCB trip characteristic: C, 3p+N, RCD trip characteristic: A: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-171001/native-5be491ecbef20cf7bcc9c1f7-dwg?asset=5be491ecbef20cf7bcc9c1f7d4f8347291cf80d97e59b60c1c97c462402784bb)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171001). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/eaton-article-171001)
+
+- eaton-rcd-with-overcurrent-protection-3d-models-frbm-3n-rcbo.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-rcbo-mcad-drawings-frbm-3n-rcbo.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### eaton-rcd-with-overcurrent-protection-3d-models-frbm-3n-rcbo.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-171001/native-0c5e256b5299babcb1848864-step)
+- Redistribution: unknown
+- Original SHA-256: 0c5e256b5299babcb1848864d8d33cc34f6bd533842dbd3a796079e80baea401
+- Original bytes: 550064
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 92853 bytes
+- Delivery SHA-256: b27150bc4176981e20dab8ba2996f79cb808fa8df4b168c0075f156ca32a20b3
+
+### eaton-rcbo-mcad-drawings-frbm-3n-rcbo.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-171001/native-5be491ecbef20cf7bcc9c1f7-dwg)
+- Redistribution: unknown
+- Original SHA-256: 5be491ecbef20cf7bcc9c1f7d4f8347291cf80d97e59b60c1c97c462402784bb
+- Original bytes: 534560
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/e1d60655-8fb6-419d-b27c-c5d5fb285c6c/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 469133 bytes
+- Delivery SHA-256: f40b8f3f9cc94d9d00b37acbfcd02191ba89f2b2e30e9277b32ab705207632f2
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

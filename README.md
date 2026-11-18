@@ -4,7 +4,7 @@ Open catalogue of official manufacturer CAD, BIM and electrical engineering draw
 
 **[Search and download CAD on Elora](https://eloragrid.ai/tools/cad-library)** · [Full JSON (gzip)](data/catalogue.json.gz) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)
 
-The current snapshot contains **56,512 catalogue entries**, **397 manufacturers**, **19 equipment categories**, and **78,018 public Elora download entries** representing **44,692 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
+The current snapshot contains **76,512 catalogue entries**, **397 manufacturers**, **19 equipment categories**, and **114,366 public Elora download entries** representing **69,809 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
 
 ## Find CAD
 
@@ -15,9 +15,9 @@ The current snapshot contains **56,512 catalogue entries**, **397 manufacturers*
 - [API guide](docs/api.md), [MCP connection guide](docs/mcp.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access and current rollout discovery.
 - [Coverage audit](https://eloragrid.ai/tools/cad-library/coverage): collection gaps and acquisition priorities.
 
-The snapshot includes **1175 individually identified drawing entries** and **35627 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
+The snapshot includes **1175 individually identified drawing entries** and **49841 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
 
-The feed lists **85,115 files** in total. Artifact decisions are recorded separately: **81,209 public**, **3,171 requiring a CAD account** and **735 requiring review**. A public classification alone does not mean a hosted attachment is available.
+The feed lists **131,711 files** in total. Artifact decisions are recorded separately: **127,805 public**, **3,171 requiring a CAD account** and **735 requiring review**. A public classification alone does not mean a hosted attachment is available.
 
 Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.
 

@@ -1,0 +1,171 @@
+# Weidmüller — H0,5/14D W BD — Cable end sleeve / Wire end ferrule, Standard, 0.5 mm², Stripping length: 10 mm, white
+
+Weidmüller H0,5/14D W BD — Cable end sleeve / Wire end ferrule, Standard, 0.5 mm², Stripping length: 10 mm, white. Manufacturer CAD files for wiring equipment selection and layout, identified by article 9004280000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004280000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004280000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9004280000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/h0514d-w-bd/p/9004280000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 9004280000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: H0,5/14D W BD — Cable end sleeve / Wire end ferrule, Standard, 0.5 mm², Stripping length: 10 mm, white
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 9004280000
+- Manufacturer reference: 9004280000
+- Manufacturer type: H0,5/14D W BD
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 9004280000 ([source](https://eshop.weidmueller.com.cn/en/h0514d-w-bd/p/9004280000/downloads#engineering-support))
+- Manufacturer type: H0,5/14D W BD ([source](https://eshop.weidmueller.com.cn/en/h0514d-w-bd/p/9004280000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/h0514d-w-bd/p/9004280000/downloads#engineering-support))
+
+## What the equipment does
+
+Conductors carry electrical power or signals between equipment. The drawing marks show which paths connect and which simply pass one another.
+
+In a substation control panel, the wiring diagram lets a technician trace a trip signal from a relay through terminals to the breaker circuit.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/h0514d-w-bd/p/9004280000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 9004280000. The files above belong to Weidmüller's H0,5/14D W BD — Cable end sleeve / Wire end ferrule, Standard, 0.5 mm², Stripping length: 10 mm, white resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller H0,5/14D W BD — Cable end sleeve / Wire end ferrule, Standard, 0.5 mm², Stripping length: 10 mm, white: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-9004280000/native-3816a0f0951117a4e33e2bc2-zip?asset=57637ec3dfbd85f9a3b25976603f7b6459bb7dc0022b339dcdb0bdb3fb4e4019)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9004280000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-9004280000)
+
+- 9004280000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 9004280000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 9004280000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 9004280000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/57dda680-baf4-49db-9eb5-6049bd2830c1/original/9004280000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-9004280000/native-3816a0f0951117a4e33e2bc2-zip)
+- Redistribution: unknown
+- Original SHA-256: 3816a0f0951117a4e33e2bc2964ddc8beb287c5b099867e4c8df4471b37cd52a
+- Original bytes: 44052
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/57dda680-baf4-49db-9eb5-6049bd2830c1/original/9004280000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 44052 bytes
+- Delivery SHA-256: 3816a0f0951117a4e33e2bc2964ddc8beb287c5b099867e4c8df4471b37cd52a
+
+<details>
+<summary>Archive members</summary>
+
+- 9004280000\_back.DWG
+- 9004280000\_bottom.DWG
+- 9004280000\_front.DWG
+- 9004280000\_left.DWG
+- 9004280000\_right.DWG
+- 9004280000\_top.DWG
+
+</details>
+
+### 9004280000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/6fec5abe-6b03-4dd9-a1da-4eb55eb9dbe0/original/9004280000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-9004280000/native-c307c47a33419930ae673e29-step)
+- Redistribution: unknown
+- Original SHA-256: c307c47a33419930ae673e294af307d77f142a250813335b118caf489fb257e4
+- Original bytes: 23569
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/6fec5abe-6b03-4dd9-a1da-4eb55eb9dbe0/original/9004280000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 5178 bytes
+- Delivery SHA-256: 290fe7198006128216a46c066ae5fd2c79d2802c505f4b37750122dec391595b
+
+### 9004280000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/a232be86-68fd-438c-a7f6-4e57e7abae1b/original/9004280000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-9004280000/native-15f6efa0bf5c56b09126b8da-zip)
+- Redistribution: unknown
+- Original SHA-256: 15f6efa0bf5c56b09126b8dad666a8786d3ac1510d13d6ee69f772eb3360a3a4
+- Original bytes: 24406
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/a232be86-68fd-438c-a7f6-4e57e7abae1b/original/9004280000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 24406 bytes
+- Delivery SHA-256: 15f6efa0bf5c56b09126b8dad666a8786d3ac1510d13d6ee69f772eb3360a3a4
+
+<details>
+<summary>Archive members</summary>
+
+- 9004280000\_back.DXF
+- 9004280000\_bottom.DXF
+- 9004280000\_front.DXF
+- 9004280000\_left.DXF
+- 9004280000\_right.DXF
+- 9004280000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

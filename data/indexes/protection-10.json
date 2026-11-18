@@ -1,0 +1,1231 @@
+{
+  "schemaVersion": 1,
+  "category": "protection",
+  "page": 10,
+  "entries": [
+    {
+      "id": "eaton-article-265291",
+      "name": "Z-S110/W — Impulse relay, 110AC, 1 W, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265291",
+      "recordPath": "equipment/eaton-article-265291.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265291.json"
+    },
+    {
+      "id": "eaton-article-265537",
+      "name": "Z-S24/SS — Impulse relay, 24AC/12DC, 2NO, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265537",
+      "recordPath": "equipment/eaton-article-265537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265537.json"
+    },
+    {
+      "id": "eaton-article-265276",
+      "name": "Z-S25/SS — Impulse relay, 24AC, 2S, 16A, 60Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265276",
+      "recordPath": "equipment/eaton-article-265276.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265276.json"
+    },
+    {
+      "id": "eaton-article-265535",
+      "name": "Z-S24/S — Impulse relay, 24AC/12DC, 1NO, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265535",
+      "recordPath": "equipment/eaton-article-265535.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265535.json"
+    },
+    {
+      "id": "eaton-article-265543",
+      "name": "Z-S24/WW — Impulse relay, 24AC/12DC, 2W, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265543",
+      "recordPath": "equipment/eaton-article-265543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265543.json"
+    },
+    {
+      "id": "eaton-article-265287",
+      "name": "Z-S12/SO — Impulse relay, 12AC, 1NO+1NC, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265287",
+      "recordPath": "equipment/eaton-article-265287.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265287.json"
+    },
+    {
+      "id": "eaton-article-265321",
+      "name": "Z-SC230/3S — Impulse relay, central control, 230AC, 3NO, 16A, 50/60Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265321",
+      "recordPath": "equipment/eaton-article-265321.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265321.json"
+    },
+    {
+      "id": "eaton-article-265327",
+      "name": "Z-SC230/2S1O — Impulse relay, central control, 230AC, 2NO+1NC, 16A, 50/60Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265327",
+      "recordPath": "equipment/eaton-article-265327.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265327.json"
+    },
+    {
+      "id": "eaton-article-265579",
+      "name": "Z-TN230/4S — Pre-selection relay, 230VAC/50Hz, 4N/O, 20A, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265579",
+      "recordPath": "equipment/eaton-article-265579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265579.json"
+    },
+    {
+      "id": "eaton-article-265319",
+      "name": "Z-S7/WW — Impulse relay, 8DC, 2W, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265319",
+      "recordPath": "equipment/eaton-article-265319.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265319.json"
+    },
+    {
+      "id": "eaton-article-265274",
+      "name": "Z-S109/SS — Impulse relay, 110DC, 2 N/O, 16A, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265274",
+      "recordPath": "equipment/eaton-article-265274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265274.json"
+    },
+    {
+      "id": "eaton-article-265302",
+      "name": "Z-SB24/SS — Impulse relay +LED, 24AC, 2S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265302",
+      "recordPath": "equipment/eaton-article-265302.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265302.json"
+    },
+    {
+      "id": "eaton-article-265534",
+      "name": "Z-S48/S — Impulse relay, 48AC/24DC, 1NO, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265534",
+      "recordPath": "equipment/eaton-article-265534.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265534.json"
+    },
+    {
+      "id": "eaton-article-265281",
+      "name": "Z-S7/SS — Impulse relay, 8DC, 2S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265281",
+      "recordPath": "equipment/eaton-article-265281.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265281.json"
+    },
+    {
+      "id": "eaton-article-265318",
+      "name": "Z-S8/WW — Impulse relay, 8AC, 2W, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265318",
+      "recordPath": "equipment/eaton-article-265318.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265318.json"
+    },
+    {
+      "id": "eaton-article-265536",
+      "name": "Z-S48/SS — Impulse relay, 48AC/24DC, 2NO, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265536",
+      "recordPath": "equipment/eaton-article-265536.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265536.json"
+    },
+    {
+      "id": "eaton-article-265304",
+      "name": "Z-S240/2S2O — Impulse relay, 240AC, 2 N/O, 2 N/C, 16A, 50Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265304",
+      "recordPath": "equipment/eaton-article-265304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265304.json"
+    },
+    {
+      "id": "eaton-article-265313",
+      "name": "Z-S110/WW — Impulse relay, 110AC, 2 W, 16A, 50Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265313",
+      "recordPath": "equipment/eaton-article-265313.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265313.json"
+    },
+    {
+      "id": "eaton-article-265290",
+      "name": "Z-S230/W — Impulse relay, 230AC, 1W, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265290",
+      "recordPath": "equipment/eaton-article-265290.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265290.json"
+    },
+    {
+      "id": "eaton-article-265271",
+      "name": "Z-S230/SS — Impulse relay, 230AC, 2S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265271",
+      "recordPath": "equipment/eaton-article-265271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265271.json"
+    },
+    {
+      "id": "eaton-article-265324",
+      "name": "Z-SC230/1S1W — Impulse relay, central control, 230AC, 1NO, 1W, 16A, 50/60Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265324",
+      "recordPath": "equipment/eaton-article-265324.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265324.json"
+    },
+    {
+      "id": "eaton-article-265314",
+      "name": "Z-S109/WW — Impulse relay, 110DC, 2 W, 16A, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265314",
+      "recordPath": "equipment/eaton-article-265314.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265314.json"
+    },
+    {
+      "id": "eaton-article-265299",
+      "name": "Z-SC230/S — Impulse relay +central control, 230AC, 1S, 16A, 50/60Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265299",
+      "recordPath": "equipment/eaton-article-265299.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265299.json"
+    },
+    {
+      "id": "eaton-article-265263",
+      "name": "Z-S110/S — Impulse relay, 110AC, 1 N/O, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265263",
+      "recordPath": "equipment/eaton-article-265263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265263.json"
+    },
+    {
+      "id": "eaton-article-265300",
+      "name": "Z-SC24/S — Impulse relay +central control, 24AC, 1S, 16A, 50/60Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265300",
+      "recordPath": "equipment/eaton-article-265300.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265300.json"
+    },
+    {
+      "id": "eaton-article-265309",
+      "name": "Z-S12/2S2O — Impulse relay, 12AC, 2NO+2NC, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265309",
+      "recordPath": "equipment/eaton-article-265309.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265309.json"
+    },
+    {
+      "id": "eaton-article-265320",
+      "name": "Z-SC240/3S — Impulse relay with central control, 240AC, 3 N/O, 16A, 50/60Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265320",
+      "recordPath": "equipment/eaton-article-265320.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265320.json"
+    },
+    {
+      "id": "eaton-article-265545",
+      "name": "Z-S24/W — Impulse relay, 24AC/12DC, 1W, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265545",
+      "recordPath": "equipment/eaton-article-265545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265545.json"
+    },
+    {
+      "id": "eaton-article-265266",
+      "name": "Z-S12/S — Impulse relay, 12AC, 1S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265266",
+      "recordPath": "equipment/eaton-article-265266.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265266.json"
+    },
+    {
+      "id": "eaton-article-265312",
+      "name": "Z-S230/WW — Impulse relay, 230AC, 2W, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265312",
+      "recordPath": "equipment/eaton-article-265312.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265312.json"
+    },
+    {
+      "id": "eaton-article-265296",
+      "name": "Z-S12/W — Impulse relay, 12AC, 1W, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265296",
+      "recordPath": "equipment/eaton-article-265296.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265296.json"
+    },
+    {
+      "id": "eaton-article-265306",
+      "name": "Z-S110/2S2O — Impulse relay, 110AC, 2 N/O, 2 N/C, 16A, 50Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265306",
+      "recordPath": "equipment/eaton-article-265306.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265306.json"
+    },
+    {
+      "id": "eaton-article-265305",
+      "name": "Z-S230/2S2O — Impulse relay, 230AC, 2NO+2NC, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265305",
+      "recordPath": "equipment/eaton-article-265305.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265305.json"
+    },
+    {
+      "id": "eaton-article-265540",
+      "name": "Z-S48/2S2O — Impulse relay, 48AC/24DC, 2NO+2NC, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265540",
+      "recordPath": "equipment/eaton-article-265540.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265540.json"
+    },
+    {
+      "id": "eaton-article-265326",
+      "name": "Z-SC240/2S1O — Impulse relay with central control, 240AC, 2 N/O, 1 N/C, 16A, 50/60Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265326",
+      "recordPath": "equipment/eaton-article-265326.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265326.json"
+    },
+    {
+      "id": "eaton-article-265268",
+      "name": "Z-S241/SS — Impulse relay, 240AC, 2 N/O, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265268",
+      "recordPath": "equipment/eaton-article-265268.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265268.json"
+    },
+    {
+      "id": "eaton-article-265303",
+      "name": "Z-SB23/SS — Impulse relay +LED, 24DC, 2S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265303",
+      "recordPath": "equipment/eaton-article-265303.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265303.json"
+    },
+    {
+      "id": "eaton-article-265317",
+      "name": "Z-S12/WW — Impulse relay, 12AC, 2W, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265317",
+      "recordPath": "equipment/eaton-article-265317.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265317.json"
+    },
+    {
+      "id": "eaton-article-265576",
+      "name": "Z-TN230/3S — Pre-selection relay, 230VAC/50Hz, 3N/O, 20A, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265576",
+      "recordPath": "equipment/eaton-article-265576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265576.json"
+    },
+    {
+      "id": "eaton-article-265288",
+      "name": "Z-S8/SO — Impulse relay, 8AC, 1NO+1NC, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265288",
+      "recordPath": "equipment/eaton-article-265288.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265288.json"
+    },
+    {
+      "id": "eaton-article-265270",
+      "name": "Z-S231/SS — Impulse relay, 230AC, 2S, 16A, 60Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265270",
+      "recordPath": "equipment/eaton-article-265270.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265270.json"
+    },
+    {
+      "id": "eaton-article-265289",
+      "name": "Z-S240/W — Impulse relay, 240AC, 1 W, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265289",
+      "recordPath": "equipment/eaton-article-265289.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265289.json"
+    },
+    {
+      "id": "eaton-article-265267",
+      "name": "Z-S8/S — Impulse relay, 8AC, 1S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265267",
+      "recordPath": "equipment/eaton-article-265267.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265267.json"
+    },
+    {
+      "id": "eaton-article-265311",
+      "name": "Z-S240/WW — Impulse relay, 240AC, 2 W, 16A, 50Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265311",
+      "recordPath": "equipment/eaton-article-265311.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265311.json"
+    },
+    {
+      "id": "eaton-article-265310",
+      "name": "Z-S8/2S2O — Impulse relay, 8AC, 2NO+2NC, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265310",
+      "recordPath": "equipment/eaton-article-265310.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265310.json"
+    },
+    {
+      "id": "eaton-article-265539",
+      "name": "Z-S24/SO — Impulse relay, 24AC/12DC, 1NO+1NC, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265539",
+      "recordPath": "equipment/eaton-article-265539.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265539.json"
+    },
+    {
+      "id": "eaton-article-265282",
+      "name": "Z-S240/SO — Impulse relay, 240AC, 1 N/O, 1 N/C, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265282",
+      "recordPath": "equipment/eaton-article-265282.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265282.json"
+    },
+    {
+      "id": "eaton-article-265292",
+      "name": "Z-S109/W — Impulse relay, 110DC, 1 W, 16A, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265292",
+      "recordPath": "equipment/eaton-article-265292.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265292.json"
+    },
+    {
+      "id": "eaton-article-265283",
+      "name": "Z-S230/SO — Impulse relay, 230AC, 1NO+1NC, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265283",
+      "recordPath": "equipment/eaton-article-265283.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265283.json"
+    },
+    {
+      "id": "eaton-article-265280",
+      "name": "Z-S8/SS — Impulse relay, 8AC, 2S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265280",
+      "recordPath": "equipment/eaton-article-265280.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265280.json"
+    },
+    {
+      "id": "eaton-article-265538",
+      "name": "Z-S48/SO — Impulse relay, 48AC/24DC, 1NO+1NC, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265538",
+      "recordPath": "equipment/eaton-article-265538.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265538.json"
+    },
+    {
+      "id": "eaton-article-265541",
+      "name": "Z-S24/2S2O — Impulse relay, 24AC/12DC, 2NO+2NC, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265541",
+      "recordPath": "equipment/eaton-article-265541.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265541.json"
+    },
+    {
+      "id": "eaton-article-265542",
+      "name": "Z-S48/WW — Impulse relay, 48AC/24DC, 2W, 16A, 50Hz, 2SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265542",
+      "recordPath": "equipment/eaton-article-265542.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265542.json"
+    },
+    {
+      "id": "eaton-article-265273",
+      "name": "Z-S110/SS — Impulse relay, 110AC, 2 N/O, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265273",
+      "recordPath": "equipment/eaton-article-265273.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265273.json"
+    },
+    {
+      "id": "eaton-article-265544",
+      "name": "Z-S48/W — Impulse relay, 48AC/24DC, 1W, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265544",
+      "recordPath": "equipment/eaton-article-265544.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265544.json"
+    },
+    {
+      "id": "eaton-article-265323",
+      "name": "Z-SC240/1S1W — Impulse relay with central control, 240AC, 1 N/O, 1 W, 16A, 50/60Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265323",
+      "recordPath": "equipment/eaton-article-265323.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265323.json"
+    },
+    {
+      "id": "eaton-article-265272",
+      "name": "Z-S111/SS — Impulse relay, 110AC, 2 N/O, 16A, 60Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265272",
+      "recordPath": "equipment/eaton-article-265272.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265272.json"
+    },
+    {
+      "id": "eaton-article-265284",
+      "name": "Z-S110/SO — Impulse relay, 110AC, 1 N/O, 1 N/C, 16A, 50Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265284",
+      "recordPath": "equipment/eaton-article-265284.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265284.json"
+    },
+    {
+      "id": "eaton-article-265574",
+      "name": "Z-TN230/SS — Pre-selection relay, 230VAC/50Hz, 2N/O, 20A, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265574",
+      "recordPath": "equipment/eaton-article-265574.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265574.json"
+    },
+    {
+      "id": "eaton-article-265301",
+      "name": "Z-SB230/SS — Impulse relay +LED, 230AC, 2S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265301",
+      "recordPath": "equipment/eaton-article-265301.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265301.json"
+    },
+    {
+      "id": "eaton-article-265297",
+      "name": "Z-S8/W — Impulse relay, 8AC, 1W, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265297",
+      "recordPath": "equipment/eaton-article-265297.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265297.json"
+    },
+    {
+      "id": "eaton-article-265278",
+      "name": "Z-S12/SS — Impulse relay, 12AC, 2S, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265278",
+      "recordPath": "equipment/eaton-article-265278.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265278.json"
+    },
+    {
+      "id": "eaton-article-265298",
+      "name": "Z-S7/W — Impulse relay, 8DC, 1W, 16A, 50Hz, 1SU",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-265298",
+      "recordPath": "equipment/eaton-article-265298.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-265298.json"
+    },
+    {
+      "id": "eaton-article-267979",
+      "name": "Z-TN24/1S1O — Pre-selection relay, 24VAC/50Hz, 1N/O+1N/C, 20A, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-267979",
+      "recordPath": "equipment/eaton-article-267979.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-267979.json"
+    },
+    {
+      "id": "eaton-article-267978",
+      "name": "Z-TN24/4S — Pre-selection relay, 24VAC/50Hz, 4N/O, 20A, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-267978",
+      "recordPath": "equipment/eaton-article-267978.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-267978.json"
+    },
+    {
+      "id": "eaton-article-267977",
+      "name": "Z-TN24/3S — Pre-selection relay, 24VAC/50Hz, 3N/O, 20A, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-267977",
+      "recordPath": "equipment/eaton-article-267977.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-267977.json"
+    },
+    {
+      "id": "eaton-article-267975",
+      "name": "Z-TN230/1S1O — Pre-selection relay, 230VAC/50Hz, 1N/O+1N/C, 20A, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-267975",
+      "recordPath": "equipment/eaton-article-267975.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-267975.json"
+    },
+    {
+      "id": "eaton-article-270335",
+      "name": "Z-S230/4S — Impulse relay, 230AC, 4 N/O, 16A, 50Hz, 2HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-270335",
+      "recordPath": "equipment/eaton-article-270335.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-270335.json"
+    },
+    {
+      "id": "eaton-article-267976",
+      "name": "Z-TN24/SS — Pre-selection relay, 24VAC/50Hz, 2N/O, 20A, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-267976",
+      "recordPath": "equipment/eaton-article-267976.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-267976.json"
+    },
+    {
+      "id": "eaton-article-360038",
+      "name": "HLR15/1(DC)230V — Solid-state relay, 1-phase, 20 A, 230 - 230 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360038",
+      "recordPath": "equipment/eaton-article-360038.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360038.json"
+    },
+    {
+      "id": "eaton-article-360039",
+      "name": "HLR25/1(DC)230V — Solid-state relay, 1-phase, 25 A, 230 - 230 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360039",
+      "recordPath": "equipment/eaton-article-360039.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360039.json"
+    },
+    {
+      "id": "eaton-article-360040",
+      "name": "HLR15/1(DC)600V — Solid-state relay, 1-phase, 20 A, 600 - 600 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360040",
+      "recordPath": "equipment/eaton-article-360040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360040.json"
+    },
+    {
+      "id": "eaton-article-360041",
+      "name": "HLR25/1(DC)600V — Solid-state relay, 1-phase, 25 A, 600 - 600 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360041",
+      "recordPath": "equipment/eaton-article-360041.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360041.json"
+    },
+    {
+      "id": "eaton-article-360042",
+      "name": "HLR40/1(DC)600V/S — Solid-state relay, 1-phase, 43 A, 600 - 600 V, DC, high fuse protection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360042",
+      "recordPath": "equipment/eaton-article-360042.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360042.json"
+    },
+    {
+      "id": "eaton-article-360043",
+      "name": "HLR15/1(DC)600V/S — Solid-state relay, 1-phase, 23 A, 600 - 600 V, DC, high fuse protection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360043",
+      "recordPath": "equipment/eaton-article-360043.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360043.json"
+    },
+    {
+      "id": "eaton-article-360045",
+      "name": "HLR25/1(AC)600V — Solid-state relay, 1-phase, 25 A, 600 - 600 V, AC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360045",
+      "recordPath": "equipment/eaton-article-360045.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360045.json"
+    },
+    {
+      "id": "eaton-article-360046",
+      "name": "HLR20/3(DC)600V — Solid-state relay, 3-phase, 20 A, 42 - 660 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360046",
+      "recordPath": "equipment/eaton-article-360046.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360046.json"
+    },
+    {
+      "id": "eaton-article-360047",
+      "name": "HLR20/3(AC)600V — Solid-state relay, 3-phase, 20 A, 42 - 660 V, AC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360047",
+      "recordPath": "equipment/eaton-article-360047.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360047.json"
+    },
+    {
+      "id": "eaton-article-360048",
+      "name": "HLR30/3(DC)600V/S — Solid-state relay, 3-phase, 30 A, 42 - 660 V, DC, high fuse protection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360048",
+      "recordPath": "equipment/eaton-article-360048.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360048.json"
+    },
+    {
+      "id": "eaton-article-360049",
+      "name": "HLR30/3(AC)600V/S — Solid-state relay, 3-phase, 30 A, 42 - 660 V, AC/DC, high fuse protection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360049",
+      "recordPath": "equipment/eaton-article-360049.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360049.json"
+    },
+    {
+      "id": "eaton-article-360050",
+      "name": "HLR25/1H(DC)230V — Solid-state relay, Hockey Puck, 1-phase, 25 A, 24 - 265 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360050",
+      "recordPath": "equipment/eaton-article-360050.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360050.json"
+    },
+    {
+      "id": "eaton-article-360051",
+      "name": "HLR25/1H(DC)600V — Solid-state relay, Hockey Puck, 1-phase, 25 A, 42 - 660 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360051",
+      "recordPath": "equipment/eaton-article-360051.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360051.json"
+    },
+    {
+      "id": "eaton-article-360052",
+      "name": "HLR50/1H(DC)230V — Solid-state relay, Hockey Puck, 1-phase, 50 A, 24 - 265 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360052",
+      "recordPath": "equipment/eaton-article-360052.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360052.json"
+    },
+    {
+      "id": "eaton-article-360053",
+      "name": "HLR50/1H(DC)600V — Solid-state relay, Hockey Puck, 1-phase, 50 A, 42 - 660 V, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360053",
+      "recordPath": "equipment/eaton-article-360053.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360053.json"
+    },
+    {
+      "id": "eaton-article-360054",
+      "name": "HLR50/1H(DC)600V/S — Solid-state relay, Hockey Puck, 1-phase, 50 A, 42 - 660 V, DC, high fuse protection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360054",
+      "recordPath": "equipment/eaton-article-360054.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360054.json"
+    },
+    {
+      "id": "eaton-article-360055",
+      "name": "HLR100/1H(DC)600V/S — Solid-state relay, Hockey Puck, 1-phase, 100 A, 42 - 660 V, DC, high fuse protection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360055",
+      "recordPath": "equipment/eaton-article-360055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360055.json"
+    },
+    {
+      "id": "eaton-article-360056",
+      "name": "HLR125/1H(DC)600V/S — Solid-state relay, Hockey Puck, 1-phase, 125 A, 42 - 660 V, DC, high fuse protection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-360056",
+      "recordPath": "equipment/eaton-article-360056.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-360056.json"
+    },
+    {
+      "id": "eaton-article-232112",
+      "name": "EASY618-DC-RE — I/O expansion, 24 V DC, 12DI, 6DO relays, easyLink",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-232112",
+      "recordPath": "equipment/eaton-article-232112.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-232112.json"
+    },
+    {
+      "id": "eaton-article-212314",
+      "name": "EASY618-AC-RE — I/O expansion, 240VAC, 12DI, 6DO relays, easyLink",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-212314",
+      "recordPath": "equipment/eaton-article-212314.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-212314.json"
+    },
+    {
+      "id": "eaton-article-119380",
+      "name": "ESR5-NO-31-230VAC — Safety relay emergency stop/protective door, 230VAC, 3 enabling paths",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-119380",
+      "recordPath": "equipment/eaton-article-119380.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-119380.json"
+    },
+    {
+      "id": "eaton-article-118703",
+      "name": "ESR5-NZ-21-24VAC-DC — Safety two-hand relay, 24VDC/AC, 2-channel, 2 enabling paths",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-118703",
+      "recordPath": "equipment/eaton-article-118703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-118703.json"
+    },
+    {
+      "id": "eaton-article-118702",
+      "name": "ESR5-NO-31-24VAC-DC — Safety relay emergency stop/protective door, 24VDC/AC, 3 enabling paths",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-118702",
+      "recordPath": "equipment/eaton-article-118702.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-118702.json"
+    },
+    {
+      "id": "eaton-article-116383",
+      "name": "EU5E-SWD-4D2R — SWD I/O module, 24 V DC, 4 digital inputs, 2 digital relay outputs 3 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-116383",
+      "recordPath": "equipment/eaton-article-116383.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-116383.json"
+    },
+    {
+      "id": "eaton-article-118700",
+      "name": "ESR5-NO-21-24VAC-DC — Safety relay emergency stop/protective door, 24VDC/AC, 2 enabling paths",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-118700",
+      "recordPath": "equipment/eaton-article-118700.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-118700.json"
+    },
+    {
+      "id": "eaton-article-118701",
+      "name": "ESR5-NO-41-24VAC-DC — Safety relay emergency stop/protective door, 24VDC/AC, 4 enabling paths",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-118701",
+      "recordPath": "equipment/eaton-article-118701.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-118701.json"
+    },
+    {
+      "id": "eaton-article-153152",
+      "name": "ESR5-NOS-31-230VAC — Safety relay emergency stop/protective door, 230VAC, 3 enabling paths",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-153152",
+      "recordPath": "equipment/eaton-article-153152.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-153152.json"
+    },
+    {
+      "id": "eaton-article-111016",
+      "name": "ES4P-221-DMXX1 — Safety relay, 24 V DC, 14DI, 4DO-Trans, 1DO relay, display, easyNet",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-111016",
+      "recordPath": "equipment/eaton-article-111016.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-111016.json"
+    },
+    {
+      "id": "eaton-article-111019",
+      "name": "ES4P-221-DRXD1 — Safety relay, 24 V DC, 14DI, 4DO relays, display, easyNet",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-111019",
+      "recordPath": "equipment/eaton-article-111019.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-111019.json"
+    },
+    {
+      "id": "eaton-article-140061",
+      "name": "XN-2DO-R-NC — Digital output module XI/ON, 24 V DC, 2DO(relays), N/C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-140061",
+      "recordPath": "equipment/eaton-article-140061.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-140061.json"
+    },
+    {
+      "id": "eaton-article-140062",
+      "name": "XN-2DO-R-NO — Digital output module XI/ON, 24 V DC, 2DO(relays), changeover contact",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-140062",
+      "recordPath": "equipment/eaton-article-140062.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-140062.json"
+    },
+    {
+      "id": "eaton-article-183180",
+      "name": "XN-322-16DIO-PC05 — Digital I/O module, 8 digital inputs and 8 digital outputs 24 V DC each, pulse-switching, Meter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183180",
+      "recordPath": "equipment/eaton-article-183180.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183180.json"
+    },
+    {
+      "id": "eaton-article-140054",
+      "name": "XN-2DO-R-CO — Digital output module XI/ON, 24 V DC, 2DO(relays), changeover contact",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-140054",
+      "recordPath": "equipment/eaton-article-140054.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-140054.json"
+    },
+    {
+      "id": "eaton-article-178779",
+      "name": "XN-322-4DO-RNO — Digital relay module, 4 digital relay outputs, N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178779",
+      "recordPath": "equipment/eaton-article-178779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178779.json"
+    }
+  ]
+}

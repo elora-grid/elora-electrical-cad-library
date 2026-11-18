@@ -2,15 +2,15 @@
   "schemaVersion": 1,
   "canonical": "https://eloragrid.ai/tools/cad-library",
   "counts": {
-    "entries": 56512,
+    "entries": 76512,
     "manufacturers": 397,
     "categories": 19,
-    "listedFiles": 85115,
-    "hostedFileEntries": 78018,
-    "distinctHostedOriginals": 44692,
-    "previewableEntries": 35627,
+    "listedFiles": 131711,
+    "hostedFileEntries": 114366,
+    "distinctHostedOriginals": 69809,
+    "previewableEntries": 49841,
     "drawingEntries": 1175,
-    "publicArtifactAccessEntries": 81209,
+    "publicArtifactAccessEntries": 127805,
     "accountRequiredArtifactEntries": 3171,
     "reviewRequiredArtifactEntries": 735,
     "unavailableArtifactEntries": 0
@@ -19,7 +19,7 @@
     {
       "id": "switchgear",
       "name": "Switchboards & switchgear",
-      "count": 13796,
+      "count": 14068,
       "pages": [
         {
           "path": "data/indexes/switchgear-1.json",
@@ -299,14 +299,19 @@
         {
           "path": "data/indexes/switchgear-56.json",
           "directory": "equipment/index-switchgear-56.md",
-          "count": 46
+          "count": 250
+        },
+        {
+          "path": "data/indexes/switchgear-57.json",
+          "directory": "equipment/index-switchgear-57.md",
+          "count": 68
         }
       ]
     },
     {
       "id": "breakers",
       "name": "Breakers & accessories",
-      "count": 13099,
+      "count": 17466,
       "pages": [
         {
           "path": "data/indexes/breakers-1.json",
@@ -571,14 +576,99 @@
         {
           "path": "data/indexes/breakers-53.json",
           "directory": "equipment/index-breakers-53.md",
-          "count": 99
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-54.json",
+          "directory": "equipment/index-breakers-54.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-55.json",
+          "directory": "equipment/index-breakers-55.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-56.json",
+          "directory": "equipment/index-breakers-56.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-57.json",
+          "directory": "equipment/index-breakers-57.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-58.json",
+          "directory": "equipment/index-breakers-58.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-59.json",
+          "directory": "equipment/index-breakers-59.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-60.json",
+          "directory": "equipment/index-breakers-60.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-61.json",
+          "directory": "equipment/index-breakers-61.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-62.json",
+          "directory": "equipment/index-breakers-62.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-63.json",
+          "directory": "equipment/index-breakers-63.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-64.json",
+          "directory": "equipment/index-breakers-64.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-65.json",
+          "directory": "equipment/index-breakers-65.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-66.json",
+          "directory": "equipment/index-breakers-66.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-67.json",
+          "directory": "equipment/index-breakers-67.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-68.json",
+          "directory": "equipment/index-breakers-68.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-69.json",
+          "directory": "equipment/index-breakers-69.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/breakers-70.json",
+          "directory": "equipment/index-breakers-70.md",
+          "count": 216
         }
       ]
     },
     {
       "id": "enclosures",
       "name": "Enclosures & hardware",
-      "count": 7559,
+      "count": 7959,
       "pages": [
         {
           "path": "data/indexes/enclosures-1.json",
@@ -733,14 +823,19 @@
         {
           "path": "data/indexes/enclosures-31.json",
           "directory": "equipment/index-enclosures-31.md",
-          "count": 59
+          "count": 250
+        },
+        {
+          "path": "data/indexes/enclosures-32.json",
+          "directory": "equipment/index-enclosures-32.md",
+          "count": 209
         }
       ]
     },
     {
       "id": "busbar",
       "name": "Busbar & distribution",
-      "count": 735,
+      "count": 1116,
       "pages": [
         {
           "path": "data/indexes/busbar-1.json",
@@ -755,14 +850,24 @@
         {
           "path": "data/indexes/busbar-3.json",
           "directory": "equipment/index-busbar-3.md",
-          "count": 235
+          "count": 250
+        },
+        {
+          "path": "data/indexes/busbar-4.json",
+          "directory": "equipment/index-busbar-4.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/busbar-5.json",
+          "directory": "equipment/index-busbar-5.md",
+          "count": 116
         }
       ]
     },
     {
       "id": "protection",
       "name": "Protection & metering",
-      "count": 1646,
+      "count": 2353,
       "pages": [
         {
           "path": "data/indexes/protection-1.json",
@@ -797,14 +902,29 @@
         {
           "path": "data/indexes/protection-7.json",
           "directory": "equipment/index-protection-7.md",
-          "count": 146
+          "count": 250
+        },
+        {
+          "path": "data/indexes/protection-8.json",
+          "directory": "equipment/index-protection-8.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/protection-9.json",
+          "directory": "equipment/index-protection-9.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/protection-10.json",
+          "directory": "equipment/index-protection-10.md",
+          "count": 103
         }
       ]
     },
     {
       "id": "automation",
       "name": "Automation & controls",
-      "count": 8681,
+      "count": 10400,
       "pages": [
         {
           "path": "data/indexes/automation-1.json",
@@ -979,14 +1099,49 @@
         {
           "path": "data/indexes/automation-35.json",
           "directory": "equipment/index-automation-35.md",
-          "count": 181
+          "count": 250
+        },
+        {
+          "path": "data/indexes/automation-36.json",
+          "directory": "equipment/index-automation-36.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/automation-37.json",
+          "directory": "equipment/index-automation-37.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/automation-38.json",
+          "directory": "equipment/index-automation-38.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/automation-39.json",
+          "directory": "equipment/index-automation-39.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/automation-40.json",
+          "directory": "equipment/index-automation-40.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/automation-41.json",
+          "directory": "equipment/index-automation-41.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/automation-42.json",
+          "directory": "equipment/index-automation-42.md",
+          "count": 150
         }
       ]
     },
     {
       "id": "wiring",
       "name": "Wiring & terminals",
-      "count": 7110,
+      "count": 16385,
       "pages": [
         {
           "path": "data/indexes/wiring-1.json",
@@ -1131,14 +1286,199 @@
         {
           "path": "data/indexes/wiring-29.json",
           "directory": "equipment/index-wiring-29.md",
-          "count": 110
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-30.json",
+          "directory": "equipment/index-wiring-30.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-31.json",
+          "directory": "equipment/index-wiring-31.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-32.json",
+          "directory": "equipment/index-wiring-32.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-33.json",
+          "directory": "equipment/index-wiring-33.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-34.json",
+          "directory": "equipment/index-wiring-34.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-35.json",
+          "directory": "equipment/index-wiring-35.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-36.json",
+          "directory": "equipment/index-wiring-36.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-37.json",
+          "directory": "equipment/index-wiring-37.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-38.json",
+          "directory": "equipment/index-wiring-38.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-39.json",
+          "directory": "equipment/index-wiring-39.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-40.json",
+          "directory": "equipment/index-wiring-40.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-41.json",
+          "directory": "equipment/index-wiring-41.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-42.json",
+          "directory": "equipment/index-wiring-42.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-43.json",
+          "directory": "equipment/index-wiring-43.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-44.json",
+          "directory": "equipment/index-wiring-44.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-45.json",
+          "directory": "equipment/index-wiring-45.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-46.json",
+          "directory": "equipment/index-wiring-46.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-47.json",
+          "directory": "equipment/index-wiring-47.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-48.json",
+          "directory": "equipment/index-wiring-48.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-49.json",
+          "directory": "equipment/index-wiring-49.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-50.json",
+          "directory": "equipment/index-wiring-50.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-51.json",
+          "directory": "equipment/index-wiring-51.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-52.json",
+          "directory": "equipment/index-wiring-52.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-53.json",
+          "directory": "equipment/index-wiring-53.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-54.json",
+          "directory": "equipment/index-wiring-54.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-55.json",
+          "directory": "equipment/index-wiring-55.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-56.json",
+          "directory": "equipment/index-wiring-56.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-57.json",
+          "directory": "equipment/index-wiring-57.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-58.json",
+          "directory": "equipment/index-wiring-58.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-59.json",
+          "directory": "equipment/index-wiring-59.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-60.json",
+          "directory": "equipment/index-wiring-60.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-61.json",
+          "directory": "equipment/index-wiring-61.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-62.json",
+          "directory": "equipment/index-wiring-62.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-63.json",
+          "directory": "equipment/index-wiring-63.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-64.json",
+          "directory": "equipment/index-wiring-64.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-65.json",
+          "directory": "equipment/index-wiring-65.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/wiring-66.json",
+          "directory": "equipment/index-wiring-66.md",
+          "count": 135
         }
       ]
     },
     {
       "id": "power-supplies",
       "name": "Auxiliary power & UPS",
-      "count": 270,
+      "count": 669,
       "pages": [
         {
           "path": "data/indexes/power-supplies-1.json",
@@ -1148,7 +1488,12 @@
         {
           "path": "data/indexes/power-supplies-2.json",
           "directory": "equipment/index-power-supplies-2.md",
-          "count": 20
+          "count": 250
+        },
+        {
+          "path": "data/indexes/power-supplies-3.json",
+          "directory": "equipment/index-power-supplies-3.md",
+          "count": 169
         }
       ]
     },
@@ -1202,19 +1547,19 @@
     {
       "id": "thermal",
       "name": "Thermal management",
-      "count": 58,
+      "count": 138,
       "pages": [
         {
           "path": "data/indexes/thermal-1.json",
           "directory": "equipment/index-thermal-1.md",
-          "count": 58
+          "count": 138
         }
       ]
     },
     {
       "id": "power-quality",
       "name": "Power quality & drives",
-      "count": 390,
+      "count": 1111,
       "pages": [
         {
           "path": "data/indexes/power-quality-1.json",
@@ -1224,14 +1569,29 @@
         {
           "path": "data/indexes/power-quality-2.json",
           "directory": "equipment/index-power-quality-2.md",
-          "count": 140
+          "count": 250
+        },
+        {
+          "path": "data/indexes/power-quality-3.json",
+          "directory": "equipment/index-power-quality-3.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/power-quality-4.json",
+          "directory": "equipment/index-power-quality-4.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/power-quality-5.json",
+          "directory": "equipment/index-power-quality-5.md",
+          "count": 111
         }
       ]
     },
     {
       "id": "transformers",
       "name": "Transformers & earthing",
-      "count": 515,
+      "count": 1084,
       "pages": [
         {
           "path": "data/indexes/transformers-1.json",
@@ -1246,19 +1606,29 @@
         {
           "path": "data/indexes/transformers-3.json",
           "directory": "equipment/index-transformers-3.md",
-          "count": 15
+          "count": 250
+        },
+        {
+          "path": "data/indexes/transformers-4.json",
+          "directory": "equipment/index-transformers-4.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/transformers-5.json",
+          "directory": "equipment/index-transformers-5.md",
+          "count": 84
         }
       ]
     },
     {
       "id": "generation",
       "name": "Generators & alternators",
-      "count": 35,
+      "count": 65,
       "pages": [
         {
           "path": "data/indexes/generation-1.json",
           "directory": "equipment/index-generation-1.md",
-          "count": 35
+          "count": 65
         }
       ]
     },
@@ -1277,48 +1647,73 @@
     {
       "id": "storage",
       "name": "Battery storage & PCS",
-      "count": 42,
+      "count": 47,
       "pages": [
         {
           "path": "data/indexes/storage-1.json",
           "directory": "equipment/index-storage-1.md",
-          "count": 42
+          "count": 47
         }
       ]
     },
     {
       "id": "solar",
       "name": "Solar & inverters",
-      "count": 44,
+      "count": 65,
       "pages": [
         {
           "path": "data/indexes/solar-1.json",
           "directory": "equipment/index-solar-1.md",
-          "count": 44
+          "count": 65
         }
       ]
     },
     {
       "id": "communications",
       "name": "Communications",
-      "count": 203,
+      "count": 777,
       "pages": [
         {
           "path": "data/indexes/communications-1.json",
           "directory": "equipment/index-communications-1.md",
-          "count": 203
+          "count": 250
+        },
+        {
+          "path": "data/indexes/communications-2.json",
+          "directory": "equipment/index-communications-2.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/communications-3.json",
+          "directory": "equipment/index-communications-3.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/communications-4.json",
+          "directory": "equipment/index-communications-4.md",
+          "count": 27
         }
       ]
     },
     {
       "id": "cable-management",
       "name": "Cable management",
-      "count": 147,
+      "count": 627,
       "pages": [
         {
           "path": "data/indexes/cable-management-1.json",
           "directory": "equipment/index-cable-management-1.md",
-          "count": 147
+          "count": 250
+        },
+        {
+          "path": "data/indexes/cable-management-2.json",
+          "directory": "equipment/index-cable-management-2.md",
+          "count": 250
+        },
+        {
+          "path": "data/indexes/cable-management-3.json",
+          "directory": "equipment/index-cable-management-3.md",
+          "count": 127
         }
       ]
     },

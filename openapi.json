@@ -61,7 +61,7 @@
     "/tools/cad-library/download/{record}/{file}": {
       "get": {
         "operationId": "downloadOfficialCad",
-        "summary": "Download public originals without signup; converted output access is reviewed per artifact",
+        "summary": "Website downloads require reusable email registration; converted output access is reviewed per artifact",
         "parameters": [
           {
             "name": "record",
@@ -82,13 +82,19 @@
         ],
         "responses": {
           "302": {
-            "description": "Public artifact: redirect to a five-minute signed attachment or official publisher route; no email or account is required"
+            "description": "Registered public artifact: redirect to a five-minute signed attachment or official publisher route"
+          },
+          "307": {
+            "description": "Register email once before website downloads"
           },
           "404": {
             "description": "Unknown file, invalid conversion source or revoked storage publication"
           },
           "409": {
             "description": "Converted output awaits public-equivalence/exclusivity review; no storage URL is issued"
+          },
+          "429": {
+            "description": "Daily allowance reached; honour Retry-After"
           },
           "503": {
             "description": "Storage temporarily unavailable, or CAD account connections for exclusive outputs are not enabled; public originals remain independently available"

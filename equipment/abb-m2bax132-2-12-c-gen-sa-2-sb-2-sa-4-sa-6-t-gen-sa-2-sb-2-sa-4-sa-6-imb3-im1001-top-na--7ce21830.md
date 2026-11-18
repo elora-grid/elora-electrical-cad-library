@@ -29,7 +29,7 @@ Original PDF drawing for M2BAX132 2-12 (C-gen) SA 2,SB 2,SA 4,SA 6;(T-gen) SA 2,
 - Available previews: 1 drawing previews
 - Recorded revisions: D
 - Source checked: 2026-11-03
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 

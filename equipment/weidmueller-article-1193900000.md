@@ -1,0 +1,171 @@
+# Weidmüller — KTB MOPL 7650 S2N — Mounting plate (Housing) / Mounting plate (Housing), Klippon TB (Terminal Box), 447 x 707 x 12 mm, Stainless steel 1.4301 (304), untreated, silver
+
+Weidmüller KTB MOPL 7650 S2N — Mounting plate (Housing) / Mounting plate (Housing), Klippon TB (Terminal Box), 447 x 707 x 12 mm, Stainless steel 1.4301 (304), untreated, silver. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1193900000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1193900000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1193900000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1193900000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/ktb-mopl-7650-s2n/p/1193900000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1193900000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: KTB MOPL 7650 S2N — Mounting plate (Housing) / Mounting plate (Housing), Klippon TB (Terminal Box), 447 x 707 x 12 mm, Stainless steel 1.4301 (304), untreated, silver
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1193900000
+- Manufacturer reference: 1193900000
+- Manufacturer type: KTB MOPL 7650 S2N
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1193900000 ([source](https://eshop.weidmueller.com.cn/en/ktb-mopl-7650-s2n/p/1193900000/downloads#engineering-support))
+- Manufacturer type: KTB MOPL 7650 S2N ([source](https://eshop.weidmueller.com.cn/en/ktb-mopl-7650-s2n/p/1193900000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/ktb-mopl-7650-s2n/p/1193900000/downloads#engineering-support))
+
+## What the equipment does
+
+Mounting hardware holds equipment in its intended position. Rails, plates, adapters and supports each provide a particular attachment or support arrangement.
+
+In a switchroom control cabinet, a mounting plate and DIN rail can support terminals, relays and power supplies in an organised layout.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/ktb-mopl-7650-s2n/p/1193900000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1193900000. The files above belong to Weidmüller's KTB MOPL 7650 S2N — Mounting plate (Housing) / Mounting plate (Housing), Klippon TB (Terminal Box), 447 x 707 x 12 mm, Stainless steel 1.4301 (304), untreated, silver resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller KTB MOPL 7650 S2N — Mounting plate (Housing) / Mounting plate (Housing), Klippon TB (Terminal Box), 447 x 707 x 12 mm, Stainless steel 1.4301 (304), untreated, silver: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1193900000/native-4fdc0da177f010e556ed6307-zip?asset=064a0df077b9581a3bf57f54c48e9831e0f25845eda822f7c21d7e970407807d)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1193900000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1193900000)
+
+- 1193900000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 1193900000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1193900000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1193900000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/50cb8e43-95eb-450e-99ca-cb0c8bde8793/original/1193900000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1193900000/native-4fdc0da177f010e556ed6307-zip)
+- Redistribution: unknown
+- Original SHA-256: 4fdc0da177f010e556ed63078f7d2e40c7b0b9e470464edebfd92280e786a902
+- Original bytes: 31294
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/50cb8e43-95eb-450e-99ca-cb0c8bde8793/original/1193900000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 31294 bytes
+- Delivery SHA-256: 4fdc0da177f010e556ed63078f7d2e40c7b0b9e470464edebfd92280e786a902
+
+<details>
+<summary>Archive members</summary>
+
+- 1193900000\_back.DXF
+- 1193900000\_bottom.DXF
+- 1193900000\_front.DXF
+- 1193900000\_left.DXF
+- 1193900000\_right.DXF
+- 1193900000\_top.DXF
+
+</details>
+
+### 1193900000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/44ecd8e6-12ff-4426-932e-f32e296279a8/original/1193900000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1193900000/native-65ba3ea14d5508138c51ed03-zip)
+- Redistribution: unknown
+- Original SHA-256: 65ba3ea14d5508138c51ed03fdfa623cb21bd7c5ec36becf73b8dc443f51cd4c
+- Original bytes: 43329
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/44ecd8e6-12ff-4426-932e-f32e296279a8/original/1193900000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 43329 bytes
+- Delivery SHA-256: 65ba3ea14d5508138c51ed03fdfa623cb21bd7c5ec36becf73b8dc443f51cd4c
+
+<details>
+<summary>Archive members</summary>
+
+- 1193900000\_back.DWG
+- 1193900000\_bottom.DWG
+- 1193900000\_front.DWG
+- 1193900000\_left.DWG
+- 1193900000\_right.DWG
+- 1193900000\_top.DWG
+
+</details>
+
+### 1193900000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/72ca455f-8ec8-462b-83e3-e102ef98baed/original/1193900000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1193900000/native-d435a9be578f5ce670b55b50-step)
+- Redistribution: unknown
+- Original SHA-256: d435a9be578f5ce670b55b50c2ad36f2fddb016dde303139670681d718f87cd9
+- Original bytes: 200360
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/72ca455f-8ec8-462b-83e3-e102ef98baed/original/1193900000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 33720 bytes
+- Delivery SHA-256: aab5c67c98e222cafb9b176ad715c25ee374dc0715eeb7a5b924fa9f6a3af6c0
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

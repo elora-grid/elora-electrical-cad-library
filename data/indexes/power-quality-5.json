@@ -1,0 +1,1339 @@
+{
+  "schemaVersion": 1,
+  "category": "power-quality",
+  "page": 5,
+  "entries": [
+    {
+      "id": "eaton-article-14327b2bcab339459fae4770",
+      "name": "DG1-34205FB-C54C — Variable frequency drive, 500 V AC, 3-phase, 189 A, NEMA 12, IP54, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-14327b2bcab339459fae4770",
+      "recordPath": "equipment/eaton-article-14327b2bcab339459fae4770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-14327b2bcab339459fae4770.json"
+    },
+    {
+      "id": "eaton-article-44cce712e66d2cbff2b8cb4f",
+      "name": "DG1-34245FN-C54C — Variable frequency drive, 500 V AC, 3-phase, 252 A, IP54, NEMA 12, FS6, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-44cce712e66d2cbff2b8cb4f",
+      "recordPath": "equipment/eaton-article-44cce712e66d2cbff2b8cb4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-44cce712e66d2cbff2b8cb4f.json"
+    },
+    {
+      "id": "eaton-article-99ffe07700c10f532e7abb4f",
+      "name": "DG1-34205FN-C54C — Variable frequency drive, 500 V AC, 3-phase, 189 A, NEMA 12, IP54, FS6, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-99ffe07700c10f532e7abb4f",
+      "recordPath": "equipment/eaton-article-99ffe07700c10f532e7abb4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-99ffe07700c10f532e7abb4f.json"
+    },
+    {
+      "id": "eaton-article-51183e33eee965c5ff8440ae",
+      "name": "DG1-34170FN-C54C — Variable frequency drive, 500 V AC, 3-phase, 157 A, NEMA 12, IP54, FS5, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-51183e33eee965c5ff8440ae",
+      "recordPath": "equipment/eaton-article-51183e33eee965c5ff8440ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-51183e33eee965c5ff8440ae.json"
+    },
+    {
+      "id": "eaton-article-148d6f05a09454ac9cb18c89",
+      "name": "DG1-34205FN-C21C — Variable frequency drive, 500 V AC, 3-phase, 189 A, NEMA 1, IP21, FS6, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-148d6f05a09454ac9cb18c89",
+      "recordPath": "equipment/eaton-article-148d6f05a09454ac9cb18c89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-148d6f05a09454ac9cb18c89.json"
+    },
+    {
+      "id": "eaton-article-b81526ad3bcb9792336b5f25",
+      "name": "DG1-34205FB-C21C — Variable frequency drive, 500 V AC, 3-phase, 189 A, IP21, NEMA 1, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b81526ad3bcb9792336b5f25",
+      "recordPath": "equipment/eaton-article-b81526ad3bcb9792336b5f25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b81526ad3bcb9792336b5f25.json"
+    },
+    {
+      "id": "eaton-article-592037e5da967487964f7f7d",
+      "name": "DG1-34245FN-C21C — Variable frequency drive, 500 V AC, 3-phase, 252 A, NEMA 1, IP21, FS6, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-592037e5da967487964f7f7d",
+      "recordPath": "equipment/eaton-article-592037e5da967487964f7f7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-592037e5da967487964f7f7d.json"
+    },
+    {
+      "id": "eaton-article-74a191022fe6baa551e66363",
+      "name": "DG1-34245FB-C21C — Variable frequency drive, 500 V AC, 3-phase, 252 A, IP21, NEMA 1, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-74a191022fe6baa551e66363",
+      "recordPath": "equipment/eaton-article-74a191022fe6baa551e66363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-74a191022fe6baa551e66363.json"
+    },
+    {
+      "id": "eaton-article-fe2a10252757a0ceec05a1dd",
+      "name": "DG1-34245FB-C54C — Variable frequency drive, 500 V AC, 3-phase, 252 A, NEMA 12, IP54, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fe2a10252757a0ceec05a1dd",
+      "recordPath": "equipment/eaton-article-fe2a10252757a0ceec05a1dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fe2a10252757a0ceec05a1dd.json"
+    },
+    {
+      "id": "eaton-article-169084",
+      "name": "DA1-12011FB-A20C — Variable frequency drive, 230 V AC, 1-phase, 19.2 A, NEMA Other, IP20, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169084",
+      "recordPath": "equipment/eaton-article-169084.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169084.json"
+    },
+    {
+      "id": "eaton-article-169377",
+      "name": "DA1-32248FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 255.5 A, NEMA 12, IP55, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169377",
+      "recordPath": "equipment/eaton-article-169377.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169377.json"
+    },
+    {
+      "id": "eaton-article-169093",
+      "name": "DA1-32011FB-A20C — Variable frequency drive, 240 V AC, 3-phase, 13.2 A, NEMA Other, IP20, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169093",
+      "recordPath": "equipment/eaton-article-169093.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169093.json"
+    },
+    {
+      "id": "eaton-article-169387",
+      "name": "DA1-34014FB-B6SC — Variable frequency drive, 400 V AC, 3-phase, 14 A, 5.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169387",
+      "recordPath": "equipment/eaton-article-169387.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169387.json"
+    },
+    {
+      "id": "eaton-article-169386",
+      "name": "DA1-34014FB-B66C — Variable frequency drive, 400 V AC, 3-phase, 14 A, 5.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169386",
+      "recordPath": "equipment/eaton-article-169386.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169386.json"
+    },
+    {
+      "id": "eaton-article-169351",
+      "name": "DA1-12011FB-B66C — Variable frequency drive, 230 V AC, 1-phase, 10.5 A, 2.2 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169351",
+      "recordPath": "equipment/eaton-article-169351.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169351.json"
+    },
+    {
+      "id": "eaton-article-169060",
+      "name": "DA1-34018FB-A20C — Variable frequency drive, 480 V AC, 3-phase, 21.8 A, IP20, NEMA Other, FS3, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169060",
+      "recordPath": "equipment/eaton-article-169060.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169060.json"
+    },
+    {
+      "id": "eaton-article-169360",
+      "name": "DA1-32018FB-B6SC — Variable frequency drive, 230 V AC, 3-phase, 18 A, 4 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169360",
+      "recordPath": "equipment/eaton-article-169360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169360.json"
+    },
+    {
+      "id": "eaton-article-169361",
+      "name": "DA1-32024FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 26.9 A, IP55, NEMA 12, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169361",
+      "recordPath": "equipment/eaton-article-169361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169361.json"
+    },
+    {
+      "id": "eaton-article-169353",
+      "name": "DA1-324D3FB-B66C — Variable frequency drive, 230 V AC, 3-phase, 4.3 A, 0.75 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169353",
+      "recordPath": "equipment/eaton-article-169353.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169353.json"
+    },
+    {
+      "id": "eaton-article-169359",
+      "name": "DA1-32018FB-B66C — Variable frequency drive, 230 V AC, 3-phase, 18 A, 4 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169359",
+      "recordPath": "equipment/eaton-article-169359.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169359.json"
+    },
+    {
+      "id": "eaton-article-169063",
+      "name": "DA1-34024FB-A20C — Variable frequency drive, 480 V AC, 3-phase, 27.5 A, IP20, NEMA Other, FS3, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169063",
+      "recordPath": "equipment/eaton-article-169063.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169063.json"
+    },
+    {
+      "id": "eaton-article-169348",
+      "name": "DA1-124D3FB-B6SC — Variable frequency drive, 230 V AC, 1-phase, 4.3 A, 0.75 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169348",
+      "recordPath": "equipment/eaton-article-169348.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169348.json"
+    },
+    {
+      "id": "eaton-article-169099",
+      "name": "DA1-32024FB-A20C — Variable frequency drive, 240 V AC, 3-phase, 26.4 A, NEMA Other, IP20, FS3, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169099",
+      "recordPath": "equipment/eaton-article-169099.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169099.json"
+    },
+    {
+      "id": "eaton-article-169357",
+      "name": "DA1-32011FB-B66C — Variable frequency drive, 230 V AC, 3-phase, 10.5 A, 2.2 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169357",
+      "recordPath": "equipment/eaton-article-169357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169357.json"
+    },
+    {
+      "id": "eaton-article-169096",
+      "name": "DA1-32018FB-A20C — Variable frequency drive, 240 V AC, 3-phase, 20.9 A, NEMA Other, IP20, FS3, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169096",
+      "recordPath": "equipment/eaton-article-169096.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169096.json"
+    },
+    {
+      "id": "eaton-article-169355",
+      "name": "DA1-327D0FB-B66C — Variable frequency drive, 230 V AC, 3-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169355",
+      "recordPath": "equipment/eaton-article-169355.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169355.json"
+    },
+    {
+      "id": "eaton-article-169399",
+      "name": "DA1-34110FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 126.4 A, IP55, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169399",
+      "recordPath": "equipment/eaton-article-169399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169399.json"
+    },
+    {
+      "id": "eaton-article-169057",
+      "name": "DA1-34014FB-A20C — Variable frequency drive, 480 V AC, 3-phase, 17.2 A, NEMA Other, IP20, FS3, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169057",
+      "recordPath": "equipment/eaton-article-169057.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169057.json"
+    },
+    {
+      "id": "eaton-article-169365",
+      "name": "DA1-32072FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 74 A, IP55, NEMA 12, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169365",
+      "recordPath": "equipment/eaton-article-169365.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169365.json"
+    },
+    {
+      "id": "eaton-article-169347",
+      "name": "DA1-124D3FB-B66C — Variable frequency drive, 230 V AC, 1-phase, 4.3 A, 0.75 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169347",
+      "recordPath": "equipment/eaton-article-169347.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169347.json"
+    },
+    {
+      "id": "eaton-article-169394",
+      "name": "DA1-34061FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 66.1 A, IP55, NEMA 12, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169394",
+      "recordPath": "equipment/eaton-article-169394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169394.json"
+    },
+    {
+      "id": "eaton-article-169371",
+      "name": "DA1-32150FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 159.7 A, IP55, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169371",
+      "recordPath": "equipment/eaton-article-169371.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169371.json"
+    },
+    {
+      "id": "eaton-article-169369",
+      "name": "DA1-32110FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 121 A, IP55, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169369",
+      "recordPath": "equipment/eaton-article-169369.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169369.json"
+    },
+    {
+      "id": "eaton-article-169395",
+      "name": "DA1-34072FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 77.3 A, IP55, NEMA 12, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169395",
+      "recordPath": "equipment/eaton-article-169395.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169395.json"
+    },
+    {
+      "id": "eaton-article-169397",
+      "name": "DA1-34090FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 102.7 A, IP55, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169397",
+      "recordPath": "equipment/eaton-article-169397.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169397.json"
+    },
+    {
+      "id": "eaton-article-169392",
+      "name": "DA1-34039FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 44.1 A, NEMA 12, IP55, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169392",
+      "recordPath": "equipment/eaton-article-169392.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169392.json"
+    },
+    {
+      "id": "eaton-article-169391",
+      "name": "DA1-34030FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 34.2 A, IP55, NEMA 12, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169391",
+      "recordPath": "equipment/eaton-article-169391.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169391.json"
+    },
+    {
+      "id": "eaton-article-169081",
+      "name": "DA1-127D0FB-A20C — Variable frequency drive, 240 V AC, 1-phase, 12.9 A, IP20, NEMA Other, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169081",
+      "recordPath": "equipment/eaton-article-169081.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169081.json"
+    },
+    {
+      "id": "eaton-article-169350",
+      "name": "DA1-127D0FB-B6SC — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169350",
+      "recordPath": "equipment/eaton-article-169350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169350.json"
+    },
+    {
+      "id": "eaton-article-169389",
+      "name": "DA1-34018FB-B6SC — Variable frequency drive, 400 V AC, 3-phase, 18 A, 7.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169389",
+      "recordPath": "equipment/eaton-article-169389.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169389.json"
+    },
+    {
+      "id": "eaton-article-169363",
+      "name": "DA1-32046FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 50.1 A, NEMA 12, IP55, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169363",
+      "recordPath": "equipment/eaton-article-169363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169363.json"
+    },
+    {
+      "id": "eaton-article-169078",
+      "name": "DA1-124D3FB-A20C — Variable frequency drive, 240 V AC, 1-phase, 8.6 A, NEMA Other, IP20, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169078",
+      "recordPath": "equipment/eaton-article-169078.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169078.json"
+    },
+    {
+      "id": "eaton-article-169393",
+      "name": "DA1-34046FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 51.9 A, NEMA 12, IP55, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169393",
+      "recordPath": "equipment/eaton-article-169393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169393.json"
+    },
+    {
+      "id": "eaton-article-169352",
+      "name": "DA1-12011FB-B6SC — Variable frequency drive, 230 V AC, 1-phase, 10.5 A, 2.2 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169352",
+      "recordPath": "equipment/eaton-article-169352.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169352.json"
+    },
+    {
+      "id": "eaton-article-169087",
+      "name": "DA1-324D3FB-A20C — Variable frequency drive, 240 V AC, 3-phase, 5.7 A, NEMA Other, IP20, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169087",
+      "recordPath": "equipment/eaton-article-169087.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169087.json"
+    },
+    {
+      "id": "eaton-article-169354",
+      "name": "DA1-324D3FB-B6SC — Variable frequency drive, 230 V AC, 3-phase, 4.3 A, 0.75 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169354",
+      "recordPath": "equipment/eaton-article-169354.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169354.json"
+    },
+    {
+      "id": "eaton-article-169390",
+      "name": "DA1-34024FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 28 A, IP55, NEMA 12, FS4, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169390",
+      "recordPath": "equipment/eaton-article-169390.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169390.json"
+    },
+    {
+      "id": "eaton-article-169364",
+      "name": "DA1-32061FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 63.9 A, IP55, NEMA 12, FS5, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169364",
+      "recordPath": "equipment/eaton-article-169364.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169364.json"
+    },
+    {
+      "id": "eaton-article-169358",
+      "name": "DA1-32011FB-B6SC — Variable frequency drive, 230 V AC, 3-phase, 10.5 A, 2.2 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169358",
+      "recordPath": "equipment/eaton-article-169358.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169358.json"
+    },
+    {
+      "id": "eaton-article-169090",
+      "name": "DA1-327D0FB-A20C — Variable frequency drive, 240 V AC, 3-phase, 10.5 A, IP20, NEMA Other, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169090",
+      "recordPath": "equipment/eaton-article-169090.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169090.json"
+    },
+    {
+      "id": "eaton-article-169356",
+      "name": "DA1-327D0FB-B6SC — Variable frequency drive, 230 V AC, 3-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169356",
+      "recordPath": "equipment/eaton-article-169356.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169356.json"
+    },
+    {
+      "id": "eaton-article-169373",
+      "name": "DA1-32180FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 187.5 A, IP55, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169373",
+      "recordPath": "equipment/eaton-article-169373.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169373.json"
+    },
+    {
+      "id": "eaton-article-169375",
+      "name": "DA1-32202FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 206.5 A, NEMA 12, IP55, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169375",
+      "recordPath": "equipment/eaton-article-169375.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169375.json"
+    },
+    {
+      "id": "eaton-article-169367",
+      "name": "DA1-32090FB-B55C — Variable frequency drive, 240 V AC, 3-phase, 99.1 A, IP55, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169367",
+      "recordPath": "equipment/eaton-article-169367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169367.json"
+    },
+    {
+      "id": "eaton-article-169349",
+      "name": "DA1-127D0FB-B66C — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169349",
+      "recordPath": "equipment/eaton-article-169349.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169349.json"
+    },
+    {
+      "id": "eaton-article-169388",
+      "name": "DA1-34018FB-B66C — Variable frequency drive, 400 V AC, 3-phase, 18 A, 7.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169388",
+      "recordPath": "equipment/eaton-article-169388.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169388.json"
+    },
+    {
+      "id": "eaton-article-169379",
+      "name": "DA1-342D2FB-B6SC — Variable frequency drive, 400 V AC, 3-phase, 2.2 A, 0.75 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169379",
+      "recordPath": "equipment/eaton-article-169379.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169379.json"
+    },
+    {
+      "id": "eaton-article-169401",
+      "name": "DA1-34150FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 164.7 A, IP55, NEMA 12, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169401",
+      "recordPath": "equipment/eaton-article-169401.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169401.json"
+    },
+    {
+      "id": "eaton-article-169217",
+      "name": "DA1-34302FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 307.8 A, NEMA 12, IP55, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169217",
+      "recordPath": "equipment/eaton-article-169217.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169217.json"
+    },
+    {
+      "id": "eaton-article-169385",
+      "name": "DA1-349D5FB-B6SC — Variable frequency drive, 400 V AC, 3-phase, 9.5 A, 4 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169385",
+      "recordPath": "equipment/eaton-article-169385.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169385.json"
+    },
+    {
+      "id": "eaton-article-169405",
+      "name": "DA1-34202FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 210.8 A, NEMA 12, IP55, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169405",
+      "recordPath": "equipment/eaton-article-169405.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169405.json"
+    },
+    {
+      "id": "eaton-article-169382",
+      "name": "DA1-345D8FB-B66C — Variable frequency drive, 400 V AC, 3-phase, 5.8 A, 2.2 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169382",
+      "recordPath": "equipment/eaton-article-169382.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169382.json"
+    },
+    {
+      "id": "eaton-article-169381",
+      "name": "DA1-344D1FB-B6SC — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169381",
+      "recordPath": "equipment/eaton-article-169381.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169381.json"
+    },
+    {
+      "id": "eaton-article-169054",
+      "name": "DA1-349D5FB-A20C — Variable frequency drive, 480 V AC, 3-phase, 11.5 A, NEMA Other, IP20, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169054",
+      "recordPath": "equipment/eaton-article-169054.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169054.json"
+    },
+    {
+      "id": "eaton-article-169407",
+      "name": "DA1-34240FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 244.5 A, IP55, NEMA 12, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169407",
+      "recordPath": "equipment/eaton-article-169407.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169407.json"
+    },
+    {
+      "id": "eaton-article-169383",
+      "name": "DA1-345D8FB-B6SC — Variable frequency drive, 400 V AC, 3-phase, 5.8 A, 2.2 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display, Local controls",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169383",
+      "recordPath": "equipment/eaton-article-169383.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169383.json"
+    },
+    {
+      "id": "eaton-article-169380",
+      "name": "DA1-344D1FB-B66C — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169380",
+      "recordPath": "equipment/eaton-article-169380.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169380.json"
+    },
+    {
+      "id": "eaton-article-169120",
+      "name": "DA1-344D1FB-A20C — Variable frequency drive, 480 V AC, 3-phase, 5.6 A, IP20, NEMA Other, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169120",
+      "recordPath": "equipment/eaton-article-169120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169120.json"
+    },
+    {
+      "id": "eaton-article-169403",
+      "name": "DA1-34180FB-B55C — Variable frequency drive, 480 V AC, 3-phase, 192.1 A, NEMA 12, IP55, FS6, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169403",
+      "recordPath": "equipment/eaton-article-169403.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169403.json"
+    },
+    {
+      "id": "eaton-article-169384",
+      "name": "DA1-349D5FB-B66C — Variable frequency drive, 400 V AC, 3-phase, 9.5 A, 4 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169384",
+      "recordPath": "equipment/eaton-article-169384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169384.json"
+    },
+    {
+      "id": "eaton-article-169378",
+      "name": "DA1-342D2FB-B66C — Variable frequency drive, 400 V AC, 3-phase, 2.2 A, 0.75 kW, IP66/NEMA 4X, Radio interference suppression filter, OLED display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169378",
+      "recordPath": "equipment/eaton-article-169378.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169378.json"
+    },
+    {
+      "id": "eaton-article-169117",
+      "name": "DA1-342D2FB-A20C — Variable frequency drive, 480 V AC, 3-phase, 3.5 A, IP20, NEMA Other, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169117",
+      "recordPath": "equipment/eaton-article-169117.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169117.json"
+    },
+    {
+      "id": "eaton-article-169051",
+      "name": "DA1-345D8FB-A20C — Variable frequency drive, 480 V AC, 3-phase, 7.5 A, IP20, NEMA Other, FS2, Radio interference, Brake chopper, Digital display",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-169051",
+      "recordPath": "equipment/eaton-article-169051.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-169051.json"
+    },
+    {
+      "id": "eaton-article-c88d5709f54d097af3f822ad",
+      "name": "DG1-35385FB-C00C — Variable frequency drive, 690 V AC, 3-phase, 382 A, IP00, NEMA Other, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c88d5709f54d097af3f822ad",
+      "recordPath": "equipment/eaton-article-c88d5709f54d097af3f822ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c88d5709f54d097af3f822ad.json"
+    },
+    {
+      "id": "eaton-article-d1df633c18f9792cd8a1213e",
+      "name": "DG1-35460FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 472 A, IP00, NEMA Other, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d1df633c18f9792cd8a1213e",
+      "recordPath": "equipment/eaton-article-d1df633c18f9792cd8a1213e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d1df633c18f9792cd8a1213e.json"
+    },
+    {
+      "id": "eaton-article-8f2de72258ea4ed3ae514c45",
+      "name": "DG1-34730FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 731 A, IP00, NEMA Other, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8f2de72258ea4ed3ae514c45",
+      "recordPath": "equipment/eaton-article-8f2de72258ea4ed3ae514c45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8f2de72258ea4ed3ae514c45.json"
+    },
+    {
+      "id": "eaton-article-689ee1b67638c730c4d649da",
+      "name": "DG1-34820FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 815 A, NEMA Other, IP00, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-689ee1b67638c730c4d649da",
+      "recordPath": "equipment/eaton-article-689ee1b67638c730c4d649da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-689ee1b67638c730c4d649da.json"
+    },
+    {
+      "id": "eaton-article-aea69a8f715697d9d0bbc247",
+      "name": "DG1-35261FB-C00C — Variable frequency drive, 600 V AC, 3-phase, 269 A, NEMA Other, IP00, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-aea69a8f715697d9d0bbc247",
+      "recordPath": "equipment/eaton-article-aea69a8f715697d9d0bbc247.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-aea69a8f715697d9d0bbc247.json"
+    },
+    {
+      "id": "eaton-article-ae4f442343f573be68febf32",
+      "name": "DG1-34460FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 459 A, NEMA Other, IP00, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ae4f442343f573be68febf32",
+      "recordPath": "equipment/eaton-article-ae4f442343f573be68febf32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ae4f442343f573be68febf32.json"
+    },
+    {
+      "id": "eaton-article-5c4c75a633154d3751b7e351",
+      "name": "DG1-341K0FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 1030 A, NEMA Other, IP00, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5c4c75a633154d3751b7e351",
+      "recordPath": "equipment/eaton-article-5c4c75a633154d3751b7e351.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5c4c75a633154d3751b7e351.json"
+    },
+    {
+      "id": "eaton-article-178169db8faecd84c11b3f14",
+      "name": "DG1-34590FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 587 A, NEMA Other, IP00, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178169db8faecd84c11b3f14",
+      "recordPath": "equipment/eaton-article-178169db8faecd84c11b3f14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178169db8faecd84c11b3f14.json"
+    },
+    {
+      "id": "eaton-article-8ce7fe9c2ca5d121e346ab44",
+      "name": "DG1-35460FB-C00C — Variable frequency drive, 690 V AC, 3-phase, 472 A, NEMA Other, IP00, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8ce7fe9c2ca5d121e346ab44",
+      "recordPath": "equipment/eaton-article-8ce7fe9c2ca5d121e346ab44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8ce7fe9c2ca5d121e346ab44.json"
+    },
+    {
+      "id": "eaton-article-8fef9352ed8752a102663ab4",
+      "name": "DG1-34385FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 391 A, NEMA Other, IP00, FS7, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8fef9352ed8752a102663ab4",
+      "recordPath": "equipment/eaton-article-8fef9352ed8752a102663ab4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8fef9352ed8752a102663ab4.json"
+    },
+    {
+      "id": "eaton-article-5d4182c16d0e3b8f0b7aeaa9",
+      "name": "DG1-34520FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 515 A, NEMA Other, IP00, FS7, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5d4182c16d0e3b8f0b7aeaa9",
+      "recordPath": "equipment/eaton-article-5d4182c16d0e3b8f0b7aeaa9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5d4182c16d0e3b8f0b7aeaa9.json"
+    },
+    {
+      "id": "eaton-article-8f842e22a4ed3ccffc6daca2",
+      "name": "DG1-35520FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 527 A, NEMA Other, IP00, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8f842e22a4ed3ccffc6daca2",
+      "recordPath": "equipment/eaton-article-8f842e22a4ed3ccffc6daca2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8f842e22a4ed3ccffc6daca2.json"
+    },
+    {
+      "id": "eaton-article-e8eb0b83eae3f1086a7b9aec",
+      "name": "DG1-35650FB-C00C — Variable frequency drive, 690 V AC, 3-phase, 646 A, IP00, NEMA Other, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e8eb0b83eae3f1086a7b9aec",
+      "recordPath": "equipment/eaton-article-e8eb0b83eae3f1086a7b9aec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e8eb0b83eae3f1086a7b9aec.json"
+    },
+    {
+      "id": "eaton-article-43a2f077c0aeb17baa50bcec",
+      "name": "DG1-35416FB-C00C — Variable frequency drive, 690 V AC, 3-phase, 433 A, NEMA Other, IP00, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-43a2f077c0aeb17baa50bcec",
+      "recordPath": "equipment/eaton-article-43a2f077c0aeb17baa50bcec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-43a2f077c0aeb17baa50bcec.json"
+    },
+    {
+      "id": "eaton-article-7a156b6ad88478b529e56c9e",
+      "name": "DG1-34730FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 731 A, NEMA Other, IP00, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7a156b6ad88478b529e56c9e",
+      "recordPath": "equipment/eaton-article-7a156b6ad88478b529e56c9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7a156b6ad88478b529e56c9e.json"
+    },
+    {
+      "id": "eaton-article-b65250930afbadf69fa5731b",
+      "name": "DG1-34920FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 908 A, NEMA Other, IP00, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b65250930afbadf69fa5731b",
+      "recordPath": "equipment/eaton-article-b65250930afbadf69fa5731b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b65250930afbadf69fa5731b.json"
+    },
+    {
+      "id": "eaton-article-e270c4b3c2bb083a340cc71c",
+      "name": "DG1-35820FB-C00C — Variable frequency drive, 690 V AC, 3-phase, 739 A, IP00, NEMA Other, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e270c4b3c2bb083a340cc71c",
+      "recordPath": "equipment/eaton-article-e270c4b3c2bb083a340cc71c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e270c4b3c2bb083a340cc71c.json"
+    },
+    {
+      "id": "eaton-article-8f57fa342a7e1302df356667",
+      "name": "DG1-35261FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 269 A, NEMA Other, IP00, FS7, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8f57fa342a7e1302df356667",
+      "recordPath": "equipment/eaton-article-8f57fa342a7e1302df356667.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8f57fa342a7e1302df356667.json"
+    },
+    {
+      "id": "eaton-article-88e890470f7cb22026038c8d",
+      "name": "DG1-35650FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 646 A, IP00, NEMA Other, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-88e890470f7cb22026038c8d",
+      "recordPath": "equipment/eaton-article-88e890470f7cb22026038c8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-88e890470f7cb22026038c8d.json"
+    },
+    {
+      "id": "eaton-article-194c5ff2132388e02bb2c85c",
+      "name": "DG1-35325FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 327 A, NEMA Other, IP00, FS7, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-194c5ff2132388e02bb2c85c",
+      "recordPath": "equipment/eaton-article-194c5ff2132388e02bb2c85c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-194c5ff2132388e02bb2c85c.json"
+    },
+    {
+      "id": "eaton-article-cc123eb671b773c22e7075f7",
+      "name": "DG1-34820FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 815 A, NEMA Other, IP00, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cc123eb671b773c22e7075f7",
+      "recordPath": "equipment/eaton-article-cc123eb671b773c22e7075f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cc123eb671b773c22e7075f7.json"
+    },
+    {
+      "id": "eaton-article-4eaf1cc33e17ca8132da7a2b",
+      "name": "DG1-34650FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 642 A, NEMA Other, IP00, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4eaf1cc33e17ca8132da7a2b",
+      "recordPath": "equipment/eaton-article-4eaf1cc33e17ca8132da7a2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4eaf1cc33e17ca8132da7a2b.json"
+    },
+    {
+      "id": "eaton-article-c0570a33810dd5f56e8ce009",
+      "name": "DG1-34310FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 311 A, IP00, NEMA Other, FS7, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c0570a33810dd5f56e8ce009",
+      "recordPath": "equipment/eaton-article-c0570a33810dd5f56e8ce009.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c0570a33810dd5f56e8ce009.json"
+    },
+    {
+      "id": "eaton-article-3c1af27ac2e6ad87a9aaafb2",
+      "name": "DG1-34460FN-C00C — Variable frequency drive, 500 V AC, 3-phase, 459 A, NEMA Other, IP00, FS7, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3c1af27ac2e6ad87a9aaafb2",
+      "recordPath": "equipment/eaton-article-3c1af27ac2e6ad87a9aaafb2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3c1af27ac2e6ad87a9aaafb2.json"
+    },
+    {
+      "id": "eaton-article-2d4eb730bee4d6054b37a2ff",
+      "name": "DG1-34520FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 515 A, NEMA Other, IP00, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2d4eb730bee4d6054b37a2ff",
+      "recordPath": "equipment/eaton-article-2d4eb730bee4d6054b37a2ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2d4eb730bee4d6054b37a2ff.json"
+    },
+    {
+      "id": "eaton-article-9318d2b4cc9faee73f57c5cd",
+      "name": "DG1-35520FB-C00C — Variable frequency drive, 690 V AC, 3-phase, 527 A, NEMA Other, IP00, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9318d2b4cc9faee73f57c5cd",
+      "recordPath": "equipment/eaton-article-9318d2b4cc9faee73f57c5cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9318d2b4cc9faee73f57c5cd.json"
+    },
+    {
+      "id": "eaton-article-72ca4454bf09823500e93e84",
+      "name": "DG1-35590FB-C00C — Variable frequency drive, 690 V AC, 3-phase, 591 A, IP00, NEMA Other, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-72ca4454bf09823500e93e84",
+      "recordPath": "equipment/eaton-article-72ca4454bf09823500e93e84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-72ca4454bf09823500e93e84.json"
+    },
+    {
+      "id": "eaton-article-01c8160ac18619042ba91e8a",
+      "name": "DG1-34385FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 391 A, NEMA Other, IP00, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-01c8160ac18619042ba91e8a",
+      "recordPath": "equipment/eaton-article-01c8160ac18619042ba91e8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-01c8160ac18619042ba91e8a.json"
+    },
+    {
+      "id": "eaton-article-a548cf1146ca7f274488ef12",
+      "name": "DG1-34920FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 908 A, IP00, NEMA Other, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a548cf1146ca7f274488ef12",
+      "recordPath": "equipment/eaton-article-a548cf1146ca7f274488ef12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a548cf1146ca7f274488ef12.json"
+    },
+    {
+      "id": "eaton-article-1d8cca992977de039387e4e0",
+      "name": "DG1-35325FB-C00C — Variable frequency drive, 690 V AC, 3-phase, 327 A, NEMA Other, IP00, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1d8cca992977de039387e4e0",
+      "recordPath": "equipment/eaton-article-1d8cca992977de039387e4e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1d8cca992977de039387e4e0.json"
+    },
+    {
+      "id": "eaton-article-55523becbbdab35f305db389",
+      "name": "DG1-341K0FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 1030 A, NEMA Other, IP00, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-55523becbbdab35f305db389",
+      "recordPath": "equipment/eaton-article-55523becbbdab35f305db389.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-55523becbbdab35f305db389.json"
+    },
+    {
+      "id": "eaton-article-40ac1d91dde1bffe8e4168ed",
+      "name": "DG1-34310FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 311 A, NEMA Other, IP00, FS7, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-40ac1d91dde1bffe8e4168ed",
+      "recordPath": "equipment/eaton-article-40ac1d91dde1bffe8e4168ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-40ac1d91dde1bffe8e4168ed.json"
+    },
+    {
+      "id": "eaton-article-c1c56bcf86bba9f06a6489fd",
+      "name": "DG1-35385FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 382 A, IP00, NEMA Other, FS7, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c1c56bcf86bba9f06a6489fd",
+      "recordPath": "equipment/eaton-article-c1c56bcf86bba9f06a6489fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c1c56bcf86bba9f06a6489fd.json"
+    },
+    {
+      "id": "eaton-article-e286bccf2dc6abf8f8f1b189",
+      "name": "DG1-34590FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 587 A, NEMA Other, IP00, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e286bccf2dc6abf8f8f1b189",
+      "recordPath": "equipment/eaton-article-e286bccf2dc6abf8f8f1b189.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e286bccf2dc6abf8f8f1b189.json"
+    },
+    {
+      "id": "eaton-article-9398ec96cf421a826c0e3a0c",
+      "name": "DG1-35416FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 433 A, IP00, NEMA Other, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9398ec96cf421a826c0e3a0c",
+      "recordPath": "equipment/eaton-article-9398ec96cf421a826c0e3a0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9398ec96cf421a826c0e3a0c.json"
+    },
+    {
+      "id": "eaton-article-833cc4717385b6f5c5b5149a",
+      "name": "DG1-34650FB-C00C — Variable frequency drive, 500 V AC, 3-phase, 642 A, NEMA Other, IP00, FS8, Radio interference, Brake chopper",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-833cc4717385b6f5c5b5149a",
+      "recordPath": "equipment/eaton-article-833cc4717385b6f5c5b5149a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-833cc4717385b6f5c5b5149a.json"
+    },
+    {
+      "id": "eaton-article-5189c3e2cad6e4c5902232be",
+      "name": "DG1-35820FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 739 A, NEMA Other, IP00, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5189c3e2cad6e4c5902232be",
+      "recordPath": "equipment/eaton-article-5189c3e2cad6e4c5902232be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5189c3e2cad6e4c5902232be.json"
+    },
+    {
+      "id": "eaton-article-b48058c8ced1e371675236e6",
+      "name": "DG1-35590FN-C00C — Variable frequency drive, 690 V AC, 3-phase, 591 A, NEMA Other, IP00, FS8, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b48058c8ced1e371675236e6",
+      "recordPath": "equipment/eaton-article-b48058c8ced1e371675236e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b48058c8ced1e371675236e6.json"
+    }
+  ]
+}

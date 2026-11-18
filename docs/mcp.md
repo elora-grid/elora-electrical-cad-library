@@ -2,13 +2,13 @@
 
 The public CAD MCP and the protected main-product MCP are separate services. This repository is a metadata snapshot, not an MCP server.
 
-The public endpoint verified on 17 November 2026 is:
+The public endpoint verified on 18 November 2026 is:
 
 ```text
 https://elora-production-cad-mcp-891798621854.us-east4.run.app/mcp
 ```
 
-It exposed all six tools below and reported 56,512 published items without credentials. Use live discovery for future endpoint changes.
+It exposed all six tools below and reported 76,512 published items without credentials. Use live discovery for future endpoint changes.
 
 1. Read `https://eloragrid.ai/.well-known/cad-library.json`.
 2. Use its `public_mcp_endpoint` only when `public_mcp_status` is `configured`. If the document is unavailable or reports `not_configured`, use the catalogue HTTP API and check the current service status. Do not use a staging or guessed URL.
@@ -27,6 +27,10 @@ The public tools are:
 | `prepare_cad_downloads` | Plan independent links for selected prepared files. |
 
 These six public tools require no identity. Preserve catalogue-version fences and follow structured recovery hints. Download file bytes outside model context; do not treat a filename extension, mesh or projection as proof of an editable solid, exact units or certified design.
+
+File delivery retains the live API's anonymous allowance and reusable email
+registration policy. Public artifact access does not mean unlimited anonymous
+downloads; follow `registration_required`, allowance and retry responses.
 
 Reviewed exclusive conversions use the existing protected MCP connection and `get_exclusive_cad_download`, with a verified free CAD account and explicit OAuth scope `cad:download`. Creating an account alone does not authorise an agent. Do not substitute that protected endpoint for the public endpoint or expose account tokens in prompts or committed configuration.
 

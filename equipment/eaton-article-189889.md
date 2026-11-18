@@ -27,10 +27,10 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available native formats: DWG / STEP
 - Listed file formats: DWG, STEP
 - Listed files: 2
-- Available previews: No browser preview; original files are downloadable
+- Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -65,6 +65,12 @@ Eaton supplied the original files through https://ecat.eaton.com/downloads/c029e
 ## Choosing a file
 
 Use pkzm01.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified pkzm01.stp. Use eaton-breakers-mcad-drawings-pkzm01.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-breakers-mcad-drawings-pkzm01.dwg.
+
+## Preview
+
+![Eaton PKZM01-10-EA — Motor-protective circuit-breaker (-EA), 440 V: 4 kW, Ir = 6.3 - 10 A, IP20: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-189889/native-3e5f9301528cbaaadae1877e-dwg?asset=3e5f9301528cbaaadae1877e8b7e81cd54286f950242dfa48f8acbb2d3fee08e)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189889). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 

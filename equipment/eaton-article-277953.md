@@ -27,10 +27,10 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available native formats: DWG / STEP
 - Listed file formats: DWG, STEP
 - Listed files: 3
-- Available previews: No browser preview; original files are downloadable
+- Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -65,6 +65,12 @@ Eaton supplied the original files through https://ecat.eaton.com/downloads/0f33d
 ## Choosing a file
 
 Use dil\_m150\_xhi\_4.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified dil\_m150\_xhi\_4.stp. Use eaton-iec-contactors-mcad-drawings-dil-m80-150-22.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-iec-contactors-mcad-drawings-dil-m80-150-22.dwg. Use eaton-contact-blocks-mcad-drawings-dil-m150-xhi-4.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-contact-blocks-mcad-drawings-dil-m150-xhi-4.dwg.
+
+## Preview
+
+![Eaton DILM150-XHIV22 — Auxiliary contact module, 4 pole, Ith= 16 A, 1 N/O, 1 N/OE, 1 NC, 1 NCL, Front fixing, Screw terminals, DILM40 - DILM170: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-277953/native-80a273cdb6fbf241f20ccb1a-dwg?asset=80a273cdb6fbf241f20ccb1a646a5671cd9b4352559008be33e5c4985ad6294f)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-277953). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 

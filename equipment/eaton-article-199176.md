@@ -27,10 +27,10 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available native formats: DWG / STEP
 - Listed file formats: DWG, STEP
 - Listed files: 2
-- Available previews: No browser preview; original files are downloadable
+- Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -65,6 +65,12 @@ Eaton supplied the original files through https://ecat.eaton.com/downloads/b22b0
 ## Choosing a file
 
 Use eaton-motor-protective-circuit-breakers-mcad-3d-models-pkzm0-pi.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-motor-protective-circuit-breakers-mcad-3d-models-pkzm0-pi.stp. Use eaton-breakers-mcad-drawings-schutzschalter-bis-32a-pi.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-breakers-mcad-drawings-schutzschalter-bis-32a-pi.dwg.
+
+## Preview
+
+![Eaton PKZM0-25-T-PI — Transformer-protective circuit-breaker, 20 - 25 A, Push in terminals: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-199176/native-43045d679638b370fd113b40-dwg?asset=43045d679638b370fd113b40eb850741685e0033198558088ea5ed714eb65b1e)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199176). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 

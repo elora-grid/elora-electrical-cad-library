@@ -1,0 +1,171 @@
+# Weidmüller — HDC FLDG 24B — Flange seal for industrial connectors / Flange seal for industrial connectors, Size: 8, Sealing: NBR
+
+Weidmüller HDC FLDG 24B — Flange seal for industrial connectors / Flange seal for industrial connectors, Size: 8, Sealing: NBR. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1044550000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1044550000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1044550000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1044550000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/hdc-fldg-24b/p/1044550000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1044550000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: HDC FLDG 24B — Flange seal for industrial connectors / Flange seal for industrial connectors, Size: 8, Sealing: NBR
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1044550000
+- Manufacturer reference: 1044550000
+- Manufacturer type: HDC FLDG 24B
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1044550000 ([source](https://eshop.weidmueller.com.cn/en/hdc-fldg-24b/p/1044550000/downloads#engineering-support))
+- Manufacturer type: HDC FLDG 24B ([source](https://eshop.weidmueller.com.cn/en/hdc-fldg-24b/p/1044550000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/hdc-fldg-24b/p/1044550000/downloads#engineering-support))
+
+## What the equipment does
+
+A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
+
+In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/hdc-fldg-24b/p/1044550000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1044550000. The files above belong to Weidmüller's HDC FLDG 24B — Flange seal for industrial connectors / Flange seal for industrial connectors, Size: 8, Sealing: NBR resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, ZIP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller HDC FLDG 24B — Flange seal for industrial connectors / Flange seal for industrial connectors, Size: 8, Sealing: NBR: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1044550000/native-d0b0422487e7d69a2278353b-zip?asset=9ddfa5b7fdd8637032e64002d08d04518534a280374aade0f0427c153e80562b)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1044550000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1044550000)
+
+- 1044550000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1044550000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 1044550000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1044550000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/cfd5e18d-2b29-4388-a0f9-e36e31b00b2f/original/1044550000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1044550000/native-46203cb262bbbc7072b4b9b6-step)
+- Redistribution: unknown
+- Original SHA-256: 46203cb262bbbc7072b4b9b61915b74fdad1be91d8fef76d018ca2000140602d
+- Original bytes: 43918
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/cfd5e18d-2b29-4388-a0f9-e36e31b00b2f/original/1044550000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 8680 bytes
+- Delivery SHA-256: 8c1df176a1847c87eedbe0f48390261a33509cdfc621c9ca87b21389e366073f
+
+### 1044550000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/dfae39bf-1a24-4042-be57-e0f4231fbc7f/original/1044550000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1044550000/native-d0b0422487e7d69a2278353b-zip)
+- Redistribution: unknown
+- Original SHA-256: d0b0422487e7d69a2278353b5adee16627b809469edc1818598c40bcf343a588
+- Original bytes: 24796
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/dfae39bf-1a24-4042-be57-e0f4231fbc7f/original/1044550000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 24796 bytes
+- Delivery SHA-256: d0b0422487e7d69a2278353b5adee16627b809469edc1818598c40bcf343a588
+
+<details>
+<summary>Archive members</summary>
+
+- 1044550000\_back.DXF
+- 1044550000\_bottom.DXF
+- 1044550000\_front.DXF
+- 1044550000\_left.DXF
+- 1044550000\_right.DXF
+- 1044550000\_top.DXF
+
+</details>
+
+### 1044550000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/50023839-4edd-46a7-b17e-a3dfffea40cc/original/1044550000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1044550000/native-c3d506d668ed07e3776ebbcd-zip)
+- Redistribution: unknown
+- Original SHA-256: c3d506d668ed07e3776ebbcdadf742a3a641bae6fd9b5f6961debd508666bfa7
+- Original bytes: 37560
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/50023839-4edd-46a7-b17e-a3dfffea40cc/original/1044550000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 37560 bytes
+- Delivery SHA-256: c3d506d668ed07e3776ebbcdadf742a3a641bae6fd9b5f6961debd508666bfa7
+
+<details>
+<summary>Archive members</summary>
+
+- 1044550000\_back.DWG
+- 1044550000\_bottom.DWG
+- 1044550000\_front.DWG
+- 1044550000\_left.DWG
+- 1044550000\_right.DWG
+- 1044550000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

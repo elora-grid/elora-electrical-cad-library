@@ -1,0 +1,125 @@
+# Eaton — STI1,6(230/230) — Control transformer, 1.6 kVA, Rated input voltage 230± 5 % V, Rated output voltage 230 V
+
+Eaton STI1,6(230/230) — Control transformer, 1.6 kVA, Rated input voltage 230± 5 % V, Rated output voltage 230 V. Manufacturer CAD files for transformers equipment selection and layout, identified by article 035257.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-035257) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-035257.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-035257.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip)
+
+- Category: Transformers & earthing
+- Entry type: product
+- Part number: 035257
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Download the retained manufacturer CAD originals from this library. ZIP packages contain the unchanged named native CAD file; manufacturer archive provenance is retained separately.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: STI1,6(230/230) — Control transformer, 1.6 kVA, Rated input voltage 230± 5 % V, Rated output voltage 230 V
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 035257
+- Manufacturer reference: 035257
+- Manufacturer type: STI1,6(230/230)
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 035257 ([source](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip))
+- Manufacturer type: STI1,6(230/230) ([source](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip))
+
+## What the equipment does
+
+A transformer transfers electrical energy between coils of wire, commonly to change an AC supply from one voltage to another.
+
+In a microgrid substation, a transformer can connect a lower-voltage generator or inverter system to a higher-voltage distribution network.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip)
+
+## Choosing a file
+
+Start with 035257. The files above belong to Eaton's STI1,6(230/230) — Control transformer, 1.6 kVA, Rated input voltage 230± 5 % V, Rated output voltage 230 V resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Eaton STI1,6(230/230) — Control transformer, 1.6 kVA, Rated input voltage 230± 5 % V, Rated output voltage 230 V: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-035257/native-85ba309e1244e12d9d47a9bd-dwg?asset=85ba309e1244e12d9d47a9bd473d1e44bc22379eb08bdc8a344cd555738cd2de)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-035257). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Transformer envelope](https://eloragrid.ai/objects/transformer-envelope)
+- [Control transformer](https://eloragrid.ai/objects/ga-control-transformer)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/eaton-article-035257)
+
+- sti1\_6\_230.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-control-transformers-mcad-drawings-sti1-6-230.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### sti1\_6\_230.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-035257/native-0965cddab5bb78b3750096ef-step)
+- Redistribution: unknown
+- Original SHA-256: 0965cddab5bb78b3750096ef47b2253114a4cdedbeb5cb8082b0a2be1256e57e
+- Original bytes: 2270625
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 293389 bytes
+- Delivery SHA-256: 789ab47d202a1001bef4e33690b79b683788744e5e6a47d19fe218890c2f1810
+
+### eaton-control-transformers-mcad-drawings-sti1-6-230.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-035257/native-85ba309e1244e12d9d47a9bd-dwg)
+- Redistribution: unknown
+- Original SHA-256: 85ba309e1244e12d9d47a9bd473d1e44bc22379eb08bdc8a344cd555738cd2de
+- Original bytes: 557312
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/aef96b83-7fa0-473c-87e0-23a4819b5833/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 482918 bytes
+- Delivery SHA-256: b76e59f6486563fb6aa140c31b9a390060e14f9731f62b35d2784a72a2e81630
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

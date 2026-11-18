@@ -1,0 +1,2871 @@
+{
+  "schemaVersion": 1,
+  "category": "automation",
+  "page": 41,
+  "entries": [
+    {
+      "id": "eaton-article-197545",
+      "name": "M30-PVL30 — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, Pull-to-release function",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197545",
+      "recordPath": "equipment/eaton-article-197545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197545.json"
+    },
+    {
+      "id": "eaton-article-197646",
+      "name": "M30-FI4-PV-* — Surface mounting enclosure, Insulated material, With high-grade steel screws, Individually markable with pushbutton configurator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197646",
+      "recordPath": "equipment/eaton-article-197646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197646.json"
+    },
+    {
+      "id": "eaton-article-197635",
+      "name": "M22-I4-* — Surface-mounting enclosure, RAL 7035, Individually markable with pushbutton configurator, Number of locations: 4, Cable entry: rear: 2 x M20, at top: 2 x M20, lateral: 2 x M20/M25 (1 x each side)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197635",
+      "recordPath": "equipment/eaton-article-197635.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197635.json"
+    },
+    {
+      "id": "eaton-article-197204",
+      "name": "M30C-FDL-Y-X66 — Illuminated pushbutton actuator, Flat Front (drilling dimensions 30.5 mm), Flush, momentary, yellow, inscribed, Metal bezel",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197204",
+      "recordPath": "equipment/eaton-article-197204.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197204.json"
+    },
+    {
+      "id": "eaton-article-197640",
+      "name": "M22-FI3-* — Surface mounting enclosure, RAL 7035, Individually markable with pushbutton configurator, Number of locations: 3, Cable entry: rear: 1 x M20, lateral: 2 x M20 (1 x each side)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197640",
+      "recordPath": "equipment/eaton-article-197640.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197640.json"
+    },
+    {
+      "id": "eaton-article-197644",
+      "name": "M30-FI3-* — Surface mounting enclosure, Insulated material, With high-grade steel screws, Individually markable with pushbutton configurator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197644",
+      "recordPath": "equipment/eaton-article-197644.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197644.json"
+    },
+    {
+      "id": "eaton-article-197636",
+      "name": "M22-I6-* — Surface-mounting enclosure, RAL 7035, Individually markable with pushbutton configurator, Number of locations: 6, Cable entry: rear: 2 x M20, at top: 2 x M20, lateral: 2 x M20/M25 (1 x each side)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197636",
+      "recordPath": "equipment/eaton-article-197636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197636.json"
+    },
+    {
+      "id": "eaton-article-197538",
+      "name": "M22-PVLT30 — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, 30 mm, Illuminated with LED element, Turn-to-release function, Red, yellow",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197538",
+      "recordPath": "equipment/eaton-article-197538.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197538.json"
+    },
+    {
+      "id": "eaton-article-197537",
+      "name": "M22-PVL30 — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, 30 mm, Illuminated with LED element, Pull-to-release function, Red, yellow",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197537",
+      "recordPath": "equipment/eaton-article-197537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197537.json"
+    },
+    {
+      "id": "eaton-article-197637",
+      "name": "M22-FI1-* — Surface mounting enclosure, RAL 7035, Individually markable with pushbutton configurator, Number of locations: 1, Cable entry: rear: 1 x M20, lateral: 1 x M20",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197637",
+      "recordPath": "equipment/eaton-article-197637.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197637.json"
+    },
+    {
+      "id": "eaton-article-197638",
+      "name": "M22-FIY1-* — Surface mounting enclosure, RAL 1004, Individually markable with pushbutton configurator, Number of locations: 1, Cable entry: rear: 1 x M20, lateral: 1 x M20",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197638",
+      "recordPath": "equipment/eaton-article-197638.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197638.json"
+    },
+    {
+      "id": "eaton-article-197634",
+      "name": "M22-I3-* — Surface-mounting enclosure, RAL 7035, Individually markable with pushbutton configurator, Number of locations: 3, Cable entry: rear: 2 x M20, at top: 2 x M20, lateral: 2 x M20/M25 (1 x each side)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197634",
+      "recordPath": "equipment/eaton-article-197634.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197634.json"
+    },
+    {
+      "id": "eaton-article-216613",
+      "name": "M22-DR-S — Pushbutton, RMQ-Titan, Flat, maintained, black, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216613",
+      "recordPath": "equipment/eaton-article-216613.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216613.json"
+    },
+    {
+      "id": "eaton-article-216595",
+      "name": "M22S-D-R — Pushbutton, RMQ-Titan, Flat, momentary, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216595",
+      "recordPath": "equipment/eaton-article-216595.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216595.json"
+    },
+    {
+      "id": "eaton-article-216637",
+      "name": "M22S-DH-S — Pushbutton, RMQ-Titan, Extended, momentary, black, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216637",
+      "recordPath": "equipment/eaton-article-216637.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216637.json"
+    },
+    {
+      "id": "eaton-article-216602",
+      "name": "M22-D-X — Pushbutton, RMQ-Titan, momentary, Without button plate, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216602",
+      "recordPath": "equipment/eaton-article-216602.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216602.json"
+    },
+    {
+      "id": "eaton-article-216647",
+      "name": "M22S-DH-Y — Pushbutton, RMQ-Titan, Extended, momentary, yellow, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216647",
+      "recordPath": "equipment/eaton-article-216647.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216647.json"
+    },
+    {
+      "id": "eaton-article-216612",
+      "name": "M22S-D-W-X1 — Pushbutton, RMQ-Titan, Flat, momentary, White, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216612",
+      "recordPath": "equipment/eaton-article-216612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216612.json"
+    },
+    {
+      "id": "eaton-article-216598",
+      "name": "M22-D-Y — Pushbutton, RMQ-Titan, Flat, momentary, yellow, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216598",
+      "recordPath": "equipment/eaton-article-216598.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216598.json"
+    },
+    {
+      "id": "eaton-article-216634",
+      "name": "M22-DR-W-X1 — Pushbutton, RMQ-Titan, Flat, maintained, White, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216634",
+      "recordPath": "equipment/eaton-article-216634.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216634.json"
+    },
+    {
+      "id": "eaton-article-216615",
+      "name": "M22-DR-W — Pushbutton, RMQ-Titan, Flat, maintained, White, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216615",
+      "recordPath": "equipment/eaton-article-216615.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216615.json"
+    },
+    {
+      "id": "eaton-article-216621",
+      "name": "M22-DR-Y — Pushbutton, RMQ-Titan, Flat, maintained, yellow, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216621",
+      "recordPath": "equipment/eaton-article-216621.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216621.json"
+    },
+    {
+      "id": "eaton-article-216639",
+      "name": "M22S-DH-W — Pushbutton, RMQ-Titan, Extended, momentary, White, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216639",
+      "recordPath": "equipment/eaton-article-216639.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216639.json"
+    },
+    {
+      "id": "eaton-article-216635",
+      "name": "M22S-DR-W-X1 — Pushbutton, RMQ-Titan, Flat, maintained, White, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216635",
+      "recordPath": "equipment/eaton-article-216635.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216635.json"
+    },
+    {
+      "id": "eaton-article-216607",
+      "name": "M22-D-G-X1 — Pushbutton, RMQ-Titan, Flat, momentary, green, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216607",
+      "recordPath": "equipment/eaton-article-216607.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216607.json"
+    },
+    {
+      "id": "eaton-article-216655",
+      "name": "M22-DH-R-X0 — Pushbutton, RMQ-Titan, Extended, momentary, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216655",
+      "recordPath": "equipment/eaton-article-216655.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216655.json"
+    },
+    {
+      "id": "eaton-article-216643",
+      "name": "M22-DH-G — Pushbutton, RMQ-Titan, Extended, momentary, green, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216643",
+      "recordPath": "equipment/eaton-article-216643.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216643.json"
+    },
+    {
+      "id": "eaton-article-216591",
+      "name": "M22S-D-S — Pushbutton, RMQ-Titan, Flat, momentary, black, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216591",
+      "recordPath": "equipment/eaton-article-216591.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216591.json"
+    },
+    {
+      "id": "eaton-article-216636",
+      "name": "M22-DH-S — Pushbutton, RMQ-Titan, Extended, momentary, black, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216636",
+      "recordPath": "equipment/eaton-article-216636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216636.json"
+    },
+    {
+      "id": "eaton-article-216623",
+      "name": "M22-DR-B — Pushbutton, RMQ-Titan, Flat, maintained, Blue, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216623",
+      "recordPath": "equipment/eaton-article-216623.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216623.json"
+    },
+    {
+      "id": "eaton-article-216657",
+      "name": "M22-DH-G-X1 — Pushbutton, RMQ-Titan, Extended, momentary, green, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216657",
+      "recordPath": "equipment/eaton-article-216657.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216657.json"
+    },
+    {
+      "id": "eaton-article-216642",
+      "name": "M22S-DH-R — Pushbutton, RMQ-Titan, Extended, momentary, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216642",
+      "recordPath": "equipment/eaton-article-216642.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216642.json"
+    },
+    {
+      "id": "eaton-article-216590",
+      "name": "M22-D-S — Pushbutton, RMQ-Titan, Flat, momentary, black, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216590",
+      "recordPath": "equipment/eaton-article-216590.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216590.json"
+    },
+    {
+      "id": "eaton-article-216619",
+      "name": "M22-DR-G — Pushbutton, RMQ-Titan, Flat, maintained, green, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216619",
+      "recordPath": "equipment/eaton-article-216619.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216619.json"
+    },
+    {
+      "id": "eaton-article-216641",
+      "name": "M22-DH-R — Pushbutton, RMQ-Titan, Extended, momentary, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216641",
+      "recordPath": "equipment/eaton-article-216641.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216641.json"
+    },
+    {
+      "id": "eaton-article-216596",
+      "name": "M22-D-G — Pushbutton, RMQ-Titan, Flat, momentary, green, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216596",
+      "recordPath": "equipment/eaton-article-216596.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216596.json"
+    },
+    {
+      "id": "eaton-article-216605",
+      "name": "M22-D-R-X0 — Pushbutton, RMQ-Titan, Flat, momentary, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216605",
+      "recordPath": "equipment/eaton-article-216605.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216605.json"
+    },
+    {
+      "id": "eaton-article-216594",
+      "name": "M22-D-R — Pushbutton, RMQ-Titan, Flat, momentary, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216594",
+      "recordPath": "equipment/eaton-article-216594.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216594.json"
+    },
+    {
+      "id": "eaton-article-216649",
+      "name": "M22-DH-B — Pushbutton, RMQ-Titan, Extended, momentary, Blue, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216649",
+      "recordPath": "equipment/eaton-article-216649.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216649.json"
+    },
+    {
+      "id": "eaton-article-216610",
+      "name": "M22S-D-S-X0 — Pushbutton, RMQ-Titan, Flat, momentary, black, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216610",
+      "recordPath": "equipment/eaton-article-216610.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216610.json"
+    },
+    {
+      "id": "eaton-article-216625",
+      "name": "M22-DR-X — Pushbutton, RMQ-Titan, Flat, maintained, Without button plate, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216625",
+      "recordPath": "equipment/eaton-article-216625.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216625.json"
+    },
+    {
+      "id": "eaton-article-216512",
+      "name": "M22-D-G-X1/K10 — Pushbutton, flat, momentary, 1 N/O, green, Screw connection, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216512",
+      "recordPath": "equipment/eaton-article-216512.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216512.json"
+    },
+    {
+      "id": "eaton-article-216609",
+      "name": "M22-D-S-X0 — Pushbutton, RMQ-Titan, Flat, momentary, black, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216609",
+      "recordPath": "equipment/eaton-article-216609.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216609.json"
+    },
+    {
+      "id": "eaton-article-216611",
+      "name": "M22-D-W-X1 — Pushbutton, RMQ-Titan, Flat, momentary, White, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216611",
+      "recordPath": "equipment/eaton-article-216611.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216611.json"
+    },
+    {
+      "id": "eaton-article-216650",
+      "name": "M22S-DH-B — Pushbutton, RMQ-Titan, Extended, momentary, Blue, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216650",
+      "recordPath": "equipment/eaton-article-216650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216650.json"
+    },
+    {
+      "id": "eaton-article-216646",
+      "name": "M22-DH-Y — Pushbutton, RMQ-Titan, Extended, momentary, yellow, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216646",
+      "recordPath": "equipment/eaton-article-216646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216646.json"
+    },
+    {
+      "id": "eaton-article-216638",
+      "name": "M22-DH-W — Pushbutton, RMQ-Titan, Extended, momentary, White, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216638",
+      "recordPath": "equipment/eaton-article-216638.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216638.json"
+    },
+    {
+      "id": "eaton-article-216600",
+      "name": "M22-D-B — Pushbutton, RMQ-Titan, Flat, momentary, Blue, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216600",
+      "recordPath": "equipment/eaton-article-216600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216600.json"
+    },
+    {
+      "id": "eaton-article-216645",
+      "name": "M22S-DH-G — Pushbutton, RMQ-Titan, Extended, momentary, green, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216645",
+      "recordPath": "equipment/eaton-article-216645.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216645.json"
+    },
+    {
+      "id": "eaton-article-216617",
+      "name": "M22-DR-R — Pushbutton, RMQ-Titan, Flat, maintained, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216617",
+      "recordPath": "equipment/eaton-article-216617.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216617.json"
+    },
+    {
+      "id": "eaton-article-216592",
+      "name": "M22-D-W — Pushbutton, RMQ-Titan, Flat, momentary, White, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216592",
+      "recordPath": "equipment/eaton-article-216592.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216592.json"
+    },
+    {
+      "id": "eaton-article-216394",
+      "name": "M22S-STDD-X — Double actuator pushbutton, Accessories, Round",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216394",
+      "recordPath": "equipment/eaton-article-216394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216394.json"
+    },
+    {
+      "id": "eaton-article-216628",
+      "name": "M22-DR-R-X0 — Pushbutton, RMQ-Titan, Flat, maintained, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216628",
+      "recordPath": "equipment/eaton-article-216628.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216628.json"
+    },
+    {
+      "id": "eaton-article-216614",
+      "name": "M22S-DR-S — Pushbutton, RMQ-Titan, Flat, maintained, black, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216614",
+      "recordPath": "equipment/eaton-article-216614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216614.json"
+    },
+    {
+      "id": "eaton-article-216616",
+      "name": "M22S-DR-W — Pushbutton, RMQ-Titan, Flat, maintained, White, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216616",
+      "recordPath": "equipment/eaton-article-216616.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216616.json"
+    },
+    {
+      "id": "eaton-article-216618",
+      "name": "M22S-DR-R — Pushbutton, RMQ-Titan, Flat, maintained, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216618",
+      "recordPath": "equipment/eaton-article-216618.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216618.json"
+    },
+    {
+      "id": "eaton-article-216593",
+      "name": "M22S-D-W — Pushbutton, RMQ-Titan, Flat, momentary, White, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216593",
+      "recordPath": "equipment/eaton-article-216593.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216593.json"
+    },
+    {
+      "id": "eaton-article-216601",
+      "name": "M22S-D-B — Pushbutton, RMQ-Titan, Flat, momentary, Blue, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216601",
+      "recordPath": "equipment/eaton-article-216601.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216601.json"
+    },
+    {
+      "id": "eaton-article-216630",
+      "name": "M22-DR-G-X1 — Pushbutton, RMQ-Titan, Flat, maintained, green, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216630",
+      "recordPath": "equipment/eaton-article-216630.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216630.json"
+    },
+    {
+      "id": "eaton-article-216622",
+      "name": "M22S-DR-Y — Pushbutton, RMQ-Titan, Flat, maintained, yellow, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216622",
+      "recordPath": "equipment/eaton-article-216622.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216622.json"
+    },
+    {
+      "id": "eaton-article-216603",
+      "name": "M22-D-X-GVP — Pushbutton, RMQ-Titan, flush, momentary, Without button plate, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216603",
+      "recordPath": "equipment/eaton-article-216603.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216603.json"
+    },
+    {
+      "id": "eaton-article-216606",
+      "name": "M22S-D-R-X0 — Pushbutton, RMQ-Titan, Flat, momentary, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216606",
+      "recordPath": "equipment/eaton-article-216606.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216606.json"
+    },
+    {
+      "id": "eaton-article-216656",
+      "name": "M22S-DH-R-X0 — Pushbutton, RMQ-Titan, Extended, momentary, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216656",
+      "recordPath": "equipment/eaton-article-216656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216656.json"
+    },
+    {
+      "id": "eaton-article-216599",
+      "name": "M22S-D-Y — Pushbutton, RMQ-Titan, Flat, momentary, yellow, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216599",
+      "recordPath": "equipment/eaton-article-216599.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216599.json"
+    },
+    {
+      "id": "eaton-article-216604",
+      "name": "M22S-D-X — Pushbutton, RMQ-Titan, momentary, Without button plate, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216604",
+      "recordPath": "equipment/eaton-article-216604.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216604.json"
+    },
+    {
+      "id": "eaton-article-216624",
+      "name": "M22S-DR-B — Pushbutton, RMQ-Titan, Flat, maintained, Blue, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216624",
+      "recordPath": "equipment/eaton-article-216624.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216624.json"
+    },
+    {
+      "id": "eaton-article-216633",
+      "name": "M22S-DR-S-X0 — Pushbutton, RMQ-Titan, Flat, maintained, black, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216633",
+      "recordPath": "equipment/eaton-article-216633.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216633.json"
+    },
+    {
+      "id": "eaton-article-216632",
+      "name": "M22-DR-S-X0 — Pushbutton, RMQ-Titan, Flat, maintained, black, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216632",
+      "recordPath": "equipment/eaton-article-216632.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216632.json"
+    },
+    {
+      "id": "eaton-article-216510",
+      "name": "M22-D-R-X0/K01 — Pushbutton, flat, momentary, 1 N/C, red, Screw connection, Bezel: chrome",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216510",
+      "recordPath": "equipment/eaton-article-216510.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216510.json"
+    },
+    {
+      "id": "eaton-article-216629",
+      "name": "M22S-DR-R-X0 — Pushbutton, RMQ-Titan, Flat, maintained, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216629",
+      "recordPath": "equipment/eaton-article-216629.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216629.json"
+    },
+    {
+      "id": "eaton-article-216627",
+      "name": "M22S-DR-X — Pushbutton, RMQ-Titan, Flat, maintained, Without button plate, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216627",
+      "recordPath": "equipment/eaton-article-216627.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216627.json"
+    },
+    {
+      "id": "eaton-article-216620",
+      "name": "M22S-DR-G — Pushbutton, RMQ-Titan, Flat, maintained, green, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216620",
+      "recordPath": "equipment/eaton-article-216620.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216620.json"
+    },
+    {
+      "id": "eaton-article-216597",
+      "name": "M22S-D-G — Pushbutton, RMQ-Titan, Flat, momentary, green, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216597",
+      "recordPath": "equipment/eaton-article-216597.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216597.json"
+    },
+    {
+      "id": "eaton-article-216608",
+      "name": "M22S-D-G-X1 — Pushbutton, RMQ-Titan, Flat, momentary, green, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216608",
+      "recordPath": "equipment/eaton-article-216608.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216608.json"
+    },
+    {
+      "id": "eaton-article-216631",
+      "name": "M22S-DR-G-X1 — Pushbutton, RMQ-Titan, Flat, maintained, green, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216631",
+      "recordPath": "equipment/eaton-article-216631.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216631.json"
+    },
+    {
+      "id": "eaton-article-216626",
+      "name": "M22-DR-X-GVP — Pushbutton, RMQ-Titan, Flat, maintained, Without button plate, Bezel: titanium, big pack",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216626",
+      "recordPath": "equipment/eaton-article-216626.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216626.json"
+    },
+    {
+      "id": "eaton-article-216842",
+      "name": "M22S-WLK3-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, Blue, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216842",
+      "recordPath": "equipment/eaton-article-216842.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216842.json"
+    },
+    {
+      "id": "eaton-article-216832",
+      "name": "M22S-WRLK-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, Blue, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216832",
+      "recordPath": "equipment/eaton-article-216832.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216832.json"
+    },
+    {
+      "id": "eaton-article-216667",
+      "name": "M22-DRH-R — Pushbutton, RMQ-Titan, Extended, maintained, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216667",
+      "recordPath": "equipment/eaton-article-216667.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216667.json"
+    },
+    {
+      "id": "eaton-article-216834",
+      "name": "M22S-WLK3-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, White, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216834",
+      "recordPath": "equipment/eaton-article-216834.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216834.json"
+    },
+    {
+      "id": "eaton-article-216823",
+      "name": "M22-WRLK-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, White, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216823",
+      "recordPath": "equipment/eaton-article-216823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216823.json"
+    },
+    {
+      "id": "eaton-article-216704",
+      "name": "M22-DDL-WS — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, white, black, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216704",
+      "recordPath": "equipment/eaton-article-216704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216704.json"
+    },
+    {
+      "id": "eaton-article-216705",
+      "name": "M22S-DDL-WS — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, white, black, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216705",
+      "recordPath": "equipment/eaton-article-216705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216705.json"
+    },
+    {
+      "id": "eaton-article-216836",
+      "name": "M22S-WLK3-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, red, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216836",
+      "recordPath": "equipment/eaton-article-216836.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216836.json"
+    },
+    {
+      "id": "eaton-article-216848",
+      "name": "M22S-WRLK3-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, green, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216848",
+      "recordPath": "equipment/eaton-article-216848.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216848.json"
+    },
+    {
+      "id": "eaton-article-216711",
+      "name": "M22S-DDL-S-X7/X7 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, black, black, inscribed, Bezel: black, arrow up",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216711",
+      "recordPath": "equipment/eaton-article-216711.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216711.json"
+    },
+    {
+      "id": "eaton-article-216671",
+      "name": "M22-DRH-Y — Pushbutton, RMQ-Titan, Extended, maintained, yellow, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216671",
+      "recordPath": "equipment/eaton-article-216671.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216671.json"
+    },
+    {
+      "id": "eaton-article-216706",
+      "name": "M22-DDL-WS-X1/X0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, white, black, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216706",
+      "recordPath": "equipment/eaton-article-216706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216706.json"
+    },
+    {
+      "id": "eaton-article-216820",
+      "name": "M22-WLK-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, Blue, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216820",
+      "recordPath": "equipment/eaton-article-216820.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216820.json"
+    },
+    {
+      "id": "eaton-article-216830",
+      "name": "M22S-WRLK-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, yellow, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216830",
+      "recordPath": "equipment/eaton-article-216830.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216830.json"
+    },
+    {
+      "id": "eaton-article-216788",
+      "name": "M22-DRLH-W — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, White, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216788",
+      "recordPath": "equipment/eaton-article-216788.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216788.json"
+    },
+    {
+      "id": "eaton-article-216799",
+      "name": "M22-DRLH-Y — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, yellow, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216799",
+      "recordPath": "equipment/eaton-article-216799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216799.json"
+    },
+    {
+      "id": "eaton-article-216710",
+      "name": "M22-DDL-S-X7/X7 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, black, black, inscribed, Bezel: titanium, arrow up",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216710",
+      "recordPath": "equipment/eaton-article-216710.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216710.json"
+    },
+    {
+      "id": "eaton-article-216844",
+      "name": "M22S-WRLK3-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, White, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216844",
+      "recordPath": "equipment/eaton-article-216844.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216844.json"
+    },
+    {
+      "id": "eaton-article-216849",
+      "name": "M22-WRLK3-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, yellow, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216849",
+      "recordPath": "equipment/eaton-article-216849.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216849.json"
+    },
+    {
+      "id": "eaton-article-216845",
+      "name": "M22-WRLK3-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, red, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216845",
+      "recordPath": "equipment/eaton-article-216845.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216845.json"
+    },
+    {
+      "id": "eaton-article-216802",
+      "name": "M22-DRLH-B — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, Blue, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216802",
+      "recordPath": "equipment/eaton-article-216802.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216802.json"
+    },
+    {
+      "id": "eaton-article-216665",
+      "name": "M22-DRH-W — Pushbutton, RMQ-Titan, Extended, maintained, White, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216665",
+      "recordPath": "equipment/eaton-article-216665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216665.json"
+    },
+    {
+      "id": "eaton-article-216826",
+      "name": "M22S-WRLK-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, red, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216826",
+      "recordPath": "equipment/eaton-article-216826.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216826.json"
+    },
+    {
+      "id": "eaton-article-216700",
+      "name": "M22-DDL-GR-X1/X0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, green, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216700",
+      "recordPath": "equipment/eaton-article-216700.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216700.json"
+    },
+    {
+      "id": "eaton-article-216789",
+      "name": "M22-DRLH-R — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216789",
+      "recordPath": "equipment/eaton-article-216789.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216789.json"
+    },
+    {
+      "id": "eaton-article-216853",
+      "name": "M22-W — Selector switch, RMQ-Titan, With rotary head, momentary, 2 positions, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216853",
+      "recordPath": "equipment/eaton-article-216853.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216853.json"
+    },
+    {
+      "id": "eaton-article-216827",
+      "name": "M22-WRLK-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, green, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216827",
+      "recordPath": "equipment/eaton-article-216827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216827.json"
+    },
+    {
+      "id": "eaton-article-216825",
+      "name": "M22-WRLK-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, red, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216825",
+      "recordPath": "equipment/eaton-article-216825.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216825.json"
+    },
+    {
+      "id": "eaton-article-216702",
+      "name": "M22-DDL-GR-GB1/GB0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, green, red, inscribed, Bezel: titanium, START/STOP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216702",
+      "recordPath": "equipment/eaton-article-216702.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216702.json"
+    },
+    {
+      "id": "eaton-article-216838",
+      "name": "M22S-WLK3-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, green, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216838",
+      "recordPath": "equipment/eaton-article-216838.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216838.json"
+    },
+    {
+      "id": "eaton-article-216812",
+      "name": "M22-WLK-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, White, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216812",
+      "recordPath": "equipment/eaton-article-216812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216812.json"
+    },
+    {
+      "id": "eaton-article-216839",
+      "name": "M22-WLK3-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, yellow, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216839",
+      "recordPath": "equipment/eaton-article-216839.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216839.json"
+    },
+    {
+      "id": "eaton-article-216818",
+      "name": "M22-WLK-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, yellow, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216818",
+      "recordPath": "equipment/eaton-article-216818.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216818.json"
+    },
+    {
+      "id": "eaton-article-216841",
+      "name": "M22-WLK3-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, Blue, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216841",
+      "recordPath": "equipment/eaton-article-216841.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216841.json"
+    },
+    {
+      "id": "eaton-article-216669",
+      "name": "M22-DRH-G — Pushbutton, RMQ-Titan, Extended, maintained, green, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216669",
+      "recordPath": "equipment/eaton-article-216669.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216669.json"
+    },
+    {
+      "id": "eaton-article-216814",
+      "name": "M22-WLK-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, red, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216814",
+      "recordPath": "equipment/eaton-article-216814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216814.json"
+    },
+    {
+      "id": "eaton-article-216831",
+      "name": "M22-WRLK-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, Blue, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216831",
+      "recordPath": "equipment/eaton-article-216831.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216831.json"
+    },
+    {
+      "id": "eaton-article-216796",
+      "name": "M22-DRLH-G — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, green, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216796",
+      "recordPath": "equipment/eaton-article-216796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216796.json"
+    },
+    {
+      "id": "eaton-article-216843",
+      "name": "M22-WRLK3-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, White, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216843",
+      "recordPath": "equipment/eaton-article-216843.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216843.json"
+    },
+    {
+      "id": "eaton-article-216855",
+      "name": "M22-WR — Selector switch, RMQ-Titan, With rotary head, maintained, 2 positions, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216855",
+      "recordPath": "equipment/eaton-article-216855.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216855.json"
+    },
+    {
+      "id": "eaton-article-216837",
+      "name": "M22-WLK3-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, green, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216837",
+      "recordPath": "equipment/eaton-article-216837.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216837.json"
+    },
+    {
+      "id": "eaton-article-216828",
+      "name": "M22S-WRLK-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, green, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216828",
+      "recordPath": "equipment/eaton-article-216828.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216828.json"
+    },
+    {
+      "id": "eaton-article-216698",
+      "name": "M22-DDL-GR — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, green, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216698",
+      "recordPath": "equipment/eaton-article-216698.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216698.json"
+    },
+    {
+      "id": "eaton-article-216833",
+      "name": "M22-WLK3-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, White, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216833",
+      "recordPath": "equipment/eaton-article-216833.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216833.json"
+    },
+    {
+      "id": "eaton-article-216681",
+      "name": "M22-DRH-W-X1 — Pushbutton, RMQ-Titan, Extended, maintained, White, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216681",
+      "recordPath": "equipment/eaton-article-216681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216681.json"
+    },
+    {
+      "id": "eaton-article-216663",
+      "name": "M22-DRH-S — Pushbutton, RMQ-Titan, Extended, maintained, black, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216663",
+      "recordPath": "equipment/eaton-article-216663.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216663.json"
+    },
+    {
+      "id": "eaton-article-216851",
+      "name": "M22-WRLK3-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, Blue, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216851",
+      "recordPath": "equipment/eaton-article-216851.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216851.json"
+    },
+    {
+      "id": "eaton-article-216675",
+      "name": "M22-DRH-R-X0 — Pushbutton, RMQ-Titan, Extended, maintained, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216675",
+      "recordPath": "equipment/eaton-article-216675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216675.json"
+    },
+    {
+      "id": "eaton-article-216829",
+      "name": "M22-WRLK-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, yellow, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216829",
+      "recordPath": "equipment/eaton-article-216829.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216829.json"
+    },
+    {
+      "id": "eaton-article-216701",
+      "name": "M22S-DDL-GR-X1/X0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, green, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216701",
+      "recordPath": "equipment/eaton-article-216701.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216701.json"
+    },
+    {
+      "id": "eaton-article-216673",
+      "name": "M22-DRH-B — Pushbutton, RMQ-Titan, Extended, maintained, Blue, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216673",
+      "recordPath": "equipment/eaton-article-216673.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216673.json"
+    },
+    {
+      "id": "eaton-article-216847",
+      "name": "M22-WRLK3-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, green, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216847",
+      "recordPath": "equipment/eaton-article-216847.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216847.json"
+    },
+    {
+      "id": "eaton-article-216824",
+      "name": "M22S-WRLK-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 2 positions, White, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216824",
+      "recordPath": "equipment/eaton-article-216824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216824.json"
+    },
+    {
+      "id": "eaton-article-216816",
+      "name": "M22-WLK-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, green, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216816",
+      "recordPath": "equipment/eaton-article-216816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216816.json"
+    },
+    {
+      "id": "eaton-article-216835",
+      "name": "M22-WLK3-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, red, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216835",
+      "recordPath": "equipment/eaton-article-216835.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216835.json"
+    },
+    {
+      "id": "eaton-article-216659",
+      "name": "M22-DH-S-X0 — Pushbutton, RMQ-Titan, Extended, momentary, black, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216659",
+      "recordPath": "equipment/eaton-article-216659.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216659.json"
+    },
+    {
+      "id": "eaton-article-216677",
+      "name": "M22-DRH-G-X1 — Pushbutton, RMQ-Titan, Extended, maintained, green, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216677",
+      "recordPath": "equipment/eaton-article-216677.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216677.json"
+    },
+    {
+      "id": "eaton-article-216708",
+      "name": "M22-DDL-WS-GB1/GB0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, white, black, inscribed, Bezel: titanium, START/STOP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216708",
+      "recordPath": "equipment/eaton-article-216708.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216708.json"
+    },
+    {
+      "id": "eaton-article-216699",
+      "name": "M22S-DDL-GR — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, green, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216699",
+      "recordPath": "equipment/eaton-article-216699.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216699.json"
+    },
+    {
+      "id": "eaton-article-216808",
+      "name": "M22S-DRLH-R-X0 — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216808",
+      "recordPath": "equipment/eaton-article-216808.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216808.json"
+    },
+    {
+      "id": "eaton-article-216817",
+      "name": "M22S-WLK-G — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, green, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216817",
+      "recordPath": "equipment/eaton-article-216817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216817.json"
+    },
+    {
+      "id": "eaton-article-216815",
+      "name": "M22S-WLK-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, red, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216815",
+      "recordPath": "equipment/eaton-article-216815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216815.json"
+    },
+    {
+      "id": "eaton-article-216840",
+      "name": "M22S-WLK3-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 3 positions, yellow, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216840",
+      "recordPath": "equipment/eaton-article-216840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216840.json"
+    },
+    {
+      "id": "eaton-article-216679",
+      "name": "M22-DRH-S-X0 — Pushbutton, RMQ-Titan, Extended, maintained, black, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216679",
+      "recordPath": "equipment/eaton-article-216679.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216679.json"
+    },
+    {
+      "id": "eaton-article-216703",
+      "name": "M22S-DDL-GR-GB1/GB0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, green, red, inscribed, Bezel: black, START/STOP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216703",
+      "recordPath": "equipment/eaton-article-216703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216703.json"
+    },
+    {
+      "id": "eaton-article-216662",
+      "name": "M22S-DH-W-X1 — Pushbutton, RMQ-Titan, Extended, momentary, White, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216662",
+      "recordPath": "equipment/eaton-article-216662.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216662.json"
+    },
+    {
+      "id": "eaton-article-216664",
+      "name": "M22S-DRH-S — Pushbutton, RMQ-Titan, Extended, maintained, black, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216664",
+      "recordPath": "equipment/eaton-article-216664.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216664.json"
+    },
+    {
+      "id": "eaton-article-216680",
+      "name": "M22S-DRH-S-X0 — Pushbutton, RMQ-Titan, Extended, maintained, black, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216680",
+      "recordPath": "equipment/eaton-article-216680.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216680.json"
+    },
+    {
+      "id": "eaton-article-216804",
+      "name": "M22-DRLH-R-X0 — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216804",
+      "recordPath": "equipment/eaton-article-216804.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216804.json"
+    },
+    {
+      "id": "eaton-article-216660",
+      "name": "M22S-DH-S-X0 — Pushbutton, RMQ-Titan, Extended, momentary, black, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216660",
+      "recordPath": "equipment/eaton-article-216660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216660.json"
+    },
+    {
+      "id": "eaton-article-216792",
+      "name": "M22S-DRLH-R — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216792",
+      "recordPath": "equipment/eaton-article-216792.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216792.json"
+    },
+    {
+      "id": "eaton-article-216798",
+      "name": "M22S-DRLH-G — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, green, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216798",
+      "recordPath": "equipment/eaton-article-216798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216798.json"
+    },
+    {
+      "id": "eaton-article-216658",
+      "name": "M22S-DH-G-X1 — Pushbutton, RMQ-Titan, Extended, momentary, green, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216658",
+      "recordPath": "equipment/eaton-article-216658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216658.json"
+    },
+    {
+      "id": "eaton-article-216674",
+      "name": "M22S-DRH-B — Pushbutton, RMQ-Titan, Extended, maintained, Blue, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216674",
+      "recordPath": "equipment/eaton-article-216674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216674.json"
+    },
+    {
+      "id": "eaton-article-216813",
+      "name": "M22S-WLK-W — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, White, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216813",
+      "recordPath": "equipment/eaton-article-216813.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216813.json"
+    },
+    {
+      "id": "eaton-article-216661",
+      "name": "M22-DH-W-X1 — Pushbutton, RMQ-Titan, Extended, momentary, White, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216661",
+      "recordPath": "equipment/eaton-article-216661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216661.json"
+    },
+    {
+      "id": "eaton-article-216806",
+      "name": "M22-DRLH-W-X0 — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, White, inscribed 0, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216806",
+      "recordPath": "equipment/eaton-article-216806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216806.json"
+    },
+    {
+      "id": "eaton-article-216810",
+      "name": "M22S-DRLH-W-X0 — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, White, inscribed 0, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216810",
+      "recordPath": "equipment/eaton-article-216810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216810.json"
+    },
+    {
+      "id": "eaton-article-216682",
+      "name": "M22S-DRH-W-X1 — Pushbutton, RMQ-Titan, Extended, maintained, White, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216682",
+      "recordPath": "equipment/eaton-article-216682.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216682.json"
+    },
+    {
+      "id": "eaton-article-216676",
+      "name": "M22S-DRH-R-X0 — Pushbutton, RMQ-Titan, Extended, maintained, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216676",
+      "recordPath": "equipment/eaton-article-216676.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216676.json"
+    },
+    {
+      "id": "eaton-article-216678",
+      "name": "M22S-DRH-G-X1 — Pushbutton, RMQ-Titan, Extended, maintained, green, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216678",
+      "recordPath": "equipment/eaton-article-216678.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216678.json"
+    },
+    {
+      "id": "eaton-article-216805",
+      "name": "M22-DRLH-G-X1 — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, green, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216805",
+      "recordPath": "equipment/eaton-article-216805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216805.json"
+    },
+    {
+      "id": "eaton-article-216670",
+      "name": "M22S-DRH-G — Pushbutton, RMQ-Titan, Extended, maintained, green, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216670",
+      "recordPath": "equipment/eaton-article-216670.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216670.json"
+    },
+    {
+      "id": "eaton-article-216668",
+      "name": "M22S-DRH-R — Pushbutton, RMQ-Titan, Extended, maintained, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216668",
+      "recordPath": "equipment/eaton-article-216668.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216668.json"
+    },
+    {
+      "id": "eaton-article-216807",
+      "name": "M22-DRLH-W-X1 — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, White, inscribed 1, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216807",
+      "recordPath": "equipment/eaton-article-216807.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216807.json"
+    },
+    {
+      "id": "eaton-article-216801",
+      "name": "M22S-DRLH-Y — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, yellow, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216801",
+      "recordPath": "equipment/eaton-article-216801.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216801.json"
+    },
+    {
+      "id": "eaton-article-216791",
+      "name": "M22S-DRLH-W — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, White, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216791",
+      "recordPath": "equipment/eaton-article-216791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216791.json"
+    },
+    {
+      "id": "eaton-article-216846",
+      "name": "M22S-WRLK3-R — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, red, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216846",
+      "recordPath": "equipment/eaton-article-216846.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216846.json"
+    },
+    {
+      "id": "eaton-article-216819",
+      "name": "M22S-WLK-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, yellow, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216819",
+      "recordPath": "equipment/eaton-article-216819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216819.json"
+    },
+    {
+      "id": "eaton-article-216854",
+      "name": "M22S-W — Selector switch, RMQ-Titan, With rotary head, momentary, 2 positions, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216854",
+      "recordPath": "equipment/eaton-article-216854.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216854.json"
+    },
+    {
+      "id": "eaton-article-216821",
+      "name": "M22S-WLK-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, momentary, 2 positions, Blue, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216821",
+      "recordPath": "equipment/eaton-article-216821.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216821.json"
+    },
+    {
+      "id": "eaton-article-216852",
+      "name": "M22S-WRLK3-B — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, Blue, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216852",
+      "recordPath": "equipment/eaton-article-216852.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216852.json"
+    },
+    {
+      "id": "eaton-article-216850",
+      "name": "M22S-WRLK3-Y — Illuminated selector switch actuator, RMQ-Titan, With thumb-grip, maintained, 3 positions, yellow, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216850",
+      "recordPath": "equipment/eaton-article-216850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216850.json"
+    },
+    {
+      "id": "eaton-article-216672",
+      "name": "M22S-DRH-Y — Pushbutton, RMQ-Titan, Extended, maintained, yellow, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216672",
+      "recordPath": "equipment/eaton-article-216672.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216672.json"
+    },
+    {
+      "id": "eaton-article-216811",
+      "name": "M22S-DRLH-W-X1 — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, White, inscribed 1, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216811",
+      "recordPath": "equipment/eaton-article-216811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216811.json"
+    },
+    {
+      "id": "eaton-article-216803",
+      "name": "M22S-DRLH-B — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, Blue, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216803",
+      "recordPath": "equipment/eaton-article-216803.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216803.json"
+    },
+    {
+      "id": "eaton-article-216707",
+      "name": "M22S-DDL-WS-X1/X0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, white, black, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216707",
+      "recordPath": "equipment/eaton-article-216707.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216707.json"
+    },
+    {
+      "id": "eaton-article-216666",
+      "name": "M22S-DRH-W — Pushbutton, RMQ-Titan, Extended, maintained, White, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216666",
+      "recordPath": "equipment/eaton-article-216666.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216666.json"
+    },
+    {
+      "id": "eaton-article-216709",
+      "name": "M22S-DDL-WS-GB1/GB0 — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, white, black, inscribed, Bezel: black, START/STOP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216709",
+      "recordPath": "equipment/eaton-article-216709.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216709.json"
+    },
+    {
+      "id": "eaton-article-216809",
+      "name": "M22S-DRLH-G-X1 — Illuminated pushbutton actuator, RMQ-Titan, Extended, maintained, green, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216809",
+      "recordPath": "equipment/eaton-article-216809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216809.json"
+    },
+    {
+      "id": "eaton-article-216873",
+      "name": "M22S-WRK3 — Selector switch, RMQ-Titan, With thumb-grip, maintained, 3 positions, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216873",
+      "recordPath": "equipment/eaton-article-216873.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216873.json"
+    },
+    {
+      "id": "eaton-article-216949",
+      "name": "M22S-DRL-G — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, green, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216949",
+      "recordPath": "equipment/eaton-article-216949.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216949.json"
+    },
+    {
+      "id": "eaton-article-216861",
+      "name": "M22-W3 — Selector switch, RMQ-Titan, With rotary head, momentary, 3 positions, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216861",
+      "recordPath": "equipment/eaton-article-216861.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216861.json"
+    },
+    {
+      "id": "eaton-article-216865",
+      "name": "M22-WK — Selector switch, RMQ-Titan, With thumb-grip, momentary, 2 positions, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216865",
+      "recordPath": "equipment/eaton-article-216865.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216865.json"
+    },
+    {
+      "id": "eaton-article-216870",
+      "name": "M22-WK3 — Selector switch, RMQ-Titan, With thumb-grip, momentary, 3 positions, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216870",
+      "recordPath": "equipment/eaton-article-216870.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216870.json"
+    },
+    {
+      "id": "eaton-article-216965",
+      "name": "M22-DLH-W — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, White, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216965",
+      "recordPath": "equipment/eaton-article-216965.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216965.json"
+    },
+    {
+      "id": "eaton-article-216930",
+      "name": "M22S-DL-Y — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, yellow, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216930",
+      "recordPath": "equipment/eaton-article-216930.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216930.json"
+    },
+    {
+      "id": "eaton-article-216948",
+      "name": "M22-DRL-G — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, green, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216948",
+      "recordPath": "equipment/eaton-article-216948.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216948.json"
+    },
+    {
+      "id": "eaton-article-216871",
+      "name": "M22S-WK3 — Selector switch, RMQ-Titan, With thumb-grip, momentary, 3 positions, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216871",
+      "recordPath": "equipment/eaton-article-216871.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216871.json"
+    },
+    {
+      "id": "eaton-article-216929",
+      "name": "M22-DL-Y — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, yellow, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216929",
+      "recordPath": "equipment/eaton-article-216929.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216929.json"
+    },
+    {
+      "id": "eaton-article-216857",
+      "name": "M22-WR-X92 — Selector switch, RMQ-Titan, With rotary head, maintained, 2 positions, inscribed, Bezel: titanium, II I",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216857",
+      "recordPath": "equipment/eaton-article-216857.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216857.json"
+    },
+    {
+      "id": "eaton-article-216968",
+      "name": "M22S-DLH-R — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216968",
+      "recordPath": "equipment/eaton-article-216968.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216968.json"
+    },
+    {
+      "id": "eaton-article-216928",
+      "name": "M22S-DL-G — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, green, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216928",
+      "recordPath": "equipment/eaton-article-216928.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216928.json"
+    },
+    {
+      "id": "eaton-article-216863",
+      "name": "M22-WR3 — Selector switch, RMQ-Titan, With rotary head, maintained, 3 positions, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216863",
+      "recordPath": "equipment/eaton-article-216863.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216863.json"
+    },
+    {
+      "id": "eaton-article-216925",
+      "name": "M22-DL-R — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216925",
+      "recordPath": "equipment/eaton-article-216925.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216925.json"
+    },
+    {
+      "id": "eaton-article-216967",
+      "name": "M22-DLH-R — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216967",
+      "recordPath": "equipment/eaton-article-216967.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216967.json"
+    },
+    {
+      "id": "eaton-article-216932",
+      "name": "M22S-DL-B — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, Blue, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216932",
+      "recordPath": "equipment/eaton-article-216932.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216932.json"
+    },
+    {
+      "id": "eaton-article-216924",
+      "name": "M22S-DL-W — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, White, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216924",
+      "recordPath": "equipment/eaton-article-216924.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216924.json"
+    },
+    {
+      "id": "eaton-article-216952",
+      "name": "M22-DRL-B — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, Blue, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216952",
+      "recordPath": "equipment/eaton-article-216952.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216952.json"
+    },
+    {
+      "id": "eaton-article-216963",
+      "name": "M22-DRL-W-X1 — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, White, inscribed 1, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216963",
+      "recordPath": "equipment/eaton-article-216963.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216963.json"
+    },
+    {
+      "id": "eaton-article-216878",
+      "name": "M22-PVL — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, 38 mm, Illuminated with LED element, Pull-to-release function, Red, yellow, RAL 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216878",
+      "recordPath": "equipment/eaton-article-216878.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216878.json"
+    },
+    {
+      "id": "eaton-article-216922",
+      "name": "M22-DL-W — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, White, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216922",
+      "recordPath": "equipment/eaton-article-216922.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216922.json"
+    },
+    {
+      "id": "eaton-article-216944",
+      "name": "M22-DRL-W — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, White, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216944",
+      "recordPath": "equipment/eaton-article-216944.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216944.json"
+    },
+    {
+      "id": "eaton-article-216859",
+      "name": "M22-WR-X91 — Selector switch, RMQ-Titan, With rotary head, maintained, 2 positions, inscribed, Bezel: titanium, AUTO HAND",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216859",
+      "recordPath": "equipment/eaton-article-216859.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216859.json"
+    },
+    {
+      "id": "eaton-article-216935",
+      "name": "M22S-DL-X — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, Without button plate, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216935",
+      "recordPath": "equipment/eaton-article-216935.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216935.json"
+    },
+    {
+      "id": "eaton-article-216879",
+      "name": "M22-PVS — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, 38 mm, Non-illuminated, Key-release, Red, yellow, RAL 3000, Not suitable for master key systems",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216879",
+      "recordPath": "equipment/eaton-article-216879.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216879.json"
+    },
+    {
+      "id": "eaton-article-216926",
+      "name": "M22S-DL-R — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216926",
+      "recordPath": "equipment/eaton-article-216926.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216926.json"
+    },
+    {
+      "id": "eaton-article-216866",
+      "name": "M22S-WK — Selector switch, RMQ-Titan, With thumb-grip, momentary, 2 positions, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216866",
+      "recordPath": "equipment/eaton-article-216866.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216866.json"
+    },
+    {
+      "id": "eaton-article-216971",
+      "name": "M22-DLH-Y — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, yellow, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216971",
+      "recordPath": "equipment/eaton-article-216971.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216971.json"
+    },
+    {
+      "id": "eaton-article-216933",
+      "name": "M22-DL-X — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, Without button plate, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216933",
+      "recordPath": "equipment/eaton-article-216933.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216933.json"
+    },
+    {
+      "id": "eaton-article-216931",
+      "name": "M22-DL-B — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, Blue, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216931",
+      "recordPath": "equipment/eaton-article-216931.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216931.json"
+    },
+    {
+      "id": "eaton-article-216872",
+      "name": "M22-WRK3 — Selector switch, RMQ-Titan, With thumb-grip, maintained, 3 positions, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216872",
+      "recordPath": "equipment/eaton-article-216872.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216872.json"
+    },
+    {
+      "id": "eaton-article-216927",
+      "name": "M22-DL-G — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, green, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216927",
+      "recordPath": "equipment/eaton-article-216927.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216927.json"
+    },
+    {
+      "id": "eaton-article-216946",
+      "name": "M22-DRL-R — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, red, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216946",
+      "recordPath": "equipment/eaton-article-216946.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216946.json"
+    },
+    {
+      "id": "eaton-article-216959",
+      "name": "M22-DRL-G-X1 — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, green, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216959",
+      "recordPath": "equipment/eaton-article-216959.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216959.json"
+    },
+    {
+      "id": "eaton-article-216950",
+      "name": "M22-DRL-Y — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, yellow, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216950",
+      "recordPath": "equipment/eaton-article-216950.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216950.json"
+    },
+    {
+      "id": "eaton-article-216867",
+      "name": "M22-WRK — Selector switch, RMQ-Titan, With thumb-grip, maintained, 2 positions, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216867",
+      "recordPath": "equipment/eaton-article-216867.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216867.json"
+    },
+    {
+      "id": "eaton-article-216938",
+      "name": "M22-DL-G-X1 — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, green, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216938",
+      "recordPath": "equipment/eaton-article-216938.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216938.json"
+    },
+    {
+      "id": "eaton-article-216875",
+      "name": "M22S-WKV — Selector switch, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216875",
+      "recordPath": "equipment/eaton-article-216875.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216875.json"
+    },
+    {
+      "id": "eaton-article-216936",
+      "name": "M22-DL-R-X0 — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216936",
+      "recordPath": "equipment/eaton-article-216936.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216936.json"
+    },
+    {
+      "id": "eaton-article-216876",
+      "name": "M22-PV — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, 38 mm, Non-illuminated, Pull-to-release function, Red, yellow, RAL 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216876",
+      "recordPath": "equipment/eaton-article-216876.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216876.json"
+    },
+    {
+      "id": "eaton-article-216874",
+      "name": "M22-WKV — Selector switch, RMQ-Titan, With thumb-grip, maintained, 2 positions (V position), Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216874",
+      "recordPath": "equipment/eaton-article-216874.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216874.json"
+    },
+    {
+      "id": "eaton-article-216869",
+      "name": "M22S-WRK — Selector switch, RMQ-Titan, With thumb-grip, maintained, 2 positions, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216869",
+      "recordPath": "equipment/eaton-article-216869.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216869.json"
+    },
+    {
+      "id": "eaton-article-216940",
+      "name": "M22-DL-W-X0 — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, White, inscribed 0, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216940",
+      "recordPath": "equipment/eaton-article-216940.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216940.json"
+    },
+    {
+      "id": "eaton-article-216942",
+      "name": "M22-DL-W-X1 — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, White, inscribed 1, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216942",
+      "recordPath": "equipment/eaton-article-216942.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216942.json"
+    },
+    {
+      "id": "eaton-article-216969",
+      "name": "M22-DLH-G — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, green, Blank, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216969",
+      "recordPath": "equipment/eaton-article-216969.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216969.json"
+    },
+    {
+      "id": "eaton-article-216954",
+      "name": "M22-DRL-X — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, Without button plate, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216954",
+      "recordPath": "equipment/eaton-article-216954.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216954.json"
+    },
+    {
+      "id": "eaton-article-216957",
+      "name": "M22-DRL-R-X0 — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, red, inscribed, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216957",
+      "recordPath": "equipment/eaton-article-216957.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216957.json"
+    },
+    {
+      "id": "eaton-article-216945",
+      "name": "M22S-DRL-W — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, White, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216945",
+      "recordPath": "equipment/eaton-article-216945.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216945.json"
+    },
+    {
+      "id": "eaton-article-216966",
+      "name": "M22S-DLH-W — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, White, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216966",
+      "recordPath": "equipment/eaton-article-216966.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216966.json"
+    },
+    {
+      "id": "eaton-article-216868",
+      "name": "M22-WRK-GVP — Selector switch, RMQ-Titan, With thumb-grip, maintained, 2 positions, Bezel: titanium, big pack",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216868",
+      "recordPath": "equipment/eaton-article-216868.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216868.json"
+    },
+    {
+      "id": "eaton-article-216858",
+      "name": "M22S-WR-X92 — Selector switch, RMQ-Titan, With rotary head, maintained, 2 positions, inscribed, Bezel: black, II I",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216858",
+      "recordPath": "equipment/eaton-article-216858.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216858.json"
+    },
+    {
+      "id": "eaton-article-216970",
+      "name": "M22S-DLH-G — Illuminated pushbutton actuator, RMQ-Titan, Extended, momentary, green, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216970",
+      "recordPath": "equipment/eaton-article-216970.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216970.json"
+    },
+    {
+      "id": "eaton-article-216962",
+      "name": "M22S-DRL-W-X0 — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, White, inscribed 0, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216962",
+      "recordPath": "equipment/eaton-article-216962.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216962.json"
+    },
+    {
+      "id": "eaton-article-216961",
+      "name": "M22-DRL-W-X0 — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, White, inscribed 0, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216961",
+      "recordPath": "equipment/eaton-article-216961.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216961.json"
+    },
+    {
+      "id": "eaton-article-216958",
+      "name": "M22S-DRL-R-X0 — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216958",
+      "recordPath": "equipment/eaton-article-216958.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216958.json"
+    },
+    {
+      "id": "eaton-article-216943",
+      "name": "M22S-DL-W-X1 — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, White, inscribed 1, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216943",
+      "recordPath": "equipment/eaton-article-216943.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216943.json"
+    },
+    {
+      "id": "eaton-article-216960",
+      "name": "M22S-DRL-G-X1 — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, green, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216960",
+      "recordPath": "equipment/eaton-article-216960.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216960.json"
+    },
+    {
+      "id": "eaton-article-216862",
+      "name": "M22S-W3 — Selector switch, RMQ-Titan, With rotary head, momentary, 3 positions, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216862",
+      "recordPath": "equipment/eaton-article-216862.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216862.json"
+    },
+    {
+      "id": "eaton-article-216864",
+      "name": "M22S-WR3 — Selector switch, RMQ-Titan, With rotary head, maintained, 3 positions, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216864",
+      "recordPath": "equipment/eaton-article-216864.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216864.json"
+    },
+    {
+      "id": "eaton-article-216955",
+      "name": "M22-DRL-X-GVP — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, Without button plate, Bezel: titanium, big pack",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216955",
+      "recordPath": "equipment/eaton-article-216955.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216955.json"
+    },
+    {
+      "id": "eaton-article-216951",
+      "name": "M22S-DRL-Y — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, yellow, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216951",
+      "recordPath": "equipment/eaton-article-216951.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216951.json"
+    },
+    {
+      "id": "eaton-article-216953",
+      "name": "M22S-DRL-B — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, Blue, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216953",
+      "recordPath": "equipment/eaton-article-216953.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216953.json"
+    },
+    {
+      "id": "eaton-article-216941",
+      "name": "M22S-DL-W-X0 — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, White, inscribed 0, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216941",
+      "recordPath": "equipment/eaton-article-216941.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216941.json"
+    },
+    {
+      "id": "eaton-article-216856",
+      "name": "M22S-WR — Selector switch, RMQ-Titan, With rotary head, maintained, 2 positions, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216856",
+      "recordPath": "equipment/eaton-article-216856.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216856.json"
+    },
+    {
+      "id": "eaton-article-216860",
+      "name": "M22S-WR-X91 — Selector switch, RMQ-Titan, With rotary head, maintained, 2 positions, inscribed, Bezel: black, AUTO HAND",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216860",
+      "recordPath": "equipment/eaton-article-216860.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216860.json"
+    },
+    {
+      "id": "eaton-article-216964",
+      "name": "M22S-DRL-W-X1 — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, White, inscribed 1, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216964",
+      "recordPath": "equipment/eaton-article-216964.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216964.json"
+    },
+    {
+      "id": "eaton-article-216956",
+      "name": "M22S-DRL-X — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, Without button plate, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216956",
+      "recordPath": "equipment/eaton-article-216956.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216956.json"
+    },
+    {
+      "id": "eaton-article-216937",
+      "name": "M22S-DL-R-X0 — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, red, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216937",
+      "recordPath": "equipment/eaton-article-216937.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216937.json"
+    },
+    {
+      "id": "eaton-article-216947",
+      "name": "M22S-DRL-R — Illuminated pushbutton actuator, RMQ-Titan, Flush, maintained, red, Blank, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216947",
+      "recordPath": "equipment/eaton-article-216947.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216947.json"
+    },
+    {
+      "id": "eaton-article-216939",
+      "name": "M22S-DL-G-X1 — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, green, inscribed, Bezel: black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216939",
+      "recordPath": "equipment/eaton-article-216939.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216939.json"
+    },
+    {
+      "id": "eaton-article-216934",
+      "name": "M22-DL-X-GVP — Illuminated pushbutton actuator, RMQ-Titan, Flush, momentary, Without button plate, Bezel: titanium, big pack",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216934",
+      "recordPath": "equipment/eaton-article-216934.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216934.json"
+    },
+    {
+      "id": "eaton-article-216877",
+      "name": "M22-PV-GVP — Emergency stop/emergency switching off pushbutton, RMQ-Titan, Mushroom-shaped, 38 mm, Non-illuminated, Pull-to-release function, Red, yellow, RAL 3000, big pack",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216877",
+      "recordPath": "equipment/eaton-article-216877.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216877.json"
+    },
+    {
+      "id": "eaton-article-226770",
+      "name": "M22-DDL-*-*-* — Double actuator pushbutton, RMQ-Titan, Actuators and indicator lights non-flush, momentary, White lens, selectable, individual facility for inscription, Bezel: titanium",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-226770",
+      "recordPath": "equipment/eaton-article-226770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-226770.json"
+    }
+  ]
+}

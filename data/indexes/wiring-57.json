@@ -1,0 +1,3007 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 57,
+  "entries": [
+    {
+      "id": "se-article-gv4le50n",
+      "name": "GV4LE50N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 50A, Icu 50kA, magnetic, EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le50n",
+      "recordPath": "equipment/se-article-gv4le50n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le50n.json"
+    },
+    {
+      "id": "se-article-lv426428",
+      "name": "LV426428 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 125 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426428",
+      "recordPath": "equipment/se-article-lv426428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426428.json"
+    },
+    {
+      "id": "se-article-gs2su3",
+      "name": "GS2SU3 — Switch disconnector fuse, TeSys GS, 3P, 600A, fuse type UL, size J",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2su3",
+      "recordPath": "equipment/se-article-gs2su3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2su3.json"
+    },
+    {
+      "id": "se-article-gv3p506",
+      "name": "GV3P506 — Motor circuit breaker,TeSys Deca frame 3,3P,37-50A,thermal magnetic,lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3p506",
+      "recordPath": "equipment/se-article-gv3p506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3p506.json"
+    },
+    {
+      "id": "se-article-lrd07",
+      "name": "LRD07 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 1.6 to 2.5A, 1NO+1NC, class 10A, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd07",
+      "recordPath": "equipment/se-article-lrd07.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd07.json"
+    },
+    {
+      "id": "se-article-gvae113",
+      "name": "GVAE113 — Add-on contact block,TeSys Deca Frame 2/3,1NO+1NO,front,spring terminal,for GV2/GV3(except GV3ME)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gvae113",
+      "recordPath": "equipment/se-article-gvae113.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gvae113.json"
+    },
+    {
+      "id": "se-article-gv4le07n",
+      "name": "GV4LE07N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 7A, Icu 50kA, magnetic, EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le07n",
+      "recordPath": "equipment/se-article-gv4le07n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le07n.json"
+    },
+    {
+      "id": "se-article-lv426313",
+      "name": "LV426313 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 40 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426313",
+      "recordPath": "equipment/se-article-lv426313.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426313.json"
+    },
+    {
+      "id": "se-article-bgf16020",
+      "name": "BGF16020 — Circuit breaker, PowerPacT B, 20A, 1 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf16020",
+      "recordPath": "equipment/se-article-bgf16020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf16020.json"
+    },
+    {
+      "id": "se-article-31052",
+      "name": "31052 — Switch Disconnector, Compact Interpact, Front Rotary Handle, INS 320 to 630",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31052",
+      "recordPath": "equipment/se-article-31052.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31052.json"
+    },
+    {
+      "id": "se-article-c254250s",
+      "name": "C254250S — switch disconnector ComPacT NSX250NA, 4 poles, 250 A, AC22A, AC23A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c254250s",
+      "recordPath": "equipment/se-article-c254250s.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c254250s.json"
+    },
+    {
+      "id": "se-article-c100s4wm",
+      "name": "C100S4WM — Switch disconnector basic frame, ComPacT NS1000 type NA, 4P, drawout, manually operated, 1000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100s4wm",
+      "recordPath": "equipment/se-article-c100s4wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100s4wm.json"
+    },
+    {
+      "id": "se-article-gv4le07n6",
+      "name": "GV4LE07N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 7A, Icu 50kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le07n6",
+      "recordPath": "equipment/se-article-gv4le07n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le07n6.json"
+    },
+    {
+      "id": "se-article-gv2p16",
+      "name": "GV2P16 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 9 to 14A, thermal magnetic, screw clamp terminals, rotary handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2p16",
+      "recordPath": "equipment/se-article-gv2p16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2p16.json"
+    },
+    {
+      "id": "se-article-lu2b12fu",
+      "name": "LU2B12FU — Reversing power base, TeSys Ultra, 3P, 1NO + 1NC, 12A, 690VAC, 110 to 240VAC/DC coil",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu2b12fu",
+      "recordPath": "equipment/se-article-lu2b12fu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu2b12fu.json"
+    },
+    {
+      "id": "se-article-31376",
+      "name": "31376 — switch disconnector, Compact INV1250, visible break, 1250 A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31376",
+      "recordPath": "equipment/se-article-31376.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31376.json"
+    },
+    {
+      "id": "se-article-lv426205",
+      "name": "LV426205 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 3P 3d, 63 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426205",
+      "recordPath": "equipment/se-article-lv426205.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426205.json"
+    },
+    {
+      "id": "se-article-gv2me023",
+      "name": "GV2ME023 — TeSys Deca Manual Starter and Protector, thermal magnetic circuit protector, push buttons, 0.16...0.25 A, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me023",
+      "recordPath": "equipment/se-article-gv2me023.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me023.json"
+    },
+    {
+      "id": "se-article-a9z66480",
+      "name": "A9Z66480 — Residual current circuit breaker (RCCB), Acti9 iID, 4P, 80A, B-SI type, 500mA, double terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9z66480",
+      "recordPath": "equipment/se-article-a9z66480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9z66480.json"
+    },
+    {
+      "id": "se-article-gs2vb4",
+      "name": "GS2VB4 — TeSys GS - switch-disconnector-fuse - 4 P - 1250A - BS D1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2vb4",
+      "recordPath": "equipment/se-article-gs2vb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2vb4.json"
+    },
+    {
+      "id": "se-article-gv2me053",
+      "name": "GV2ME053 — Motor circuit breaker, TeSys Deca, 3P, 0.63 to 1A, thermal magnetic, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me053",
+      "recordPath": "equipment/se-article-gv2me053.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me053.json"
+    },
+    {
+      "id": "se-article-lu2b12bl",
+      "name": "LU2B12BL — Reversing power base, TeSys Ultra, 3P, 1NO + 1NC, 12A, 690VAC, 24VDC coil",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu2b12bl",
+      "recordPath": "equipment/se-article-lu2b12bl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu2b12bl.json"
+    },
+    {
+      "id": "se-article-lu9sp0",
+      "name": "LU9SP0 — Phase barrier, Tesys Ultra, terminals mounting Support, for LUB & LU2B",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu9sp0",
+      "recordPath": "equipment/se-article-lu9sp0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu9sp0.json"
+    },
+    {
+      "id": "se-article-lv429517",
+      "name": "LV429517 — long terminal shield, ComPact NSX100/160/250, pitch 35 mm, IP40, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429517",
+      "recordPath": "equipment/se-article-lv429517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429517.json"
+    },
+    {
+      "id": "se-article-bdf36080",
+      "name": "BDF36080 — Circuit breaker, PowerPacT B, 80A, 3 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf36080",
+      "recordPath": "equipment/se-article-bdf36080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf36080.json"
+    },
+    {
+      "id": "se-article-bmxftb2020",
+      "name": "BMXFTB2020 — terminal block, Modicon X80, 20-pin removable spring, 1 x 0.34..1mm2",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxftb2020",
+      "recordPath": "equipment/se-article-bmxftb2020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxftb2020.json"
+    },
+    {
+      "id": "se-article-gv4p25n",
+      "name": "GV4P25N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 25A, Icu 50kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4p25n",
+      "recordPath": "equipment/se-article-gv4p25n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4p25n.json"
+    },
+    {
+      "id": "se-article-31172",
+      "name": "31172 — switch disconnector, Compact INV500, visible break, 500 A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31172",
+      "recordPath": "equipment/se-article-31172.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31172.json"
+    },
+    {
+      "id": "se-article-bjf46070",
+      "name": "BJF46070 — Circuit breaker, PowerPacT B, 70A, 4 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf46070",
+      "recordPath": "equipment/se-article-bjf46070.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf46070.json"
+    },
+    {
+      "id": "se-article-33440",
+      "name": "33440 — Basic switch disconnector, ComPacT NS630bNA, fixed, electrically operated, 630A, 690VAC 50/60Hz, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33440",
+      "recordPath": "equipment/se-article-33440.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33440.json"
+    },
+    {
+      "id": "se-article-gv3l326",
+      "name": "GV3L326 — Motor circuit breaker,TeSys Deca frame 3,3P,32A,magnetic,rotary handle,lugs or bars terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3l326",
+      "recordPath": "equipment/se-article-gv3l326.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3l326.json"
+    },
+    {
+      "id": "se-article-bjf46020",
+      "name": "BJF46020 — Circuit breaker, PowerPacT B, 20A, 4 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf46020",
+      "recordPath": "equipment/se-article-bjf46020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf46020.json"
+    },
+    {
+      "id": "se-article-lv426228",
+      "name": "LV426228 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 125 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426228",
+      "recordPath": "equipment/se-article-lv426228.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426228.json"
+    },
+    {
+      "id": "se-article-28903",
+      "name": "28903 — switch disconnector, Compact INS63, 63A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28903",
+      "recordPath": "equipment/se-article-28903.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28903.json"
+    },
+    {
+      "id": "se-article-bdf26040",
+      "name": "BDF26040 — Circuit breaker, PowerPacT B, 40A, 2 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf26040",
+      "recordPath": "equipment/se-article-bdf26040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf26040.json"
+    },
+    {
+      "id": "se-article-bjf26060",
+      "name": "BJF26060 — Circuit breaker, PowerPacT B, 60A, 2 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf26060",
+      "recordPath": "equipment/se-article-bjf26060.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf26060.json"
+    },
+    {
+      "id": "se-article-lrd32l",
+      "name": "LRD32L — Thermal overload relay, TeSys Deca, 690VAC, 23 to 32A, 1NO+1NC, class 20, for D25 to D38, screw clamp terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd32l",
+      "recordPath": "equipment/se-article-lrd32l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd32l.json"
+    },
+    {
+      "id": "se-article-gv4l115n6",
+      "name": "GV4L115N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 115A, Icu 50kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4l115n6",
+      "recordPath": "equipment/se-article-gv4l115n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4l115n6.json"
+    },
+    {
+      "id": "se-article-gv4le50b6",
+      "name": "GV4LE50B6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 50A, Icu 25kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le50b6",
+      "recordPath": "equipment/se-article-gv4le50b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le50b6.json"
+    },
+    {
+      "id": "se-article-31193",
+      "name": "31193 — switch disconnector, Compact INV500, visible break, 500 A, with red rotary handle and yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31193",
+      "recordPath": "equipment/se-article-31193.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31193.json"
+    },
+    {
+      "id": "se-article-gs2fg4",
+      "name": "GS2FG4 — Switch disconnector fuse, TeSys GS, 4P, 50A, fuse type NFC, size 14x51mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2fg4",
+      "recordPath": "equipment/se-article-gs2fg4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2fg4.json"
+    },
+    {
+      "id": "se-article-c113050ls",
+      "name": "C113050LS — Switch disconnector, ComPacT NSXm 50NA, 3 poles, thermal current Ith 50A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c113050ls",
+      "recordPath": "equipment/se-article-c113050ls.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c113050ls.json"
+    },
+    {
+      "id": "se-article-c320s4fm",
+      "name": "C320S4FM — Switch disconnector basic frame, ComPacT NS3200 type NA, 4P, fixed, manually operated, 3200A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c320s4fm",
+      "recordPath": "equipment/se-article-c320s4fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c320s4fm.json"
+    },
+    {
+      "id": "se-article-bmxftb2800",
+      "name": "BMXFTB2800 — terminal block, Modicon X80, 28-pin removable caged, 1 x 0.34..1mm2",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxftb2800",
+      "recordPath": "equipment/se-article-bmxftb2800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxftb2800.json"
+    },
+    {
+      "id": "se-article-gs2llg3",
+      "name": "GS2LLG3 — Switch disconnector fuse, TeSys GS, 3P, 160A, fuse type DIN, size 00",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2llg3",
+      "recordPath": "equipment/se-article-gs2llg3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2llg3.json"
+    },
+    {
+      "id": "se-article-31129",
+      "name": "31129 — switch disconnector, Compact INS320, 320A, with red rotary handle and yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31129",
+      "recordPath": "equipment/se-article-31129.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31129.json"
+    },
+    {
+      "id": "se-article-gv3p326",
+      "name": "GV3P326 — Motor circuit breaker, TeSys Deca, 3P, 23 to 32A, thermal magnetic, lugs or bars terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3p326",
+      "recordPath": "equipment/se-article-gv3p326.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3p326.json"
+    },
+    {
+      "id": "se-article-lv426500",
+      "name": "LV426500 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 16 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426500",
+      "recordPath": "equipment/se-article-lv426500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426500.json"
+    },
+    {
+      "id": "se-article-bdf16045",
+      "name": "BDF16045 — Circuit breaker, PowerPacT B, 45A, 1 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf16045",
+      "recordPath": "equipment/se-article-bdf16045.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf16045.json"
+    },
+    {
+      "id": "se-article-gv4le25b6",
+      "name": "GV4LE25B6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 25A, Icu 25kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le25b6",
+      "recordPath": "equipment/se-article-gv4le25b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le25b6.json"
+    },
+    {
+      "id": "se-article-a9z66463",
+      "name": "A9Z66463 — Residual current circuit breaker (RCCB), Acti9 iID, 4P, 63A, B-SI type, 500mA, double terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9z66463",
+      "recordPath": "equipment/se-article-a9z66463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9z66463.json"
+    },
+    {
+      "id": "se-article-bjf26080",
+      "name": "BJF26080 — Circuit breaker, PowerPacT B, 80A, 2 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf26080",
+      "recordPath": "equipment/se-article-bjf26080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf26080.json"
+    },
+    {
+      "id": "se-article-gv3p25",
+      "name": "GV3P25 — Motor circuit breaker,TeSys Deca frame 3,3P,17-25A,thermal magnetic,EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3p25",
+      "recordPath": "equipment/se-article-gv3p25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3p25.json"
+    },
+    {
+      "id": "se-article-bmxftb4020",
+      "name": "BMXFTB4020 — 40-pin removable spring terminal blocks",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bmxftb4020",
+      "recordPath": "equipment/se-article-bmxftb4020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bmxftb4020.json"
+    },
+    {
+      "id": "se-article-gv4pe12s",
+      "name": "GV4PE12S — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 12.5A, Icu 100kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe12s",
+      "recordPath": "equipment/se-article-gv4pe12s.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe12s.json"
+    },
+    {
+      "id": "se-article-33764",
+      "name": "33764 — Auxiliaries terminal shield - 4 poles - for Compact NS630b..1600",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33764",
+      "recordPath": "equipment/se-article-33764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33764.json"
+    },
+    {
+      "id": "se-article-lrd143",
+      "name": "LRD143 — Thermal overload relay,TeSys Deca,7-10A,1NO+1NC,class 10A,spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd143",
+      "recordPath": "equipment/se-article-lrd143.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd143.json"
+    },
+    {
+      "id": "se-article-gv2rt04",
+      "name": "GV2RT04 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,0.4-0.63A,thermal magnetic,screw clamp terminals,toggle handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2rt04",
+      "recordPath": "equipment/se-article-gv2rt04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2rt04.json"
+    },
+    {
+      "id": "se-article-c160s4nafm",
+      "name": "C160S4NAFM — Switch disconnector, ComPacT NS1600 NA, 4P, fixed, manually operated, 1600A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c160s4nafm",
+      "recordPath": "equipment/se-article-c160s4nafm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c160s4nafm.json"
+    },
+    {
+      "id": "se-article-33444",
+      "name": "33444 — Basic switch disconnector, ComPacT NS1000NA, fixed, electrically operated, 1000A, 690VAC 50/60Hz, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33444",
+      "recordPath": "equipment/se-article-33444.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33444.json"
+    },
+    {
+      "id": "se-article-c063s3fm",
+      "name": "C063S3FM — Switch disconnector basic frame, ComPacT NS630b type NA, 3P, fixed, manually operated, 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063s3fm",
+      "recordPath": "equipment/se-article-c063s3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063s3fm.json"
+    },
+    {
+      "id": "se-article-gv3l25",
+      "name": "GV3L25 — Motor circuit breaker,TeSys Deca frame 3,3P,25A,magnetic,rotary handle,EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3l25",
+      "recordPath": "equipment/se-article-gv3l25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3l25.json"
+    },
+    {
+      "id": "se-article-gv2me16",
+      "name": "GV2ME16 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 9 to 14A, thermal magnetic, screw clamp terminals, button control",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me16",
+      "recordPath": "equipment/se-article-gv2me16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me16.json"
+    },
+    {
+      "id": "se-article-lv426518",
+      "name": "LV426518 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 125 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426518",
+      "recordPath": "equipment/se-article-lv426518.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426518.json"
+    },
+    {
+      "id": "se-article-lv429408",
+      "name": "LV429408 — MN undervoltage release, ComPacT NSX, rated voltage 380/415 VAC 50/60 Hz, 440/480 VAC 60 Hz, screwless spring terminal connections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429408",
+      "recordPath": "equipment/se-article-lv429408.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429408.json"
+    },
+    {
+      "id": "se-article-c125s3nafm",
+      "name": "C125S3NAFM — Switch disconnector, ComPacT NS1250 NA, 3P, fixed, manually operated, 1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c125s3nafm",
+      "recordPath": "equipment/se-article-c125s3nafm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c125s3nafm.json"
+    },
+    {
+      "id": "se-article-gs2kk3",
+      "name": "GS2KK3 — Switch disconnector fuse, TeSys GS, 3P, 125A, fuse type DIN, size 00",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2kk3",
+      "recordPath": "equipment/se-article-gs2kk3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2kk3.json"
+    },
+    {
+      "id": "se-article-lv426429",
+      "name": "LV426429 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 160 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426429",
+      "recordPath": "equipment/se-article-lv426429.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426429.json"
+    },
+    {
+      "id": "se-article-gv2rt05",
+      "name": "GV2RT05 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,0.63-1A,thermal magnetic,screw clamp terminals,toggle handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2rt05",
+      "recordPath": "equipment/se-article-gv2rt05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2rt05.json"
+    },
+    {
+      "id": "se-article-lu2b12b",
+      "name": "LU2B12B — Reversing power base, TeSys Ultra, 3P, 1NO + 1NC, 12A, 690VAC, 24VAC coil",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu2b12b",
+      "recordPath": "equipment/se-article-lu2b12b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu2b12b.json"
+    },
+    {
+      "id": "se-article-gv4le80b6",
+      "name": "GV4LE80B6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 80A, Icu 25kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le80b6",
+      "recordPath": "equipment/se-article-gv4le80b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le80b6.json"
+    },
+    {
+      "id": "se-article-a9s65492",
+      "name": "A9S65492 — switch disconnector iSW - 4P - 125 A - 415 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s65492",
+      "recordPath": "equipment/se-article-a9s65492.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s65492.json"
+    },
+    {
+      "id": "se-article-gv2me143",
+      "name": "GV2ME143 — Motor circuit breaker,TeSys Deca frame 2,3P,6-10A,thermal magnetic,push button,spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me143",
+      "recordPath": "equipment/se-article-gv2me143.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me143.json"
+    },
+    {
+      "id": "se-article-gv4pe50n6",
+      "name": "GV4PE50N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 50A, Icu 50kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe50n6",
+      "recordPath": "equipment/se-article-gv4pe50n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe50n6.json"
+    },
+    {
+      "id": "se-article-33450",
+      "name": "33450 — Basic switch disconnector, ComPacT NS630bNA, withdrawable, electrically operated, 630A, 690VAC 50/60Hz, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33450",
+      "recordPath": "equipment/se-article-33450.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33450.json"
+    },
+    {
+      "id": "se-article-gv2me06a",
+      "name": "GV2ME06A — TeSys GV2ME - Snap In - disj. moteur - 1 à 1,6A - 3P 3d -  magnéto-thermique",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me06a",
+      "recordPath": "equipment/se-article-gv2me06a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me06a.json"
+    },
+    {
+      "id": "se-article-gv4pe50s6",
+      "name": "GV4PE50S6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 50A, Icu 100kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe50s6",
+      "recordPath": "equipment/se-article-gv4pe50s6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe50s6.json"
+    },
+    {
+      "id": "se-article-lv426229",
+      "name": "LV426229 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 160 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426229",
+      "recordPath": "equipment/se-article-lv426229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426229.json"
+    },
+    {
+      "id": "se-article-bgf16035",
+      "name": "BGF16035 — Circuit breaker, PowerPacT B, 35A, 1 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf16035",
+      "recordPath": "equipment/se-article-bgf16035.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf16035.json"
+    },
+    {
+      "id": "se-article-c160s4fm",
+      "name": "C160S4FM — Switch disconnector basic frame, ComPacT NS1600 type NA, 4P, fixed, manually operated, 1600A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c160s4fm",
+      "recordPath": "equipment/se-article-c160s4fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c160s4fm.json"
+    },
+    {
+      "id": "se-article-bjf16015",
+      "name": "BJF16015 — Circuit breaker, PowerPacT B, 15A, 1 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf16015",
+      "recordPath": "equipment/se-article-bjf16015.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf16015.json"
+    },
+    {
+      "id": "se-article-lv426424",
+      "name": "LV426424 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 50 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426424",
+      "recordPath": "equipment/se-article-lv426424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426424.json"
+    },
+    {
+      "id": "se-article-gv2rt03",
+      "name": "GV2RT03 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,0.25-0.4A,thermal magnetic,screw clamp terminals,toggle handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2rt03",
+      "recordPath": "equipment/se-article-gv2rt03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2rt03.json"
+    },
+    {
+      "id": "se-article-28909",
+      "name": "28909 — switch disconnector, Compact INS100, 100A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28909",
+      "recordPath": "equipment/se-article-28909.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28909.json"
+    },
+    {
+      "id": "se-article-28955",
+      "name": "28955 — terminal shrouds, Compact INS40 to 80, insulation accessories, 3 and 4 poles, set of 2 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28955",
+      "recordPath": "equipment/se-article-28955.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28955.json"
+    },
+    {
+      "id": "se-article-gs2jb3",
+      "name": "GS2JB3 — Switch disconnector fuse, TeSys GS, 3P, 100A, fuse type BS, size A4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2jb3",
+      "recordPath": "equipment/se-article-gs2jb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2jb3.json"
+    },
+    {
+      "id": "se-article-gv4pe115b6",
+      "name": "GV4PE115B6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 115A, Icu 25kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe115b6",
+      "recordPath": "equipment/se-article-gv4pe115b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe115b6.json"
+    },
+    {
+      "id": "se-article-gs2nb4",
+      "name": "GS2NB4 — Switch disconnector fuse, TeSys GS, 4P, 250A, fuse type BS, size B1, B2, B3",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2nb4",
+      "recordPath": "equipment/se-article-gs2nb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2nb4.json"
+    },
+    {
+      "id": "se-article-lub32",
+      "name": "LUB32 — Non reversing power base, TeSys Ultra, 3P, 1NO + 1NC, 32A, 690V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lub32",
+      "recordPath": "equipment/se-article-lub32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lub32.json"
+    },
+    {
+      "id": "se-article-lv426211",
+      "name": "LV426211 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 25 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426211",
+      "recordPath": "equipment/se-article-lv426211.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426211.json"
+    },
+    {
+      "id": "se-article-lv426116",
+      "name": "LV426116 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 3d, 80 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426116",
+      "recordPath": "equipment/se-article-lv426116.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426116.json"
+    },
+    {
+      "id": "se-article-gv4pe07n",
+      "name": "GV4PE07N — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 7A, Icu 50kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe07n",
+      "recordPath": "equipment/se-article-gv4pe07n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe07n.json"
+    },
+    {
+      "id": "se-article-gv2l14",
+      "name": "GV2L14 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 10A, magnetic, rotary handle, screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2l14",
+      "recordPath": "equipment/se-article-gv2l14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2l14.json"
+    },
+    {
+      "id": "se-article-lv426126",
+      "name": "LV426126 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 80 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426126",
+      "recordPath": "equipment/se-article-lv426126.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426126.json"
+    },
+    {
+      "id": "se-article-31160",
+      "name": "31160 — extended front rotary handle, for source changeover assembly",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31160",
+      "recordPath": "equipment/se-article-31160.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31160.json"
+    },
+    {
+      "id": "se-article-a9z65463",
+      "name": "A9Z65463 — Residual current circuit breaker (RCCB), Acti9 iID, 4P, 63A, B-SI type, 300mA, selective, double terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9z65463",
+      "recordPath": "equipment/se-article-a9z65463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9z65463.json"
+    },
+    {
+      "id": "se-article-a9z64480",
+      "name": "A9Z64480 — Residual current circuit breaker (RCCB), Acti9 iID, 4P, 80A, B-SI type, 300mA, double terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9z64480",
+      "recordPath": "equipment/se-article-a9z64480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9z64480.json"
+    },
+    {
+      "id": "se-article-31165",
+      "name": "31165 — switch disconnector, Compact INV160, visible break, 160A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31165",
+      "recordPath": "equipment/se-article-31165.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31165.json"
+    },
+    {
+      "id": "se-article-31373",
+      "name": "31373 — switch disconnector, Compact INV800, visible break, 800 A, with red rotary handle and yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31373",
+      "recordPath": "equipment/se-article-31373.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31373.json"
+    },
+    {
+      "id": "se-article-lualf1",
+      "name": "LUALF1 — Limiter cartridge, TeSys Ultra, activation 50kA, 130kA at 440V, for use with limiter disconnector LUALB1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lualf1",
+      "recordPath": "equipment/se-article-lualf1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lualf1.json"
+    },
+    {
+      "id": "se-article-lv426412",
+      "name": "LV426412 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 32 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426412",
+      "recordPath": "equipment/se-article-lv426412.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426412.json"
+    },
+    {
+      "id": "se-article-lv426506",
+      "name": "LV426506 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 80 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426506",
+      "recordPath": "equipment/se-article-lv426506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426506.json"
+    },
+    {
+      "id": "se-article-lv426307",
+      "name": "LV426307 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 100 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426307",
+      "recordPath": "equipment/se-article-lv426307.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426307.json"
+    },
+    {
+      "id": "se-article-lv432596",
+      "name": "LV432596 — long terminal shield for spreaders, ComPact NSX400/630, pitch 52.5 mm, IP40, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv432596",
+      "recordPath": "equipment/se-article-lv432596.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv432596.json"
+    },
+    {
+      "id": "se-article-lv426111",
+      "name": "LV426111 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 3d, 25 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426111",
+      "recordPath": "equipment/se-article-lv426111.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426111.json"
+    },
+    {
+      "id": "se-article-bjf26045",
+      "name": "BJF26045 — Circuit breaker, PowerPacT B, 45A, 2 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf26045",
+      "recordPath": "equipment/se-article-bjf26045.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf26045.json"
+    },
+    {
+      "id": "se-article-31330",
+      "name": "31330 — switch disconnector, Compact INS800, 800A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31330",
+      "recordPath": "equipment/se-article-31330.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31330.json"
+    },
+    {
+      "id": "se-article-lv426318",
+      "name": "LV426318 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 125 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426318",
+      "recordPath": "equipment/se-article-lv426318.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426318.json"
+    },
+    {
+      "id": "se-article-31125",
+      "name": "31125 — switch disconnector, Compact INS250-160, 160A, with red rotary handle and yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31125",
+      "recordPath": "equipment/se-article-31125.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31125.json"
+    },
+    {
+      "id": "se-article-lv426524",
+      "name": "LV426524 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 50 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426524",
+      "recordPath": "equipment/se-article-lv426524.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426524.json"
+    },
+    {
+      "id": "se-article-bjf26020",
+      "name": "BJF26020 — Circuit breaker, PowerPacT B, 20A, 2 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf26020",
+      "recordPath": "equipment/se-article-bjf26020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf26020.json"
+    },
+    {
+      "id": "se-article-gs2vg3",
+      "name": "GS2VG3 — Switch disconnector fuse, TeSys GS, 3P, 1250A, fuse type DIN, size 4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2vg3",
+      "recordPath": "equipment/se-article-gs2vg3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2vg3.json"
+    },
+    {
+      "id": "se-article-lv426304",
+      "name": "LV426304 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 50 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426304",
+      "recordPath": "equipment/se-article-lv426304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426304.json"
+    },
+    {
+      "id": "se-article-lrd08l",
+      "name": "LRD08L — Thermal overload relay, TeSys Deca, 690VAC, 2.5 to 4A, 1NO+1NC, class 20, for D09 to D38, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd08l",
+      "recordPath": "equipment/se-article-lrd08l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd08l.json"
+    },
+    {
+      "id": "se-article-31164",
+      "name": "31164 — switch disconnector, Compact INV160, visible break, 160A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31164",
+      "recordPath": "equipment/se-article-31164.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31164.json"
+    },
+    {
+      "id": "se-article-bdf36070",
+      "name": "BDF36070 — Circuit breaker, PowerPacT B, 70A, 3 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf36070",
+      "recordPath": "equipment/se-article-bdf36070.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf36070.json"
+    },
+    {
+      "id": "se-article-bdf16080",
+      "name": "BDF16080 — Circuit breaker, PowerPacT B, 80A, 1 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf16080",
+      "recordPath": "equipment/se-article-bdf16080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf16080.json"
+    },
+    {
+      "id": "se-article-31189",
+      "name": "31189 — switch disconnector, Compact INV320, visible break, 320 A, with red rotary handle and yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31189",
+      "recordPath": "equipment/se-article-31189.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31189.json"
+    },
+    {
+      "id": "se-article-31103",
+      "name": "31103 — switch disconnector, Compact INS250-200, 200A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31103",
+      "recordPath": "equipment/se-article-31103.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31103.json"
+    },
+    {
+      "id": "se-article-c100s4fm",
+      "name": "C100S4FM — Switch disconnector basic frame, ComPacT NS1000 type NA, 4P, fixed, manually operated, 1000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100s4fm",
+      "recordPath": "equipment/se-article-c100s4fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100s4fm.json"
+    },
+    {
+      "id": "se-article-31169",
+      "name": "31169 — switch disconnector, Compact INV320, visible break, 320A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31169",
+      "recordPath": "equipment/se-article-31169.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31169.json"
+    },
+    {
+      "id": "se-article-gs2v4",
+      "name": "GS2V4 — Switch disconnector fuse, TeSys GS, 4P, 1250A, fuse type DIN, size 4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2v4",
+      "recordPath": "equipment/se-article-gs2v4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2v4.json"
+    },
+    {
+      "id": "se-article-gv2me146",
+      "name": "GV2ME146 — TeSys Deca Manual Starter and Protector, thermal magnetic circuit protector, push buttons, 6...10 A, ring lug terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me146",
+      "recordPath": "equipment/se-article-gv2me146.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me146.json"
+    },
+    {
+      "id": "se-article-lv426125",
+      "name": "LV426125 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 63 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426125",
+      "recordPath": "equipment/se-article-lv426125.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426125.json"
+    },
+    {
+      "id": "se-article-bjf36125",
+      "name": "BJF36125 — Circuit breaker, PowerPacT B, 25A, 3 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf36125",
+      "recordPath": "equipment/se-article-bjf36125.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf36125.json"
+    },
+    {
+      "id": "se-article-gs2sg3",
+      "name": "GS2SG3 — Switch disconnector fuse, TeSys GS, 3P, 630A, fuse type DIN, size 3",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2sg3",
+      "recordPath": "equipment/se-article-gs2sg3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2sg3.json"
+    },
+    {
+      "id": "se-article-31101",
+      "name": "31101 — switch disconnector, Compact INS250-100, 100A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31101",
+      "recordPath": "equipment/se-article-31101.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31101.json"
+    },
+    {
+      "id": "se-article-gv4l50n6",
+      "name": "GV4L50N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 50A, Icu 50kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4l50n6",
+      "recordPath": "equipment/se-article-gv4l50n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4l50n6.json"
+    },
+    {
+      "id": "se-article-gs2ju3n",
+      "name": "GS2JU3N — Switch disconnector fuse, TeSys GS, 3P, 100A, fuse type UL, size J",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2ju3n",
+      "recordPath": "equipment/se-article-gs2ju3n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2ju3n.json"
+    },
+    {
+      "id": "se-article-31360",
+      "name": "31360 — switch disconnector, Compact INV1000, visible break, 1000A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31360",
+      "recordPath": "equipment/se-article-31360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31360.json"
+    },
+    {
+      "id": "se-article-bjf16040",
+      "name": "BJF16040 — Circuit breaker, PowerPacT B, 40A, 1 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf16040",
+      "recordPath": "equipment/se-article-bjf16040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf16040.json"
+    },
+    {
+      "id": "se-article-a9s65191",
+      "name": "A9S65191 — switch disconnector iSW - 1P - 100 A - 240 V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s65191",
+      "recordPath": "equipment/se-article-a9s65191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s65191.json"
+    },
+    {
+      "id": "se-article-gv4pe03s6",
+      "name": "GV4PE03S6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 3.5A, Icu 100kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe03s6",
+      "recordPath": "equipment/se-article-gv4pe03s6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe03s6.json"
+    },
+    {
+      "id": "se-article-gv4le02s6",
+      "name": "GV4LE02S6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 2A, Icu 100kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le02s6",
+      "recordPath": "equipment/se-article-gv4le02s6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le02s6.json"
+    },
+    {
+      "id": "se-article-bjf46015",
+      "name": "BJF46015 — Circuit breaker, PowerPacT B, 15A, 4 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf46015",
+      "recordPath": "equipment/se-article-bjf46015.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf46015.json"
+    },
+    {
+      "id": "se-article-31113",
+      "name": "31113 — switch disconnector, Compact INS500, 500A, standard version with black rotary handle, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31113",
+      "recordPath": "equipment/se-article-31113.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31113.json"
+    },
+    {
+      "id": "se-article-31351",
+      "name": "31351 — switch disconnector, Compact INS1600, 1600A, with red rotary handle, yellow front, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31351",
+      "recordPath": "equipment/se-article-31351.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31351.json"
+    },
+    {
+      "id": "se-article-lualb1",
+      "name": "LUALB1 — Limiter disconnector, TeSys Ultra, 32A, activation 50kA, 130kA at 440V, Direct mounting on power base",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lualb1",
+      "recordPath": "equipment/se-article-lualb1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lualb1.json"
+    },
+    {
+      "id": "se-article-18899",
+      "name": "18899 — switch-disconnector NG125NA - 4 poles - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18899",
+      "recordPath": "equipment/se-article-18899.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18899.json"
+    },
+    {
+      "id": "se-article-gv3p18",
+      "name": "GV3P18 — Motor circuit breaker,TeSys Deca frame 3,3P,12-18A,thermal magnetic,EverLink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3p18",
+      "recordPath": "equipment/se-article-gv3p18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3p18.json"
+    },
+    {
+      "id": "se-article-lu2b32bl",
+      "name": "LU2B32BL — Reversing power base, TeSys Ultra, 3P, 1NO + 1NC, 32A, 690VAC, 24VDC coil",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu2b32bl",
+      "recordPath": "equipment/se-article-lu2b32bl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu2b32bl.json"
+    },
+    {
+      "id": "se-article-lv429390",
+      "name": "LV429390 — MX shunt release, ComPacT NSX, rated voltage 24 VDC, screwless spring terminal connections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429390",
+      "recordPath": "equipment/se-article-lv429390.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429390.json"
+    },
+    {
+      "id": "se-article-a9z51216",
+      "name": "A9Z51216 — Residual current circuit breaker (RCCB), Acti9 iID, 2P, 16A, B-EV (Electric Vehicle) type, 30mA, double terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9z51216",
+      "recordPath": "equipment/se-article-a9z51216.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9z51216.json"
+    },
+    {
+      "id": "se-article-bgf46015",
+      "name": "BGF46015 — Circuit breaker, PowerPacT B, 15A, 4 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf46015",
+      "recordPath": "equipment/se-article-bgf46015.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf46015.json"
+    },
+    {
+      "id": "se-article-lv426216",
+      "name": "LV426216 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 80 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426216",
+      "recordPath": "equipment/se-article-lv426216.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426216.json"
+    },
+    {
+      "id": "se-article-gv2le16",
+      "name": "GV2LE16 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,14A,magnetic,toggle control,screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2le16",
+      "recordPath": "equipment/se-article-gv2le16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2le16.json"
+    },
+    {
+      "id": "se-article-gv2me07",
+      "name": "GV2ME07 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 1.6 to 2.5A, thermal magnetic, screw clamp terminals, button control",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me07",
+      "recordPath": "equipment/se-article-gv2me07.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me07.json"
+    },
+    {
+      "id": "se-article-lv426508",
+      "name": "LV426508 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 125 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426508",
+      "recordPath": "equipment/se-article-lv426508.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426508.json"
+    },
+    {
+      "id": "se-article-gs2ll3",
+      "name": "GS2LL3 — Switch disconnector fuse, TeSys GS, 3P, 160A, fuse type DIN, size 00",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2ll3",
+      "recordPath": "equipment/se-article-gs2ll3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2ll3.json"
+    },
+    {
+      "id": "se-article-bgf46060",
+      "name": "BGF46060 — Circuit breaker, PowerPacT B, 60A, 4 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf46060",
+      "recordPath": "equipment/se-article-bgf46060.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf46060.json"
+    },
+    {
+      "id": "se-article-bjf16080",
+      "name": "BJF16080 — Circuit breaker, PowerPacT B, 80A, 1 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf16080",
+      "recordPath": "equipment/se-article-bjf16080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf16080.json"
+    },
+    {
+      "id": "se-article-gv2me22",
+      "name": "GV2ME22 — Motor circuit breaker, TeSys GV2, TeSys Deca, 3P, 20 to 25A, thermal magnetic, screw clamp terminals, button control",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me22",
+      "recordPath": "equipment/se-article-gv2me22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me22.json"
+    },
+    {
+      "id": "se-article-lv426124",
+      "name": "LV426124 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 50 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426124",
+      "recordPath": "equipment/se-article-lv426124.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426124.json"
+    },
+    {
+      "id": "se-article-gv4le50s6",
+      "name": "GV4LE50S6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 50A, Icu 100kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le50s6",
+      "recordPath": "equipment/se-article-gv4le50s6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le50s6.json"
+    },
+    {
+      "id": "se-article-gv3me80",
+      "name": "GV3ME80 — Motor circuit breaker, TeSys Deca, 3P, 56-80 A, thermal magnetic, screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3me80",
+      "recordPath": "equipment/se-article-gv3me80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3me80.json"
+    },
+    {
+      "id": "se-article-gv4pe115s",
+      "name": "GV4PE115S — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 115A, Icu 100kA, thermal magnetic, Everlink terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe115s",
+      "recordPath": "equipment/se-article-gv4pe115s.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe115s.json"
+    },
+    {
+      "id": "se-article-lrd318l",
+      "name": "LRD318L — Thermal overload relay, TeSys Deca, 690VAC, 12 to 18A, 1NO+1NC, class 20, for D40A to D65A, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd318l",
+      "recordPath": "equipment/se-article-lrd318l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd318l.json"
+    },
+    {
+      "id": "se-article-gv4pe25n6",
+      "name": "GV4PE25N6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 25A, Icu 50kA, thermal magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pe25n6",
+      "recordPath": "equipment/se-article-gv4pe25n6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pe25n6.json"
+    },
+    {
+      "id": "se-article-31100",
+      "name": "31100 — Switch disconnector, ComPact, Compact INS250-100 , 100 A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31100",
+      "recordPath": "equipment/se-article-31100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31100.json"
+    },
+    {
+      "id": "se-article-lrd06",
+      "name": "LRD06 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 1 to 1.6A, 1NO+1NC, class 10A, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd06",
+      "recordPath": "equipment/se-article-lrd06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd06.json"
+    },
+    {
+      "id": "se-article-gvan113",
+      "name": "GVAN113 — TeSys GV2 & GV3 - auxiliary contact block - 1 NO + 1 NC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gvan113",
+      "recordPath": "equipment/se-article-gvan113.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gvan113.json"
+    },
+    {
+      "id": "se-article-31120",
+      "name": "31120 — switch disconnector, Compact INS250-100 , 100 A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31120",
+      "recordPath": "equipment/se-article-31120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31120.json"
+    },
+    {
+      "id": "se-article-lv426325",
+      "name": "LV426325 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 4d, 63 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426325",
+      "recordPath": "equipment/se-article-lv426325.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426325.json"
+    },
+    {
+      "id": "se-article-33442",
+      "name": "33442 — Basic switch disconnector, ComPacT NS800NA, fixed, electrically operated, 800A, 690VAC 50/60Hz, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33442",
+      "recordPath": "equipment/se-article-33442.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33442.json"
+    },
+    {
+      "id": "se-article-gv4adm1111",
+      "name": "GV4ADM1111 — Auxiliary contact block, TeSys GV4, 2NO+2NC, SDx contact module for GV4PEM",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4adm1111",
+      "recordPath": "equipment/se-article-gv4adm1111.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4adm1111.json"
+    },
+    {
+      "id": "se-article-lu2ba0b",
+      "name": "LU2BA0B — Reversing power base, TeSys U, 3P, 12A/690V, coil 24V AC, without control terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu2ba0b",
+      "recordPath": "equipment/se-article-lu2ba0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu2ba0b.json"
+    },
+    {
+      "id": "se-article-gs1dd3",
+      "name": "GS1DD3 — Switch disconnector fuse, TeSys GS, 3P, 3NO, 32A, fuse type NFC, size 10x38mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs1dd3",
+      "recordPath": "equipment/se-article-gs1dd3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs1dd3.json"
+    },
+    {
+      "id": "se-article-31338",
+      "name": "31338 — switch disconnector, Compact INS2000, 2000A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31338",
+      "recordPath": "equipment/se-article-31338.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31338.json"
+    },
+    {
+      "id": "se-article-lv426226",
+      "name": "LV426226 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 80 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426226",
+      "recordPath": "equipment/se-article-lv426226.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426226.json"
+    },
+    {
+      "id": "se-article-31180",
+      "name": "31180 — switch disconnector, Compact INV100, visible break, 100A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31180",
+      "recordPath": "equipment/se-article-31180.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31180.json"
+    },
+    {
+      "id": "se-article-lv426107",
+      "name": "LV426107 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 100 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426107",
+      "recordPath": "equipment/se-article-lv426107.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426107.json"
+    },
+    {
+      "id": "se-article-lv426400",
+      "name": "LV426400 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 16 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426400",
+      "recordPath": "equipment/se-article-lv426400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426400.json"
+    },
+    {
+      "id": "se-article-lv426222",
+      "name": "LV426222 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 32 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426222",
+      "recordPath": "equipment/se-article-lv426222.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426222.json"
+    },
+    {
+      "id": "se-article-gv4le115b6",
+      "name": "GV4LE115B6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 115A, Icu 25kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4le115b6",
+      "recordPath": "equipment/se-article-gv4le115b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4le115b6.json"
+    },
+    {
+      "id": "se-article-31166",
+      "name": "31166 — switch disconnector, Compact INV250, visible break, 250A, standard version with black rotary handle, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31166",
+      "recordPath": "equipment/se-article-31166.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31166.json"
+    },
+    {
+      "id": "se-article-lv429308",
+      "name": "LV429308 — edgewise terminal extensions, ComPact NSX 100/160/250, set of 3 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429308",
+      "recordPath": "equipment/se-article-lv429308.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429308.json"
+    },
+    {
+      "id": "se-article-c100s4nafm",
+      "name": "C100S4NAFM — Switch disconnector, ComPacT NS1000 NA, 4P, fixed, manually operated, 1000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100s4nafm",
+      "recordPath": "equipment/se-article-c100s4nafm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100s4nafm.json"
+    },
+    {
+      "id": "se-article-gs1ddb4",
+      "name": "GS1DDB4 — Switch disconnector fuse, TeSys GS, 3P + N, 32A, fuse type BS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs1ddb4",
+      "recordPath": "equipment/se-article-gs1ddb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs1ddb4.json"
+    },
+    {
+      "id": "se-article-lv426407",
+      "name": "LV426407 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 100 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426407",
+      "recordPath": "equipment/se-article-lv426407.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426407.json"
+    },
+    {
+      "id": "se-article-lv426302",
+      "name": "LV426302 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 32 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426302",
+      "recordPath": "equipment/se-article-lv426302.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426302.json"
+    },
+    {
+      "id": "se-article-gv2me103",
+      "name": "GV2ME103 — Motor circuit breaker, TeSys Deca, 3P, 4 to 6.3A, thermal magnetic, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me103",
+      "recordPath": "equipment/se-article-gv2me103.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me103.json"
+    },
+    {
+      "id": "se-article-gv4l115b6",
+      "name": "GV4L115B6 — Motor circuit breaker, TeSys GV4, TeSys GV4, 3P, 115A, Icu 25kA, magnetic, lugs terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4l115b6",
+      "recordPath": "equipment/se-article-gv4l115b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4l115b6.json"
+    },
+    {
+      "id": "se-article-lv426970",
+      "name": "LV426970 — EverLink connector with control wire terminal, ComPacT NSXm, for 1 cable 2.5mmÂ² to 95mmÂ², 160A max, 3 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426970",
+      "recordPath": "equipment/se-article-lv426970.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426970.json"
+    },
+    {
+      "id": "se-article-gv2rt21",
+      "name": "GV2RT21 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,17-23A,thermal magnetic,screw clamp terminals,toggle handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2rt21",
+      "recordPath": "equipment/se-article-gv2rt21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2rt21.json"
+    },
+    {
+      "id": "se-article-lv426972",
+      "name": "LV426972 — Circuit breaker accessory, PowerPacT B, EverLink connector kit, 1 pole",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426972",
+      "recordPath": "equipment/se-article-lv426972.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426972.json"
+    },
+    {
+      "id": "se-article-lv429263",
+      "name": "LV429263 — connection accessories, Compact NSX 100/160/250, EasyPact CVS 100/160/250, straight terminal extensions, set of 3 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429263",
+      "recordPath": "equipment/se-article-lv429263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429263.json"
+    },
+    {
+      "id": "se-article-c125s3wm",
+      "name": "C125S3WM — Switch disconnector basic frame, ComPacT NS1250 type NA, 3P, drawout, manually operated, 1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c125s3wm",
+      "recordPath": "equipment/se-article-c125s3wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c125s3wm.json"
+    },
+    {
+      "id": "se-article-lv426120",
+      "name": "LV426120 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 16 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426120",
+      "recordPath": "equipment/se-article-lv426120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426120.json"
+    },
+    {
+      "id": "se-article-bgf16080",
+      "name": "BGF16080 — Circuit breaker, PowerPacT B, 80A, 1 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf16080",
+      "recordPath": "equipment/se-article-bgf16080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf16080.json"
+    },
+    {
+      "id": "se-article-gv3p186",
+      "name": "GV3P186 — Motor circuit breaker, TeSys Deca, 3P, 12 to 18A, thermal magnetic, lugs or bars terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv3p186",
+      "recordPath": "equipment/se-article-gv3p186.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv3p186.json"
+    },
+    {
+      "id": "se-article-gv2me10a",
+      "name": "GV2ME10A — TeSys GV2ME - Snap In - disj. moteur - 4 à 6,3A - 3P 3d -  magnéto-thermique",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me10a",
+      "recordPath": "equipment/se-article-gv2me10a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me10a.json"
+    },
+    {
+      "id": "se-article-gs2l4",
+      "name": "GS2L4 — Switch disconnector fuse, TeSys GS, 4P, 160A, fuse type DIN, size 0",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2l4",
+      "recordPath": "equipment/se-article-gs2l4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2l4.json"
+    },
+    {
+      "id": "se-article-gv2rt14",
+      "name": "GV2RT14 — Motor circuit breaker, TeSys GV2, TeSys Deca,3P,6-10A,thermal magnetic,screw clamp terminals,toggle handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2rt14",
+      "recordPath": "equipment/se-article-gv2rt14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2rt14.json"
+    },
+    {
+      "id": "se-article-bgf46035",
+      "name": "BGF46035 — Circuit breaker, PowerPacT B, 35A, 4 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf46035",
+      "recordPath": "equipment/se-article-bgf46035.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf46035.json"
+    },
+    {
+      "id": "se-article-lu2bb0b",
+      "name": "LU2BB0B — Reversing power base, TeSys U, 3P, 32A/690V, coil 24V AC, without control terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lu2bb0b",
+      "recordPath": "equipment/se-article-lu2bb0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lu2bb0b.json"
+    },
+    {
+      "id": "se-article-28918",
+      "name": "28918 — switch disconnector, Compact INS63, 63A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28918",
+      "recordPath": "equipment/se-article-28918.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28918.json"
+    },
+    {
+      "id": "se-article-31190",
+      "name": "31190 — switch disconnector, Compact INV400, visible break, 400 A, with red rotary handle and yellow front, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31190",
+      "recordPath": "equipment/se-article-31190.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31190.json"
+    },
+    {
+      "id": "se-article-bgf46110",
+      "name": "BGF46110 — Circuit breaker, PowerPacT B, 110A, 4 pole, 600Y/347VAC, 18kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgf46110",
+      "recordPath": "equipment/se-article-bgf46110.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgf46110.json"
+    },
+    {
+      "id": "se-article-lv426912",
+      "name": "LV426912 — Long terminal shield, ComPacT NSXm, upstream and downstream mounting, IP40, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426912",
+      "recordPath": "equipment/se-article-lv426912.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426912.json"
+    },
+    {
+      "id": "se-article-bjf36080",
+      "name": "BJF36080 — Circuit breaker, PowerPacT B, 80A, 3 pole, 600Y/347VAC, 25kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjf36080",
+      "recordPath": "equipment/se-article-bjf36080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjf36080.json"
+    },
+    {
+      "id": "se-article-bdf26015",
+      "name": "BDF26015 — Circuit breaker, PowerPacT B, 15A, 2 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf26015",
+      "recordPath": "equipment/se-article-bdf26015.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf26015.json"
+    },
+    {
+      "id": "se-article-lrd12l",
+      "name": "LRD12L — Thermal overload relay, TeSys Deca, 690VAC, 5.5 to 8A, 1NO+1NC, class 20, for D09 to D38, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd12l",
+      "recordPath": "equipment/se-article-lrd12l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lrd12l.json"
+    },
+    {
+      "id": "se-article-lv426214",
+      "name": "LV426214 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 50 A rating TMD trip unit, EverLink connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426214",
+      "recordPath": "equipment/se-article-lv426214.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426214.json"
+    },
+    {
+      "id": "se-article-gv2me076",
+      "name": "GV2ME076 — TeSys Deca Manual Starter and Protector, thermal magnetic circuit protector, push buttons, 1.6...2.5 A, ring lug terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me076",
+      "recordPath": "equipment/se-article-gv2me076.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me076.json"
+    },
+    {
+      "id": "se-article-lv429404",
+      "name": "LV429404 — MN undervoltage release, ComPacT NSX, rated voltage 24 VAC 50/60 Hz, screwless spring terminal connections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429404",
+      "recordPath": "equipment/se-article-lv429404.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429404.json"
+    },
+    {
+      "id": "se-article-c080s3nafm",
+      "name": "C080S3NAFM — Switch disconnector, ComPacT NS800 NA, 3P, fixed, manually operated, 800A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c080s3nafm",
+      "recordPath": "equipment/se-article-c080s3nafm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c080s3nafm.json"
+    },
+    {
+      "id": "se-article-gs2ll4",
+      "name": "GS2LL4 — Switch disconnector fuse, TeSys GS, 4P, 160A, fuse type DIN, size 00",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs2ll4",
+      "recordPath": "equipment/se-article-gs2ll4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs2ll4.json"
+    },
+    {
+      "id": "se-article-bdf36025",
+      "name": "BDF36025 — Circuit breaker, PowerPacT B, 25A, 3 pole, 600Y/347VAC, 14kA, terminal nut, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdf36025",
+      "recordPath": "equipment/se-article-bdf36025.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdf36025.json"
+    },
+    {
+      "id": "se-article-725axxbc3ml120a",
+      "name": "725AXXBC3ML-120A — Power relay, SE Relays, 30A, 1NO, 120VAC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbc3ml120a",
+      "recordPath": "equipment/se-article-725axxbc3ml120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbc3ml120a.json"
+    },
+    {
+      "id": "se-article-725bxxbm4l24d",
+      "name": "725BXXBM4L-24D — Power relay, SE Relays, 25A, 2NO, 24VDC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbm4l24d",
+      "recordPath": "equipment/se-article-725bxxbm4l24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbm4l24d.json"
+    },
+    {
+      "id": "se-article-70750e81",
+      "name": "70-750E8-1 — Socket, SE Relays general purpose relay accessory, DPDT, 12A, 300 V, 8 pins, lift terminals, 750/750H series",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-70750e81",
+      "recordPath": "equipment/se-article-70750e81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-70750e81.json"
+    },
+    {
+      "id": "se-article-cad32aj7",
+      "name": "CAD32AJ7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 12 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32aj7",
+      "recordPath": "equipment/se-article-cad32aj7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32aj7.json"
+    },
+    {
+      "id": "se-article-cad32abl",
+      "name": "CAD32ABL — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 24 V DC, geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32abl",
+      "recordPath": "equipment/se-article-cad32abl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32abl.json"
+    },
+    {
+      "id": "se-article-ladn02a",
+      "name": "LADN02A — Hilfsschalterblock, 2Ö, SnapIN Anschlussklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn02a",
+      "recordPath": "equipment/se-article-ladn02a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn02a.json"
+    },
+    {
+      "id": "se-article-cad50ax7",
+      "name": "CAD50AX7 — Hilfsschütz, 5S Steuerkontakte, Spule 600 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ax7",
+      "recordPath": "equipment/se-article-cad50ax7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ax7.json"
+    },
+    {
+      "id": "se-article-cad50ag7",
+      "name": "CAD50AG7 — Hilfsschütz, 5S Steuerkontakte, Spule 120 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ag7",
+      "recordPath": "equipment/se-article-cad50ag7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ag7.json"
+    },
+    {
+      "id": "se-article-725axxsc3ml240a",
+      "name": "725AXXSC3ML-240A — Power relay, SE Relays, 30A, 1NO, 240VAC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxsc3ml240a",
+      "recordPath": "equipment/se-article-725axxsc3ml240a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxsc3ml240a.json"
+    },
+    {
+      "id": "se-article-cad50acd",
+      "name": "CAD50ACD — Hilfsschütz, 5S Steuerkontakte, Spule 36 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50acd",
+      "recordPath": "equipment/se-article-cad50acd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50acd.json"
+    },
+    {
+      "id": "se-article-cad32ak7",
+      "name": "CAD32AK7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 100 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ak7",
+      "recordPath": "equipment/se-article-cad32ak7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ak7.json"
+    },
+    {
+      "id": "se-article-782xbxc120a",
+      "name": "782XBXC-120A — Power Relay, General Purpose Relays, DPDT, clear cover, faston terminals, 15A, 120V AC, 2NO + 2NC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xbxc120a",
+      "recordPath": "equipment/se-article-782xbxc120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xbxc120a.json"
+    },
+    {
+      "id": "se-article-725axxbc3ml24a",
+      "name": "725AXXBC3ML-24A — Power relay, SE Relays, 30A, 1NO, 24VAC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbc3ml24a",
+      "recordPath": "equipment/se-article-725axxbc3ml24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbc3ml24a.json"
+    },
+    {
+      "id": "se-article-cad32ale7",
+      "name": "CAD32ALE7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 208 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ale7",
+      "recordPath": "equipment/se-article-cad32ale7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ale7.json"
+    },
+    {
+      "id": "se-article-lc1d09aj7",
+      "name": "LC1D09AJ7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 12 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09aj7",
+      "recordPath": "equipment/se-article-lc1d09aj7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09aj7.json"
+    },
+    {
+      "id": "se-article-cad50aw7",
+      "name": "CAD50AW7 — Hilfsschütz, 5S Steuerkontakte, Spule 277 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50aw7",
+      "recordPath": "equipment/se-article-cad50aw7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50aw7.json"
+    },
+    {
+      "id": "se-article-725axxbc3ml12d",
+      "name": "725AXXBC3ML-12D — Power relay, SE Relays, 30A, 1NO, 12VDC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbc3ml12d",
+      "recordPath": "equipment/se-article-725axxbc3ml12d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbc3ml12d.json"
+    },
+    {
+      "id": "se-article-ladn229",
+      "name": "LADN229 — Auxiliary contact block, TeSys Deca, 2NO + 2NC, front mounting, Faston terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn229",
+      "recordPath": "equipment/se-article-ladn229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn229.json"
+    },
+    {
+      "id": "se-article-ladn206",
+      "name": "LADN206 — Auxiliary contact block, TeSys Deca, 2NO, front mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn206",
+      "recordPath": "equipment/se-article-ladn206.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn206.json"
+    },
+    {
+      "id": "se-article-ladn20a",
+      "name": "LADN20A — Hilfsschalterblock, 2S, SnapIN Anschlussklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn20a",
+      "recordPath": "equipment/se-article-ladn20a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn20a.json"
+    },
+    {
+      "id": "se-article-lads2",
+      "name": "LADS2 — Zeitblock, anzugsverzögert, 1S+1Ö, 1,00-30,00s, Schraubanschluss",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lads2",
+      "recordPath": "equipment/se-article-lads2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lads2.json"
+    },
+    {
+      "id": "se-article-cad32ab7",
+      "name": "CAD32AB7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 24 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ab7",
+      "recordPath": "equipment/se-article-cad32ab7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ab7.json"
+    },
+    {
+      "id": "se-article-cad32ay7",
+      "name": "CAD32AY7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 690 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ay7",
+      "recordPath": "equipment/se-article-cad32ay7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ay7.json"
+    },
+    {
+      "id": "se-article-ladn203",
+      "name": "LADN203 — IEC contactor, TeSys Deca, auxiliary contact block, 2 NO, front mounting, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn203",
+      "recordPath": "equipment/se-article-ladn203.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn203.json"
+    },
+    {
+      "id": "se-article-ladn223g",
+      "name": "LADN223G — Auxiliary contact block, TeSys Deca, 2NO+2NC, front mounting, spring terminals, EN 50012",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn223g",
+      "recordPath": "equipment/se-article-ladn223g.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn223g.json"
+    },
+    {
+      "id": "se-article-725bxxbm4l240a",
+      "name": "725BXXBM4L-240A — Power relay, SE Relays, 25A, 2NO, 240VAC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbm4l240a",
+      "recordPath": "equipment/se-article-725bxxbm4l240a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbm4l240a.json"
+    },
+    {
+      "id": "se-article-cad50asd",
+      "name": "CAD50ASD — Hilfsschütz, 5S Steuerkontakte, Spule 72 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50asd",
+      "recordPath": "equipment/se-article-cad50asd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50asd.json"
+    },
+    {
+      "id": "se-article-ladn11p",
+      "name": "LADN11P — Auxiliary contact block, TeSys Deca, 1NO + 1NC, front mounting, screw clamp terminals, EN 50012",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn11p",
+      "recordPath": "equipment/se-article-ladn11p.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn11p.json"
+    },
+    {
+      "id": "se-article-725axxsc3ml24a",
+      "name": "725AXXSC3ML-24A — Power relay, SE Relays, 30A, 1NO, 24VAC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxsc3ml24a",
+      "recordPath": "equipment/se-article-725axxsc3ml24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxsc3ml24a.json"
+    },
+    {
+      "id": "se-article-725bxxbc3ml120a",
+      "name": "725BXXBC3ML-120A — Power relay, SE Relays, 25A, 2NO, 120VAC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbc3ml120a",
+      "recordPath": "equipment/se-article-725bxxbc3ml120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbc3ml120a.json"
+    },
+    {
+      "id": "se-article-788xbxrc24a",
+      "name": "788XBXRC-24A — General purpose relay, SE Relays, 788R, DPDT, 10A, 24 VAC, Quick terminal, clear cover",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xbxrc24a",
+      "recordPath": "equipment/se-article-788xbxrc24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xbxrc24a.json"
+    },
+    {
+      "id": "se-article-ladn113",
+      "name": "LADN113 — Auxiliary contact block, TeSys Deca, 1NO + 1NC, front mounting, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn113",
+      "recordPath": "equipment/se-article-ladn113.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn113.json"
+    },
+    {
+      "id": "se-article-ladn31a",
+      "name": "LADN31A — Hilfsschalterblock, 3S+1Ö, SnapIN Anschlussklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn31a",
+      "recordPath": "equipment/se-article-ladn31a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn31a.json"
+    },
+    {
+      "id": "se-article-cad50afd",
+      "name": "CAD50AFD — Hilfsschütz, 5S Steuerkontakte, Spule 110 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50afd",
+      "recordPath": "equipment/se-article-cad50afd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50afd.json"
+    },
+    {
+      "id": "se-article-725bxxsc3ml120a",
+      "name": "725BXXSC3ML-120A — Power relay, SE Relays, 25A, 2NO, 120VAC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxsc3ml120a",
+      "recordPath": "equipment/se-article-725bxxsc3ml120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxsc3ml120a.json"
+    },
+    {
+      "id": "se-article-cad50ae7",
+      "name": "CAD50AE7 — Hilfsschütz, 5S Steuerkontakte, Spule 48 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ae7",
+      "recordPath": "equipment/se-article-cad50ae7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ae7.json"
+    },
+    {
+      "id": "se-article-cad50ajl",
+      "name": "CAD50AJL — Hilfsschütz, 5S Steuerkontakte, Spule 12 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ajl",
+      "recordPath": "equipment/se-article-cad50ajl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ajl.json"
+    },
+    {
+      "id": "se-article-725bxxbc3ml240a",
+      "name": "725BXXBC3ML-240A — Power relay, SE Relays, 25A, 2NO, 240VAC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbc3ml240a",
+      "recordPath": "equipment/se-article-725bxxbc3ml240a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbc3ml240a.json"
+    },
+    {
+      "id": "se-article-ladn133",
+      "name": "LADN133 — Auxiliary contact block, TeSys Deca, 1NO + 3NC, front mounting, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn133",
+      "recordPath": "equipment/se-article-ladn133.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn133.json"
+    },
+    {
+      "id": "se-article-lc1d09agd",
+      "name": "LC1D09AGD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 125 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09agd",
+      "recordPath": "equipment/se-article-lc1d09agd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09agd.json"
+    },
+    {
+      "id": "se-article-cad50ab7",
+      "name": "CAD50AB7 — Hilfsschütz, 5S Steuerkontakte, Spule 24 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ab7",
+      "recordPath": "equipment/se-article-cad50ab7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ab7.json"
+    },
+    {
+      "id": "se-article-lad8n026",
+      "name": "LAD8N026 — Auxiliary contact block, TeSys Deca, 2NC, side mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lad8n026",
+      "recordPath": "equipment/se-article-lad8n026.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lad8n026.json"
+    }
+  ]
+}

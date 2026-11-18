@@ -1,0 +1,2993 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 58,
+  "entries": [
+    {
+      "id": "se-article-725axxbm4l240a",
+      "name": "725AXXBM4L-240A — Power relay, SE Relays, 30A, 1NO, 240VAC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbm4l240a",
+      "recordPath": "equipment/se-article-725axxbm4l240a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbm4l240a.json"
+    },
+    {
+      "id": "se-article-ladn116",
+      "name": "LADN116 — Auxiliary contact block, TeSys Deca, 1NO + 1NC, front mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn116",
+      "recordPath": "equipment/se-article-ladn116.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn116.json"
+    },
+    {
+      "id": "se-article-788xbxrcl24a",
+      "name": "788XBXRCL-24A — General purpose relay, SE Relays, 788R, DPDT, 10A, 24 VAC, Quick terminal, clear cover with LED",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xbxrcl24a",
+      "recordPath": "equipment/se-article-788xbxrcl24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xbxrcl24a.json"
+    },
+    {
+      "id": "se-article-lc1d09af7",
+      "name": "LC1D09AF7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 110 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09af7",
+      "recordPath": "equipment/se-article-lc1d09af7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09af7.json"
+    },
+    {
+      "id": "se-article-cad50af7",
+      "name": "CAD50AF7 — Hilfsschütz, 5S Steuerkontakte, Spule 110 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50af7",
+      "recordPath": "equipment/se-article-cad50af7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50af7.json"
+    },
+    {
+      "id": "se-article-ladn22p",
+      "name": "LADN22P — Auxiliary contact block, TeSys Deca, 2NO+2NC, front mounting, screw clamp terminals, EN 50012",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn22p",
+      "recordPath": "equipment/se-article-ladn22p.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn22p.json"
+    },
+    {
+      "id": "se-article-725bxxbc3ml24a",
+      "name": "725BXXBC3ML-24A — Power relay, SE Relays, 25A, 2NO, 24VAC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbc3ml24a",
+      "recordPath": "equipment/se-article-725bxxbc3ml24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbc3ml24a.json"
+    },
+    {
+      "id": "se-article-lc1d09ak7",
+      "name": "LC1D09AK7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 100 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ak7",
+      "recordPath": "equipment/se-article-lc1d09ak7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ak7.json"
+    },
+    {
+      "id": "se-article-cad50an7",
+      "name": "CAD50AN7 — Hilfsschütz, 5S Steuerkontakte, Spule 415 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50an7",
+      "recordPath": "equipment/se-article-cad50an7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50an7.json"
+    },
+    {
+      "id": "se-article-cad50ay7",
+      "name": "CAD50AY7 — Hilfsschütz, 5S Steuerkontakte, Spule 690 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ay7",
+      "recordPath": "equipment/se-article-cad50ay7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ay7.json"
+    },
+    {
+      "id": "se-article-lad8n206",
+      "name": "LAD8N206 — Auxiliary contact block, TeSys Deca, 2NO, side mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lad8n206",
+      "recordPath": "equipment/se-article-lad8n206.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lad8n206.json"
+    },
+    {
+      "id": "se-article-cad32aq7",
+      "name": "CAD32AQ7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 380 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32aq7",
+      "recordPath": "equipment/se-article-cad32aq7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32aq7.json"
+    },
+    {
+      "id": "se-article-cad50ap7",
+      "name": "CAD50AP7 — Hilfsschütz, 5S Steuerkontakte, Spule 230 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ap7",
+      "recordPath": "equipment/se-article-cad50ap7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ap7.json"
+    },
+    {
+      "id": "se-article-cad32ard",
+      "name": "CAD32ARD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 440 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ard",
+      "recordPath": "equipment/se-article-cad32ard.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ard.json"
+    },
+    {
+      "id": "se-article-cad32ae7",
+      "name": "CAD32AE7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 48 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ae7",
+      "recordPath": "equipment/se-article-cad32ae7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ae7.json"
+    },
+    {
+      "id": "se-article-750xbxh24d",
+      "name": "750XBXH-24D — Relay, General Purpose Relays, DPDT, hermetically hazardous location series, octal terminal 8 pins, 12A, 24V DC, 2NC + 2NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-750xbxh24d",
+      "recordPath": "equipment/se-article-750xbxh24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-750xbxh24d.json"
+    },
+    {
+      "id": "se-article-704611",
+      "name": "70-461-1 — Socket, SE Relays, 10A, 14 pins, screw clamp terminals, mixed contact, for 782H / 792 relays",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-704611",
+      "recordPath": "equipment/se-article-704611.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-704611.json"
+    },
+    {
+      "id": "se-article-lc1d09ajl",
+      "name": "LC1D09AJL — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 12 V DC geringer Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ajl",
+      "recordPath": "equipment/se-article-lc1d09ajl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ajl.json"
+    },
+    {
+      "id": "se-article-70750dl81",
+      "name": "70-750DL8-1 — Socket, General Purpose Relays, for 750H/750 relays, DPDT, 8 pins, screws clamp terminals, 16A, 300V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-70750dl81",
+      "recordPath": "equipment/se-article-70750dl81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-70750dl81.json"
+    },
+    {
+      "id": "se-article-cad32af7",
+      "name": "CAD32AF7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 110 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32af7",
+      "recordPath": "equipment/se-article-cad32af7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32af7.json"
+    },
+    {
+      "id": "se-article-ladn223",
+      "name": "LADN223 — Auxiliary contact block, TeSys Deca, 2NO+2NC, front mounting, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn223",
+      "recordPath": "equipment/se-article-ladn223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn223.json"
+    },
+    {
+      "id": "se-article-788xcxrm4l120a",
+      "name": "788XCXRM4L-120A — General purpose relay, SE Relays, 788R, 3PDT, 10A, 120 VAC, Quick terminal, clear cover with LED, lock push button",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xcxrm4l120a",
+      "recordPath": "equipment/se-article-788xcxrm4l120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xcxrm4l120a.json"
+    },
+    {
+      "id": "se-article-cad50aq7",
+      "name": "CAD50AQ7 — Hilfsschütz, 5S Steuerkontakte, Spule 380 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50aq7",
+      "recordPath": "equipment/se-article-cad50aq7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50aq7.json"
+    },
+    {
+      "id": "se-article-725axxbc3ml24d",
+      "name": "725AXXBC3ML-24D — Power relay, SE Relays, 30A, 1NO, 24VDC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbc3ml24d",
+      "recordPath": "equipment/se-article-725axxbc3ml24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbc3ml24d.json"
+    },
+    {
+      "id": "se-article-ladr2",
+      "name": "LADR2 — Zeitblock, rückfallverzögert, 1 - 30s, Schraubanschluss",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladr2",
+      "recordPath": "equipment/se-article-ladr2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladr2.json"
+    },
+    {
+      "id": "se-article-lad8n11g",
+      "name": "LAD8N11G — Auxiliary contact block, TeSys Deca, 1NO+1NC, side mounting, screw clamp terminals, EN 50012",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lad8n11g",
+      "recordPath": "equipment/se-article-lad8n11g.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lad8n11g.json"
+    },
+    {
+      "id": "se-article-cad32ap7",
+      "name": "CAD32AP7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 230 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ap7",
+      "recordPath": "equipment/se-article-cad32ap7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ap7.json"
+    },
+    {
+      "id": "se-article-cad50ale7",
+      "name": "CAD50ALE7 — Hilfsschütz, 5S Steuerkontakte, Spule 208 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ale7",
+      "recordPath": "equipment/se-article-cad50ale7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ale7.json"
+    },
+    {
+      "id": "se-article-cad50afl",
+      "name": "CAD50AFL — Hilfsschütz, 5S Steuerkontakte, Spule 110 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50afl",
+      "recordPath": "equipment/se-article-cad50afl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50afl.json"
+    },
+    {
+      "id": "se-article-cad32ax7",
+      "name": "CAD32AX7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 600 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ax7",
+      "recordPath": "equipment/se-article-cad32ax7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ax7.json"
+    },
+    {
+      "id": "se-article-cad32abd",
+      "name": "CAD32ABD — Hilfsschütz, 3S+2Ö Steurkontakte, Spule 24 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32abd",
+      "recordPath": "equipment/se-article-cad32abd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32abd.json"
+    },
+    {
+      "id": "se-article-cad50afe7",
+      "name": "CAD50AFE7 — Hilfsschütz, 5S Steuerkontakte, Spule 115 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50afe7",
+      "recordPath": "equipment/se-article-cad50afe7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50afe7.json"
+    },
+    {
+      "id": "se-article-cad32ag7",
+      "name": "CAD32AG7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 120 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ag7",
+      "recordPath": "equipment/se-article-cad32ag7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ag7.json"
+    },
+    {
+      "id": "se-article-cad32afd",
+      "name": "CAD32AFD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 110 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32afd",
+      "recordPath": "equipment/se-article-cad32afd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32afd.json"
+    },
+    {
+      "id": "se-article-ladt4",
+      "name": "LADT4 — Zeitblock, anzugsverzögert, 1S+1Ö, 10,00-180,00s, Schraubanschluss",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladt4",
+      "recordPath": "equipment/se-article-ladt4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladt4.json"
+    },
+    {
+      "id": "se-article-lc1d09ac7",
+      "name": "LC1D09AC7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 32 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ac7",
+      "recordPath": "equipment/se-article-lc1d09ac7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ac7.json"
+    },
+    {
+      "id": "se-article-ladr0",
+      "name": "LADR0 — Zeitblock, rückfallverzögert, 0,10-3,00s, Schraubanschluss",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladr0",
+      "recordPath": "equipment/se-article-ladr0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladr0.json"
+    },
+    {
+      "id": "se-article-lc1d09afd",
+      "name": "LC1D09AFD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 110 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09afd",
+      "recordPath": "equipment/se-article-lc1d09afd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09afd.json"
+    },
+    {
+      "id": "se-article-cad50am7",
+      "name": "CAD50AM7 — Hilfsschütz, 5S Steuerkontakte, Spule 220 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50am7",
+      "recordPath": "equipment/se-article-cad50am7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50am7.json"
+    },
+    {
+      "id": "se-article-lc1d09abne",
+      "name": "LC1D09ABNE — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 24-60 V AC/DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09abne",
+      "recordPath": "equipment/se-article-lc1d09abne.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09abne.json"
+    },
+    {
+      "id": "se-article-cad32afc7",
+      "name": "CAD32AFC7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 110 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32afc7",
+      "recordPath": "equipment/se-article-cad32afc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32afc7.json"
+    },
+    {
+      "id": "se-article-cad50ajd",
+      "name": "CAD50AJD — Hilfsschütz, 5S Steuerkontakte, Spule 12 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ajd",
+      "recordPath": "equipment/se-article-cad50ajd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ajd.json"
+    },
+    {
+      "id": "se-article-ladn313",
+      "name": "LADN313 — Auxiliary contact block, TeSys Deca, 3NO + 1NC, front mounting, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn313",
+      "recordPath": "equipment/se-article-ladn313.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn313.json"
+    },
+    {
+      "id": "se-article-cad50ard",
+      "name": "CAD50ARD — Hilfsschütz, 5S Steuerkontakte, Spule 440 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ard",
+      "recordPath": "equipment/se-article-cad50ard.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ard.json"
+    },
+    {
+      "id": "se-article-cad32ac7",
+      "name": "CAD32AC7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 32 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ac7",
+      "recordPath": "equipment/se-article-cad32ac7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ac7.json"
+    },
+    {
+      "id": "se-article-cad32asl",
+      "name": "CAD32ASL — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 72 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32asl",
+      "recordPath": "equipment/se-article-cad32asl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32asl.json"
+    },
+    {
+      "id": "se-article-ladn31g",
+      "name": "LADN31G — LADN;TeSys D;add-on contact block;auxiliary contact block;instantaneous contact;front mounting;EN 50012",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn31g",
+      "recordPath": "equipment/se-article-ladn31g.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn31g.json"
+    },
+    {
+      "id": "se-article-cad50and",
+      "name": "CAD50AND — Hilfsschütz, 5S Steuerkontakte, Spule 60 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50and",
+      "recordPath": "equipment/se-article-cad50and.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50and.json"
+    },
+    {
+      "id": "se-article-788xbxrc120a",
+      "name": "788XBXRC-120A — General purpose relay, SE Relays, 788R, DPDT, 10A, 120 VAC, Quick terminal, clear cover",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xbxrc120a",
+      "recordPath": "equipment/se-article-788xbxrc120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xbxrc120a.json"
+    },
+    {
+      "id": "se-article-cad50aud",
+      "name": "CAD50AUD — Hilfsschütz, 5S Steuerkontakte, Spule 250 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50aud",
+      "recordPath": "equipment/se-article-cad50aud.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50aud.json"
+    },
+    {
+      "id": "se-article-ladt0",
+      "name": "LADT0 — Zeitblock, anzugsverzögert, 1S+1Ö, 0,10-3,00s, Schraubanschluss",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladt0",
+      "recordPath": "equipment/se-article-ladt0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladt0.json"
+    },
+    {
+      "id": "se-article-lad8n11",
+      "name": "LAD8N11 — Hilfsschalterblock, 1S+1Ö, Schraubklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lad8n11",
+      "recordPath": "equipment/se-article-lad8n11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lad8n11.json"
+    },
+    {
+      "id": "se-article-lc1d09afe7",
+      "name": "LC1D09AFE7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 115 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09afe7",
+      "recordPath": "equipment/se-article-lc1d09afe7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09afe7.json"
+    },
+    {
+      "id": "se-article-cad32ar7",
+      "name": "CAD32AR7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 440 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ar7",
+      "recordPath": "equipment/se-article-cad32ar7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ar7.json"
+    },
+    {
+      "id": "se-article-ladn316",
+      "name": "LADN316 — Auxiliary contact block, TeSys Deca, 3NO + 1NC, front mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn316",
+      "recordPath": "equipment/se-article-ladn316.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn316.json"
+    },
+    {
+      "id": "se-article-725bxxsc3ml24a",
+      "name": "725BXXSC3ML-24A — Power relay, SE Relays, 25A, 2NO, 24VAC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxsc3ml24a",
+      "recordPath": "equipment/se-article-725bxxsc3ml24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxsc3ml24a.json"
+    },
+    {
+      "id": "se-article-lc1d09aehe",
+      "name": "LC1D09AEHE — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 48-130 V AC/DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09aehe",
+      "recordPath": "equipment/se-article-lc1d09aehe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09aehe.json"
+    },
+    {
+      "id": "se-article-cad50ak7",
+      "name": "CAD50AK7 — Hilfsschütz, 5S Steuerkontakte, Spule 100 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ak7",
+      "recordPath": "equipment/se-article-cad50ak7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ak7.json"
+    },
+    {
+      "id": "se-article-725axxbm4l12d",
+      "name": "725AXXBM4L-12D — Power relay, SE Relays, 30A, 1NO, 12VDC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbm4l12d",
+      "recordPath": "equipment/se-article-725axxbm4l12d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbm4l12d.json"
+    },
+    {
+      "id": "se-article-cad50ac7",
+      "name": "CAD50AC7 — Hilfsschütz, 5S Steuerkontakte, Spule 32 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ac7",
+      "recordPath": "equipment/se-article-cad50ac7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ac7.json"
+    },
+    {
+      "id": "se-article-cad32and",
+      "name": "CAD32AND — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 60 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32and",
+      "recordPath": "equipment/se-article-cad32and.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32and.json"
+    },
+    {
+      "id": "se-article-lc1d09ael",
+      "name": "LC1D09AEL — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 48 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ael",
+      "recordPath": "equipment/se-article-lc1d09ael.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ael.json"
+    },
+    {
+      "id": "se-article-cad32ajd",
+      "name": "CAD32AJD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 12 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ajd",
+      "recordPath": "equipment/se-article-cad32ajd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ajd.json"
+    },
+    {
+      "id": "se-article-cad32ad7",
+      "name": "CAD32AD7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 42 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ad7",
+      "recordPath": "equipment/se-article-cad32ad7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ad7.json"
+    },
+    {
+      "id": "se-article-cad32ajl",
+      "name": "CAD32AJL — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 12 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32ajl",
+      "recordPath": "equipment/se-article-cad32ajl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32ajl.json"
+    },
+    {
+      "id": "se-article-ladn11a",
+      "name": "LADN11A — Hilfsschalterblock, 1S+1Ö, SnapIN Anschlussklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn11a",
+      "recordPath": "equipment/se-article-ladn11a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn11a.json"
+    },
+    {
+      "id": "se-article-cad32bd",
+      "name": "CAD32BD — Control Relay, TeSys K, 3NO+2NC, 0 to 690V, 24VDC standard coil, screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32bd",
+      "recordPath": "equipment/se-article-cad32bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32bd.json"
+    },
+    {
+      "id": "se-article-cad50av7",
+      "name": "CAD50AV7 — Hilfsschütz, 5S Steuerkontakte, Spule 400 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50av7",
+      "recordPath": "equipment/se-article-cad50av7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50av7.json"
+    },
+    {
+      "id": "se-article-cad50aed",
+      "name": "CAD50AED — Hilfsschütz, 5S Steuerkontakte, Spule 48 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50aed",
+      "recordPath": "equipment/se-article-cad50aed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50aed.json"
+    },
+    {
+      "id": "se-article-725axxbm4l24d",
+      "name": "725AXXBM4L-24D — Power relay, SE Relays, 30A, 1NO, 24VDC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbm4l24d",
+      "recordPath": "equipment/se-article-725axxbm4l24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbm4l24d.json"
+    },
+    {
+      "id": "se-article-725bxxbm4l12d",
+      "name": "725BXXBM4L-12D — Power relay, SE Relays, 25A, 2NO, 12VDC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbm4l12d",
+      "recordPath": "equipment/se-article-725bxxbm4l12d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbm4l12d.json"
+    },
+    {
+      "id": "se-article-788xcxrc120a",
+      "name": "788XCXRC-120A — General purpose relay, SE Relays, 788R, 3PDT, 10A, 120 VAC, Quick terminal, clear cover",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xcxrc120a",
+      "recordPath": "equipment/se-article-788xcxrc120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xcxrc120a.json"
+    },
+    {
+      "id": "se-article-lc1d09afc7",
+      "name": "LC1D09AFC7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 110 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09afc7",
+      "recordPath": "equipment/se-article-lc1d09afc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09afc7.json"
+    },
+    {
+      "id": "se-article-788xbxrm4l120a",
+      "name": "788XBXRM4L-120A — General purpose relay, SE Relays, 788R, DPDT, 10A, 120 VAC, Quick terminal, clear cover with LED, lock push button",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xbxrm4l120a",
+      "recordPath": "equipment/se-article-788xbxrm4l120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xbxrm4l120a.json"
+    },
+    {
+      "id": "se-article-cad50as7",
+      "name": "CAD50AS7 — Hilfsschütz, 5S Steuerkontakte, Spule 500 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50as7",
+      "recordPath": "equipment/se-article-cad50as7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50as7.json"
+    },
+    {
+      "id": "se-article-cad50au7",
+      "name": "CAD50AU7 — Hilfsschütz, 5S Steuerkontakte, Spule 240 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50au7",
+      "recordPath": "equipment/se-article-cad50au7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50au7.json"
+    },
+    {
+      "id": "se-article-725axxsc3ml12d",
+      "name": "725AXXSC3ML-12D — Power relay, SE Relays, 30A, 1NO, 12VDC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxsc3ml12d",
+      "recordPath": "equipment/se-article-725axxsc3ml12d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxsc3ml12d.json"
+    },
+    {
+      "id": "se-article-cad50abd",
+      "name": "CAD50ABD — Hilfsschütz, 5S Steuerkontakte, Spule 24 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50abd",
+      "recordPath": "equipment/se-article-cad50abd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50abd.json"
+    },
+    {
+      "id": "se-article-cad32asd",
+      "name": "CAD32ASD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 72 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32asd",
+      "recordPath": "equipment/se-article-cad32asd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32asd.json"
+    },
+    {
+      "id": "se-article-ladn113g",
+      "name": "LADN113G — LADN;TeSys D;add-on contact block;auxiliary contact block;instantaneous contact;front mounting;EN 50012",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn113g",
+      "recordPath": "equipment/se-article-ladn113g.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn113g.json"
+    },
+    {
+      "id": "se-article-788xbxrm4l24a",
+      "name": "788XBXRM4L-24A — General purpose relay, SE Relays, 788R, DPDT, 10A, 24 VAC, Quick terminal, clear cover with LED, lock push button",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xbxrm4l24a",
+      "recordPath": "equipment/se-article-788xbxrm4l24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xbxrm4l24a.json"
+    },
+    {
+      "id": "se-article-cad32am7",
+      "name": "CAD32AM7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 220 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32am7",
+      "recordPath": "equipment/se-article-cad32am7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32am7.json"
+    },
+    {
+      "id": "se-article-lc1d09acd",
+      "name": "LC1D09ACD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 36 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09acd",
+      "recordPath": "equipment/se-article-lc1d09acd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09acd.json"
+    },
+    {
+      "id": "se-article-cad32afe7",
+      "name": "CAD32AFE7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 115 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32afe7",
+      "recordPath": "equipment/se-article-cad32afe7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32afe7.json"
+    },
+    {
+      "id": "se-article-lc1d09ae7",
+      "name": "LC1D09AE7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 48 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ae7",
+      "recordPath": "equipment/se-article-lc1d09ae7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ae7.json"
+    },
+    {
+      "id": "se-article-788xcxrm4l24a",
+      "name": "788XCXRM4L-24A — General purpose relay, SE Relays, 788R, 3PDT, 10A, 24 VAC, Quick terminal, clear cover with LED, lock push button",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xcxrm4l24a",
+      "recordPath": "equipment/se-article-788xcxrm4l24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xcxrm4l24a.json"
+    },
+    {
+      "id": "se-article-ladn136",
+      "name": "LADN136 — Auxiliary contact block, TeSys Deca, 1NO+3NC, front mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn136",
+      "recordPath": "equipment/se-article-ladn136.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn136.json"
+    },
+    {
+      "id": "se-article-ladn40g",
+      "name": "LADN40G — LADN;TeSys D;add-on contact block;auxiliary contact block;instantaneous contact;front mounting;EN 50012",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn40g",
+      "recordPath": "equipment/se-article-ladn40g.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn40g.json"
+    },
+    {
+      "id": "se-article-lad8n02",
+      "name": "LAD8N02 — Hilfsschalterblock, 2Ö, Schraubklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lad8n02",
+      "recordPath": "equipment/se-article-lad8n02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lad8n02.json"
+    },
+    {
+      "id": "se-article-cad50azl",
+      "name": "CAD50AZL — Hilfsschütz, 5S Steuerkontakte, Spule 20 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50azl",
+      "recordPath": "equipment/se-article-cad50azl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50azl.json"
+    },
+    {
+      "id": "se-article-788xbxrcl120a",
+      "name": "788XBXRCL-120A — General purpose relay, SE Relays, 788R, DPDT, 10A, 120 VAC, Quick terminal, clear cover with LED",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xbxrcl120a",
+      "recordPath": "equipment/se-article-788xbxrcl120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xbxrcl120a.json"
+    },
+    {
+      "id": "se-article-cad50akd",
+      "name": "CAD50AKD — Hilfsschütz, 5S Steuerkontakte, Spule 100 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50akd",
+      "recordPath": "equipment/se-article-cad50akd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50akd.json"
+    },
+    {
+      "id": "se-article-70782d141",
+      "name": "70-782D14-1 — Socket, Harmony Electromechanical Relays, for 782 relays, 4PDT, 14 pins, screws clamp terminals, 10A, 300V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-70782d141",
+      "recordPath": "equipment/se-article-70782d141.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-70782d141.json"
+    },
+    {
+      "id": "se-article-ladn04a",
+      "name": "LADN04A — Hilfsschalterblock, 4Ö, SnapIN Anschlussklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn04a",
+      "recordPath": "equipment/se-article-ladn04a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn04a.json"
+    },
+    {
+      "id": "se-article-70782e141",
+      "name": "70-782E14-1 — Socket, SE Relays, 10A, 17 pins, screw connectors, mixed contact, for 782 relays",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-70782e141",
+      "recordPath": "equipment/se-article-70782e141.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-70782e141.json"
+    },
+    {
+      "id": "se-article-cad50agd",
+      "name": "CAD50AGD — Hilfsschütz, 5S Steuerkontakte, Spule 125 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50agd",
+      "recordPath": "equipment/se-article-cad50agd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50agd.json"
+    },
+    {
+      "id": "se-article-cad32aul",
+      "name": "CAD32AUL — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 250 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32aul",
+      "recordPath": "equipment/se-article-cad32aul.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32aul.json"
+    },
+    {
+      "id": "se-article-lad8n20",
+      "name": "LAD8N20 — Hilfsschalterblock, 2S, Schraubklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lad8n20",
+      "recordPath": "equipment/se-article-lad8n20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lad8n20.json"
+    },
+    {
+      "id": "se-article-cad32an7",
+      "name": "CAD32AN7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 415 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32an7",
+      "recordPath": "equipment/se-article-cad32an7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32an7.json"
+    },
+    {
+      "id": "se-article-cad32av7",
+      "name": "CAD32AV7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 400 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32av7",
+      "recordPath": "equipment/se-article-cad32av7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32av7.json"
+    },
+    {
+      "id": "se-article-cad50afc7",
+      "name": "CAD50AFC7 — Hilfsschütz, 5S Steuerkontakte, Spule 110 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50afc7",
+      "recordPath": "equipment/se-article-cad50afc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50afc7.json"
+    },
+    {
+      "id": "se-article-725axxbm4l120a",
+      "name": "725AXXBM4L-120A — Power relay, SE Relays, 30A, 1NO, 120VAC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbm4l120a",
+      "recordPath": "equipment/se-article-725axxbm4l120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbm4l120a.json"
+    },
+    {
+      "id": "se-article-ladc223",
+      "name": "LADC223 — Auxiliary contact block, TeSys Deca, 2NO + 2NC (inc. 1NO + 1NC make before break), front, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladc223",
+      "recordPath": "equipment/se-article-ladc223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladc223.json"
+    },
+    {
+      "id": "se-article-cad32al7",
+      "name": "CAD32AL7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 200 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32al7",
+      "recordPath": "equipment/se-article-cad32al7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32al7.json"
+    },
+    {
+      "id": "se-article-ladn113p",
+      "name": "LADN113P — Auxiliary contact block,TeSys Deca,1NO+1NC,front mounting,spring terminals,EN 50012,for 3P and 4P contactors 20...80 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn113p",
+      "recordPath": "equipment/se-article-ladn113p.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn113p.json"
+    },
+    {
+      "id": "se-article-cad32amd",
+      "name": "CAD32AMD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 220 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32amd",
+      "recordPath": "equipment/se-article-cad32amd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32amd.json"
+    },
+    {
+      "id": "se-article-ladn046",
+      "name": "LADN046 — Auxiliary contact block, TeSys Deca, 4NC, front mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn046",
+      "recordPath": "equipment/se-article-ladn046.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn046.json"
+    },
+    {
+      "id": "se-article-lc1d09ad7",
+      "name": "LC1D09AD7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 42 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ad7",
+      "recordPath": "equipment/se-article-lc1d09ad7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ad7.json"
+    },
+    {
+      "id": "se-article-725bxxbm4l24a",
+      "name": "725BXXBM4L-24A — Power relay, SE Relays, 25A, 2NO, 24VAC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbm4l24a",
+      "recordPath": "equipment/se-article-725bxxbm4l24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbm4l24a.json"
+    },
+    {
+      "id": "se-article-ladt2",
+      "name": "LADT2 — Zeitblock, anzugsverzögert, 1S+1Ö, 0,10-30,00s, Schraubanschluss",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladt2",
+      "recordPath": "equipment/se-article-ladt2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladt2.json"
+    },
+    {
+      "id": "se-article-lad34a",
+      "name": "LAD34A — Adapterblock, TeSys Deca, zwischen GV2ME(Snap-in Klemmen) montiert auf LAD311 mit LC1D09-D38(Snap-in Klemmen)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lad34a",
+      "recordPath": "equipment/se-article-lad34a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lad34a.json"
+    },
+    {
+      "id": "se-article-gv2afae",
+      "name": "GV2AFAE — TeSys - Snap In CONNEXION D'ALIMENTATION GV2 MS SNAP-IN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2afae",
+      "recordPath": "equipment/se-article-gv2afae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2afae.json"
+    },
+    {
+      "id": "se-article-ladn043",
+      "name": "LADN043 — Auxiliary contact block, TeSys Deca, 4NC, front mounting, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn043",
+      "recordPath": "equipment/se-article-ladn043.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn043.json"
+    },
+    {
+      "id": "se-article-707251",
+      "name": "70-725-1 — Socket, SE Relays, 30A, 6 pins, screw connectors, separate contact, for 725 power relay",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-707251",
+      "recordPath": "equipment/se-article-707251.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-707251.json"
+    },
+    {
+      "id": "se-article-cad50asl",
+      "name": "CAD50ASL — Hilfsschütz, 5S Steuerkontakte, Spule 72 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50asl",
+      "recordPath": "equipment/se-article-cad50asl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50asl.json"
+    },
+    {
+      "id": "se-article-199amx13",
+      "name": "199AMX-13 — Power Relay, DPDT, auxiliary switch, open cover type, screw terminal, 40A, 24V AC, 2 C/O",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-199amx13",
+      "recordPath": "equipment/se-article-199amx13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-199amx13.json"
+    },
+    {
+      "id": "se-article-725axxbc3ml240a",
+      "name": "725AXXBC3ML-240A — Power relay, SE Relays, 30A, 1NO, 240VAC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxbc3ml240a",
+      "recordPath": "equipment/se-article-725axxbc3ml240a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxbc3ml240a.json"
+    },
+    {
+      "id": "se-article-ladn406",
+      "name": "LADN406 — Auxiliary contact block, TeSys Deca, 4NO, front mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn406",
+      "recordPath": "equipment/se-article-ladn406.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn406.json"
+    },
+    {
+      "id": "se-article-cad50amd",
+      "name": "CAD50AMD — Hilfsschütz, 5S Steuerkontakte, Spule 220 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50amd",
+      "recordPath": "equipment/se-article-cad50amd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50amd.json"
+    },
+    {
+      "id": "se-article-lc1d09akd",
+      "name": "LC1D09AKD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 100 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09akd",
+      "recordPath": "equipment/se-article-lc1d09akd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09akd.json"
+    },
+    {
+      "id": "se-article-782xbxm4l24d",
+      "name": "782XBXM4L-24D — Power Relay, General Purpose Relays, DPDT, LED clear cover, lock push button, faston terminals, 15A, 24V DC, 2NO + 2NC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-782xbxm4l24d",
+      "recordPath": "equipment/se-article-782xbxm4l24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-782xbxm4l24d.json"
+    },
+    {
+      "id": "se-article-ladr4",
+      "name": "LADR4 — Zeitblock, rückfallverzögert, 1S+1Ö, 10,00-180,00s, Schraubanschluss",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladr4",
+      "recordPath": "equipment/se-article-ladr4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladr4.json"
+    },
+    {
+      "id": "se-article-725bxxbc3ml24d",
+      "name": "725BXXBC3ML-24D — Power relay, SE Relays, 25A, 2NO, 24VDC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbc3ml24d",
+      "recordPath": "equipment/se-article-725bxxbc3ml24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbc3ml24d.json"
+    },
+    {
+      "id": "se-article-70782d81a",
+      "name": "70-782D8-1A — Socket, General Purpose Relays, for 782 relays, DPDT, 8 pins, screws clamp terminals, 16A, 300V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-70782d81a",
+      "recordPath": "equipment/se-article-70782d81a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-70782d81a.json"
+    },
+    {
+      "id": "se-article-ladn40a",
+      "name": "LADN40A — Hilfsschalterblock, 4S, SnapIN Anschlussklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn40a",
+      "recordPath": "equipment/se-article-ladn40a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn40a.json"
+    },
+    {
+      "id": "se-article-lc1d09ab7",
+      "name": "LC1D09AB7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 24 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ab7",
+      "recordPath": "equipment/se-article-lc1d09ab7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ab7.json"
+    },
+    {
+      "id": "se-article-ladn31p",
+      "name": "LADN31P — LADN;TeSys D;add-on contact block;auxiliary contact block;instantaneous contact;front mounting;EN 50012",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn31p",
+      "recordPath": "equipment/se-article-ladn31p.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn31p.json"
+    },
+    {
+      "id": "se-article-70782el141",
+      "name": "70-782EL14-1 — Socket, SE Relays, 10A, 17 pins, screw connectors, separate contact, for 782 relays",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-70782el141",
+      "recordPath": "equipment/se-article-70782el141.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-70782el141.json"
+    },
+    {
+      "id": "se-article-cad50abl",
+      "name": "CAD50ABL — Hilfsschütz, 5S Steuerkontakte, Spule 24 V DC, geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50abl",
+      "recordPath": "equipment/se-article-cad50abl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50abl.json"
+    },
+    {
+      "id": "se-article-cad50aj7",
+      "name": "CAD50AJ7 — Hilfsschütz, 5S Steuerkontakte, Spule 12 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50aj7",
+      "recordPath": "equipment/se-article-cad50aj7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50aj7.json"
+    },
+    {
+      "id": "se-article-ladn403",
+      "name": "LADN403 — Auxiliary contact block, TeSys Deca, 4NO, front mounting, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn403",
+      "recordPath": "equipment/se-article-ladn403.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn403.json"
+    },
+    {
+      "id": "se-article-70788el111",
+      "name": "70-788EL11-1 — Socket, General Purpose Relays, for 782 relays, 3PDT, 11 pins, output lift terminals solid/stranded, separate contact, 25A, 300V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-70788el111",
+      "recordPath": "equipment/se-article-70788el111.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-70788el111.json"
+    },
+    {
+      "id": "se-article-cad50at7",
+      "name": "CAD50AT7 — Hilfsschütz, 5S Steuerkontakte, Spule 480 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50at7",
+      "recordPath": "equipment/se-article-cad50at7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50at7.json"
+    },
+    {
+      "id": "se-article-ladn22a",
+      "name": "LADN22A — Hilfsschalterblock, 2S+2Ö, SnapIN Anschlussklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn22a",
+      "recordPath": "equipment/se-article-ladn22a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn22a.json"
+    },
+    {
+      "id": "se-article-725bxxsc3ml240a",
+      "name": "725BXXSC3ML-240A — Power relay, SE Relays, 25A, 2NO, 240VAC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxsc3ml240a",
+      "recordPath": "equipment/se-article-725bxxsc3ml240a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxsc3ml240a.json"
+    },
+    {
+      "id": "se-article-cad32acd",
+      "name": "CAD32ACD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 36 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32acd",
+      "recordPath": "equipment/se-article-cad32acd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32acd.json"
+    },
+    {
+      "id": "se-article-lc1d09ag7",
+      "name": "LC1D09AG7 — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 120 V AC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ag7",
+      "recordPath": "equipment/se-article-lc1d09ag7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ag7.json"
+    },
+    {
+      "id": "se-article-788xcxrc24a",
+      "name": "788XCXRC-24A — General purpose relay, SE Relays, 788R, 3PDT, 10A, 24 VAC, Quick terminal, clear cover",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-788xcxrc24a",
+      "recordPath": "equipment/se-article-788xcxrc24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-788xcxrc24a.json"
+    },
+    {
+      "id": "se-article-ladn13a",
+      "name": "LADN13A — Hilfsschalterblock, 1S+3Ö, SnapIN Anschlussklemmen",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn13a",
+      "recordPath": "equipment/se-article-ladn13a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn13a.json"
+    },
+    {
+      "id": "se-article-725axxsc3ml24d",
+      "name": "725AXXSC3ML-24D — Power relay, SE Relays, 30A, 1NO, 24VDC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxsc3ml24d",
+      "recordPath": "equipment/se-article-725axxsc3ml24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxsc3ml24d.json"
+    },
+    {
+      "id": "se-article-cad32aed",
+      "name": "CAD32AED — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 48 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32aed",
+      "recordPath": "equipment/se-article-cad32aed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32aed.json"
+    },
+    {
+      "id": "se-article-725axxsc3ml120a",
+      "name": "725AXXSC3ML-120A — Power relay, SE Relays, 30A, 1NO, 120VAC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725axxsc3ml120a",
+      "recordPath": "equipment/se-article-725axxsc3ml120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725axxsc3ml120a.json"
+    },
+    {
+      "id": "se-article-701691",
+      "name": "70-169-1 — Socket, SE Relays general purpose relay accessory, DPDT, 15A, 300 V, 8 pins, screw clamp terminal, 750R/750H series",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-701691",
+      "recordPath": "equipment/se-article-701691.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-701691.json"
+    },
+    {
+      "id": "se-article-cad32aw7",
+      "name": "CAD32AW7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 277 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32aw7",
+      "recordPath": "equipment/se-article-cad32aw7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32aw7.json"
+    },
+    {
+      "id": "se-article-lc1d09abl",
+      "name": "LC1D09ABL — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 24 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09abl",
+      "recordPath": "equipment/se-article-lc1d09abl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09abl.json"
+    },
+    {
+      "id": "se-article-cad50aul",
+      "name": "CAD50AUL — Hilfsschütz, 5S Steuerkontakte, Spule 250 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50aul",
+      "recordPath": "equipment/se-article-cad50aul.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50aul.json"
+    },
+    {
+      "id": "se-article-725bxxbc3ml12d",
+      "name": "725BXXBC3ML-12D — Power relay, SE Relays, 25A, 2NO, 12VDC, LED push button, blade terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbc3ml12d",
+      "recordPath": "equipment/se-article-725bxxbc3ml12d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbc3ml12d.json"
+    },
+    {
+      "id": "se-article-725bxxsc3ml12d",
+      "name": "725BXXSC3ML-12D — Power relay, SE Relays, 25A, 2NO, 12VDC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxsc3ml12d",
+      "recordPath": "equipment/se-article-725bxxsc3ml12d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxsc3ml12d.json"
+    },
+    {
+      "id": "se-article-cad32afl",
+      "name": "CAD32AFL — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 110 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32afl",
+      "recordPath": "equipment/se-article-cad32afl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32afl.json"
+    },
+    {
+      "id": "se-article-725bxxbm4l120a",
+      "name": "725BXXBM4L-120A — Power relay, SE Relays, 25A, 2NO, 120VAC, LED, flag indicator, locking push button, blade terminal, plug-in socket mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxbm4l120a",
+      "recordPath": "equipment/se-article-725bxxbm4l120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxbm4l120a.json"
+    },
+    {
+      "id": "se-article-ladc22",
+      "name": "LADC22 — Auxiliary Contact Block, TeSys D, TeSys Deca, 2NO + 2NC (inc. 1NO + 1NC make before break), front, screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladc22",
+      "recordPath": "equipment/se-article-ladc22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladc22.json"
+    },
+    {
+      "id": "se-article-cad32aud",
+      "name": "CAD32AUD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 250 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32aud",
+      "recordPath": "equipment/se-article-cad32aud.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32aud.json"
+    },
+    {
+      "id": "se-article-cad32au7",
+      "name": "CAD32AU7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 240 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32au7",
+      "recordPath": "equipment/se-article-cad32au7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32au7.json"
+    },
+    {
+      "id": "se-article-cad32aml",
+      "name": "CAD32AML — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 220 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32aml",
+      "recordPath": "equipment/se-article-cad32aml.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32aml.json"
+    },
+    {
+      "id": "se-article-cad32agd",
+      "name": "CAD32AGD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 125 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32agd",
+      "recordPath": "equipment/se-article-cad32agd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32agd.json"
+    },
+    {
+      "id": "se-article-cad50ar7",
+      "name": "CAD50AR7 — Hilfsschütz, 5S Steuerkontakte, Spule 440 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ar7",
+      "recordPath": "equipment/se-article-cad50ar7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ar7.json"
+    },
+    {
+      "id": "se-article-lc1d09ajd",
+      "name": "LC1D09AJD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 12 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09ajd",
+      "recordPath": "equipment/se-article-lc1d09ajd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09ajd.json"
+    },
+    {
+      "id": "se-article-lad8n116",
+      "name": "LAD8N116 — Auxiliary contact block, TeSys Deca, 1NO + 1NC, side mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lad8n116",
+      "recordPath": "equipment/se-article-lad8n116.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lad8n116.json"
+    },
+    {
+      "id": "se-article-703781",
+      "name": "70-378-1 — Socket, SE Relays, 5A, 14 pins, solder terminals, separate contact, for 782H / 792 relays",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-703781",
+      "recordPath": "equipment/se-article-703781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-703781.json"
+    },
+    {
+      "id": "se-article-lc1d09abd",
+      "name": "LC1D09ABD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 24 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09abd",
+      "recordPath": "equipment/se-article-lc1d09abd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09abd.json"
+    },
+    {
+      "id": "se-article-ladn226",
+      "name": "LADN226 — Auxiliary contact block, TeSys Deca, 2NO+2NC, front mounting, lugs-ring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ladn226",
+      "recordPath": "equipment/se-article-ladn226.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ladn226.json"
+    },
+    {
+      "id": "se-article-725bxxsc3ml24d",
+      "name": "725BXXSC3ML-24D — Power relay, SE Relays, 25A, 2NO, 24VDC, LED push button, screw terminals, DIN or panel mount",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-725bxxsc3ml24d",
+      "recordPath": "equipment/se-article-725bxxsc3ml24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-725bxxsc3ml24d.json"
+    },
+    {
+      "id": "se-article-cad50ael",
+      "name": "CAD50AEL — Hilfsschütz, 5S Steuerkontakte, Spule 48 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ael",
+      "recordPath": "equipment/se-article-cad50ael.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ael.json"
+    },
+    {
+      "id": "se-article-9001ka4",
+      "name": "9001KA4 — Contact block, Harmony 9001K, Harmony 9001SK, silver alloy contacts, screw clamp terminal, 0...600V, early make, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-9001ka4",
+      "recordPath": "equipment/se-article-9001ka4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-9001ka4.json"
+    },
+    {
+      "id": "se-article-cad50ad7",
+      "name": "CAD50AD7 — Hilfsschütz, 5S Steuerkontakte, Spule 42 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50ad7",
+      "recordPath": "equipment/se-article-cad50ad7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50ad7.json"
+    },
+    {
+      "id": "se-article-cad32as7",
+      "name": "CAD32AS7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 500 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32as7",
+      "recordPath": "equipment/se-article-cad32as7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32as7.json"
+    },
+    {
+      "id": "se-article-cad32akd",
+      "name": "CAD32AKD — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 100 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32akd",
+      "recordPath": "equipment/se-article-cad32akd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32akd.json"
+    },
+    {
+      "id": "se-article-lc1d09afl",
+      "name": "LC1D09AFL — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 110 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09afl",
+      "recordPath": "equipment/se-article-lc1d09afl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09afl.json"
+    },
+    {
+      "id": "se-article-cad50al7",
+      "name": "CAD50AL7 — Hilfsschütz, 5S Steuerkontakte, Spule 200 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50al7",
+      "recordPath": "equipment/se-article-cad50al7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50al7.json"
+    },
+    {
+      "id": "se-article-704641",
+      "name": "70-464-1 — Socket, General Purpose Relays, for 750H/750 relays, DPDT, 8 pins, screws clamp terminals, 10...15A, 300...600V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-704641",
+      "recordPath": "equipment/se-article-704641.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-704641.json"
+    },
+    {
+      "id": "se-article-cad32azl",
+      "name": "CAD32AZL — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 20 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32azl",
+      "recordPath": "equipment/se-article-cad32azl.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32azl.json"
+    },
+    {
+      "id": "se-article-cad32at7",
+      "name": "CAD32AT7 — Hilfsschütz, 3S+2Ö Steuerkontakte, Spule 480 V 50/60Hz, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad32at7",
+      "recordPath": "equipment/se-article-cad32at7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad32at7.json"
+    },
+    {
+      "id": "se-article-lc1d09aed",
+      "name": "LC1D09AED — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 48 V DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09aed",
+      "recordPath": "equipment/se-article-lc1d09aed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09aed.json"
+    },
+    {
+      "id": "se-article-cad50aml",
+      "name": "CAD50AML — Hilfsschütz, 5S Steuerkontakte, Spule 220 V DC geringe Leistungsaufnahme, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-cad50aml",
+      "recordPath": "equipment/se-article-cad50aml.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-cad50aml.json"
+    },
+    {
+      "id": "se-article-704591",
+      "name": "70-459-1 — Socket, General Purpose Relays, for 782 relays, DPDT, 8 pins, output screw clamp terminals, 10A, 300V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-704591",
+      "recordPath": "equipment/se-article-704591.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-704591.json"
+    },
+    {
+      "id": "se-article-lc1d09akue",
+      "name": "LC1D09AKUE — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 100-250 V AC/DC, SnapIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09akue",
+      "recordPath": "equipment/se-article-lc1d09akue.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09akue.json"
+    },
+    {
+      "id": "se-article-792xdxm4l24d",
+      "name": "792XDXM4L-24D — Relay, General Purpose Relays, 4PDT, LED clear cover, lock push button, faston terminals, 6A, 24V DC, 4NC + 4NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-792xdxm4l24d",
+      "recordPath": "equipment/se-article-792xdxm4l24d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-792xdxm4l24d.json"
+    },
+    {
+      "id": "eaton-article-199148",
+      "name": "PKZM0-0,16-PI — Motor-protective circuit-breaker, 0.1 - 0.16 A, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199148",
+      "recordPath": "equipment/eaton-article-199148.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199148.json"
+    },
+    {
+      "id": "eaton-article-199149",
+      "name": "PKZM0-0,25-PI — Motor-protective circuit-breaker, 0.06 kW, 0.16 - 0.25 A, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199149",
+      "recordPath": "equipment/eaton-article-199149.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199149.json"
+    },
+    {
+      "id": "eaton-article-db0a904e82f3667df456775a",
+      "name": "DDC-800/2-SK — DC switch disconnector, 800 A, 2 pole, 1 N/O, 1 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-db0a904e82f3667df456775a",
+      "recordPath": "equipment/eaton-article-db0a904e82f3667df456775a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-db0a904e82f3667df456775a.json"
+    },
+    {
+      "id": "eaton-article-7599b61f4407d7b082e3f2c2",
+      "name": "DDC-800/2/M4/P-G — DC switch disconnector, 800 A, 2 pole, 1 N/O, 1 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7599b61f4407d7b082e3f2c2",
+      "recordPath": "equipment/eaton-article-7599b61f4407d7b082e3f2c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7599b61f4407d7b082e3f2c2.json"
+    },
+    {
+      "id": "eaton-article-e2d7c93718f440fb54469afd",
+      "name": "DDC-800/2 — DC switch disconnector, 800 A, 2 pole, 1 N/O, 1 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e2d7c93718f440fb54469afd",
+      "recordPath": "equipment/eaton-article-e2d7c93718f440fb54469afd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e2d7c93718f440fb54469afd.json"
+    },
+    {
+      "id": "eaton-article-242f7e41d3f5cac1aa10b8b3",
+      "name": "DMV-1250N/4 — Switch-disconnector, DMV, 1250 A, 4 pole, Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-242f7e41d3f5cac1aa10b8b3",
+      "recordPath": "equipment/eaton-article-242f7e41d3f5cac1aa10b8b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-242f7e41d3f5cac1aa10b8b3.json"
+    },
+    {
+      "id": "eaton-article-6a521cabb428a5f62ff1b29e",
+      "name": "DMV-1600N/4 — Switch-disconnector, DMV, 1600 A, 4 pole, Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6a521cabb428a5f62ff1b29e",
+      "recordPath": "equipment/eaton-article-6a521cabb428a5f62ff1b29e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6a521cabb428a5f62ff1b29e.json"
+    },
+    {
+      "id": "eaton-article-6d7015456c5b80dd9580a257",
+      "name": "DMV-250/3/M4/P-R — Switch-disconnector, DMV, 250 A, 3 pole, Emergency switching off, red rotary handle, yellow locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6d7015456c5b80dd9580a257",
+      "recordPath": "equipment/eaton-article-6d7015456c5b80dd9580a257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6d7015456c5b80dd9580a257.json"
+    },
+    {
+      "id": "eaton-article-3717f49952b5abe4f9b9cbb8",
+      "name": "DMV-250/4/M4/P-R — Switch-disconnector, DMV, 250 A, 4 pole, Emergency switching off, red rotary handle, yellow locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3717f49952b5abe4f9b9cbb8",
+      "recordPath": "equipment/eaton-article-3717f49952b5abe4f9b9cbb8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3717f49952b5abe4f9b9cbb8.json"
+    },
+    {
+      "id": "eaton-article-8ab878381d4c909f7da0c961",
+      "name": "DMV-1000N/4 — Switch-disconnector, DMV, 1000 A, 4 pole, Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8ab878381d4c909f7da0c961",
+      "recordPath": "equipment/eaton-article-8ab878381d4c909f7da0c961.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8ab878381d4c909f7da0c961.json"
+    },
+    {
+      "id": "eaton-article-42ac0c7804cca63d928e65e4",
+      "name": "DMV-2000N/3 — Switch-disconnector, DMV, 2000 A, 3 pole, Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-42ac0c7804cca63d928e65e4",
+      "recordPath": "equipment/eaton-article-42ac0c7804cca63d928e65e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-42ac0c7804cca63d928e65e4.json"
+    },
+    {
+      "id": "eaton-article-f9e8b9b4ab1a4257d3fb243a",
+      "name": "DMV-1000N/3 — Switch-disconnector, DMV, 1000 A, 3 pole, Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f9e8b9b4ab1a4257d3fb243a",
+      "recordPath": "equipment/eaton-article-f9e8b9b4ab1a4257d3fb243a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f9e8b9b4ab1a4257d3fb243a.json"
+    },
+    {
+      "id": "eaton-article-f5dbcfdd9840bb39fb8fb753",
+      "name": "DMV-1250N/3 — Switch-disconnector, DMV, 1250 A, 3 pole, Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f5dbcfdd9840bb39fb8fb753",
+      "recordPath": "equipment/eaton-article-f5dbcfdd9840bb39fb8fb753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f5dbcfdd9840bb39fb8fb753.json"
+    },
+    {
+      "id": "eaton-article-32b19b5d2a0b1314c1c0c0ff",
+      "name": "DMV-1000N/1 — Switch-disconnector, DMV, 1000 A, 3P + N (solid), Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-32b19b5d2a0b1314c1c0c0ff",
+      "recordPath": "equipment/eaton-article-32b19b5d2a0b1314c1c0c0ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-32b19b5d2a0b1314c1c0c0ff.json"
+    },
+    {
+      "id": "eaton-article-2a44ea2e6c38a7f7c71e9c2b",
+      "name": "DMV-1600N/3 — Switch-disconnector, DMV, 1600 A, 3 pole, Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2a44ea2e6c38a7f7c71e9c2b",
+      "recordPath": "equipment/eaton-article-2a44ea2e6c38a7f7c71e9c2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2a44ea2e6c38a7f7c71e9c2b.json"
+    },
+    {
+      "id": "eaton-article-9e215c75ec48515d98b6a67e",
+      "name": "DMV-160N/1 — Switch-disconnector, DMV, 160 A, 3P + N (solid), Stop Function optional, Without rotary handle and drive shaft, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9e215c75ec48515d98b6a67e",
+      "recordPath": "equipment/eaton-article-9e215c75ec48515d98b6a67e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9e215c75ec48515d98b6a67e.json"
+    },
+    {
+      "id": "eaton-article-95607aadbc27eff8b5026714",
+      "name": "DMV-250/4/M4/P-G — Switch-disconnector, DMV, 250 A, 4 pole, STOP function, with grey knob, With metal shaft for a control panel depth of 400 mm, 9 mm connection hole",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-95607aadbc27eff8b5026714",
+      "recordPath": "equipment/eaton-article-95607aadbc27eff8b5026714.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-95607aadbc27eff8b5026714.json"
+    },
+    {
+      "id": "eaton-article-133709820463bb68d8a6cf31",
+      "name": "DMV-160N/3 — Switch-disconnector, DMV, 160 A, 3 pole, Stop Function optional, Without rotary handle and drive shaft, Screw terminal, drilling dimension 6,5 mm",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-133709820463bb68d8a6cf31",
+      "recordPath": "equipment/eaton-article-133709820463bb68d8a6cf31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-133709820463bb68d8a6cf31.json"
+    },
+    {
+      "id": "eaton-article-c0e03b336a97a78607836e85",
+      "name": "DMV-1600N/1 — Switch-disconnector, DMV, 1600 A, 3P + N (solid), Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c0e03b336a97a78607836e85",
+      "recordPath": "equipment/eaton-article-c0e03b336a97a78607836e85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c0e03b336a97a78607836e85.json"
+    },
+    {
+      "id": "eaton-article-73722b9be3a0085c50fa65fb",
+      "name": "DMV-160N/4 — Switch-disconnector, DMV, 160 A, 4 pole, Stop Function optional, Without rotary handle and drive shaft, Screw terminal, drilling dimension 6,5 mm",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-73722b9be3a0085c50fa65fb",
+      "recordPath": "equipment/eaton-article-73722b9be3a0085c50fa65fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-73722b9be3a0085c50fa65fb.json"
+    },
+    {
+      "id": "eaton-article-15a525137847948f64aa0aea",
+      "name": "DMV-250/3/M4/P-G — Switch-disconnector, DMV, 250 A, 3 pole, STOP function, with grey knob, With metal shaft for a control panel depth of 400 mm, 9 mm connection hole",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-15a525137847948f64aa0aea",
+      "recordPath": "equipment/eaton-article-15a525137847948f64aa0aea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-15a525137847948f64aa0aea.json"
+    },
+    {
+      "id": "eaton-article-a161bb22681a4b5d2361874f",
+      "name": "DMV-1250N/1 — Switch-disconnector, DMV, 1250 A, 3P + N (solid), Stop Function optional, Without rotary handle and drive shaft",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a161bb22681a4b5d2361874f",
+      "recordPath": "equipment/eaton-article-a161bb22681a4b5d2361874f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a161bb22681a4b5d2361874f.json"
+    },
+    {
+      "id": "eaton-article-174621",
+      "name": "DXE-EXT-SET — Configuration module for configuring ramp time, Motor protection, terminal mode of operation for DE1 variable speed starter",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-174621",
+      "recordPath": "equipment/eaton-article-174621.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-174621.json"
+    },
+    {
+      "id": "eaton-article-170100",
+      "name": "EMS-DO-T-9-24VDC — DOL starter, 24 V DC, 1,5 - 6,5 (AC-53a), 9 (AC-51) A, Push in terminals, PTB 13 ATEX 3003",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170100",
+      "recordPath": "equipment/eaton-article-170100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170100.json"
+    },
+    {
+      "id": "eaton-article-192394",
+      "name": "EMS2-ROS-T-3-24VDC — Reversing starter, 24 V DC, 0,18 - 3 A, Push in terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192394",
+      "recordPath": "equipment/eaton-article-192394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192394.json"
+    },
+    {
+      "id": "eaton-article-197163",
+      "name": "EMS2-ROS-Z-3-24VDC — Reversing starter, 24 V DC, 0,18 - 3 A, Screw terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197163",
+      "recordPath": "equipment/eaton-article-197163.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197163.json"
+    },
+    {
+      "id": "eaton-article-197166",
+      "name": "EMS2-DOS-Z-9-24VDC — DOL starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Screw terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197166",
+      "recordPath": "equipment/eaton-article-197166.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197166.json"
+    },
+    {
+      "id": "eaton-article-197164",
+      "name": "EMS2-DO-Z-9-24VDC — DOL starter, 24 V DC, 1,5 - 6,5 (AC-53a), 9 (AC-51) A, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197164",
+      "recordPath": "equipment/eaton-article-197164.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197164.json"
+    },
+    {
+      "id": "eaton-article-192388",
+      "name": "EMS2-RO-T-9-SWD — Reversing starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Push in terminals, SmartWire-DT slave",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192388",
+      "recordPath": "equipment/eaton-article-192388.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192388.json"
+    },
+    {
+      "id": "eaton-article-192383",
+      "name": "EMS2-DO-T-3-SWD — DOL starter, 24 V DC, 0,18 - 3 A, Push in terminals, SmartWire-DT slave",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192383",
+      "recordPath": "equipment/eaton-article-192383.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192383.json"
+    },
+    {
+      "id": "eaton-article-197162",
+      "name": "EMS2-DOS-Z-3-24VDC — DOL starter, 24 V DC, 0,18 - 3 A, Screw terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197162",
+      "recordPath": "equipment/eaton-article-197162.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197162.json"
+    },
+    {
+      "id": "eaton-article-197170",
+      "name": "EMS2-DO-Z-9-230VAC — DOL starter, 230 V AC, 1,5 - 6,5 (AC-53a), 9 (AC-51) A, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197170",
+      "recordPath": "equipment/eaton-article-197170.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197170.json"
+    },
+    {
+      "id": "eaton-article-197167",
+      "name": "EMS2-ROS-Z-9-24VDC — Reversing starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Screw terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197167",
+      "recordPath": "equipment/eaton-article-197167.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197167.json"
+    },
+    {
+      "id": "eaton-article-192393",
+      "name": "EMS2-DOS-T-3-24VDC — DOL starter, 24 V DC, 0,18 - 3 A, Push in terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192393",
+      "recordPath": "equipment/eaton-article-192393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192393.json"
+    },
+    {
+      "id": "eaton-article-197165",
+      "name": "EMS2-RO-Z-9-24VDC — Reversing starter, 24 V DC, 1,5 - 6,5 (AC-53a), 9 (AC-51) A, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197165",
+      "recordPath": "equipment/eaton-article-197165.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197165.json"
+    },
+    {
+      "id": "eaton-article-192398",
+      "name": "EMS2-ROS-T-9-24VDC — Reversing starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Push in terminals, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192398",
+      "recordPath": "equipment/eaton-article-192398.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192398.json"
+    },
+    {
+      "id": "eaton-article-192385",
+      "name": "EMS2-DOS-T-3-SWD — DOL starter, 24 V DC, 0,18 - 3 A, Push in terminals, SmartWire-DT slave, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192385",
+      "recordPath": "equipment/eaton-article-192385.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192385.json"
+    },
+    {
+      "id": "eaton-article-192386",
+      "name": "EMS2-ROS-T-3-SWD — Reversing starter, 24 V DC, 0,18 - 3 A, Push in terminals, SmartWire-DT slave, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192386",
+      "recordPath": "equipment/eaton-article-192386.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192386.json"
+    },
+    {
+      "id": "eaton-article-197171",
+      "name": "EMS2-RO-Z-9-230VAC — Reversing starter, 230 V AC, 1,5 - 6,5 (AC-53a), 9 (AC-51) A, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197171",
+      "recordPath": "equipment/eaton-article-197171.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197171.json"
+    },
+    {
+      "id": "eaton-article-192396",
+      "name": "EMS2-RO-T-9-24VDC — Reversing starter, 24 V DC, 1,5 - 6,5 (AC-53a), 9 (AC-51) A, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192396",
+      "recordPath": "equipment/eaton-article-192396.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192396.json"
+    },
+    {
+      "id": "eaton-article-192384",
+      "name": "EMS2-RO-T-3-SWD — Reversing starter, 24 V DC, 0,18 - 3 A, Push in terminals, SmartWire-DT slave",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192384",
+      "recordPath": "equipment/eaton-article-192384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192384.json"
+    },
+    {
+      "id": "eaton-article-192395",
+      "name": "EMS2-DO-T-9-24VDC — DOL starter, 24 V DC, 1,5 - 6,5 (AC-53a), 9 (AC-51) A, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192395",
+      "recordPath": "equipment/eaton-article-192395.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192395.json"
+    },
+    {
+      "id": "eaton-article-192387",
+      "name": "EMS2-DO-T-9-SWD — DOL starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Push in terminals, SmartWire-DT slave",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192387",
+      "recordPath": "equipment/eaton-article-192387.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192387.json"
+    },
+    {
+      "id": "eaton-article-192390",
+      "name": "EMS2-ROS-T-9-SWD — Reversing starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Push in terminals, SmartWire-DT slave, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192390",
+      "recordPath": "equipment/eaton-article-192390.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192390.json"
+    },
+    {
+      "id": "eaton-article-192397",
+      "name": "EMS2-DOS-T-9-24VDC — DOL starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Push in terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192397",
+      "recordPath": "equipment/eaton-article-192397.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192397.json"
+    },
+    {
+      "id": "eaton-article-192389",
+      "name": "EMS2-DOS-T-9-SWD — DOL starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Push in terminals, SmartWire-DT slave, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192389",
+      "recordPath": "equipment/eaton-article-192389.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192389.json"
+    },
+    {
+      "id": "eaton-article-192400",
+      "name": "EMS2-ROSF-Z-9-24VDC — Reversing starter, 24 V DC, 1,5 - 7 (AC-53a), 9 (AC-51) A, Screw terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192400",
+      "recordPath": "equipment/eaton-article-192400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192400.json"
+    },
+    {
+      "id": "eaton-article-192399",
+      "name": "EMS2-ROSF-Z-3-24VDC — Reversing starter, 24 V DC, 0,18 - 3 A, Screw terminals, Controlled stop, PTB 19 ATEX 3000",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-192399",
+      "recordPath": "equipment/eaton-article-192399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-192399.json"
+    },
+    {
+      "id": "eaton-article-625c2df0d95f88eb84b267d5",
+      "name": "PKZM0-0,16-SPI16/AK — Motor-protective circuit-breaker, 0.1 - 0.16 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-625c2df0d95f88eb84b267d5",
+      "recordPath": "equipment/eaton-article-625c2df0d95f88eb84b267d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-625c2df0d95f88eb84b267d5.json"
+    },
+    {
+      "id": "eaton-article-0857825bf9aeb754bc82d36f",
+      "name": "PKZM0-0,25-SPI16/AK — Motor-protective circuit-breaker, 0.06 kW, 0.16 - 0.25 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0857825bf9aeb754bc82d36f",
+      "recordPath": "equipment/eaton-article-0857825bf9aeb754bc82d36f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0857825bf9aeb754bc82d36f.json"
+    },
+    {
+      "id": "eaton-article-c268b9dd320394cd44d8610b",
+      "name": "PKZM0-0,4-SPI16/AK — Motor-protective circuit-breaker, 0.09 kW, 0.25 - 0.4 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c268b9dd320394cd44d8610b",
+      "recordPath": "equipment/eaton-article-c268b9dd320394cd44d8610b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c268b9dd320394cd44d8610b.json"
+    },
+    {
+      "id": "eaton-article-21cc0fadcd117e4cd89dc61d",
+      "name": "PKZM0-0,63-SPI16/AK — Motor-protective circuit-breaker, 0.12 kW, 0.4 - 0.63 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-21cc0fadcd117e4cd89dc61d",
+      "recordPath": "equipment/eaton-article-21cc0fadcd117e4cd89dc61d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-21cc0fadcd117e4cd89dc61d.json"
+    },
+    {
+      "id": "eaton-article-1c3a249616d36413177f342c",
+      "name": "PKZM0-1-SPI16/AK — Motor-protective circuit-breaker, 0.25 kW, 0.63 - 1 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1c3a249616d36413177f342c",
+      "recordPath": "equipment/eaton-article-1c3a249616d36413177f342c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1c3a249616d36413177f342c.json"
+    },
+    {
+      "id": "eaton-article-329104f262b4f5fec8c2372b",
+      "name": "PKZM0-1,6-SPI16/AK — Motor-protective circuit-breaker, 0.55 kW, 1 - 1.6 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-329104f262b4f5fec8c2372b",
+      "recordPath": "equipment/eaton-article-329104f262b4f5fec8c2372b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-329104f262b4f5fec8c2372b.json"
+    },
+    {
+      "id": "eaton-article-806a5fc42a4ebf56f65b3f94",
+      "name": "PKZM0-2,5-SPI16/AK — Motor-protective circuit-breaker, 0.75 kW, 1.6 - 2.5 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-806a5fc42a4ebf56f65b3f94",
+      "recordPath": "equipment/eaton-article-806a5fc42a4ebf56f65b3f94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-806a5fc42a4ebf56f65b3f94.json"
+    },
+    {
+      "id": "eaton-article-b258e4e804ccc4ff4fa0ef03",
+      "name": "PKZM0-4-SPI16/AK — Motor-protective circuit-breaker, 1.5 kW, 2.5 - 4 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b258e4e804ccc4ff4fa0ef03",
+      "recordPath": "equipment/eaton-article-b258e4e804ccc4ff4fa0ef03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b258e4e804ccc4ff4fa0ef03.json"
+    },
+    {
+      "id": "eaton-article-f052149e7be1f48e28ac405d",
+      "name": "PKZM0-10-SPI16/AK — Motor-protective circuit-breaker, 4 kW, 6.3 - 10 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f052149e7be1f48e28ac405d",
+      "recordPath": "equipment/eaton-article-f052149e7be1f48e28ac405d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f052149e7be1f48e28ac405d.json"
+    },
+    {
+      "id": "eaton-article-c8a0c65c2e6c74d3a74277ac",
+      "name": "PKZM0-6,3-SPI16/AK — Motor-protective circuit-breaker, 2.2 kW, 4 - 6.3 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c8a0c65c2e6c74d3a74277ac",
+      "recordPath": "equipment/eaton-article-c8a0c65c2e6c74d3a74277ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c8a0c65c2e6c74d3a74277ac.json"
+    },
+    {
+      "id": "eaton-article-3cc38957dea5b5739e15b0c2",
+      "name": "PKZM0-16-SPI16/AK — Motor-protective circuit-breaker, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3cc38957dea5b5739e15b0c2",
+      "recordPath": "equipment/eaton-article-3cc38957dea5b5739e15b0c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3cc38957dea5b5739e15b0c2.json"
+    },
+    {
+      "id": "eaton-article-050c474d00c1fe9f4cc3c24a",
+      "name": "PKZM0-4-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 1.5 kW, 2.5 - 4 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-050c474d00c1fe9f4cc3c24a",
+      "recordPath": "equipment/eaton-article-050c474d00c1fe9f4cc3c24a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-050c474d00c1fe9f4cc3c24a.json"
+    },
+    {
+      "id": "eaton-article-323f459c99d7072ec74b2fd9",
+      "name": "PKZM0-6,3-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 2.2 kW, 0.63 - 1 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-323f459c99d7072ec74b2fd9",
+      "recordPath": "equipment/eaton-article-323f459c99d7072ec74b2fd9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-323f459c99d7072ec74b2fd9.json"
+    },
+    {
+      "id": "eaton-article-43d2e37aaba5bb7f65a33730",
+      "name": "PKZM0-1-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 0.25 kW, 0.63 - 1 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-43d2e37aaba5bb7f65a33730",
+      "recordPath": "equipment/eaton-article-43d2e37aaba5bb7f65a33730.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-43d2e37aaba5bb7f65a33730.json"
+    },
+    {
+      "id": "eaton-article-f21c327da5e38d1ece1697ac",
+      "name": "PKZM0-1,6-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 0.55 kW, 1 - 1.6 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f21c327da5e38d1ece1697ac",
+      "recordPath": "equipment/eaton-article-f21c327da5e38d1ece1697ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f21c327da5e38d1ece1697ac.json"
+    },
+    {
+      "id": "eaton-article-628986a3f38046ebb4539edb",
+      "name": "PKZM0-2,5-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 0.75 kW, 0.63 - 1 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-628986a3f38046ebb4539edb",
+      "recordPath": "equipment/eaton-article-628986a3f38046ebb4539edb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-628986a3f38046ebb4539edb.json"
+    },
+    {
+      "id": "eaton-article-ab1890a4e390b35885805a44",
+      "name": "PKZM0-10-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 4 kW, 6.3 - 10 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ab1890a4e390b35885805a44",
+      "recordPath": "equipment/eaton-article-ab1890a4e390b35885805a44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ab1890a4e390b35885805a44.json"
+    },
+    {
+      "id": "eaton-article-b35a55298b62782917e565e8",
+      "name": "PKZM0-16-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b35a55298b62782917e565e8",
+      "recordPath": "equipment/eaton-article-b35a55298b62782917e565e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b35a55298b62782917e565e8.json"
+    },
+    {
+      "id": "eaton-article-8ec39b341f309a2f45319cb2",
+      "name": "PKZM0-20-SPI32/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 1 N/C, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8ec39b341f309a2f45319cb2",
+      "recordPath": "equipment/eaton-article-8ec39b341f309a2f45319cb2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8ec39b341f309a2f45319cb2.json"
+    },
+    {
+      "id": "eaton-article-dd94e4228e20ff099cd77a92",
+      "name": "PKZM0-25-SPI32/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 1 N/C, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dd94e4228e20ff099cd77a92",
+      "recordPath": "equipment/eaton-article-dd94e4228e20ff099cd77a92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dd94e4228e20ff099cd77a92.json"
+    },
+    {
+      "id": "eaton-article-135c4e90bfd101592c0683f0",
+      "name": "PKZM0-32-SPI32/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 1 N/C, 7.5 kW, 25 - 32 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-135c4e90bfd101592c0683f0",
+      "recordPath": "equipment/eaton-article-135c4e90bfd101592c0683f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-135c4e90bfd101592c0683f0.json"
+    },
+    {
+      "id": "eaton-article-3f68c231ccf954ea105b8b6a",
+      "name": "PKZM0-0,4-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 0.09 kW, 0.25 - 0.4 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3f68c231ccf954ea105b8b6a",
+      "recordPath": "equipment/eaton-article-3f68c231ccf954ea105b8b6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3f68c231ccf954ea105b8b6a.json"
+    },
+    {
+      "id": "eaton-article-60b56536b2049d91f6ea9d73",
+      "name": "PKZM0-0,63-SPI16/NHI-E-10-PKZ0-PI — Motor-protective circuit-breaker, 3-pole + 1 N/O + 0 N/C, 0.12 kW, 0.4 - 0.63 A, Feed-side screw terminals/output-side push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-60b56536b2049d91f6ea9d73",
+      "recordPath": "equipment/eaton-article-60b56536b2049d91f6ea9d73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-60b56536b2049d91f6ea9d73.json"
+    },
+    {
+      "id": "eaton-article-123486",
+      "name": "INX16B4-06F — Switch-disconnector 4p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123486",
+      "recordPath": "equipment/eaton-article-123486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123486.json"
+    },
+    {
+      "id": "eaton-article-123078",
+      "name": "INX16B3-10W — Switch-disconnector, 3p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123078",
+      "recordPath": "equipment/eaton-article-123078.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123078.json"
+    }
+  ]
+}

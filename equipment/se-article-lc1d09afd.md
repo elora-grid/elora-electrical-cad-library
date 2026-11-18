@@ -1,0 +1,113 @@
+# Schneider Electric — LC1D09AFD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 110 V DC, SnapIN
+
+Schneider Electric LC1D09AFD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 110 V DC, SnapIN. Manufacturer CAD files for wiring equipment selection and layout, identified by article LC1D09AFD.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/se-article-lc1d09afd) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09afd.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/se-article-lc1d09afd.json) · [Official manufacturer source](https://www.se.com/de/de/product/LC1D09AFD/leistungssch%C3%BCtz-lc1d-3p-+1s+1%C3%B6-4-kw-9-a-400-v-ac3-spule-110-v-dc-snapin/)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: LC1D09AFD
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Download the original CAD files directly from the manufacturer using the file controls. For publisher ZIPs, select the named CAD member for this equipment reference.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: LC1D09AFD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 110 V DC, SnapIN
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Part number: LC1D09AFD
+- Manufacturer reference: LC1D09AFD
+- Available native formats: DXF / STEP
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: LC1D09AFD ([source](https://www.se.com/de/de/product/LC1D09AFD/leistungssch%C3%BCtz-lc1d-3p-+1s+1%C3%B6-4-kw-9-a-400-v-ac3-spule-110-v-dc-snapin/))
+- Available native formats: DXF / STEP ([source](https://www.se.com/de/de/product/LC1D09AFD/leistungssch%C3%BCtz-lc1d-3p-+1s+1%C3%B6-4-kw-9-a-400-v-ac3-spule-110-v-dc-snapin/))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Schneider Electric official source](https://www.se.com/de/de/product/LC1D09AFD/leistungssch%C3%BCtz-lc1d-3p-+1s+1%C3%B6-4-kw-9-a-400-v-ac3-spule-110-v-dc-snapin/)
+
+## Choosing a file
+
+Start with LC1D09AFD. The files above belong to Schneider Electric's LC1D09AFD — Leistungsschütz LC1D 3p, +1S+1Ö, 4 kW, 9 A, 400 V AC3, Spule 110 V DC, SnapIN resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, DXF. The individual filenames above distinguish the supplied variants.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/se-article-lc1d09afd)
+
+- SB115282\_3D-simplified.stp: public (official\_source); delivered format STEP, contained formats STEP.
+- SB115282\_2D-front.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### SB115282\_3D-simplified.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://download.se.com/files?p_enDocType=CAD&p_File_Name=SB115282_3D-simplified.stp&p_Doc_Ref=SB115282_3D-CAD)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: restricted
+- Original SHA-256: 0b04f8d3b60e3ed4d883d3c2131c1adfbd863e82703b0c31eb911bbba51ec620
+- Original bytes: 2153972
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Rights review: Publisher redistribution restrictions are retained. This original and its derived preview are not rehosted; the download is supplied directly by the manufacturer.
+- [Rights evidence](https://download.se.com/files?p_enDocType=CAD&p_File_Name=SB115282_3D-simplified.stp&p_Doc_Ref=SB115282_3D-CAD)
+- [Rights evidence](https://www.se.com/au/en/about-us/legal/terms-of-use/)
+- [Rights evidence](https://www.se.com/us/en/about-us/legal/terms-of-use/)
+- [Rights evidence](https://www.se.com/uk/en/about-us/legal/terms-of-use/)
+- Delivery: original; STEP; 2153972 bytes
+- Delivery SHA-256: 0b04f8d3b60e3ed4d883d3c2131c1adfbd863e82703b0c31eb911bbba51ec620
+
+### SB115282\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Manufacturer DXF CAD file
+- [Official source](https://download.se.com/files?p_enDocType=CAD&p_File_Name=SB115282_2D-front.dxf&p_Doc_Ref=SB115282_3D-CAD)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: restricted
+- Original SHA-256: 1cac825629c147e0a74c05cc6aef6cad4cf96c661fa84ff57f9f806dd647c022
+- Original bytes: 146808
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Rights review: Publisher redistribution restrictions are retained. This original and its derived preview are not rehosted; the download is supplied directly by the manufacturer.
+- [Rights evidence](https://download.se.com/files?p_enDocType=CAD&p_File_Name=SB115282_2D-front.dxf&p_Doc_Ref=SB115282_3D-CAD)
+- [Rights evidence](https://www.se.com/au/en/about-us/legal/terms-of-use/)
+- [Rights evidence](https://www.se.com/us/en/about-us/legal/terms-of-use/)
+- [Rights evidence](https://www.se.com/uk/en/about-us/legal/terms-of-use/)
+- Delivery: original; DXF; 146808 bytes
+- Delivery SHA-256: 1cac825629c147e0a74c05cc6aef6cad4cf96c661fa84ff57f9f806dd647c022
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

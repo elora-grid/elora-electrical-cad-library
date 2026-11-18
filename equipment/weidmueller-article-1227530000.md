@@ -1,0 +1,171 @@
+# Weidmüller — BLF 7.62HP/09/180F SN BK BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 7.62 mm, Number of poles: 9, PUSH IN
+
+Weidmüller BLF 7.62HP/09/180F SN BK BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 7.62 mm, Number of poles: 9, PUSH IN. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1227530000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1227530000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1227530000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1227530000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/blf-7-62hp09180f-sn-bk-bx/p/1227530000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1227530000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: BLF 7.62HP/09/180F SN BK BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 7.62 mm, Number of poles: 9, PUSH IN
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1227530000
+- Manufacturer reference: 1227530000
+- Manufacturer type: BLF 7.62HP/09/180F SN BK BX
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1227530000 ([source](https://eshop.weidmueller.com.cn/en/blf-7-62hp09180f-sn-bk-bx/p/1227530000/downloads#engineering-support))
+- Manufacturer type: BLF 7.62HP/09/180F SN BK BX ([source](https://eshop.weidmueller.com.cn/en/blf-7-62hp09180f-sn-bk-bx/p/1227530000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/blf-7-62hp09180f-sn-bk-bx/p/1227530000/downloads#engineering-support))
+
+## What the equipment does
+
+A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
+
+In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/blf-7-62hp09180f-sn-bk-bx/p/1227530000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1227530000. The files above belong to Weidmüller's BLF 7.62HP/09/180F SN BK BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 7.62 mm, Number of poles: 9, PUSH IN resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, ZIP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller BLF 7.62HP/09/180F SN BK BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 7.62 mm, Number of poles: 9, PUSH IN: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1227530000/native-3383fbc9d611fb5214139c16-zip?asset=a7b8ca78b0a91f4528459d3efb6f28e54a3e6f2e83865ec4cf245f402bf8cc20)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1227530000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1227530000)
+
+- 1227530000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1227530000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1227530000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1227530000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/1461265e-0438-4494-9191-cab25249c487/original/1227530000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1227530000/native-51c8569218433b5a9645e1b8-step)
+- Redistribution: unknown
+- Original SHA-256: 51c8569218433b5a9645e1b8f996041892ca59291949382f8e7c2234bbc04490
+- Original bytes: 1573467
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/1461265e-0438-4494-9191-cab25249c487/original/1227530000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 245049 bytes
+- Delivery SHA-256: 1d2ee60ac844d511be794ef31fc9a9dbd82316e848cb81b5ea5a96b12ac1b1f8
+
+### 1227530000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/7174845b-aed2-45f2-9af5-b93ffcd2add3/original/1227530000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1227530000/native-3383fbc9d611fb5214139c16-zip)
+- Redistribution: unknown
+- Original SHA-256: 3383fbc9d611fb5214139c16a6c92dcce13318c5c60bee57a10bfb1e9ae08df0
+- Original bytes: 70947
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/7174845b-aed2-45f2-9af5-b93ffcd2add3/original/1227530000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 70947 bytes
+- Delivery SHA-256: 3383fbc9d611fb5214139c16a6c92dcce13318c5c60bee57a10bfb1e9ae08df0
+
+<details>
+<summary>Archive members</summary>
+
+- 1227530000\_back.DWG
+- 1227530000\_bottom.DWG
+- 1227530000\_front.DWG
+- 1227530000\_left.DWG
+- 1227530000\_right.DWG
+- 1227530000\_top.DWG
+
+</details>
+
+### 1227530000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/c78f749d-1bd5-4237-bd98-3e358ffd4158/original/1227530000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1227530000/native-d974305897a284d1a354c99b-zip)
+- Redistribution: unknown
+- Original SHA-256: d974305897a284d1a354c99beba8467500ef1e43aed01568569339ada7e0c104
+- Original bytes: 44533
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/c78f749d-1bd5-4237-bd98-3e358ffd4158/original/1227530000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 44533 bytes
+- Delivery SHA-256: d974305897a284d1a354c99beba8467500ef1e43aed01568569339ada7e0c104
+
+<details>
+<summary>Archive members</summary>
+
+- 1227530000\_back.DXF
+- 1227530000\_bottom.DXF
+- 1227530000\_front.DXF
+- 1227530000\_left.DXF
+- 1227530000\_right.DXF
+- 1227530000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

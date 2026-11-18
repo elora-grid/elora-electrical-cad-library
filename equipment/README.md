@@ -2,7 +2,7 @@
 
 Browse [Elora's CAD library](https://eloragrid.ai/tools/cad-library) or search [the JSON catalogue](../data/catalogue.json.gz).
 
-## Switchboards & switchgear (13796 entries)
+## Switchboards & switchgear (14068 entries)
 
 - [Entries 1–250](index-switchgear-1.md)
 - [Entries 251–500](index-switchgear-2.md)
@@ -59,9 +59,10 @@ Browse [Elora's CAD library](https://eloragrid.ai/tools/cad-library) or search [
 - [Entries 13001–13250](index-switchgear-53.md)
 - [Entries 13251–13500](index-switchgear-54.md)
 - [Entries 13501–13750](index-switchgear-55.md)
-- [Entries 13751–13796](index-switchgear-56.md)
+- [Entries 13751–14000](index-switchgear-56.md)
+- [Entries 14001–14068](index-switchgear-57.md)
 
-## Breakers & accessories (13099 entries)
+## Breakers & accessories (17466 entries)
 
 - [Entries 1–250](index-breakers-1.md)
 - [Entries 251–500](index-breakers-2.md)
@@ -115,9 +116,26 @@ Browse [Elora's CAD library](https://eloragrid.ai/tools/cad-library) or search [
 - [Entries 12251–12500](index-breakers-50.md)
 - [Entries 12501–12750](index-breakers-51.md)
 - [Entries 12751–13000](index-breakers-52.md)
-- [Entries 13001–13099](index-breakers-53.md)
+- [Entries 13001–13250](index-breakers-53.md)
+- [Entries 13251–13500](index-breakers-54.md)
+- [Entries 13501–13750](index-breakers-55.md)
+- [Entries 13751–14000](index-breakers-56.md)
+- [Entries 14001–14250](index-breakers-57.md)
+- [Entries 14251–14500](index-breakers-58.md)
+- [Entries 14501–14750](index-breakers-59.md)
+- [Entries 14751–15000](index-breakers-60.md)
+- [Entries 15001–15250](index-breakers-61.md)
+- [Entries 15251–15500](index-breakers-62.md)
+- [Entries 15501–15750](index-breakers-63.md)
+- [Entries 15751–16000](index-breakers-64.md)
+- [Entries 16001–16250](index-breakers-65.md)
+- [Entries 16251–16500](index-breakers-66.md)
+- [Entries 16501–16750](index-breakers-67.md)
+- [Entries 16751–17000](index-breakers-68.md)
+- [Entries 17001–17250](index-breakers-69.md)
+- [Entries 17251–17466](index-breakers-70.md)
 
-## Enclosures & hardware (7559 entries)
+## Enclosures & hardware (7959 entries)
 
 - [Entries 1–250](index-enclosures-1.md)
 - [Entries 251–500](index-enclosures-2.md)
@@ -149,15 +167,18 @@ Browse [Elora's CAD library](https://eloragrid.ai/tools/cad-library) or search [
 - [Entries 6751–7000](index-enclosures-28.md)
 - [Entries 7001–7250](index-enclosures-29.md)
 - [Entries 7251–7500](index-enclosures-30.md)
-- [Entries 7501–7559](index-enclosures-31.md)
+- [Entries 7501–7750](index-enclosures-31.md)
+- [Entries 7751–7959](index-enclosures-32.md)
 
-## Busbar & distribution (735 entries)
+## Busbar & distribution (1116 entries)
 
 - [Entries 1–250](index-busbar-1.md)
 - [Entries 251–500](index-busbar-2.md)
-- [Entries 501–735](index-busbar-3.md)
+- [Entries 501–750](index-busbar-3.md)
+- [Entries 751–1000](index-busbar-4.md)
+- [Entries 1001–1116](index-busbar-5.md)
 
-## Protection & metering (1646 entries)
+## Protection & metering (2353 entries)
 
 - [Entries 1–250](index-protection-1.md)
 - [Entries 251–500](index-protection-2.md)
@@ -165,9 +186,12 @@ Browse [Elora's CAD library](https://eloragrid.ai/tools/cad-library) or search [
 - [Entries 751–1000](index-protection-4.md)
 - [Entries 1001–1250](index-protection-5.md)
 - [Entries 1251–1500](index-protection-6.md)
-- [Entries 1501–1646](index-protection-7.md)
+- [Entries 1501–1750](index-protection-7.md)
+- [Entries 1751–2000](index-protection-8.md)
+- [Entries 2001–2250](index-protection-9.md)
+- [Entries 2251–2353](index-protection-10.md)
 
-## Automation & controls (8681 entries)
+## Automation & controls (10400 entries)
 
 - [Entries 1–250](index-automation-1.md)
 - [Entries 251–500](index-automation-2.md)
@@ -203,9 +227,16 @@ Browse [Elora's CAD library](https://eloragrid.ai/tools/cad-library) or search [
 - [Entries 7751–8000](index-automation-32.md)
 - [Entries 8001–8250](index-automation-33.md)
 - [Entries 8251–8500](index-automation-34.md)
-- [Entries 8501–8681](index-automation-35.md)
+- [Entries 8501–8750](index-automation-35.md)
+- [Entries 8751–9000](index-automation-36.md)
+- [Entries 9001–9250](index-automation-37.md)
+- [Entries 9251–9500](index-automation-38.md)
+- [Entries 9501–9750](index-automation-39.md)
+- [Entries 9751–10000](index-automation-40.md)
+- [Entries 10001–10250](index-automation-41.md)
+- [Entries 10251–10400](index-automation-42.md)
 
-## Wiring & terminals (7110 entries)
+## Wiring & terminals (16385 entries)
 
 - [Entries 1–250](index-wiring-1.md)
 - [Entries 251–500](index-wiring-2.md)
@@ -235,12 +266,50 @@ Browse [Elora's CAD library](https://eloragrid.ai/tools/cad-library) or search [
 - [Entries 6251–6500](index-wiring-26.md)
 - [Entries 6501–6750](index-wiring-27.md)
 - [Entries 6751–7000](index-wiring-28.md)
-- [Entries 7001–7110](index-wiring-29.md)
+- [Entries 7001–7250](index-wiring-29.md)
+- [Entries 7251–7500](index-wiring-30.md)
+- [Entries 7501–7750](index-wiring-31.md)
+- [Entries 7751–8000](index-wiring-32.md)
+- [Entries 8001–8250](index-wiring-33.md)
+- [Entries 8251–8500](index-wiring-34.md)
+- [Entries 8501–8750](index-wiring-35.md)
+- [Entries 8751–9000](index-wiring-36.md)
+- [Entries 9001–9250](index-wiring-37.md)
+- [Entries 9251–9500](index-wiring-38.md)
+- [Entries 9501–9750](index-wiring-39.md)
+- [Entries 9751–10000](index-wiring-40.md)
+- [Entries 10001–10250](index-wiring-41.md)
+- [Entries 10251–10500](index-wiring-42.md)
+- [Entries 10501–10750](index-wiring-43.md)
+- [Entries 10751–11000](index-wiring-44.md)
+- [Entries 11001–11250](index-wiring-45.md)
+- [Entries 11251–11500](index-wiring-46.md)
+- [Entries 11501–11750](index-wiring-47.md)
+- [Entries 11751–12000](index-wiring-48.md)
+- [Entries 12001–12250](index-wiring-49.md)
+- [Entries 12251–12500](index-wiring-50.md)
+- [Entries 12501–12750](index-wiring-51.md)
+- [Entries 12751–13000](index-wiring-52.md)
+- [Entries 13001–13250](index-wiring-53.md)
+- [Entries 13251–13500](index-wiring-54.md)
+- [Entries 13501–13750](index-wiring-55.md)
+- [Entries 13751–14000](index-wiring-56.md)
+- [Entries 14001–14250](index-wiring-57.md)
+- [Entries 14251–14500](index-wiring-58.md)
+- [Entries 14501–14750](index-wiring-59.md)
+- [Entries 14751–15000](index-wiring-60.md)
+- [Entries 15001–15250](index-wiring-61.md)
+- [Entries 15251–15500](index-wiring-62.md)
+- [Entries 15501–15750](index-wiring-63.md)
+- [Entries 15751–16000](index-wiring-64.md)
+- [Entries 16001–16250](index-wiring-65.md)
+- [Entries 16251–16385](index-wiring-66.md)
 
-## Auxiliary power & UPS (270 entries)
+## Auxiliary power & UPS (669 entries)
 
 - [Entries 1–250](index-power-supplies-1.md)
-- [Entries 251–270](index-power-supplies-2.md)
+- [Entries 251–500](index-power-supplies-2.md)
+- [Entries 501–669](index-power-supplies-3.md)
 
 ## Motors & drives (1968 entries)
 
@@ -253,44 +322,54 @@ Browse [Elora's CAD library](https://eloragrid.ai/tools/cad-library) or search [
 - [Entries 1501–1750](index-motors-7.md)
 - [Entries 1751–1968](index-motors-8.md)
 
-## Thermal management (58 entries)
+## Thermal management (138 entries)
 
-- [Entries 1–58](index-thermal-1.md)
+- [Entries 1–138](index-thermal-1.md)
 
-## Power quality & drives (390 entries)
+## Power quality & drives (1111 entries)
 
 - [Entries 1–250](index-power-quality-1.md)
-- [Entries 251–390](index-power-quality-2.md)
+- [Entries 251–500](index-power-quality-2.md)
+- [Entries 501–750](index-power-quality-3.md)
+- [Entries 751–1000](index-power-quality-4.md)
+- [Entries 1001–1111](index-power-quality-5.md)
 
-## Transformers & earthing (515 entries)
+## Transformers & earthing (1084 entries)
 
 - [Entries 1–250](index-transformers-1.md)
 - [Entries 251–500](index-transformers-2.md)
-- [Entries 501–515](index-transformers-3.md)
+- [Entries 501–750](index-transformers-3.md)
+- [Entries 751–1000](index-transformers-4.md)
+- [Entries 1001–1084](index-transformers-5.md)
 
-## Generators & alternators (35 entries)
+## Generators & alternators (65 entries)
 
-- [Entries 1–35](index-generation-1.md)
+- [Entries 1–65](index-generation-1.md)
 
 ## Generator auxiliaries (18 entries)
 
 - [Entries 1–18](index-generator-auxiliaries-1.md)
 
-## Battery storage & PCS (42 entries)
+## Battery storage & PCS (47 entries)
 
-- [Entries 1–42](index-storage-1.md)
+- [Entries 1–47](index-storage-1.md)
 
-## Solar & inverters (44 entries)
+## Solar & inverters (65 entries)
 
-- [Entries 1–44](index-solar-1.md)
+- [Entries 1–65](index-solar-1.md)
 
-## Communications (203 entries)
+## Communications (777 entries)
 
-- [Entries 1–203](index-communications-1.md)
+- [Entries 1–250](index-communications-1.md)
+- [Entries 251–500](index-communications-2.md)
+- [Entries 501–750](index-communications-3.md)
+- [Entries 751–777](index-communications-4.md)
 
-## Cable management (147 entries)
+## Cable management (627 entries)
 
-- [Entries 1–147](index-cable-management-1.md)
+- [Entries 1–250](index-cable-management-1.md)
+- [Entries 251–500](index-cable-management-2.md)
+- [Entries 501–627](index-cable-management-3.md)
 
 ## Switchroom services (196 entries)
 

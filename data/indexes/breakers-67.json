@@ -1,0 +1,2999 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 67,
+  "entries": [
+    {
+      "id": "eaton-article-171178",
+      "name": "FRCMM-125/4/003-G/A — Residual current circuit breaker (RCCB), 125A, 4p, 30mA, type G/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171178",
+      "recordPath": "equipment/eaton-article-171178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171178.json"
+    },
+    {
+      "id": "eaton-article-170461",
+      "name": "FRCMM-63/4/01-U — Residual current circuit breaker (RCCB), 63A, 4p, 100mA, type U",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170461",
+      "recordPath": "equipment/eaton-article-170461.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170461.json"
+    },
+    {
+      "id": "eaton-article-171187",
+      "name": "FRCMM-125/4/05-B — Residual current circuit-breaker, all-current sensitive, 125 A, 4p, 500 mA, type B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171187",
+      "recordPath": "equipment/eaton-article-171187.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171187.json"
+    },
+    {
+      "id": "eaton-article-170465",
+      "name": "FRCMM-63/4/03-U — Residual current circuit breaker (RCCB), 63A, 4p, 300mA, type U",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170465",
+      "recordPath": "equipment/eaton-article-170465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170465.json"
+    },
+    {
+      "id": "eaton-article-170458",
+      "name": "FRCMM-16/4/01-U — Residual current circuit breaker (RCCB), 16A, 4p, 100mA, type U",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170458",
+      "recordPath": "equipment/eaton-article-170458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170458.json"
+    },
+    {
+      "id": "eaton-article-171186",
+      "name": "FRCMM-125/4/03-B — Residual current circuit-breaker, all-current sensitive, 125 A, 4p, 300 mA, type B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171186",
+      "recordPath": "equipment/eaton-article-171186.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171186.json"
+    },
+    {
+      "id": "eaton-article-187816",
+      "name": "FRCMM-125/4/03 — Residual current circuit breaker (RCCB), 125A, 4p, 300mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187816",
+      "recordPath": "equipment/eaton-article-187816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187816.json"
+    },
+    {
+      "id": "eaton-article-170453",
+      "name": "FRCMM-25/4/003-U — Residual current circuit breaker (RCCB), 25A, 4p, 30mA, type U",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170453",
+      "recordPath": "equipment/eaton-article-170453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170453.json"
+    },
+    {
+      "id": "eaton-article-187806",
+      "name": "FRCMM-80/4/003-B — Residual current circuit-breaker, all-current sensitive, 80 A, 4p, 30 mA, type B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187806",
+      "recordPath": "equipment/eaton-article-187806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187806.json"
+    },
+    {
+      "id": "eaton-article-171190",
+      "name": "FRCMM-125/4/03-S/BFQ — Residual current circuit-breaker, all-current sensitive, 125 A, 4p, 300 mA, type S/BFQ",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171190",
+      "recordPath": "equipment/eaton-article-171190.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171190.json"
+    },
+    {
+      "id": "eaton-article-171169",
+      "name": "FRCMM-125/2/01-G/A — Residual current circuit breaker (RCCB), 125A, 2p, 100mA, type G/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171169",
+      "recordPath": "equipment/eaton-article-171169.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171169.json"
+    },
+    {
+      "id": "eaton-article-187815",
+      "name": "FRCMM-125/4/01 — Residual current circuit breaker (RCCB), 125A, 4p, 100mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187815",
+      "recordPath": "equipment/eaton-article-187815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187815.json"
+    },
+    {
+      "id": "eaton-article-171184",
+      "name": "FRCMM-125/4/003-B — Residual current circuit-breaker, all-current sensitive, 125 A, 4p, 30 mA, type B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171184",
+      "recordPath": "equipment/eaton-article-171184.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171184.json"
+    },
+    {
+      "id": "eaton-article-171180",
+      "name": "FRCMM-125/4/03-G/A — Residual current circuit breaker (RCCB), 125A, 4p, 300mA, type G/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171180",
+      "recordPath": "equipment/eaton-article-171180.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171180.json"
+    },
+    {
+      "id": "eaton-article-171191",
+      "name": "FRCMM-125/4/05-S/BFQ — Residual current circuit-breaker, all-current sensitive, 125 A, 4p, 500 mA, type S/BFQ",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171191",
+      "recordPath": "equipment/eaton-article-171191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171191.json"
+    },
+    {
+      "id": "eaton-article-187817",
+      "name": "FRCMM-125/4/05 — Residual current circuit breaker (RCCB), 125A, 4p, 500mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187817",
+      "recordPath": "equipment/eaton-article-187817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187817.json"
+    },
+    {
+      "id": "eaton-article-187811",
+      "name": "FRCMM-125/2/01 — Residual current circuit breaker (RCCB), 125A, 2p, 100mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187811",
+      "recordPath": "equipment/eaton-article-187811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187811.json"
+    },
+    {
+      "id": "eaton-article-187814",
+      "name": "FRCMM-125/4/003 — Residual current circuit breaker (RCCB), 125A, 4p, 30mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187814",
+      "recordPath": "equipment/eaton-article-187814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187814.json"
+    },
+    {
+      "id": "eaton-article-171181",
+      "name": "FRCMM-125/4/01-S/A — Residual current circuit breaker (RCCB), 125A, 4p, 100mA, type S/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171181",
+      "recordPath": "equipment/eaton-article-171181.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171181.json"
+    },
+    {
+      "id": "eaton-article-171176",
+      "name": "FRCMM-125/4/03-A — Residual current circuit breaker (RCCB), 125A, 4p, 300mA, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171176",
+      "recordPath": "equipment/eaton-article-171176.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171176.json"
+    },
+    {
+      "id": "eaton-article-187805",
+      "name": "FRCMM-63/4/01-B — Residual current circuit-breaker, all-current sensitive, 63 A, 4p, 100 mA, type B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187805",
+      "recordPath": "equipment/eaton-article-187805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187805.json"
+    },
+    {
+      "id": "eaton-article-171170",
+      "name": "FRCMM-125/2/03-G/A — Residual current circuit breaker (RCCB), 125A, 2p, 300mA, type G/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171170",
+      "recordPath": "equipment/eaton-article-171170.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171170.json"
+    },
+    {
+      "id": "eaton-article-171177",
+      "name": "FRCMM-125/4/05-A — Residual current circuit breaker (RCCB), 125A, 4p, 500mA, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171177",
+      "recordPath": "equipment/eaton-article-171177.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171177.json"
+    },
+    {
+      "id": "eaton-article-171188",
+      "name": "FRCMM-125/4/003-G/B — Residual current circuit-breaker, all-current sensitive, 125 A, 4p, 30 mA, type G/B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171188",
+      "recordPath": "equipment/eaton-article-171188.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171188.json"
+    },
+    {
+      "id": "eaton-article-171171",
+      "name": "FRCMM-125/2/01-S/A — Residual current circuit breaker (RCCB), 125A, 2p, 100mA, type S/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171171",
+      "recordPath": "equipment/eaton-article-171171.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171171.json"
+    },
+    {
+      "id": "eaton-article-187808",
+      "name": "FRCMM-80/4/03-B — Residual current circuit-breaker, all-current sensitive, 80 A, 4p, 300 mA, type B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187808",
+      "recordPath": "equipment/eaton-article-187808.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187808.json"
+    },
+    {
+      "id": "eaton-article-170454",
+      "name": "FRCMM-40/4/003-U — Residual current circuit breaker (RCCB), 40A, 4p, 30mA, type U",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170454",
+      "recordPath": "equipment/eaton-article-170454.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170454.json"
+    },
+    {
+      "id": "eaton-article-171182",
+      "name": "FRCMM-125/4/03-S/A — Residual current circuit breaker (RCCB), 125A, 4p, 300mA, type S/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171182",
+      "recordPath": "equipment/eaton-article-171182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171182.json"
+    },
+    {
+      "id": "eaton-article-170464",
+      "name": "FRCMM-40/4/03-U — Residual current circuit breaker (RCCB), 40A, 4p, 300mA, type U",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170464",
+      "recordPath": "equipment/eaton-article-170464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170464.json"
+    },
+    {
+      "id": "eaton-article-171175",
+      "name": "FRCMM-125/4/01-A — Residual current circuit breaker (RCCB), 125A, 4p, 100mA, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171175",
+      "recordPath": "equipment/eaton-article-171175.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171175.json"
+    },
+    {
+      "id": "eaton-article-171183",
+      "name": "FRCMM-125/4/05-S/A — Residual current circuit breaker (RCCB), 125A, 4p, 500mA, type S/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171183",
+      "recordPath": "equipment/eaton-article-171183.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171183.json"
+    },
+    {
+      "id": "eaton-article-170460",
+      "name": "FRCMM-40/4/01-U — Residual current circuit breaker (RCCB), 40A, 4p, 100mA, type U",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170460",
+      "recordPath": "equipment/eaton-article-170460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170460.json"
+    },
+    {
+      "id": "eaton-article-187812",
+      "name": "FRCMM-125/2/03 — Residual current circuit breaker (RCCB), 125A, 2p, 300mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187812",
+      "recordPath": "equipment/eaton-article-187812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187812.json"
+    },
+    {
+      "id": "eaton-article-171167",
+      "name": "FRCMM-125/2/05-A — Residual current circuit breaker (RCCB), 125A, 2p, 500mA, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171167",
+      "recordPath": "equipment/eaton-article-171167.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171167.json"
+    },
+    {
+      "id": "eaton-article-171166",
+      "name": "FRCMM-125/2/03-A — Residual current circuit breaker (RCCB), 125A, 2p, 300mA, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171166",
+      "recordPath": "equipment/eaton-article-171166.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171166.json"
+    },
+    {
+      "id": "eaton-article-187813",
+      "name": "FRCMM-125/2/05 — Residual current circuit breaker (RCCB), 125A, 2p, 500mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187813",
+      "recordPath": "equipment/eaton-article-187813.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187813.json"
+    },
+    {
+      "id": "eaton-article-171174",
+      "name": "FRCMM-125/4/003-A — Residual current circuit breaker (RCCB), 125A, 4p, 30mA, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171174",
+      "recordPath": "equipment/eaton-article-171174.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171174.json"
+    },
+    {
+      "id": "eaton-article-170459",
+      "name": "FRCMM-25/4/01-U — Residual current circuit breaker (RCCB), 25A, 4p, 100mA, type U",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-170459",
+      "recordPath": "equipment/eaton-article-170459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-170459.json"
+    },
+    {
+      "id": "eaton-article-122850",
+      "name": "IZMX16B3-A16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-122850",
+      "recordPath": "equipment/eaton-article-122850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-122850.json"
+    },
+    {
+      "id": "eaton-article-123347",
+      "name": "IZMX16B3-V08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123347",
+      "recordPath": "equipment/eaton-article-123347.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123347.json"
+    },
+    {
+      "id": "eaton-article-183471",
+      "name": "IZMX16B3-P10W-1 — Circuit-breaker, 3 pole, 1000A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183471",
+      "recordPath": "equipment/eaton-article-183471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183471.json"
+    },
+    {
+      "id": "eaton-article-123235",
+      "name": "IZMX16B4-P16W — Circuit-breaker 4p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123235",
+      "recordPath": "equipment/eaton-article-123235.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123235.json"
+    },
+    {
+      "id": "eaton-article-183472",
+      "name": "IZMX16B3-P12W-1 — Circuit-breaker, 3 pole, 1250A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183472",
+      "recordPath": "equipment/eaton-article-183472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183472.json"
+    },
+    {
+      "id": "eaton-article-183470",
+      "name": "IZMX16B3-P08W-1 — Circuit-breaker, 3 pole, 800A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183470",
+      "recordPath": "equipment/eaton-article-183470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183470.json"
+    },
+    {
+      "id": "eaton-article-183358",
+      "name": "IZMX16B3-P10F-1 — Circuit-breaker, 3 pole, 1000A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183358",
+      "recordPath": "equipment/eaton-article-183358.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183358.json"
+    },
+    {
+      "id": "eaton-article-183330",
+      "name": "IZMX16B3-V16F-1 — Circuit-breaker, 3 pole, 1600A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183330",
+      "recordPath": "equipment/eaton-article-183330.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183330.json"
+    },
+    {
+      "id": "eaton-article-183402",
+      "name": "IZMX16B4-P16F-1 — Circuit-breaker, 4 pole, 1600A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183402",
+      "recordPath": "equipment/eaton-article-183402.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183402.json"
+    },
+    {
+      "id": "eaton-article-183345",
+      "name": "IZMX16B3-V16W-1 — Circuit-breaker, 3 pole, 1600A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183345",
+      "recordPath": "equipment/eaton-article-183345.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183345.json"
+    },
+    {
+      "id": "eaton-article-123234",
+      "name": "IZMX16B4-P12W — Circuit-breaker 4p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123234",
+      "recordPath": "equipment/eaton-article-123234.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123234.json"
+    },
+    {
+      "id": "eaton-article-123232",
+      "name": "IZMX16B4-P08W — Circuit-breaker 4p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123232",
+      "recordPath": "equipment/eaton-article-123232.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123232.json"
+    },
+    {
+      "id": "eaton-article-183395",
+      "name": "IZMX16B3-V06F-1 — Circuit-breaker, 3 pole, 630A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183395",
+      "recordPath": "equipment/eaton-article-183395.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183395.json"
+    },
+    {
+      "id": "eaton-article-183457",
+      "name": "IZMX16B4-P06W-1 — Circuit-breaker, 4 pole, 630A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183457",
+      "recordPath": "equipment/eaton-article-183457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183457.json"
+    },
+    {
+      "id": "eaton-article-183398",
+      "name": "IZMX16B4-P06F-1 — Circuit-breaker, 4 pole, 630A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183398",
+      "recordPath": "equipment/eaton-article-183398.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183398.json"
+    },
+    {
+      "id": "eaton-article-123476",
+      "name": "IZMX16B4-U06F — Circuit-breaker 4p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123476",
+      "recordPath": "equipment/eaton-article-123476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123476.json"
+    },
+    {
+      "id": "eaton-article-183458",
+      "name": "IZMX16B4-P08W-1 — Circuit-breaker, 4 pole, 800A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183458",
+      "recordPath": "equipment/eaton-article-183458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183458.json"
+    },
+    {
+      "id": "eaton-article-183344",
+      "name": "IZMX16B3-V12W-1 — Circuit-breaker, 3 pole, 1250A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183344",
+      "recordPath": "equipment/eaton-article-183344.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183344.json"
+    },
+    {
+      "id": "eaton-article-183343",
+      "name": "IZMX16B3-V10W-1 — Circuit-breaker, 3 pole, 1000A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183343",
+      "recordPath": "equipment/eaton-article-183343.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183343.json"
+    },
+    {
+      "id": "eaton-article-183341",
+      "name": "IZMX16B3-V06W-1 — Circuit-breaker, 3 pole, 630A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183341",
+      "recordPath": "equipment/eaton-article-183341.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183341.json"
+    },
+    {
+      "id": "eaton-article-122851",
+      "name": "IZMX16B3-V06W — Circuit-breaker 3p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-122851",
+      "recordPath": "equipment/eaton-article-122851.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-122851.json"
+    },
+    {
+      "id": "eaton-article-123351",
+      "name": "IZMX16B3-U06F — Circuit-breaker 3p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123351",
+      "recordPath": "equipment/eaton-article-123351.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123351.json"
+    },
+    {
+      "id": "eaton-article-123356",
+      "name": "IZMX16B3-P06F — Circuit-breaker 3p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123356",
+      "recordPath": "equipment/eaton-article-123356.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123356.json"
+    },
+    {
+      "id": "eaton-article-123357",
+      "name": "IZMX16B3-P08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123357",
+      "recordPath": "equipment/eaton-article-123357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123357.json"
+    },
+    {
+      "id": "eaton-article-123226",
+      "name": "IZMX16B4-U06W — Circuit-breaker 4p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123226",
+      "recordPath": "equipment/eaton-article-123226.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123226.json"
+    },
+    {
+      "id": "eaton-article-123346",
+      "name": "IZMX16B3-V06F — Circuit-breaker 3p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123346",
+      "recordPath": "equipment/eaton-article-123346.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123346.json"
+    },
+    {
+      "id": "eaton-article-122924",
+      "name": "IZMX16B3-V16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-122924",
+      "recordPath": "equipment/eaton-article-122924.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-122924.json"
+    },
+    {
+      "id": "eaton-article-183461",
+      "name": "IZMX16B4-P16W-1 — Circuit-breaker, 4 pole, 1600A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183461",
+      "recordPath": "equipment/eaton-article-183461.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183461.json"
+    },
+    {
+      "id": "eaton-article-122820",
+      "name": "IZMX16B3-A10W — Circuit-breaker 3p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-122820",
+      "recordPath": "equipment/eaton-article-122820.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-122820.json"
+    },
+    {
+      "id": "eaton-article-123344",
+      "name": "IZMX16B3-A12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123344",
+      "recordPath": "equipment/eaton-article-123344.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123344.json"
+    },
+    {
+      "id": "eaton-article-122920",
+      "name": "IZMX16B3-V10W — Circuit-breaker, 3p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-122920",
+      "recordPath": "equipment/eaton-article-122920.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-122920.json"
+    },
+    {
+      "id": "eaton-article-123228",
+      "name": "IZMX16B4-U10W — Circuit-breaker 4p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123228",
+      "recordPath": "equipment/eaton-article-123228.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123228.json"
+    },
+    {
+      "id": "eaton-article-122819",
+      "name": "IZMX16B3-A08W — Circuit-breaker 3p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-122819",
+      "recordPath": "equipment/eaton-article-122819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-122819.json"
+    },
+    {
+      "id": "eaton-article-183396",
+      "name": "IZMX16B3-V08F-1 — Circuit-breaker, 3 pole, 800A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183396",
+      "recordPath": "equipment/eaton-article-183396.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183396.json"
+    },
+    {
+      "id": "eaton-article-183400",
+      "name": "IZMX16B4-P10F-1 — Circuit-breaker, 4 pole, 1000A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183400",
+      "recordPath": "equipment/eaton-article-183400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183400.json"
+    },
+    {
+      "id": "eaton-article-183399",
+      "name": "IZMX16B4-P08F-1 — Circuit-breaker, 4 pole, 800A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183399",
+      "recordPath": "equipment/eaton-article-183399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183399.json"
+    },
+    {
+      "id": "eaton-article-123359",
+      "name": "IZMX16B3-P12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123359",
+      "recordPath": "equipment/eaton-article-123359.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123359.json"
+    },
+    {
+      "id": "eaton-article-123352",
+      "name": "IZMX16B3-U08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123352",
+      "recordPath": "equipment/eaton-article-123352.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123352.json"
+    },
+    {
+      "id": "eaton-article-183356",
+      "name": "IZMX16B3-P06F-1 — Circuit-breaker, 3 pole, 630A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183356",
+      "recordPath": "equipment/eaton-article-183356.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183356.json"
+    },
+    {
+      "id": "eaton-article-183459",
+      "name": "IZMX16B4-P10W-1 — Circuit-breaker, 4 pole, 1000A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183459",
+      "recordPath": "equipment/eaton-article-183459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183459.json"
+    },
+    {
+      "id": "eaton-article-123353",
+      "name": "IZMX16B3-U10F — Circuit-breaker 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123353",
+      "recordPath": "equipment/eaton-article-123353.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123353.json"
+    },
+    {
+      "id": "eaton-article-183360",
+      "name": "IZMX16B3-P16F-1 — Circuit-breaker, 3 pole, 1600A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183360",
+      "recordPath": "equipment/eaton-article-183360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183360.json"
+    },
+    {
+      "id": "eaton-article-123348",
+      "name": "IZMX16B3-V10F — Circuit-breaker, 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123348",
+      "recordPath": "equipment/eaton-article-123348.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123348.json"
+    },
+    {
+      "id": "eaton-article-123478",
+      "name": "IZMX16B4-U10F — Circuit-breaker 4p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123478",
+      "recordPath": "equipment/eaton-article-123478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123478.json"
+    },
+    {
+      "id": "eaton-article-183357",
+      "name": "IZMX16B3-P08F-1 — Circuit-breaker, 3 pole, 800A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183357",
+      "recordPath": "equipment/eaton-article-183357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183357.json"
+    },
+    {
+      "id": "eaton-article-123360",
+      "name": "IZMX16B3-P16F — Circuit-breaker 3p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123360",
+      "recordPath": "equipment/eaton-article-123360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123360.json"
+    },
+    {
+      "id": "eaton-article-123349",
+      "name": "IZMX16B3-V12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123349",
+      "recordPath": "equipment/eaton-article-123349.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123349.json"
+    },
+    {
+      "id": "eaton-article-123350",
+      "name": "IZMX16B3-V16F — Circuit-breaker 3p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123350",
+      "recordPath": "equipment/eaton-article-123350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123350.json"
+    },
+    {
+      "id": "eaton-article-183342",
+      "name": "IZMX16B3-V08W-1 — Circuit-breaker, 3 pole, 800A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183342",
+      "recordPath": "equipment/eaton-article-183342.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183342.json"
+    },
+    {
+      "id": "eaton-article-183329",
+      "name": "IZMX16B3-V12F-1 — Circuit-breaker, 3 pole, 1250A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183329",
+      "recordPath": "equipment/eaton-article-183329.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183329.json"
+    },
+    {
+      "id": "eaton-article-123354",
+      "name": "IZMX16B3-U12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123354",
+      "recordPath": "equipment/eaton-article-123354.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123354.json"
+    },
+    {
+      "id": "eaton-article-122918",
+      "name": "IZMX16B3-V08W — Circuit-breaker 3p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-122918",
+      "recordPath": "equipment/eaton-article-122918.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-122918.json"
+    },
+    {
+      "id": "eaton-article-123227",
+      "name": "IZMX16B4-U08W — Circuit-breaker 4p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123227",
+      "recordPath": "equipment/eaton-article-123227.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123227.json"
+    },
+    {
+      "id": "eaton-article-183401",
+      "name": "IZMX16B4-P12F-1 — Circuit-breaker, 4 pole, 1250A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183401",
+      "recordPath": "equipment/eaton-article-183401.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183401.json"
+    },
+    {
+      "id": "eaton-article-183460",
+      "name": "IZMX16B4-P12W-1 — Circuit-breaker, 4 pole, 1250A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183460",
+      "recordPath": "equipment/eaton-article-183460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183460.json"
+    },
+    {
+      "id": "eaton-article-123233",
+      "name": "IZMX16B4-P10W — Circuit-breaker 4p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123233",
+      "recordPath": "equipment/eaton-article-123233.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123233.json"
+    },
+    {
+      "id": "eaton-article-123231",
+      "name": "IZMX16B4-P06W — Circuit-breaker 4p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123231",
+      "recordPath": "equipment/eaton-article-123231.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123231.json"
+    },
+    {
+      "id": "eaton-article-183469",
+      "name": "IZMX16B3-P06W-1 — Circuit-breaker, 3 pole, 630A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183469",
+      "recordPath": "equipment/eaton-article-183469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183469.json"
+    },
+    {
+      "id": "eaton-article-122922",
+      "name": "IZMX16B3-V12W — Circuit-breaker 3p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-122922",
+      "recordPath": "equipment/eaton-article-122922.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-122922.json"
+    },
+    {
+      "id": "eaton-article-123358",
+      "name": "IZMX16B3-P10F — Circuit-breaker 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123358",
+      "recordPath": "equipment/eaton-article-123358.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123358.json"
+    },
+    {
+      "id": "eaton-article-183473",
+      "name": "IZMX16B3-P16W-1 — Circuit-breaker, 3 pole, 1600A, 42 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183473",
+      "recordPath": "equipment/eaton-article-183473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183473.json"
+    },
+    {
+      "id": "eaton-article-123355",
+      "name": "IZMX16B3-U16F — Circuit-breaker 3p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123355",
+      "recordPath": "equipment/eaton-article-123355.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123355.json"
+    },
+    {
+      "id": "eaton-article-183328",
+      "name": "IZMX16B3-V10F-1 — Circuit-breaker, 3 pole, 1000A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183328",
+      "recordPath": "equipment/eaton-article-183328.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183328.json"
+    },
+    {
+      "id": "eaton-article-183359",
+      "name": "IZMX16B3-P12F-1 — Circuit-breaker, 3 pole, 1250A, 42 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183359",
+      "recordPath": "equipment/eaton-article-183359.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183359.json"
+    },
+    {
+      "id": "eaton-article-123477",
+      "name": "IZMX16B4-U08F — Circuit-breaker 4p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123477",
+      "recordPath": "equipment/eaton-article-123477.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123477.json"
+    },
+    {
+      "id": "eaton-article-123145",
+      "name": "IZMX16H3-A16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123145",
+      "recordPath": "equipment/eaton-article-123145.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123145.json"
+    },
+    {
+      "id": "eaton-article-123165",
+      "name": "IZMX16H3-P16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123165",
+      "recordPath": "equipment/eaton-article-123165.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123165.json"
+    },
+    {
+      "id": "eaton-article-123155",
+      "name": "IZMX16H3-U16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123155",
+      "recordPath": "equipment/eaton-article-123155.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123155.json"
+    },
+    {
+      "id": "eaton-article-123153",
+      "name": "IZMX16H3-U10W — Circuit-breaker 3p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123153",
+      "recordPath": "equipment/eaton-article-123153.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123153.json"
+    },
+    {
+      "id": "eaton-article-183352",
+      "name": "IZMX16H3-V08W-1 — Circuit-breaker, 3 pole, 800A, 66 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183352",
+      "recordPath": "equipment/eaton-article-183352.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183352.json"
+    },
+    {
+      "id": "eaton-article-183355",
+      "name": "IZMX16H3-V16W-1 — Circuit-breaker, 3 pole, 1600A, 66 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183355",
+      "recordPath": "equipment/eaton-article-183355.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183355.json"
+    },
+    {
+      "id": "eaton-article-183338",
+      "name": "IZMX16H3-V10F-1 — Circuit-breaker, 3 pole, 1000A, 66 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183338",
+      "recordPath": "equipment/eaton-article-183338.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183338.json"
+    },
+    {
+      "id": "eaton-article-183339",
+      "name": "IZMX16H3-V12F-1 — Circuit-breaker, 3 pole, 1250A, 66 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183339",
+      "recordPath": "equipment/eaton-article-183339.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183339.json"
+    },
+    {
+      "id": "eaton-article-123222",
+      "name": "IZMX16B4-V08W — Circuit-breaker 4p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123222",
+      "recordPath": "equipment/eaton-article-123222.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123222.json"
+    },
+    {
+      "id": "eaton-article-123150",
+      "name": "IZMX16H3-V16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123150",
+      "recordPath": "equipment/eaton-article-123150.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123150.json"
+    },
+    {
+      "id": "eaton-article-123480",
+      "name": "IZMX16B4-U16F — Circuit-breaker 4p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123480",
+      "recordPath": "equipment/eaton-article-123480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123480.json"
+    },
+    {
+      "id": "eaton-article-123159",
+      "name": "IZMX16H3-P12W — Circuit-breaker 3p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123159",
+      "recordPath": "equipment/eaton-article-123159.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123159.json"
+    },
+    {
+      "id": "eaton-article-183544",
+      "name": "IZMX16B4-V06F-1 — Circuit-breaker, 4 pole, 630A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183544",
+      "recordPath": "equipment/eaton-article-183544.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183544.json"
+    },
+    {
+      "id": "eaton-article-123229",
+      "name": "IZMX16B4-U12W — Circuit-breaker 4p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123229",
+      "recordPath": "equipment/eaton-article-123229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123229.json"
+    },
+    {
+      "id": "eaton-article-183562",
+      "name": "IZMX16B4-V12W-1 — Circuit-breaker, 4 pole, 1250A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183562",
+      "recordPath": "equipment/eaton-article-183562.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183562.json"
+    },
+    {
+      "id": "eaton-article-183353",
+      "name": "IZMX16H3-V10W-1 — Circuit-breaker, 3 pole, 1000A, 66 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183353",
+      "recordPath": "equipment/eaton-article-183353.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183353.json"
+    },
+    {
+      "id": "eaton-article-123223",
+      "name": "IZMX16B4-V10W — Circuit-breaker 4p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123223",
+      "recordPath": "equipment/eaton-article-123223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123223.json"
+    },
+    {
+      "id": "eaton-article-123146",
+      "name": "IZMX16H3-V06W — Circuit-breaker 3p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123146",
+      "recordPath": "equipment/eaton-article-123146.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123146.json"
+    },
+    {
+      "id": "eaton-article-123399",
+      "name": "IZMX16H3-V12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123399",
+      "recordPath": "equipment/eaton-article-123399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123399.json"
+    },
+    {
+      "id": "eaton-article-183482",
+      "name": "IZMX16H3-P12W-1 — Circuit-breaker, 3 pole, 1250A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183482",
+      "recordPath": "equipment/eaton-article-183482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183482.json"
+    },
+    {
+      "id": "eaton-article-123447",
+      "name": "IZMX16H3-P08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123447",
+      "recordPath": "equipment/eaton-article-123447.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123447.json"
+    },
+    {
+      "id": "eaton-article-123459",
+      "name": "IZMX16H3-P12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123459",
+      "recordPath": "equipment/eaton-article-123459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123459.json"
+    },
+    {
+      "id": "eaton-article-183468",
+      "name": "IZMX16H3-P16F-1 — Circuit-breaker, 3 pole, 1600A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183468",
+      "recordPath": "equipment/eaton-article-183468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183468.json"
+    },
+    {
+      "id": "eaton-article-123147",
+      "name": "IZMX16H3-V08W — Circuit-breaker 3p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123147",
+      "recordPath": "equipment/eaton-article-123147.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123147.json"
+    },
+    {
+      "id": "eaton-article-123225",
+      "name": "IZMX16B4-V16W — Circuit-breaker 4p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123225",
+      "recordPath": "equipment/eaton-article-123225.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123225.json"
+    },
+    {
+      "id": "eaton-article-183467",
+      "name": "IZMX16H3-P12F-1 — Circuit-breaker, 3 pole, 1250A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183467",
+      "recordPath": "equipment/eaton-article-183467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183467.json"
+    },
+    {
+      "id": "eaton-article-183351",
+      "name": "IZMX16H3-V06W-1 — Circuit-breaker, 3 pole, 630A, 66 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183351",
+      "recordPath": "equipment/eaton-article-183351.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183351.json"
+    },
+    {
+      "id": "eaton-article-123453",
+      "name": "IZMX16H3-P10F — Circuit-breaker 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123453",
+      "recordPath": "equipment/eaton-article-123453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123453.json"
+    },
+    {
+      "id": "eaton-article-123394",
+      "name": "IZMX16H3-A12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123394",
+      "recordPath": "equipment/eaton-article-123394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123394.json"
+    },
+    {
+      "id": "eaton-article-123417",
+      "name": "IZMX16H3-U08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123417",
+      "recordPath": "equipment/eaton-article-123417.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123417.json"
+    },
+    {
+      "id": "eaton-article-123149",
+      "name": "IZMX16H3-V12W — Circuit-breaker 3p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123149",
+      "recordPath": "equipment/eaton-article-123149.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123149.json"
+    },
+    {
+      "id": "eaton-article-183483",
+      "name": "IZMX16H3-P16W-1 — Circuit-breaker, 3 pole, 1600A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183483",
+      "recordPath": "equipment/eaton-article-183483.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183483.json"
+    },
+    {
+      "id": "eaton-article-123396",
+      "name": "IZMX16H3-V06F — Circuit-breaker 3p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123396",
+      "recordPath": "equipment/eaton-article-123396.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123396.json"
+    },
+    {
+      "id": "eaton-article-123224",
+      "name": "IZMX16B4-V12W — Circuit-breaker 4p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123224",
+      "recordPath": "equipment/eaton-article-123224.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123224.json"
+    },
+    {
+      "id": "eaton-article-123397",
+      "name": "IZMX16H3-V08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123397",
+      "recordPath": "equipment/eaton-article-123397.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123397.json"
+    },
+    {
+      "id": "eaton-article-123291",
+      "name": "IZMX16H4-P06W — Circuit-breaker 4p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123291",
+      "recordPath": "equipment/eaton-article-123291.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123291.json"
+    },
+    {
+      "id": "eaton-article-123460",
+      "name": "IZMX16H3-P16F — Circuit-breaker 3p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123460",
+      "recordPath": "equipment/eaton-article-123460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123460.json"
+    },
+    {
+      "id": "eaton-article-183337",
+      "name": "IZMX16H3-V08F-1 — Circuit-breaker, 3 pole, 800A, 66 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183337",
+      "recordPath": "equipment/eaton-article-183337.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183337.json"
+    },
+    {
+      "id": "eaton-article-183559",
+      "name": "IZMX16B4-V06W-1 — Circuit-breaker, 4 pole, 630A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183559",
+      "recordPath": "equipment/eaton-article-183559.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183559.json"
+    },
+    {
+      "id": "eaton-article-123411",
+      "name": "IZMX16H3-U06F — Circuit-breaker 3p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123411",
+      "recordPath": "equipment/eaton-article-123411.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123411.json"
+    },
+    {
+      "id": "eaton-article-183412",
+      "name": "IZMX16H4-P06W-1 — Circuit-breaker, 4 pole, 630A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183412",
+      "recordPath": "equipment/eaton-article-183412.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183412.json"
+    },
+    {
+      "id": "eaton-article-183336",
+      "name": "IZMX16H3-V06F-1 — Circuit-breaker, 3 pole, 630A, 66 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183336",
+      "recordPath": "equipment/eaton-article-183336.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183336.json"
+    },
+    {
+      "id": "eaton-article-123441",
+      "name": "IZMX16H3-P06F — Circuit-breaker 3p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123441",
+      "recordPath": "equipment/eaton-article-123441.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123441.json"
+    },
+    {
+      "id": "eaton-article-123473",
+      "name": "IZMX16B4-V10F — Circuit-breaker 4p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123473",
+      "recordPath": "equipment/eaton-article-123473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123473.json"
+    },
+    {
+      "id": "eaton-article-123297",
+      "name": "IZMX16H4-P08W — Circuit-breaker 4p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123297",
+      "recordPath": "equipment/eaton-article-123297.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123297.json"
+    },
+    {
+      "id": "eaton-article-123474",
+      "name": "IZMX16B4-V12F — Circuit-breaker 4p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123474",
+      "recordPath": "equipment/eaton-article-123474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123474.json"
+    },
+    {
+      "id": "eaton-article-183548",
+      "name": "IZMX16B4-V16F-1 — Circuit-breaker, 4 pole, 1600A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183548",
+      "recordPath": "equipment/eaton-article-183548.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183548.json"
+    },
+    {
+      "id": "eaton-article-123148",
+      "name": "IZMX16H3-V10W — Circuit-breaker 3p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123148",
+      "recordPath": "equipment/eaton-article-123148.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123148.json"
+    },
+    {
+      "id": "eaton-article-183479",
+      "name": "IZMX16H3-P06W-1 — Circuit-breaker, 3 pole, 630A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183479",
+      "recordPath": "equipment/eaton-article-183479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183479.json"
+    },
+    {
+      "id": "eaton-article-183354",
+      "name": "IZMX16H3-V12W-1 — Circuit-breaker, 3 pole, 1250A, 66 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183354",
+      "recordPath": "equipment/eaton-article-183354.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183354.json"
+    },
+    {
+      "id": "eaton-article-183464",
+      "name": "IZMX16H3-P06F-1 — Circuit-breaker, 3 pole, 630A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183464",
+      "recordPath": "equipment/eaton-article-183464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183464.json"
+    },
+    {
+      "id": "eaton-article-123405",
+      "name": "IZMX16H3-V16F — Circuit-breaker 3p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123405",
+      "recordPath": "equipment/eaton-article-123405.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123405.json"
+    },
+    {
+      "id": "eaton-article-123157",
+      "name": "IZMX16H3-P08W — Circuit-breaker 3p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123157",
+      "recordPath": "equipment/eaton-article-123157.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123157.json"
+    },
+    {
+      "id": "eaton-article-123471",
+      "name": "IZMX16B4-V06F — Circuit-breaker 4p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123471",
+      "recordPath": "equipment/eaton-article-123471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123471.json"
+    },
+    {
+      "id": "eaton-article-123221",
+      "name": "IZMX16B4-V06W — Circuit-breaker 4p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123221",
+      "recordPath": "equipment/eaton-article-123221.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123221.json"
+    },
+    {
+      "id": "eaton-article-183561",
+      "name": "IZMX16B4-V10W-1 — Circuit-breaker, 4 pole, 1000A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183561",
+      "recordPath": "equipment/eaton-article-183561.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183561.json"
+    },
+    {
+      "id": "eaton-article-183453",
+      "name": "IZMX16H4-P08F-1 — Circuit-breaker, 4 pole, 800A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183453",
+      "recordPath": "equipment/eaton-article-183453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183453.json"
+    },
+    {
+      "id": "eaton-article-183452",
+      "name": "IZMX16H4-P06F-1 — Circuit-breaker, 4 pole, 630A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183452",
+      "recordPath": "equipment/eaton-article-183452.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183452.json"
+    },
+    {
+      "id": "eaton-article-183560",
+      "name": "IZMX16B4-V08W-1 — Circuit-breaker, 4 pole, 800A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183560",
+      "recordPath": "equipment/eaton-article-183560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183560.json"
+    },
+    {
+      "id": "eaton-article-183465",
+      "name": "IZMX16H3-P08F-1 — Circuit-breaker, 3 pole, 800A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183465",
+      "recordPath": "equipment/eaton-article-183465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183465.json"
+    },
+    {
+      "id": "eaton-article-123142",
+      "name": "IZMX16H3-A08W — Circuit-breaker 3p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123142",
+      "recordPath": "equipment/eaton-article-123142.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123142.json"
+    },
+    {
+      "id": "eaton-article-123154",
+      "name": "IZMX16H3-U12W — Circuit-breaker 3p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123154",
+      "recordPath": "equipment/eaton-article-123154.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123154.json"
+    },
+    {
+      "id": "eaton-article-123475",
+      "name": "IZMX16B4-V16F — Circuit-breaker 4p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123475",
+      "recordPath": "equipment/eaton-article-123475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123475.json"
+    },
+    {
+      "id": "eaton-article-183466",
+      "name": "IZMX16H3-P10F-1 — Circuit-breaker, 3 pole, 1000A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183466",
+      "recordPath": "equipment/eaton-article-183466.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183466.json"
+    },
+    {
+      "id": "eaton-article-123429",
+      "name": "IZMX16H3-U12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123429",
+      "recordPath": "equipment/eaton-article-123429.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123429.json"
+    },
+    {
+      "id": "eaton-article-123393",
+      "name": "IZMX16H3-A10F — Circuit-breaker 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123393",
+      "recordPath": "equipment/eaton-article-123393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123393.json"
+    },
+    {
+      "id": "eaton-article-183480",
+      "name": "IZMX16H3-P08W-1 — Circuit-breaker, 3 pole, 800A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183480",
+      "recordPath": "equipment/eaton-article-183480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183480.json"
+    },
+    {
+      "id": "eaton-article-183546",
+      "name": "IZMX16B4-V10F-1 — Circuit-breaker, 4 pole, 1000A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183546",
+      "recordPath": "equipment/eaton-article-183546.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183546.json"
+    },
+    {
+      "id": "eaton-article-123479",
+      "name": "IZMX16B4-U12F — Circuit-breaker 4p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123479",
+      "recordPath": "equipment/eaton-article-123479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123479.json"
+    },
+    {
+      "id": "eaton-article-183563",
+      "name": "IZMX16B4-V16W-1 — Circuit-breaker, 4 pole, 1600A, 42 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183563",
+      "recordPath": "equipment/eaton-article-183563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183563.json"
+    },
+    {
+      "id": "eaton-article-183340",
+      "name": "IZMX16H3-V16F-1 — Circuit-breaker, 3 pole, 1600A, 66 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183340",
+      "recordPath": "equipment/eaton-article-183340.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183340.json"
+    },
+    {
+      "id": "eaton-article-123151",
+      "name": "IZMX16H3-U06W — Circuit-breaker 3p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123151",
+      "recordPath": "equipment/eaton-article-123151.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123151.json"
+    },
+    {
+      "id": "eaton-article-123423",
+      "name": "IZMX16H3-U10F — Circuit-breaker 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123423",
+      "recordPath": "equipment/eaton-article-123423.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123423.json"
+    },
+    {
+      "id": "eaton-article-123435",
+      "name": "IZMX16H3-U16F — Circuit-breaker 3p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123435",
+      "recordPath": "equipment/eaton-article-123435.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123435.json"
+    },
+    {
+      "id": "eaton-article-123158",
+      "name": "IZMX16H3-P10W — Circuit-breaker 3p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123158",
+      "recordPath": "equipment/eaton-article-123158.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123158.json"
+    },
+    {
+      "id": "eaton-article-123156",
+      "name": "IZMX16H3-P06W — Circuit-breaker 3p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123156",
+      "recordPath": "equipment/eaton-article-123156.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123156.json"
+    },
+    {
+      "id": "eaton-article-183481",
+      "name": "IZMX16H3-P10W-1 — Circuit-breaker, 3 pole, 1000A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183481",
+      "recordPath": "equipment/eaton-article-183481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183481.json"
+    },
+    {
+      "id": "eaton-article-183547",
+      "name": "IZMX16B4-V12F-1 — Circuit-breaker, 4 pole, 1250A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183547",
+      "recordPath": "equipment/eaton-article-183547.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183547.json"
+    },
+    {
+      "id": "eaton-article-183545",
+      "name": "IZMX16B4-V08F-1 — Circuit-breaker, 4 pole, 800A, 42 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183545",
+      "recordPath": "equipment/eaton-article-183545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183545.json"
+    },
+    {
+      "id": "eaton-article-123398",
+      "name": "IZMX16H3-V10F — Circuit-breaker 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123398",
+      "recordPath": "equipment/eaton-article-123398.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123398.json"
+    },
+    {
+      "id": "eaton-article-123472",
+      "name": "IZMX16B4-V08F — Circuit-breaker 4p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123472",
+      "recordPath": "equipment/eaton-article-123472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123472.json"
+    },
+    {
+      "id": "eaton-article-123130",
+      "name": "IZMX16N3-U16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123130",
+      "recordPath": "equipment/eaton-article-123130.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123130.json"
+    },
+    {
+      "id": "eaton-article-123135",
+      "name": "IZMX16N3-P16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123135",
+      "recordPath": "equipment/eaton-article-123135.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123135.json"
+    },
+    {
+      "id": "eaton-article-123094",
+      "name": "IZMX16N3-A16W — Circuit-breaker 3p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123094",
+      "recordPath": "equipment/eaton-article-123094.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123094.json"
+    },
+    {
+      "id": "eaton-article-123579",
+      "name": "IZMX16H4-U12F — Circuit-breaker 4p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123579",
+      "recordPath": "equipment/eaton-article-123579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123579.json"
+    },
+    {
+      "id": "eaton-article-183349",
+      "name": "IZMX16N3-V12W-1 — Circuit-breaker, 3 pole, 1250A, 50 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183349",
+      "recordPath": "equipment/eaton-article-183349.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183349.json"
+    },
+    {
+      "id": "eaton-article-183455",
+      "name": "IZMX16H4-P12F-1 — Circuit-breaker, 4 pole, 1250A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183455",
+      "recordPath": "equipment/eaton-article-183455.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183455.json"
+    },
+    {
+      "id": "eaton-article-123384",
+      "name": "IZMX16N3-P12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123384",
+      "recordPath": "equipment/eaton-article-123384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123384.json"
+    },
+    {
+      "id": "eaton-article-123277",
+      "name": "IZMX16H4-U08W — Circuit-breaker 4p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123277",
+      "recordPath": "equipment/eaton-article-123277.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123277.json"
+    },
+    {
+      "id": "eaton-article-123373",
+      "name": "IZMX16N3-V10F — Circuit-breaker 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123373",
+      "recordPath": "equipment/eaton-article-123373.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123373.json"
+    },
+    {
+      "id": "eaton-article-123092",
+      "name": "IZMX16N3-A12W — Circuit-breaker 3p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123092",
+      "recordPath": "equipment/eaton-article-123092.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123092.json"
+    },
+    {
+      "id": "eaton-article-183415",
+      "name": "IZMX16H4-P12W-1 — Circuit-breaker, 4 pole, 1250A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183415",
+      "recordPath": "equipment/eaton-article-183415.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183415.json"
+    },
+    {
+      "id": "eaton-article-123131",
+      "name": "IZMX16N3-P06W — Circuit-breaker 3p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123131",
+      "recordPath": "equipment/eaton-article-123131.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123131.json"
+    },
+    {
+      "id": "eaton-article-123375",
+      "name": "IZMX16N3-V16F — Circuit-breaker 3p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123375",
+      "recordPath": "equipment/eaton-article-123375.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123375.json"
+    },
+    {
+      "id": "eaton-article-123285",
+      "name": "IZMX16H4-U16W — Circuit-breaker 4p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123285",
+      "recordPath": "equipment/eaton-article-123285.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123285.json"
+    },
+    {
+      "id": "eaton-article-183454",
+      "name": "IZMX16H4-P10F-1 — Circuit-breaker, 4 pole, 1000A, 66 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183454",
+      "recordPath": "equipment/eaton-article-183454.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183454.json"
+    },
+    {
+      "id": "eaton-article-123537",
+      "name": "IZMX16H4-V08F — Circuit-breaker 4p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123537",
+      "recordPath": "equipment/eaton-article-123537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123537.json"
+    },
+    {
+      "id": "eaton-article-123382",
+      "name": "IZMX16N3-P08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123382",
+      "recordPath": "equipment/eaton-article-123382.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123382.json"
+    },
+    {
+      "id": "eaton-article-183397",
+      "name": "IZMX16H4-V16W-1 — Circuit-breaker, 4 pole, 1600A, 66 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183397",
+      "recordPath": "equipment/eaton-article-183397.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183397.json"
+    },
+    {
+      "id": "eaton-article-123377",
+      "name": "IZMX16N3-U08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123377",
+      "recordPath": "equipment/eaton-article-123377.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123377.json"
+    },
+    {
+      "id": "eaton-article-123134",
+      "name": "IZMX16N3-P12W — Circuit-breaker 3p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123134",
+      "recordPath": "equipment/eaton-article-123134.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123134.json"
+    },
+    {
+      "id": "eaton-article-123567",
+      "name": "IZMX16H4-U08F — Circuit-breaker 4p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123567",
+      "recordPath": "equipment/eaton-article-123567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123567.json"
+    },
+    {
+      "id": "eaton-article-123279",
+      "name": "IZMX16H4-U12W — Circuit-breaker 4p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123279",
+      "recordPath": "equipment/eaton-article-123279.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123279.json"
+    },
+    {
+      "id": "eaton-article-123549",
+      "name": "IZMX16H4-V12F — Circuit-breaker 4p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123549",
+      "recordPath": "equipment/eaton-article-123549.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123549.json"
+    },
+    {
+      "id": "eaton-article-123372",
+      "name": "IZMX16N3-V08F — Circuit-breaker 3p, 800A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123372",
+      "recordPath": "equipment/eaton-article-123372.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123372.json"
+    },
+    {
+      "id": "eaton-article-123381",
+      "name": "IZMX16N3-P06F — Circuit-breaker 3p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123381",
+      "recordPath": "equipment/eaton-article-123381.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123381.json"
+    },
+    {
+      "id": "eaton-article-123271",
+      "name": "IZMX16H4-V06W — Circuit-breaker 4p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123271",
+      "recordPath": "equipment/eaton-article-123271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123271.json"
+    },
+    {
+      "id": "eaton-article-183362",
+      "name": "IZMX16N3-P08F-1 — Circuit-breaker, 3 pole, 800A, 50 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183362",
+      "recordPath": "equipment/eaton-article-183362.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183362.json"
+    },
+    {
+      "id": "eaton-article-183416",
+      "name": "IZMX16H4-P16W-1 — Circuit-breaker, 4 pole, 1600A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183416",
+      "recordPath": "equipment/eaton-article-183416.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183416.json"
+    },
+    {
+      "id": "eaton-article-123380",
+      "name": "IZMX16N3-U16F — Circuit-breaker 3p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123380",
+      "recordPath": "equipment/eaton-article-123380.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123380.json"
+    },
+    {
+      "id": "eaton-article-183555",
+      "name": "IZMX16H4-V08F-1 — Circuit-breaker, 4 pole, 800A, 66 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183555",
+      "recordPath": "equipment/eaton-article-183555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183555.json"
+    },
+    {
+      "id": "eaton-article-183475",
+      "name": "IZMX16N3-P08W-1 — Circuit-breaker, 3 pole, 800A, 50 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183475",
+      "recordPath": "equipment/eaton-article-183475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183475.json"
+    },
+    {
+      "id": "eaton-article-123555",
+      "name": "IZMX16H4-V16F — Circuit-breaker 4p, 1600A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123555",
+      "recordPath": "equipment/eaton-article-123555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123555.json"
+    },
+    {
+      "id": "eaton-article-183361",
+      "name": "IZMX16N3-P06F-1 — Circuit-breaker, 3 pole, 630A, 50 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183361",
+      "recordPath": "equipment/eaton-article-183361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183361.json"
+    },
+    {
+      "id": "eaton-article-123129",
+      "name": "IZMX16N3-U12W — Circuit-breaker 3p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123129",
+      "recordPath": "equipment/eaton-article-123129.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123129.json"
+    },
+    {
+      "id": "eaton-article-183335",
+      "name": "IZMX16N3-V16F-1 — Circuit-breaker, 3 pole, 1600A, 50 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183335",
+      "recordPath": "equipment/eaton-article-183335.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183335.json"
+    },
+    {
+      "id": "eaton-article-183557",
+      "name": "IZMX16H4-V12F-1 — Circuit-breaker, 4 pole, 1250A, 66 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183557",
+      "recordPath": "equipment/eaton-article-183557.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183557.json"
+    },
+    {
+      "id": "eaton-article-123573",
+      "name": "IZMX16H4-U10F — Circuit-breaker 4p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123573",
+      "recordPath": "equipment/eaton-article-123573.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123573.json"
+    },
+    {
+      "id": "eaton-article-183363",
+      "name": "IZMX16N3-P10F-1 — Circuit-breaker, 3 pole, 1000A, 50 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183363",
+      "recordPath": "equipment/eaton-article-183363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183363.json"
+    },
+    {
+      "id": "eaton-article-183463",
+      "name": "IZMX16N3-P16F-1 — Circuit-breaker, 3 pole, 1600A, 50 kA, P measurement, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183463",
+      "recordPath": "equipment/eaton-article-183463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183463.json"
+    },
+    {
+      "id": "eaton-article-123379",
+      "name": "IZMX16N3-U12F — Circuit-breaker 3p, 1250A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123379",
+      "recordPath": "equipment/eaton-article-123379.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123379.json"
+    },
+    {
+      "id": "eaton-article-123315",
+      "name": "IZMX16H4-P16W — Circuit-breaker 4p, 1600A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123315",
+      "recordPath": "equipment/eaton-article-123315.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123315.json"
+    },
+    {
+      "id": "eaton-article-123383",
+      "name": "IZMX16N3-P10F — Circuit-breaker 3p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123383",
+      "recordPath": "equipment/eaton-article-123383.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123383.json"
+    },
+    {
+      "id": "eaton-article-183414",
+      "name": "IZMX16H4-P10W-1 — Circuit-breaker, 4 pole, 1000A, 66 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183414",
+      "recordPath": "equipment/eaton-article-183414.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183414.json"
+    },
+    {
+      "id": "eaton-article-123272",
+      "name": "IZMX16H4-V08W — Circuit-breaker 4p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123272",
+      "recordPath": "equipment/eaton-article-123272.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123272.json"
+    },
+    {
+      "id": "eaton-article-123278",
+      "name": "IZMX16H4-U10W — Circuit-breaker 4p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123278",
+      "recordPath": "equipment/eaton-article-123278.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123278.json"
+    },
+    {
+      "id": "eaton-article-123114",
+      "name": "IZMX16N3-U10W — Circuit-breaker 3p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123114",
+      "recordPath": "equipment/eaton-article-123114.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123114.json"
+    },
+    {
+      "id": "eaton-article-123101",
+      "name": "IZMX16N3-V10W — Circuit-breaker 3p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123101",
+      "recordPath": "equipment/eaton-article-123101.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123101.json"
+    },
+    {
+      "id": "eaton-article-183348",
+      "name": "IZMX16N3-V10W-1 — Circuit-breaker, 3 pole, 1000A, 50 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183348",
+      "recordPath": "equipment/eaton-article-183348.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183348.json"
+    },
+    {
+      "id": "eaton-article-123531",
+      "name": "IZMX16H4-V06F — Circuit-breaker 4p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123531",
+      "recordPath": "equipment/eaton-article-123531.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123531.json"
+    },
+    {
+      "id": "eaton-article-123543",
+      "name": "IZMX16H4-V10F — Circuit-breaker 4p, 1000A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123543",
+      "recordPath": "equipment/eaton-article-123543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123543.json"
+    },
+    {
+      "id": "eaton-article-123371",
+      "name": "IZMX16N3-V06F — Circuit-breaker 3p, 630A, fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123371",
+      "recordPath": "equipment/eaton-article-123371.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123371.json"
+    },
+    {
+      "id": "eaton-article-183331",
+      "name": "IZMX16N3-V06F-1 — Circuit-breaker, 3 pole, 630A, 50 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183331",
+      "recordPath": "equipment/eaton-article-183331.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183331.json"
+    },
+    {
+      "id": "eaton-article-183334",
+      "name": "IZMX16N3-V12F-1 — Circuit-breaker, 3 pole, 1250A, 50 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183334",
+      "recordPath": "equipment/eaton-article-183334.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183334.json"
+    },
+    {
+      "id": "eaton-article-123097",
+      "name": "IZMX16N3-V06W — Circuit-breaker 3p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123097",
+      "recordPath": "equipment/eaton-article-123097.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123097.json"
+    },
+    {
+      "id": "eaton-article-123303",
+      "name": "IZMX16H4-P10W — Circuit-breaker 4p, 1000A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123303",
+      "recordPath": "equipment/eaton-article-123303.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123303.json"
+    },
+    {
+      "id": "eaton-article-183570",
+      "name": "IZMX16H4-V08W-1 — Circuit-breaker, 4 pole, 800A, 66 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183570",
+      "recordPath": "equipment/eaton-article-183570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183570.json"
+    },
+    {
+      "id": "eaton-article-123103",
+      "name": "IZMX16N3-V12W — Circuit-breaker 3p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123103",
+      "recordPath": "equipment/eaton-article-123103.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123103.json"
+    },
+    {
+      "id": "eaton-article-123132",
+      "name": "IZMX16N3-P08W — Circuit-breaker 3p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123132",
+      "recordPath": "equipment/eaton-article-123132.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123132.json"
+    },
+    {
+      "id": "eaton-article-123274",
+      "name": "IZMX16H4-V12W — Circuit-breaker 4p, 1250A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123274",
+      "recordPath": "equipment/eaton-article-123274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123274.json"
+    },
+    {
+      "id": "eaton-article-183572",
+      "name": "IZMX16H4-V12W-1 — Circuit-breaker, 4 pole, 1250A, 66 kA, Selective operation, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183572",
+      "recordPath": "equipment/eaton-article-183572.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183572.json"
+    },
+    {
+      "id": "eaton-article-183556",
+      "name": "IZMX16H4-V10F-1 — Circuit-breaker, 4 pole, 1000A, 66 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183556",
+      "recordPath": "equipment/eaton-article-183556.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183556.json"
+    },
+    {
+      "id": "eaton-article-183332",
+      "name": "IZMX16N3-V08F-1 — Circuit-breaker, 3 pole, 800A, 50 kA, Selective operation, IEC, Fixed",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183332",
+      "recordPath": "equipment/eaton-article-183332.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183332.json"
+    },
+    {
+      "id": "eaton-article-183474",
+      "name": "IZMX16N3-P06W-1 — Circuit-breaker, 3 pole, 630A, 50 kA, P measurement, IEC, Withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-183474",
+      "recordPath": "equipment/eaton-article-183474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-183474.json"
+    },
+    {
+      "id": "eaton-article-123276",
+      "name": "IZMX16H4-U06W — Circuit-breaker 4p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123276",
+      "recordPath": "equipment/eaton-article-123276.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123276.json"
+    },
+    {
+      "id": "eaton-article-123099",
+      "name": "IZMX16N3-V08W — Circuit-breaker 3p, 800A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123099",
+      "recordPath": "equipment/eaton-article-123099.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123099.json"
+    },
+    {
+      "id": "eaton-article-123109",
+      "name": "IZMX16N3-U06W — Circuit-breaker 3p, 630A, withdrawable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-123109",
+      "recordPath": "equipment/eaton-article-123109.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-123109.json"
+    }
+  ]
+}

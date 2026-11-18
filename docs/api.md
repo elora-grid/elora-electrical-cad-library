@@ -28,6 +28,12 @@ POST selection bodies contain only `{"artifact_ids":["record-id:file-id"]}`. Thi
 
 The v1 access policy makes public manufacturer originals and reviewed public equivalents anonymous. Reviewed exclusive conversions require a free verified CAD account and separate scoped agent consent. Read the artifact’s current access result rather than inferring availability from this snapshot. Stable links renew short-lived attachments; verify delivered bytes against the artifact/delivery SHA-256, and source bytes against the original SHA-256.
 
+Public artifact access remains subject to delivery allowances. Once the
+anonymous allowance is used, `401 registration_required` directs the caller to
+reusable email registration. Follow current capabilities and allowance responses
+for monthly file limits, daily byte safeguards and verified existing paid-plan
+access. Metadata and public MCP discovery do not require registration.
+
 Official standalone clients are linked from the workflow guide: [Python](https://eloragrid.ai/cad-library/sdk/cad_library.py) and [TypeScript](https://eloragrid.ai/cad-library/sdk/cad-library.ts). These are official HTTP clients for the live API.
 
 ## Existing catalogue API and bulk exports

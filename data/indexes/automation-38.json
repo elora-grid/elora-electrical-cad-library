@@ -1,0 +1,3004 @@
+{
+  "schemaVersion": 1,
+  "category": "automation",
+  "page": 38,
+  "entries": [
+    {
+      "id": "eaton-article-198548",
+      "name": "RASP5-2400A31-512R000S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198548",
+      "recordPath": "equipment/eaton-article-198548.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198548.json"
+    },
+    {
+      "id": "eaton-article-199084",
+      "name": "RAMO5-W210A31-4120S1 — Reversing starter, 6.6 A, Sensor input 2, Actuator output 1, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199084",
+      "recordPath": "equipment/eaton-article-199084.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199084.json"
+    },
+    {
+      "id": "eaton-article-198745",
+      "name": "RASP5-2401A31-412R000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198745",
+      "recordPath": "equipment/eaton-article-198745.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198745.json"
+    },
+    {
+      "id": "eaton-article-198733",
+      "name": "RASP5-2401A31-4120100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198733",
+      "recordPath": "equipment/eaton-article-198733.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198733.json"
+    },
+    {
+      "id": "eaton-article-198750",
+      "name": "RASP5-2402A31-412R100S1 — Speed controller, 2.4 A, 0.75 kW, 4 inputs, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198750",
+      "recordPath": "equipment/eaton-article-198750.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198750.json"
+    },
+    {
+      "id": "eaton-article-198758",
+      "name": "RASP5-2402A31-412R110S1 — Speed controller, 2.4 A, 0.75 kW, 4 inputs, 230/277 V AC, AS-Interface, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198758",
+      "recordPath": "equipment/eaton-article-198758.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198758.json"
+    },
+    {
+      "id": "eaton-article-198755",
+      "name": "RASP5-2404A31-412R010S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198755",
+      "recordPath": "equipment/eaton-article-198755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198755.json"
+    },
+    {
+      "id": "eaton-article-198728",
+      "name": "RASP5-2400A31-4120000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198728",
+      "recordPath": "equipment/eaton-article-198728.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198728.json"
+    },
+    {
+      "id": "eaton-article-198740",
+      "name": "RASP5-2400A31-4120110S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198740",
+      "recordPath": "equipment/eaton-article-198740.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198740.json"
+    },
+    {
+      "id": "eaton-article-198729",
+      "name": "RASP5-2401A31-4120000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198729",
+      "recordPath": "equipment/eaton-article-198729.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198729.json"
+    },
+    {
+      "id": "eaton-article-198747",
+      "name": "RASP5-2404A31-412R000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198747",
+      "recordPath": "equipment/eaton-article-198747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198747.json"
+    },
+    {
+      "id": "eaton-article-198744",
+      "name": "RASP5-2400A31-412R000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198744",
+      "recordPath": "equipment/eaton-article-198744.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198744.json"
+    },
+    {
+      "id": "eaton-article-198749",
+      "name": "RASP5-2401A31-412R100S1 — Speed controller, 2.4 A, 0.75 kW, 4 inputs, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198749",
+      "recordPath": "equipment/eaton-article-198749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198749.json"
+    },
+    {
+      "id": "eaton-article-198792",
+      "name": "RASP5-4400A31-412R110S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198792",
+      "recordPath": "equipment/eaton-article-198792.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198792.json"
+    },
+    {
+      "id": "eaton-article-198553",
+      "name": "RASP5-2404A31-512R100S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q5, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198553",
+      "recordPath": "equipment/eaton-article-198553.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198553.json"
+    },
+    {
+      "id": "eaton-article-198562",
+      "name": "RASP5-4404A31-512R000S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198562",
+      "recordPath": "equipment/eaton-article-198562.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198562.json"
+    },
+    {
+      "id": "eaton-article-198550",
+      "name": "RASP5-2404A31-512R000S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198550",
+      "recordPath": "equipment/eaton-article-198550.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198550.json"
+    },
+    {
+      "id": "eaton-article-198557",
+      "name": "RASP5-4400A31-5120100S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198557",
+      "recordPath": "equipment/eaton-article-198557.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198557.json"
+    },
+    {
+      "id": "eaton-article-198937",
+      "name": "RASP5-2421PNT-4120100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198937",
+      "recordPath": "equipment/eaton-article-198937.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198937.json"
+    },
+    {
+      "id": "eaton-article-198761",
+      "name": "RASP5-4401A31-5120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198761",
+      "recordPath": "equipment/eaton-article-198761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198761.json"
+    },
+    {
+      "id": "eaton-article-198762",
+      "name": "RASP5-4401A31-512R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198762",
+      "recordPath": "equipment/eaton-article-198762.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198762.json"
+    },
+    {
+      "id": "eaton-article-198764",
+      "name": "RASP5-4400A31-4120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198764",
+      "recordPath": "equipment/eaton-article-198764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198764.json"
+    },
+    {
+      "id": "eaton-article-198947",
+      "name": "RASP5-2424PNT-4120110S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198947",
+      "recordPath": "equipment/eaton-article-198947.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198947.json"
+    },
+    {
+      "id": "eaton-article-198936",
+      "name": "RASP5-2420PNT-4120100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198936",
+      "recordPath": "equipment/eaton-article-198936.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198936.json"
+    },
+    {
+      "id": "eaton-article-198949",
+      "name": "RASP5-2421PNT-412R000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198949",
+      "recordPath": "equipment/eaton-article-198949.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198949.json"
+    },
+    {
+      "id": "eaton-article-198772",
+      "name": "RASP5-4400A31-4120010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198772",
+      "recordPath": "equipment/eaton-article-198772.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198772.json"
+    },
+    {
+      "id": "eaton-article-198943",
+      "name": "RASP5-2424PNT-4120010S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198943",
+      "recordPath": "equipment/eaton-article-198943.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198943.json"
+    },
+    {
+      "id": "eaton-article-198767",
+      "name": "RASP5-4404A31-4120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198767",
+      "recordPath": "equipment/eaton-article-198767.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198767.json"
+    },
+    {
+      "id": "eaton-article-198933",
+      "name": "RASP5-2421PNT-4120000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198933",
+      "recordPath": "equipment/eaton-article-198933.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198933.json"
+    },
+    {
+      "id": "eaton-article-198948",
+      "name": "RASP5-2420PNT-412R000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198948",
+      "recordPath": "equipment/eaton-article-198948.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198948.json"
+    },
+    {
+      "id": "eaton-article-198939",
+      "name": "RASP5-2424PNT-4120100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198939",
+      "recordPath": "equipment/eaton-article-198939.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198939.json"
+    },
+    {
+      "id": "eaton-article-198776",
+      "name": "RASP5-4400A31-4120110S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198776",
+      "recordPath": "equipment/eaton-article-198776.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198776.json"
+    },
+    {
+      "id": "eaton-article-198769",
+      "name": "RASP5-4401A31-4120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198769",
+      "recordPath": "equipment/eaton-article-198769.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198769.json"
+    },
+    {
+      "id": "eaton-article-198942",
+      "name": "RASP5-2422PNT-4120010S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198942",
+      "recordPath": "equipment/eaton-article-198942.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198942.json"
+    },
+    {
+      "id": "eaton-article-198782",
+      "name": "RASP5-4402A31-412R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198782",
+      "recordPath": "equipment/eaton-article-198782.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198782.json"
+    },
+    {
+      "id": "eaton-article-198781",
+      "name": "RASP5-4401A31-412R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198781",
+      "recordPath": "equipment/eaton-article-198781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198781.json"
+    },
+    {
+      "id": "eaton-article-198793",
+      "name": "RASP5-4401A31-412R110S1 — Speed controller, 4.3 A, 1.5 kW, 4 inputs, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198793",
+      "recordPath": "equipment/eaton-article-198793.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198793.json"
+    },
+    {
+      "id": "eaton-article-198771",
+      "name": "RASP5-4404A31-4120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198771",
+      "recordPath": "equipment/eaton-article-198771.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198771.json"
+    },
+    {
+      "id": "eaton-article-198950",
+      "name": "RASP5-2422PNT-412R000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198950",
+      "recordPath": "equipment/eaton-article-198950.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198950.json"
+    },
+    {
+      "id": "eaton-article-198952",
+      "name": "RASP5-2420PNT-412R100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198952",
+      "recordPath": "equipment/eaton-article-198952.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198952.json"
+    },
+    {
+      "id": "eaton-article-198785",
+      "name": "RASP5-4401A31-412R100S1 — Speed controller, 4.3 A, 1.5 kW, 4 inputs, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198785",
+      "recordPath": "equipment/eaton-article-198785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198785.json"
+    },
+    {
+      "id": "eaton-article-198777",
+      "name": "RASP5-4401A31-4120110S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198777",
+      "recordPath": "equipment/eaton-article-198777.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198777.json"
+    },
+    {
+      "id": "eaton-article-198790",
+      "name": "RASP5-4402A31-412R010S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198790",
+      "recordPath": "equipment/eaton-article-198790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198790.json"
+    },
+    {
+      "id": "eaton-article-198958",
+      "name": "RASP5-2422PNT-412R010S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198958",
+      "recordPath": "equipment/eaton-article-198958.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198958.json"
+    },
+    {
+      "id": "eaton-article-198786",
+      "name": "RASP5-4402A31-412R100S1 — Speed controller, 4.3 A, 1.5 kW, 4 inputs, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198786",
+      "recordPath": "equipment/eaton-article-198786.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198786.json"
+    },
+    {
+      "id": "eaton-article-198962",
+      "name": "RASP5-2422PNT-412R110S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198962",
+      "recordPath": "equipment/eaton-article-198962.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198962.json"
+    },
+    {
+      "id": "eaton-article-198963",
+      "name": "RASP5-2424PNT-412R110S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198963",
+      "recordPath": "equipment/eaton-article-198963.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198963.json"
+    },
+    {
+      "id": "eaton-article-198788",
+      "name": "RASP5-4400A31-412R010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198788",
+      "recordPath": "equipment/eaton-article-198788.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198788.json"
+    },
+    {
+      "id": "eaton-article-198956",
+      "name": "RASP5-2420PNT-412R010S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198956",
+      "recordPath": "equipment/eaton-article-198956.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198956.json"
+    },
+    {
+      "id": "eaton-article-198954",
+      "name": "RASP5-2422PNT-412R100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198954",
+      "recordPath": "equipment/eaton-article-198954.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198954.json"
+    },
+    {
+      "id": "eaton-article-198560",
+      "name": "RASP5-4400A31-512R000S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198560",
+      "recordPath": "equipment/eaton-article-198560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198560.json"
+    },
+    {
+      "id": "eaton-article-198934",
+      "name": "RASP5-2422PNT-4120000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198934",
+      "recordPath": "equipment/eaton-article-198934.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198934.json"
+    },
+    {
+      "id": "eaton-article-198945",
+      "name": "RASP5-2421PNT-4120110S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198945",
+      "recordPath": "equipment/eaton-article-198945.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198945.json"
+    },
+    {
+      "id": "eaton-article-198957",
+      "name": "RASP5-2421PNT-412R010S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198957",
+      "recordPath": "equipment/eaton-article-198957.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198957.json"
+    },
+    {
+      "id": "eaton-article-198763",
+      "name": "RASP5-4401A31-512R100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q5, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198763",
+      "recordPath": "equipment/eaton-article-198763.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198763.json"
+    },
+    {
+      "id": "eaton-article-198791",
+      "name": "RASP5-4404A31-412R010S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198791",
+      "recordPath": "equipment/eaton-article-198791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198791.json"
+    },
+    {
+      "id": "eaton-article-198960",
+      "name": "RASP5-2420PNT-412R110S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198960",
+      "recordPath": "equipment/eaton-article-198960.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198960.json"
+    },
+    {
+      "id": "eaton-article-198951",
+      "name": "RASP5-2424PNT-412R000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198951",
+      "recordPath": "equipment/eaton-article-198951.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198951.json"
+    },
+    {
+      "id": "eaton-article-198561",
+      "name": "RASP5-4402A31-512R000S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198561",
+      "recordPath": "equipment/eaton-article-198561.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198561.json"
+    },
+    {
+      "id": "eaton-article-198556",
+      "name": "RASP5-4404A31-5120000S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198556",
+      "recordPath": "equipment/eaton-article-198556.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198556.json"
+    },
+    {
+      "id": "eaton-article-198564",
+      "name": "RASP5-4402A31-512R100S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q5, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198564",
+      "recordPath": "equipment/eaton-article-198564.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198564.json"
+    },
+    {
+      "id": "eaton-article-198559",
+      "name": "RASP5-4404A31-5120100S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198559",
+      "recordPath": "equipment/eaton-article-198559.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198559.json"
+    },
+    {
+      "id": "eaton-article-198565",
+      "name": "RASP5-4404A31-512R100S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q5, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198565",
+      "recordPath": "equipment/eaton-article-198565.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198565.json"
+    },
+    {
+      "id": "eaton-article-198953",
+      "name": "RASP5-2421PNT-412R100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198953",
+      "recordPath": "equipment/eaton-article-198953.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198953.json"
+    },
+    {
+      "id": "eaton-article-198932",
+      "name": "RASP5-2420PNT-4120000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198932",
+      "recordPath": "equipment/eaton-article-198932.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198932.json"
+    },
+    {
+      "id": "eaton-article-198768",
+      "name": "RASP5-4400A31-4120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198768",
+      "recordPath": "equipment/eaton-article-198768.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198768.json"
+    },
+    {
+      "id": "eaton-article-198765",
+      "name": "RASP5-4401A31-4120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198765",
+      "recordPath": "equipment/eaton-article-198765.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198765.json"
+    },
+    {
+      "id": "eaton-article-198774",
+      "name": "RASP5-4402A31-4120010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198774",
+      "recordPath": "equipment/eaton-article-198774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198774.json"
+    },
+    {
+      "id": "eaton-article-198778",
+      "name": "RASP5-4402A31-4120110S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198778",
+      "recordPath": "equipment/eaton-article-198778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198778.json"
+    },
+    {
+      "id": "eaton-article-198955",
+      "name": "RASP5-2424PNT-412R100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198955",
+      "recordPath": "equipment/eaton-article-198955.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198955.json"
+    },
+    {
+      "id": "eaton-article-198766",
+      "name": "RASP5-4402A31-4120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198766",
+      "recordPath": "equipment/eaton-article-198766.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198766.json"
+    },
+    {
+      "id": "eaton-article-198795",
+      "name": "RASP5-4404A31-412R110S1 — Speed controller, 4.3 A, 1.5 kW, 4 inputs, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198795",
+      "recordPath": "equipment/eaton-article-198795.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198795.json"
+    },
+    {
+      "id": "eaton-article-198783",
+      "name": "RASP5-4404A31-412R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198783",
+      "recordPath": "equipment/eaton-article-198783.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198783.json"
+    },
+    {
+      "id": "eaton-article-198789",
+      "name": "RASP5-4401A31-412R010S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198789",
+      "recordPath": "equipment/eaton-article-198789.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198789.json"
+    },
+    {
+      "id": "eaton-article-198959",
+      "name": "RASP5-2424PNT-412R010S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198959",
+      "recordPath": "equipment/eaton-article-198959.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198959.json"
+    },
+    {
+      "id": "eaton-article-198779",
+      "name": "RASP5-4404A31-4120110S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198779",
+      "recordPath": "equipment/eaton-article-198779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198779.json"
+    },
+    {
+      "id": "eaton-article-198961",
+      "name": "RASP5-2421PNT-412R110S1 — Speed controller, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198961",
+      "recordPath": "equipment/eaton-article-198961.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198961.json"
+    },
+    {
+      "id": "eaton-article-198794",
+      "name": "RASP5-4402A31-412R110S1 — Speed controller, 4.3 A, 1.5 kW, 4 inputs, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198794",
+      "recordPath": "equipment/eaton-article-198794.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198794.json"
+    },
+    {
+      "id": "eaton-article-198558",
+      "name": "RASP5-4402A31-5120100S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198558",
+      "recordPath": "equipment/eaton-article-198558.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198558.json"
+    },
+    {
+      "id": "eaton-article-198555",
+      "name": "RASP5-4402A31-5120000S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198555",
+      "recordPath": "equipment/eaton-article-198555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198555.json"
+    },
+    {
+      "id": "eaton-article-198563",
+      "name": "RASP5-4400A31-512R100S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198563",
+      "recordPath": "equipment/eaton-article-198563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198563.json"
+    },
+    {
+      "id": "eaton-article-198554",
+      "name": "RASP5-4400A31-5120000S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198554",
+      "recordPath": "equipment/eaton-article-198554.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198554.json"
+    },
+    {
+      "id": "eaton-article-198935",
+      "name": "RASP5-2424PNT-4120000S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198935",
+      "recordPath": "equipment/eaton-article-198935.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198935.json"
+    },
+    {
+      "id": "eaton-article-198780",
+      "name": "RASP5-4400A31-412R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198780",
+      "recordPath": "equipment/eaton-article-198780.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198780.json"
+    },
+    {
+      "id": "eaton-article-198938",
+      "name": "RASP5-2422PNT-4120100S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198938",
+      "recordPath": "equipment/eaton-article-198938.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198938.json"
+    },
+    {
+      "id": "eaton-article-198941",
+      "name": "RASP5-2421PNT-4120010S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198941",
+      "recordPath": "equipment/eaton-article-198941.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198941.json"
+    },
+    {
+      "id": "eaton-article-198940",
+      "name": "RASP5-2420PNT-4120010S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198940",
+      "recordPath": "equipment/eaton-article-198940.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198940.json"
+    },
+    {
+      "id": "eaton-article-198770",
+      "name": "RASP5-4402A31-4120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198770",
+      "recordPath": "equipment/eaton-article-198770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198770.json"
+    },
+    {
+      "id": "eaton-article-198760",
+      "name": "RASP5-4401A31-5120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q5",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198760",
+      "recordPath": "equipment/eaton-article-198760.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198760.json"
+    },
+    {
+      "id": "eaton-article-198775",
+      "name": "RASP5-4404A31-4120010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198775",
+      "recordPath": "equipment/eaton-article-198775.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198775.json"
+    },
+    {
+      "id": "eaton-article-198773",
+      "name": "RASP5-4401A31-4120010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198773",
+      "recordPath": "equipment/eaton-article-198773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198773.json"
+    },
+    {
+      "id": "eaton-article-198944",
+      "name": "RASP5-2420PNT-4120110S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198944",
+      "recordPath": "equipment/eaton-article-198944.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198944.json"
+    },
+    {
+      "id": "eaton-article-198784",
+      "name": "RASP5-4400A31-412R100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198784",
+      "recordPath": "equipment/eaton-article-198784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198784.json"
+    },
+    {
+      "id": "eaton-article-198787",
+      "name": "RASP5-4404A31-412R100S1 — Speed controller, 4.3 A, 1.5 kW, 4 inputs, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198787",
+      "recordPath": "equipment/eaton-article-198787.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198787.json"
+    },
+    {
+      "id": "eaton-article-198946",
+      "name": "RASP5-2422PNT-4120110S1 — Speed controllers, 2.4 A, 0.75 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198946",
+      "recordPath": "equipment/eaton-article-198946.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198946.json"
+    },
+    {
+      "id": "eaton-article-198982",
+      "name": "RASP5-4422PNT-412R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198982",
+      "recordPath": "equipment/eaton-article-198982.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198982.json"
+    },
+    {
+      "id": "eaton-article-198796",
+      "name": "RASP5-5401A31-5120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q5",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198796",
+      "recordPath": "equipment/eaton-article-198796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198796.json"
+    },
+    {
+      "id": "eaton-article-198979",
+      "name": "RASP5-4424PNT-4120110S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198979",
+      "recordPath": "equipment/eaton-article-198979.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198979.json"
+    },
+    {
+      "id": "eaton-article-198804",
+      "name": "RASP5-5400A31-4120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198804",
+      "recordPath": "equipment/eaton-article-198804.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198804.json"
+    },
+    {
+      "id": "eaton-article-198801",
+      "name": "RASP5-5401A31-4120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198801",
+      "recordPath": "equipment/eaton-article-198801.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198801.json"
+    },
+    {
+      "id": "eaton-article-198972",
+      "name": "RASP5-4420PNT-4120010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198972",
+      "recordPath": "equipment/eaton-article-198972.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198972.json"
+    },
+    {
+      "id": "eaton-article-198980",
+      "name": "RASP5-4420PNT-412R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198980",
+      "recordPath": "equipment/eaton-article-198980.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198980.json"
+    },
+    {
+      "id": "eaton-article-198802",
+      "name": "RASP5-5402A31-4120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198802",
+      "recordPath": "equipment/eaton-article-198802.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198802.json"
+    },
+    {
+      "id": "eaton-article-198973",
+      "name": "RASP5-4421PNT-4120010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198973",
+      "recordPath": "equipment/eaton-article-198973.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198973.json"
+    },
+    {
+      "id": "eaton-article-198576",
+      "name": "RASP5-5402A31-512R100S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q5, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198576",
+      "recordPath": "equipment/eaton-article-198576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198576.json"
+    },
+    {
+      "id": "eaton-article-198571",
+      "name": "RASP5-5404A31-5120100S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198571",
+      "recordPath": "equipment/eaton-article-198571.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198571.json"
+    },
+    {
+      "id": "eaton-article-198811",
+      "name": "RASP5-5404A31-4120010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198811",
+      "recordPath": "equipment/eaton-article-198811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198811.json"
+    },
+    {
+      "id": "eaton-article-198570",
+      "name": "RASP5-5402A31-5120100S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198570",
+      "recordPath": "equipment/eaton-article-198570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198570.json"
+    },
+    {
+      "id": "eaton-article-198577",
+      "name": "RASP5-5404A31-512R100S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q5, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198577",
+      "recordPath": "equipment/eaton-article-198577.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198577.json"
+    },
+    {
+      "id": "eaton-article-198575",
+      "name": "RASP5-5400A31-512R100S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198575",
+      "recordPath": "equipment/eaton-article-198575.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198575.json"
+    },
+    {
+      "id": "eaton-article-198813",
+      "name": "RASP5-5401A31-4120110S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198813",
+      "recordPath": "equipment/eaton-article-198813.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198813.json"
+    },
+    {
+      "id": "eaton-article-198573",
+      "name": "RASP5-5402A31-512R000S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198573",
+      "recordPath": "equipment/eaton-article-198573.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198573.json"
+    },
+    {
+      "id": "eaton-article-198985",
+      "name": "RASP5-4421PNT-412R100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198985",
+      "recordPath": "equipment/eaton-article-198985.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198985.json"
+    },
+    {
+      "id": "eaton-article-198566",
+      "name": "RASP5-5400A31-5120000S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198566",
+      "recordPath": "equipment/eaton-article-198566.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198566.json"
+    },
+    {
+      "id": "eaton-article-198568",
+      "name": "RASP5-5404A31-5120000S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198568",
+      "recordPath": "equipment/eaton-article-198568.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198568.json"
+    },
+    {
+      "id": "eaton-article-198994",
+      "name": "RASP5-4422PNT-412R110S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198994",
+      "recordPath": "equipment/eaton-article-198994.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198994.json"
+    },
+    {
+      "id": "eaton-article-198822",
+      "name": "RASP5-5402A31-412R100S1 — Speed controller, 5.6 A, 2.2 kW, 4 inputs, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198822",
+      "recordPath": "equipment/eaton-article-198822.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198822.json"
+    },
+    {
+      "id": "eaton-article-198819",
+      "name": "RASP5-5404A31-412R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198819",
+      "recordPath": "equipment/eaton-article-198819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198819.json"
+    },
+    {
+      "id": "eaton-article-198823",
+      "name": "RASP5-5404A31-412R100S1 — Speed controller, 5.6 A, 2.2 kW, 4 inputs, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198823",
+      "recordPath": "equipment/eaton-article-198823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198823.json"
+    },
+    {
+      "id": "eaton-article-198828",
+      "name": "RASP5-5400A31-412R110S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198828",
+      "recordPath": "equipment/eaton-article-198828.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198828.json"
+    },
+    {
+      "id": "eaton-article-198966",
+      "name": "RASP5-4422PNT-4120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198966",
+      "recordPath": "equipment/eaton-article-198966.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198966.json"
+    },
+    {
+      "id": "eaton-article-198993",
+      "name": "RASP5-4421PNT-412R110S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198993",
+      "recordPath": "equipment/eaton-article-198993.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198993.json"
+    },
+    {
+      "id": "eaton-article-198991",
+      "name": "RASP5-4424PNT-412R010S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198991",
+      "recordPath": "equipment/eaton-article-198991.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198991.json"
+    },
+    {
+      "id": "eaton-article-198798",
+      "name": "RASP5-5401A31-512R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198798",
+      "recordPath": "equipment/eaton-article-198798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198798.json"
+    },
+    {
+      "id": "eaton-article-198829",
+      "name": "RASP5-5401A31-412R110S1 — Speed controller, 5.6 A, 2.2 kW, 4 inputs, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198829",
+      "recordPath": "equipment/eaton-article-198829.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198829.json"
+    },
+    {
+      "id": "eaton-article-198812",
+      "name": "RASP5-5400A31-4120110S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198812",
+      "recordPath": "equipment/eaton-article-198812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198812.json"
+    },
+    {
+      "id": "eaton-article-198987",
+      "name": "RASP5-4424PNT-412R100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198987",
+      "recordPath": "equipment/eaton-article-198987.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198987.json"
+    },
+    {
+      "id": "eaton-article-198986",
+      "name": "RASP5-4422PNT-412R100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198986",
+      "recordPath": "equipment/eaton-article-198986.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198986.json"
+    },
+    {
+      "id": "eaton-article-198815",
+      "name": "RASP5-5404A31-4120110S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198815",
+      "recordPath": "equipment/eaton-article-198815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198815.json"
+    },
+    {
+      "id": "eaton-article-198992",
+      "name": "RASP5-4420PNT-412R110S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198992",
+      "recordPath": "equipment/eaton-article-198992.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198992.json"
+    },
+    {
+      "id": "eaton-article-198817",
+      "name": "RASP5-5401A31-412R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198817",
+      "recordPath": "equipment/eaton-article-198817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198817.json"
+    },
+    {
+      "id": "eaton-article-198984",
+      "name": "RASP5-4420PNT-412R100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198984",
+      "recordPath": "equipment/eaton-article-198984.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198984.json"
+    },
+    {
+      "id": "eaton-article-198975",
+      "name": "RASP5-4424PNT-4120010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198975",
+      "recordPath": "equipment/eaton-article-198975.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198975.json"
+    },
+    {
+      "id": "eaton-article-198809",
+      "name": "RASP5-5401A31-4120010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198809",
+      "recordPath": "equipment/eaton-article-198809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198809.json"
+    },
+    {
+      "id": "eaton-article-198831",
+      "name": "RASP5-5404A31-412R110S1 — Speed controller, 5.6 A, 2.2 kW, 4 inputs, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198831",
+      "recordPath": "equipment/eaton-article-198831.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198831.json"
+    },
+    {
+      "id": "eaton-article-199004",
+      "name": "RASP5-5420PNT-4120010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199004",
+      "recordPath": "equipment/eaton-article-199004.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199004.json"
+    },
+    {
+      "id": "eaton-article-198976",
+      "name": "RASP5-4420PNT-4120110S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198976",
+      "recordPath": "equipment/eaton-article-198976.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198976.json"
+    },
+    {
+      "id": "eaton-article-198803",
+      "name": "RASP5-5404A31-4120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198803",
+      "recordPath": "equipment/eaton-article-198803.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198803.json"
+    },
+    {
+      "id": "eaton-article-198821",
+      "name": "RASP5-5401A31-412R100S1 — Speed controller, 5.6 A, 2.2 kW, 4 inputs, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198821",
+      "recordPath": "equipment/eaton-article-198821.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198821.json"
+    },
+    {
+      "id": "eaton-article-198567",
+      "name": "RASP5-5402A31-5120000S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198567",
+      "recordPath": "equipment/eaton-article-198567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198567.json"
+    },
+    {
+      "id": "eaton-article-198574",
+      "name": "RASP5-5404A31-512R000S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198574",
+      "recordPath": "equipment/eaton-article-198574.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198574.json"
+    },
+    {
+      "id": "eaton-article-198830",
+      "name": "RASP5-5402A31-412R110S1 — Speed controller, 5.6 A, 2.2 kW, 4 inputs, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198830",
+      "recordPath": "equipment/eaton-article-198830.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198830.json"
+    },
+    {
+      "id": "eaton-article-198814",
+      "name": "RASP5-5402A31-4120110S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198814",
+      "recordPath": "equipment/eaton-article-198814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198814.json"
+    },
+    {
+      "id": "eaton-article-198818",
+      "name": "RASP5-5402A31-412R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198818",
+      "recordPath": "equipment/eaton-article-198818.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198818.json"
+    },
+    {
+      "id": "eaton-article-198995",
+      "name": "RASP5-4424PNT-412R110S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198995",
+      "recordPath": "equipment/eaton-article-198995.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198995.json"
+    },
+    {
+      "id": "eaton-article-198806",
+      "name": "RASP5-5402A31-4120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198806",
+      "recordPath": "equipment/eaton-article-198806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198806.json"
+    },
+    {
+      "id": "eaton-article-198965",
+      "name": "RASP5-4421PNT-4120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198965",
+      "recordPath": "equipment/eaton-article-198965.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198965.json"
+    },
+    {
+      "id": "eaton-article-198974",
+      "name": "RASP5-4422PNT-4120010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198974",
+      "recordPath": "equipment/eaton-article-198974.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198974.json"
+    },
+    {
+      "id": "eaton-article-198569",
+      "name": "RASP5-5400A31-5120100S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198569",
+      "recordPath": "equipment/eaton-article-198569.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198569.json"
+    },
+    {
+      "id": "eaton-article-198816",
+      "name": "RASP5-5400A31-412R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198816",
+      "recordPath": "equipment/eaton-article-198816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198816.json"
+    },
+    {
+      "id": "eaton-article-198826",
+      "name": "RASP5-5402A31-412R010S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198826",
+      "recordPath": "equipment/eaton-article-198826.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198826.json"
+    },
+    {
+      "id": "eaton-article-198820",
+      "name": "RASP5-5400A31-412R100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198820",
+      "recordPath": "equipment/eaton-article-198820.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198820.json"
+    },
+    {
+      "id": "eaton-article-198988",
+      "name": "RASP5-4420PNT-412R010S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198988",
+      "recordPath": "equipment/eaton-article-198988.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198988.json"
+    },
+    {
+      "id": "eaton-article-198970",
+      "name": "RASP5-4422PNT-4120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198970",
+      "recordPath": "equipment/eaton-article-198970.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198970.json"
+    },
+    {
+      "id": "eaton-article-198989",
+      "name": "RASP5-4421PNT-412R010S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198989",
+      "recordPath": "equipment/eaton-article-198989.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198989.json"
+    },
+    {
+      "id": "eaton-article-198800",
+      "name": "RASP5-5400A31-4120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198800",
+      "recordPath": "equipment/eaton-article-198800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198800.json"
+    },
+    {
+      "id": "eaton-article-198808",
+      "name": "RASP5-5400A31-4120010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198808",
+      "recordPath": "equipment/eaton-article-198808.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198808.json"
+    },
+    {
+      "id": "eaton-article-198827",
+      "name": "RASP5-5404A31-412R010S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198827",
+      "recordPath": "equipment/eaton-article-198827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198827.json"
+    },
+    {
+      "id": "eaton-article-198799",
+      "name": "RASP5-5401A31-512R100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q5, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198799",
+      "recordPath": "equipment/eaton-article-198799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198799.json"
+    },
+    {
+      "id": "eaton-article-198977",
+      "name": "RASP5-4421PNT-4120110S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198977",
+      "recordPath": "equipment/eaton-article-198977.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198977.json"
+    },
+    {
+      "id": "eaton-article-198968",
+      "name": "RASP5-4420PNT-4120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198968",
+      "recordPath": "equipment/eaton-article-198968.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198968.json"
+    },
+    {
+      "id": "eaton-article-198983",
+      "name": "RASP5-4424PNT-412R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198983",
+      "recordPath": "equipment/eaton-article-198983.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198983.json"
+    },
+    {
+      "id": "eaton-article-198805",
+      "name": "RASP5-5401A31-4120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198805",
+      "recordPath": "equipment/eaton-article-198805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198805.json"
+    },
+    {
+      "id": "eaton-article-198807",
+      "name": "RASP5-5404A31-4120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 400/480 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198807",
+      "recordPath": "equipment/eaton-article-198807.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198807.json"
+    },
+    {
+      "id": "eaton-article-198978",
+      "name": "RASP5-4422PNT-4120110S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198978",
+      "recordPath": "equipment/eaton-article-198978.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198978.json"
+    },
+    {
+      "id": "eaton-article-198797",
+      "name": "RASP5-5401A31-5120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198797",
+      "recordPath": "equipment/eaton-article-198797.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198797.json"
+    },
+    {
+      "id": "eaton-article-198572",
+      "name": "RASP5-5400A31-512R000S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q5, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198572",
+      "recordPath": "equipment/eaton-article-198572.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198572.json"
+    },
+    {
+      "id": "eaton-article-198824",
+      "name": "RASP5-5400A31-412R010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198824",
+      "recordPath": "equipment/eaton-article-198824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198824.json"
+    },
+    {
+      "id": "eaton-article-198964",
+      "name": "RASP5-4420PNT-4120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198964",
+      "recordPath": "equipment/eaton-article-198964.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198964.json"
+    },
+    {
+      "id": "eaton-article-198810",
+      "name": "RASP5-5402A31-4120010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, 230/277 V AC, AS-Interface®, S-7.4 for 31 modules, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198810",
+      "recordPath": "equipment/eaton-article-198810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198810.json"
+    },
+    {
+      "id": "eaton-article-198990",
+      "name": "RASP5-4422PNT-412R010S1 — Speed controller, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198990",
+      "recordPath": "equipment/eaton-article-198990.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198990.json"
+    },
+    {
+      "id": "eaton-article-198981",
+      "name": "RASP5-4421PNT-412R000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198981",
+      "recordPath": "equipment/eaton-article-198981.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198981.json"
+    },
+    {
+      "id": "eaton-article-198967",
+      "name": "RASP5-4424PNT-4120000S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198967",
+      "recordPath": "equipment/eaton-article-198967.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198967.json"
+    },
+    {
+      "id": "eaton-article-198825",
+      "name": "RASP5-5401A31-412R010S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, 180/207 V DC, AS-Interface, S-7.4 for 31 modules, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198825",
+      "recordPath": "equipment/eaton-article-198825.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198825.json"
+    },
+    {
+      "id": "eaton-article-198996",
+      "name": "RASP5-5420PNT-4120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198996",
+      "recordPath": "equipment/eaton-article-198996.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198996.json"
+    },
+    {
+      "id": "eaton-article-198969",
+      "name": "RASP5-4421PNT-4120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198969",
+      "recordPath": "equipment/eaton-article-198969.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198969.json"
+    },
+    {
+      "id": "eaton-article-198971",
+      "name": "RASP5-4424PNT-4120100S1 — Speed controllers, 4.3 A, 1.5 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198971",
+      "recordPath": "equipment/eaton-article-198971.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198971.json"
+    },
+    {
+      "id": "eaton-article-199007",
+      "name": "RASP5-5424PNT-4120010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199007",
+      "recordPath": "equipment/eaton-article-199007.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199007.json"
+    },
+    {
+      "id": "eaton-article-199005",
+      "name": "RASP5-5421PNT-4120010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199005",
+      "recordPath": "equipment/eaton-article-199005.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199005.json"
+    },
+    {
+      "id": "eaton-article-199024",
+      "name": "RASP5-5420PNT-412R110S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199024",
+      "recordPath": "equipment/eaton-article-199024.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199024.json"
+    },
+    {
+      "id": "eaton-article-199027",
+      "name": "RASP5-5424PNT-412R110S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199027",
+      "recordPath": "equipment/eaton-article-199027.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199027.json"
+    },
+    {
+      "id": "eaton-article-199017",
+      "name": "RASP5-5421PNT-412R100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199017",
+      "recordPath": "equipment/eaton-article-199017.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199017.json"
+    },
+    {
+      "id": "eaton-article-199010",
+      "name": "RASP5-5422PNT-4120110S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199010",
+      "recordPath": "equipment/eaton-article-199010.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199010.json"
+    },
+    {
+      "id": "eaton-article-199022",
+      "name": "RASP5-5422PNT-412R010S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199022",
+      "recordPath": "equipment/eaton-article-199022.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199022.json"
+    },
+    {
+      "id": "eaton-article-198997",
+      "name": "RASP5-5421PNT-4120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198997",
+      "recordPath": "equipment/eaton-article-198997.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198997.json"
+    },
+    {
+      "id": "eaton-article-199021",
+      "name": "RASP5-5421PNT-412R010S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199021",
+      "recordPath": "equipment/eaton-article-199021.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199021.json"
+    },
+    {
+      "id": "eaton-article-199003",
+      "name": "RASP5-5424PNT-4120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199003",
+      "recordPath": "equipment/eaton-article-199003.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199003.json"
+    },
+    {
+      "id": "eaton-article-199009",
+      "name": "RASP5-5421PNT-4120110S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199009",
+      "recordPath": "equipment/eaton-article-199009.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199009.json"
+    },
+    {
+      "id": "eaton-article-199002",
+      "name": "RASP5-5422PNT-4120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199002",
+      "recordPath": "equipment/eaton-article-199002.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199002.json"
+    },
+    {
+      "id": "eaton-article-199013",
+      "name": "RASP5-5421PNT-412R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199013",
+      "recordPath": "equipment/eaton-article-199013.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199013.json"
+    },
+    {
+      "id": "eaton-article-199025",
+      "name": "RASP5-5421PNT-412R110S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199025",
+      "recordPath": "equipment/eaton-article-199025.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199025.json"
+    },
+    {
+      "id": "eaton-article-199026",
+      "name": "RASP5-5422PNT-412R110S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199026",
+      "recordPath": "equipment/eaton-article-199026.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199026.json"
+    },
+    {
+      "id": "eaton-article-199008",
+      "name": "RASP5-5420PNT-4120110S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199008",
+      "recordPath": "equipment/eaton-article-199008.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199008.json"
+    },
+    {
+      "id": "eaton-article-199011",
+      "name": "RASP5-5424PNT-4120110S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with braking resistance, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199011",
+      "recordPath": "equipment/eaton-article-199011.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199011.json"
+    },
+    {
+      "id": "eaton-article-198998",
+      "name": "RASP5-5422PNT-4120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198998",
+      "recordPath": "equipment/eaton-article-198998.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198998.json"
+    },
+    {
+      "id": "eaton-article-199014",
+      "name": "RASP5-5422PNT-412R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199014",
+      "recordPath": "equipment/eaton-article-199014.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199014.json"
+    },
+    {
+      "id": "eaton-article-199019",
+      "name": "RASP5-5424PNT-412R100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199019",
+      "recordPath": "equipment/eaton-article-199019.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199019.json"
+    },
+    {
+      "id": "eaton-article-199012",
+      "name": "RASP5-5420PNT-412R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199012",
+      "recordPath": "equipment/eaton-article-199012.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199012.json"
+    },
+    {
+      "id": "eaton-article-199016",
+      "name": "RASP5-5420PNT-412R100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199016",
+      "recordPath": "equipment/eaton-article-199016.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199016.json"
+    },
+    {
+      "id": "eaton-article-199006",
+      "name": "RASP5-5422PNT-4120010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199006",
+      "recordPath": "equipment/eaton-article-199006.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199006.json"
+    },
+    {
+      "id": "eaton-article-199015",
+      "name": "RASP5-5424PNT-412R000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with manual override switch",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199015",
+      "recordPath": "equipment/eaton-article-199015.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199015.json"
+    },
+    {
+      "id": "eaton-article-199023",
+      "name": "RASP5-5424PNT-412R010S1 — Speed controller, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2, with manual override switch, STO",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199023",
+      "recordPath": "equipment/eaton-article-199023.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199023.json"
+    },
+    {
+      "id": "eaton-article-199020",
+      "name": "RASP5-5420PNT-412R010S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with manual override switch, STO (Safe Torque Off)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199020",
+      "recordPath": "equipment/eaton-article-199020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199020.json"
+    },
+    {
+      "id": "eaton-article-199001",
+      "name": "RASP5-5421PNT-4120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 180/207 V DC, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199001",
+      "recordPath": "equipment/eaton-article-199001.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199001.json"
+    },
+    {
+      "id": "eaton-article-198999",
+      "name": "RASP5-5424PNT-4120000S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 400/480 V AC, PROFINET, HAN Q4/2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-198999",
+      "recordPath": "equipment/eaton-article-198999.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-198999.json"
+    },
+    {
+      "id": "eaton-article-199018",
+      "name": "RASP5-5422PNT-412R100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, 230/277 V AC, PROFINET, HAN Q4/2, manual override switch, braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199018",
+      "recordPath": "equipment/eaton-article-199018.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199018.json"
+    },
+    {
+      "id": "eaton-article-199000",
+      "name": "RASP5-5420PNT-4120100S1 — Speed controllers, 5.6 A, 2.2 kW, Sensor input 4, Actuator output 2, PROFINET, HAN Q4/2, with braking resistance",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199000",
+      "recordPath": "equipment/eaton-article-199000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199000.json"
+    },
+    {
+      "id": "eaton-article-040379",
+      "name": "Q25LWK1-WS/WB — Illuminated selector switch actuator, momentary, 45°, 25 × 25 mm, 2 positions, With thumb-grip, White, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040379",
+      "recordPath": "equipment/eaton-article-040379.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040379.json"
+    },
+    {
+      "id": "eaton-article-036599",
+      "name": "Q25WK1 — Selector switch, 2 positions, white, momentary",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-036599",
+      "recordPath": "equipment/eaton-article-036599.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-036599.json"
+    },
+    {
+      "id": "eaton-article-036600",
+      "name": "Q25WK1R — Selector switch, 2 positions, white, maintained",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-036600",
+      "recordPath": "equipment/eaton-article-036600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-036600.json"
+    },
+    {
+      "id": "eaton-article-040381",
+      "name": "Q25LWK1R-RT/WB — Illuminated selector switch actuator, maintained, 45°, 25 × 25 mm, 2 positions, With thumb-grip, red, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040381",
+      "recordPath": "equipment/eaton-article-040381.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040381.json"
+    },
+    {
+      "id": "eaton-article-040376",
+      "name": "Q18LWK1R-WS — Illuminated selector switch actuator, maintained, 45°, 18 × 18 mm, 2 positions, With thumb-grip, White, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040376",
+      "recordPath": "equipment/eaton-article-040376.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040376.json"
+    },
+    {
+      "id": "eaton-article-040350",
+      "name": "Q18LWK1R-GN — Illuminated selector switch actuator, maintained, 45°, 18 × 18 mm, 2 positions, With thumb-grip, green, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040350",
+      "recordPath": "equipment/eaton-article-040350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040350.json"
+    },
+    {
+      "id": "eaton-article-036515",
+      "name": "Q18WK1 — Selector switch, 2 positions, white, momentary",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-036515",
+      "recordPath": "equipment/eaton-article-036515.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-036515.json"
+    },
+    {
+      "id": "eaton-article-040380",
+      "name": "Q25LWK1R-GN/WB — Illuminated selector switch actuator, maintained, 45°, 25 × 25 mm, 2 positions, With thumb-grip, green, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040380",
+      "recordPath": "equipment/eaton-article-040380.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040380.json"
+    },
+    {
+      "id": "eaton-article-039248",
+      "name": "Q18LWK1R-RT/WB — Illuminated selector switch actuator, maintained, 45°, 18 × 18 mm, 2 positions, With thumb-grip, red, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-039248",
+      "recordPath": "equipment/eaton-article-039248.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-039248.json"
+    },
+    {
+      "id": "eaton-article-040661",
+      "name": "Q25LWK1R-WS — Illuminated selector switch actuator, maintained, 45°, 25 × 25 mm, 2 positions, With thumb-grip, White, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040661",
+      "recordPath": "equipment/eaton-article-040661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040661.json"
+    },
+    {
+      "id": "eaton-article-040658",
+      "name": "Q25LWK1-WS — Illuminated selector switch actuator, momentary, 45°, 25 × 25 mm, 2 positions, With thumb-grip, White, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040658",
+      "recordPath": "equipment/eaton-article-040658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040658.json"
+    },
+    {
+      "id": "eaton-article-040351",
+      "name": "Q18LWK1R-RT — Illuminated selector switch actuator, maintained, 45°, 18 × 18 mm, 2 positions, With thumb-grip, red, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040351",
+      "recordPath": "equipment/eaton-article-040351.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040351.json"
+    },
+    {
+      "id": "eaton-article-040378",
+      "name": "Q25LWK1-RT/WB — Illuminated selector switch actuator, momentary, 45°, 25 × 25 mm, 2 positions, With thumb-grip, red, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040378",
+      "recordPath": "equipment/eaton-article-040378.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040378.json"
+    },
+    {
+      "id": "eaton-article-040656",
+      "name": "Q25LWK1-GN — Illuminated selector switch actuator, momentary, 45°, 25 × 25 mm, 2 positions, With thumb-grip, green, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040656",
+      "recordPath": "equipment/eaton-article-040656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040656.json"
+    },
+    {
+      "id": "eaton-article-038978",
+      "name": "Q18LWK1-WS/WB — Illuminated selector switch actuator, momentary, 45°, 18 × 18 mm, 2 positions, With thumb-grip, White, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-038978",
+      "recordPath": "equipment/eaton-article-038978.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-038978.json"
+    },
+    {
+      "id": "eaton-article-039247",
+      "name": "Q18LWK1R-GN/WB — Illuminated selector switch actuator, maintained, 45°, 18 × 18 mm, 2 positions, With thumb-grip, green, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-039247",
+      "recordPath": "equipment/eaton-article-039247.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-039247.json"
+    },
+    {
+      "id": "eaton-article-038930",
+      "name": "Q18LWK1-RT/WB — Illuminated selector switch actuator, momentary, 45°, 18 × 18 mm, 2 positions, With thumb-grip, red, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-038930",
+      "recordPath": "equipment/eaton-article-038930.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-038930.json"
+    },
+    {
+      "id": "eaton-article-040476",
+      "name": "Q25LWK1R-WS/WB — Illuminated selector switch actuator, maintained, 45°, 25 × 25 mm, 2 positions, With thumb-grip, White, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040476",
+      "recordPath": "equipment/eaton-article-040476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040476.json"
+    },
+    {
+      "id": "eaton-article-040349",
+      "name": "Q18LWK1-WS — Illuminated selector switch actuator, momentary, 45°, 18 × 18 mm, 2 positions, With thumb-grip, White, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040349",
+      "recordPath": "equipment/eaton-article-040349.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040349.json"
+    },
+    {
+      "id": "eaton-article-038883",
+      "name": "Q18LWK1-GN/WB — Illuminated selector switch actuator, momentary, 45°, 18 × 18 mm, 2 positions, With thumb-grip, green, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-038883",
+      "recordPath": "equipment/eaton-article-038883.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-038883.json"
+    },
+    {
+      "id": "eaton-article-040377",
+      "name": "Q25LWK1-GN/WB — Illuminated selector switch actuator, momentary, 45°, 25 × 25 mm, 2 positions, With thumb-grip, green, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040377",
+      "recordPath": "equipment/eaton-article-040377.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040377.json"
+    },
+    {
+      "id": "eaton-article-039335",
+      "name": "Q18LWK1R-WS/WB — Illuminated selector switch actuator, maintained, 45°, 18 × 18 mm, 2 positions, With thumb-grip, White, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-039335",
+      "recordPath": "equipment/eaton-article-039335.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-039335.json"
+    },
+    {
+      "id": "eaton-article-039336",
+      "name": "Q18LWK1-GN — Illuminated selector switch actuator, momentary, 45°, 18 × 18 mm, 2 positions, With thumb-grip, green, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-039336",
+      "recordPath": "equipment/eaton-article-039336.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-039336.json"
+    },
+    {
+      "id": "eaton-article-036598",
+      "name": "Q18WK1R — Selector switch, 2 positions, white, maintained",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-036598",
+      "recordPath": "equipment/eaton-article-036598.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-036598.json"
+    },
+    {
+      "id": "eaton-article-040660",
+      "name": "Q25LWK1R-RT — Illuminated selector switch actuator, maintained, 45°, 25 × 25 mm, 2 positions, With thumb-grip, red, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040660",
+      "recordPath": "equipment/eaton-article-040660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040660.json"
+    },
+    {
+      "id": "eaton-article-040657",
+      "name": "Q25LWK1-RT — Illuminated selector switch actuator, momentary, 45°, 25 × 25 mm, 2 positions, With thumb-grip, red, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040657",
+      "recordPath": "equipment/eaton-article-040657.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040657.json"
+    },
+    {
+      "id": "eaton-article-040659",
+      "name": "Q25LWK1R-GN — Illuminated selector switch actuator, maintained, 45°, 25 × 25 mm, 2 positions, With thumb-grip, green, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-040659",
+      "recordPath": "equipment/eaton-article-040659.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-040659.json"
+    },
+    {
+      "id": "eaton-article-039337",
+      "name": "Q18LWK1-RT — Illuminated selector switch actuator, momentary, 45°, 18 × 18 mm, 2 positions, With thumb-grip, red, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-039337",
+      "recordPath": "equipment/eaton-article-039337.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-039337.json"
+    },
+    {
+      "id": "eaton-article-051746",
+      "name": "Q25LT-X — Illuminated pushbutton actuator, without button plate, momentary",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-051746",
+      "recordPath": "equipment/eaton-article-051746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-051746.json"
+    },
+    {
+      "id": "eaton-article-051745",
+      "name": "Q18LT-X — Illuminated pushbutton actuator, without button plate, momentary",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-051745",
+      "recordPath": "equipment/eaton-article-051745.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-051745.json"
+    },
+    {
+      "id": "eaton-article-051736",
+      "name": "Q25LTR-X — Illuminated pushbutton actuator, without button plate, maintained",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-051736",
+      "recordPath": "equipment/eaton-article-051736.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-051736.json"
+    },
+    {
+      "id": "eaton-article-051735",
+      "name": "Q18LTR-X — Illuminated pushbutton actuator, without button plate, maintained",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-051735",
+      "recordPath": "equipment/eaton-article-051735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-051735.json"
+    },
+    {
+      "id": "eaton-article-072363",
+      "name": "Q25LWK3R-GN — Illuminated selector switch actuator, maintained, 45° 45°, 25 × 25 mm, 3 positions, With thumb-grip, green, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072363",
+      "recordPath": "equipment/eaton-article-072363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072363.json"
+    },
+    {
+      "id": "eaton-article-086173",
+      "name": "Q25LT-GE — Illuminated pushbutton actuator, yellow, momentary",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-086173",
+      "recordPath": "equipment/eaton-article-086173.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-086173.json"
+    },
+    {
+      "id": "eaton-article-054041",
+      "name": "Q18D-20 — Pushbutton, white I, momentary",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-054041",
+      "recordPath": "equipment/eaton-article-054041.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-054041.json"
+    },
+    {
+      "id": "eaton-article-054040",
+      "name": "Q18D-19 — Pushbutton, black 0, momentary",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-054040",
+      "recordPath": "equipment/eaton-article-054040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-054040.json"
+    },
+    {
+      "id": "eaton-article-072330",
+      "name": "Q18LWK3R1-GN — Illuminated selector switch actuator, maintained/momentary, 45° 45°, 18 × 18 mm, 3 positions, With thumb-grip, green, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072330",
+      "recordPath": "equipment/eaton-article-072330.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072330.json"
+    },
+    {
+      "id": "eaton-article-072360",
+      "name": "Q25LWK3-GN — Illuminated selector switch actuator, momentary, 45° 45°, 25 × 25 mm, 3 positions, With thumb-grip, green, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072360",
+      "recordPath": "equipment/eaton-article-072360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072360.json"
+    },
+    {
+      "id": "eaton-article-072309",
+      "name": "Q18WK3R — Selector switch, 3 positions, white, maintained",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072309",
+      "recordPath": "equipment/eaton-article-072309.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072309.json"
+    },
+    {
+      "id": "eaton-article-072342",
+      "name": "Q18LWK3R1-GN/WB — Illuminated selector switch actuator, maintained/momentary, 45° 45°, 18 × 18 mm, 3 positions, With thumb-grip, green, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072342",
+      "recordPath": "equipment/eaton-article-072342.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072342.json"
+    },
+    {
+      "id": "eaton-article-072362",
+      "name": "Q25LWK3R-RT — Illuminated selector switch actuator, maintained, 45° 45°, 25 × 25 mm, 3 positions, With thumb-grip, red, with VS anti-rotation tab, without light elements, With base, W2x4,6d; max. 30 V, 1 W",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072362",
+      "recordPath": "equipment/eaton-article-072362.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072362.json"
+    },
+    {
+      "id": "eaton-article-072371",
+      "name": "Q25LPV — Emergency-stop pushbutton, illuminated",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072371",
+      "recordPath": "equipment/eaton-article-072371.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072371.json"
+    },
+    {
+      "id": "eaton-article-072347",
+      "name": "Q25LWK3-RT/WB — Illuminated selector switch actuator, momentary, 45° 45°, 25 × 25 mm, 3 positions, With thumb-grip, red, with VS anti-rotation tab, with filament bulb, 24 V",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072347",
+      "recordPath": "equipment/eaton-article-072347.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072347.json"
+    }
+  ]
+}

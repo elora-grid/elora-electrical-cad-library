@@ -1,0 +1,171 @@
+# Weidmüller — WTD 6 SL/EN — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 6 mm², 41 A, 630 V, Number of connections: 2, Number of levels: 1, TS 32, TS 35, V-0, Wemid, 120 °C
+
+Weidmüller WTD 6 SL/EN — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 6 mm², 41 A, 630 V, Number of connections: 2, Number of levels: 1, TS 32, TS 35, V-0, Wemid, 120 °C. Manufacturer CAD files for wiring equipment selection and layout, identified by article 9538100000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9538100000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9538100000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-9538100000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/wtd-6-slen/p/9538100000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 9538100000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WTD 6 SL/EN — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 6 mm², 41 A, 630 V, Number of connections: 2, Number of levels: 1, TS 32, TS 35, V-0, Wemid, 120 °C
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 9538100000
+- Manufacturer reference: 9538100000
+- Manufacturer type: WTD 6 SL/EN
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 9538100000 ([source](https://eshop.weidmueller.com.cn/en/wtd-6-slen/p/9538100000/downloads#engineering-support))
+- Manufacturer type: WTD 6 SL/EN ([source](https://eshop.weidmueller.com.cn/en/wtd-6-slen/p/9538100000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/wtd-6-slen/p/9538100000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/wtd-6-slen/p/9538100000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 9538100000. The files above belong to Weidmüller's WTD 6 SL/EN — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 6 mm², 41 A, 630 V, Number of connections: 2, Number of levels: 1, TS 32, TS 35, V-0, Wemid, 120 °C resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller WTD 6 SL/EN — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 6 mm², 41 A, 630 V, Number of connections: 2, Number of levels: 1, TS 32, TS 35, V-0, Wemid, 120 °C: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-9538100000/native-b775228be2c9bedd4a789371-zip?asset=3d18bae75385bbf7ce5633082d7255b77cdeb62ca4fb7faae9e29ea4d9051172)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-9538100000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-9538100000)
+
+- 9538100000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 9538100000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 9538100000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 9538100000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/fd432df4-a67d-4a30-868a-f0284f6f1d06/original/9538100000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-9538100000/native-b775228be2c9bedd4a789371-zip)
+- Redistribution: unknown
+- Original SHA-256: b775228be2c9bedd4a789371c17a6f61bbd1757a3da4580e1404cc896da7e603
+- Original bytes: 95132
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/fd432df4-a67d-4a30-868a-f0284f6f1d06/original/9538100000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 95132 bytes
+- Delivery SHA-256: b775228be2c9bedd4a789371c17a6f61bbd1757a3da4580e1404cc896da7e603
+
+<details>
+<summary>Archive members</summary>
+
+- 9538100000\_back.DWG
+- 9538100000\_bottom.DWG
+- 9538100000\_front.DWG
+- 9538100000\_left.DWG
+- 9538100000\_right.DWG
+- 9538100000\_top.DWG
+
+</details>
+
+### 9538100000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/f24425a2-82c2-41e5-976f-62fa8a1e96ea/original/9538100000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-9538100000/native-0fbd567d1337f73b264970f9-zip)
+- Redistribution: unknown
+- Original SHA-256: 0fbd567d1337f73b264970f9ec5fa80a1f924e742e04b65a8c2e415702ee2fac
+- Original bytes: 70541
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/f24425a2-82c2-41e5-976f-62fa8a1e96ea/original/9538100000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 70541 bytes
+- Delivery SHA-256: 0fbd567d1337f73b264970f9ec5fa80a1f924e742e04b65a8c2e415702ee2fac
+
+<details>
+<summary>Archive members</summary>
+
+- 9538100000\_back.DXF
+- 9538100000\_bottom.DXF
+- 9538100000\_front.DXF
+- 9538100000\_left.DXF
+- 9538100000\_right.DXF
+- 9538100000\_top.DXF
+
+</details>
+
+### 9538100000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/88c07889-d73b-48d0-aaa2-c31b1df23a0f/original/9538100000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-9538100000/native-9b8630047a8d5535a252aac0-step)
+- Redistribution: unknown
+- Original SHA-256: 9b8630047a8d5535a252aac094363c2d72c41d8b6122e91a444243def53e5993
+- Original bytes: 706191
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/88c07889-d73b-48d0-aaa2-c31b1df23a0f/original/9538100000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 124761 bytes
+- Delivery SHA-256: 64ef19ae9260c31f936cb45ff121c7ddf1a9ff207f78a3a78a478e189476bf0f
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

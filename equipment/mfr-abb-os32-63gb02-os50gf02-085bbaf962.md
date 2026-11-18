@@ -34,7 +34,7 @@ OS32GB02, OS32GB02P, OS63GB02, OS63GB02P, OS50GF02, OS50GF02P, dxf-file
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 

@@ -1,0 +1,3007 @@
+{
+  "schemaVersion": 1,
+  "category": "busbar",
+  "page": 4,
+  "entries": [
+    {
+      "id": "se-article-lv426660",
+      "name": "LV426660 — Switch disconnector, ComPact NSXm NA, 4P, 50A rating, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426660",
+      "recordPath": "equipment/se-article-lv426660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426660.json"
+    },
+    {
+      "id": "se-article-c12b3tm125b",
+      "name": "C12B3TM125B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 3 poles, TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b3tm125b",
+      "recordPath": "equipment/se-article-c12b3tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b3tm125b.json"
+    },
+    {
+      "id": "se-article-c11h4tm040b",
+      "name": "C11H4TM040B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h4tm040b",
+      "recordPath": "equipment/se-article-c11h4tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h4tm040b.json"
+    },
+    {
+      "id": "se-article-lv426479",
+      "name": "LV426479 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426479",
+      "recordPath": "equipment/se-article-lv426479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426479.json"
+    },
+    {
+      "id": "se-article-c11e6tm050b",
+      "name": "C11E6TM050B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e6tm050b",
+      "recordPath": "equipment/se-article-c11e6tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e6tm050b.json"
+    },
+    {
+      "id": "se-article-gv2g272",
+      "name": "GV2G272 — Linergy FT, Comb busbar, 63A, 2 tap-offs, 72mm pitch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2g272",
+      "recordPath": "equipment/se-article-gv2g272.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2g272.json"
+    },
+    {
+      "id": "se-article-lv426369",
+      "name": "LV426369 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426369",
+      "recordPath": "equipment/se-article-lv426369.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426369.json"
+    },
+    {
+      "id": "se-article-a9xph157",
+      "name": "A9XPH157 — Acti9 - comb busbar - 1L - 18 mm pitch - 57 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph157",
+      "recordPath": "equipment/se-article-a9xph157.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph157.json"
+    },
+    {
+      "id": "se-article-lv426470",
+      "name": "LV426470 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426470",
+      "recordPath": "equipment/se-article-lv426470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426470.json"
+    },
+    {
+      "id": "se-article-lv426574",
+      "name": "LV426574 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426574",
+      "recordPath": "equipment/se-article-lv426574.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426574.json"
+    },
+    {
+      "id": "se-article-c123160bs",
+      "name": "C123160BS — Switch disconnector, ComPacT NSXm 160NA, 3 poles, thermal current Ith 160A, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c123160bs",
+      "recordPath": "equipment/se-article-c123160bs.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c123160bs.json"
+    },
+    {
+      "id": "se-article-c11h44v025b",
+      "name": "C11H44V025B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h44v025b",
+      "recordPath": "equipment/se-article-c11h44v025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h44v025b.json"
+    },
+    {
+      "id": "se-article-c11e3tm080b",
+      "name": "C11E3TM080B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 3 poles, TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e3tm080b",
+      "recordPath": "equipment/se-article-c11e3tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e3tm080b.json"
+    },
+    {
+      "id": "se-article-lv426251",
+      "name": "LV426251 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 3P 3d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426251",
+      "recordPath": "equipment/se-article-lv426251.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426251.json"
+    },
+    {
+      "id": "se-article-14812",
+      "name": "14812 — Acti9 - comb busbar - 1L+N - 27 mm pitch - 24 modules - 125A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-14812",
+      "recordPath": "equipment/se-article-14812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-14812.json"
+    },
+    {
+      "id": "se-article-lv426367",
+      "name": "LV426367 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426367",
+      "recordPath": "equipment/se-article-lv426367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426367.json"
+    },
+    {
+      "id": "se-article-lv426476",
+      "name": "LV426476 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426476",
+      "recordPath": "equipment/se-article-lv426476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426476.json"
+    },
+    {
+      "id": "se-article-lv426270",
+      "name": "LV426270 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426270",
+      "recordPath": "equipment/se-article-lv426270.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426270.json"
+    },
+    {
+      "id": "se-article-c11e3tm050b",
+      "name": "C11E3TM050B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 3 poles, TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e3tm050b",
+      "recordPath": "equipment/se-article-c11e3tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e3tm050b.json"
+    },
+    {
+      "id": "se-article-c11n3tm040b",
+      "name": "C11N3TM040B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 3 poles, TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n3tm040b",
+      "recordPath": "equipment/se-article-c11n3tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n3tm040b.json"
+    },
+    {
+      "id": "se-article-c12b3tm160b",
+      "name": "C12B3TM160B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 3 poles, TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b3tm160b",
+      "recordPath": "equipment/se-article-c12b3tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b3tm160b.json"
+    },
+    {
+      "id": "se-article-c11n4tm063b",
+      "name": "C11N4TM063B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n4tm063b",
+      "recordPath": "equipment/se-article-c11n4tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n4tm063b.json"
+    },
+    {
+      "id": "se-article-a9xph557",
+      "name": "A9XPH557 — Acti9 - comb busbar - 3L+N balanced - 18 mm pitch - 57 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph557",
+      "recordPath": "equipment/se-article-a9xph557.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph557.json"
+    },
+    {
+      "id": "se-article-gv2g245",
+      "name": "GV2G245 — Linergy FT Comb busbar, TeSys D, 63 A, 2 tap-offs, 45 mm pitch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2g245",
+      "recordPath": "equipment/se-article-gv2g245.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2g245.json"
+    },
+    {
+      "id": "se-article-lv426160",
+      "name": "LV426160 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426160",
+      "recordPath": "equipment/se-article-lv426160.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426160.json"
+    },
+    {
+      "id": "se-article-lv426264",
+      "name": "LV426264 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426264",
+      "recordPath": "equipment/se-article-lv426264.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426264.json"
+    },
+    {
+      "id": "se-article-lv426552",
+      "name": "LV426552 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426552",
+      "recordPath": "equipment/se-article-lv426552.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426552.json"
+    },
+    {
+      "id": "se-article-c11h44v050b",
+      "name": "C11H44V050B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h44v050b",
+      "recordPath": "equipment/se-article-c11h44v050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h44v050b.json"
+    },
+    {
+      "id": "se-article-c11e4tm032b",
+      "name": "C11E4TM032B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e4tm032b",
+      "recordPath": "equipment/se-article-c11e4tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e4tm032b.json"
+    },
+    {
+      "id": "se-article-lv426559",
+      "name": "LV426559 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426559",
+      "recordPath": "equipment/se-article-lv426559.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426559.json"
+    },
+    {
+      "id": "se-article-c11b6tm050b",
+      "name": "C11B6TM050B — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b6tm050b",
+      "recordPath": "equipment/se-article-c11b6tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b6tm050b.json"
+    },
+    {
+      "id": "se-article-lv426353",
+      "name": "LV426353 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426353",
+      "recordPath": "equipment/se-article-lv426353.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426353.json"
+    },
+    {
+      "id": "se-article-c12b4tm125b",
+      "name": "C12B4TM125B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b4tm125b",
+      "recordPath": "equipment/se-article-c12b4tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b4tm125b.json"
+    },
+    {
+      "id": "se-article-c11e4tm025b",
+      "name": "C11E4TM025B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e4tm025b",
+      "recordPath": "equipment/se-article-c11e4tm025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e4tm025b.json"
+    },
+    {
+      "id": "se-article-c11e6tm080b",
+      "name": "C11E6TM080B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e6tm080b",
+      "recordPath": "equipment/se-article-c11e6tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e6tm080b.json"
+    },
+    {
+      "id": "se-article-c12h6tm160b",
+      "name": "C12H6TM160B — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12h6tm160b",
+      "recordPath": "equipment/se-article-c12h6tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12h6tm160b.json"
+    },
+    {
+      "id": "se-article-lv426366",
+      "name": "LV426366 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426366",
+      "recordPath": "equipment/se-article-lv426366.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426366.json"
+    },
+    {
+      "id": "se-article-lv426454",
+      "name": "LV426454 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426454",
+      "recordPath": "equipment/se-article-lv426454.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426454.json"
+    },
+    {
+      "id": "se-article-c11f4tm080b",
+      "name": "C11F4TM080B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm080b",
+      "recordPath": "equipment/se-article-c11f4tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm080b.json"
+    },
+    {
+      "id": "se-article-c11f3tm016b",
+      "name": "C11F3TM016B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 3 poles, TMD trip unit 16A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f3tm016b",
+      "recordPath": "equipment/se-article-c11f3tm016b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f3tm016b.json"
+    },
+    {
+      "id": "se-article-gv2g354",
+      "name": "GV2G354 — Linergy FT, Comb busbar, 63A, 3 tap-offs, 54mm pitch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2g354",
+      "recordPath": "equipment/se-article-gv2g354.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2g354.json"
+    },
+    {
+      "id": "se-article-a9xph312",
+      "name": "A9XPH312 — Acti9 - comb busbar - 3L - 18 mm pitch - 12 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph312",
+      "recordPath": "equipment/se-article-a9xph312.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph312.json"
+    },
+    {
+      "id": "se-article-c11n6tm050b",
+      "name": "C11N6TM050B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n6tm050b",
+      "recordPath": "equipment/se-article-c11n6tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n6tm050b.json"
+    },
+    {
+      "id": "se-article-c11f6tm040b",
+      "name": "C11F6TM040B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f6tm040b",
+      "recordPath": "equipment/se-article-c11f6tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f6tm040b.json"
+    },
+    {
+      "id": "se-article-c11b3tm016b",
+      "name": "C11B3TM016B — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 3 poles, TMD trip unit 16A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b3tm016b",
+      "recordPath": "equipment/se-article-c11b3tm016b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b3tm016b.json"
+    },
+    {
+      "id": "se-article-lv426459",
+      "name": "LV426459 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426459",
+      "recordPath": "equipment/se-article-lv426459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426459.json"
+    },
+    {
+      "id": "se-article-c11h34v050b",
+      "name": "C11H34V050B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h34v050b",
+      "recordPath": "equipment/se-article-c11h34v050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h34v050b.json"
+    },
+    {
+      "id": "se-article-c11h34v025b",
+      "name": "C11H34V025B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h34v025b",
+      "recordPath": "equipment/se-article-c11h34v025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h34v025b.json"
+    },
+    {
+      "id": "se-article-lv426550",
+      "name": "LV426550 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426550",
+      "recordPath": "equipment/se-article-lv426550.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426550.json"
+    },
+    {
+      "id": "se-article-c11f44v100b",
+      "name": "C11F44V100B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f44v100b",
+      "recordPath": "equipment/se-article-c11f44v100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f44v100b.json"
+    },
+    {
+      "id": "se-article-c11h3tm063b",
+      "name": "C11H3TM063B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h3tm063b",
+      "recordPath": "equipment/se-article-c11h3tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h3tm063b.json"
+    },
+    {
+      "id": "se-article-c11e44v050b",
+      "name": "C11E44V050B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e44v050b",
+      "recordPath": "equipment/se-article-c11e44v050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e44v050b.json"
+    },
+    {
+      "id": "se-article-c11h4tm025b",
+      "name": "C11H4TM025B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h4tm025b",
+      "recordPath": "equipment/se-article-c11h4tm025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h4tm025b.json"
+    },
+    {
+      "id": "se-article-c12e6tm125b",
+      "name": "C12E6TM125B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12e6tm125b",
+      "recordPath": "equipment/se-article-c12e6tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12e6tm125b.json"
+    },
+    {
+      "id": "se-article-lv426363",
+      "name": "LV426363 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426363",
+      "recordPath": "equipment/se-article-lv426363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426363.json"
+    },
+    {
+      "id": "se-article-lv426159",
+      "name": "LV426159 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426159",
+      "recordPath": "equipment/se-article-lv426159.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426159.json"
+    },
+    {
+      "id": "se-article-c11n4tm032b",
+      "name": "C11N4TM032B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n4tm032b",
+      "recordPath": "equipment/se-article-c11n4tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n4tm032b.json"
+    },
+    {
+      "id": "se-article-c12f4tm125b",
+      "name": "C12F4TM125B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12f4tm125b",
+      "recordPath": "equipment/se-article-c12f4tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12f4tm125b.json"
+    },
+    {
+      "id": "se-article-lv426471",
+      "name": "LV426471 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426471",
+      "recordPath": "equipment/se-article-lv426471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426471.json"
+    },
+    {
+      "id": "se-article-c11b6tm100b",
+      "name": "C11B6TM100B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b6tm100b",
+      "recordPath": "equipment/se-article-c11b6tm100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b6tm100b.json"
+    },
+    {
+      "id": "se-article-c11b34v100b",
+      "name": "C11B34V100B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b34v100b",
+      "recordPath": "equipment/se-article-c11b34v100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b34v100b.json"
+    },
+    {
+      "id": "se-article-c11n3tm100b",
+      "name": "C11N3TM100B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 3 poles, TMD trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n3tm100b",
+      "recordPath": "equipment/se-article-c11n3tm100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n3tm100b.json"
+    },
+    {
+      "id": "se-article-lv426271",
+      "name": "LV426271 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426271",
+      "recordPath": "equipment/se-article-lv426271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426271.json"
+    },
+    {
+      "id": "se-article-lv426569",
+      "name": "LV426569 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426569",
+      "recordPath": "equipment/se-article-lv426569.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426569.json"
+    },
+    {
+      "id": "se-article-c11h4tm080b",
+      "name": "C11H4TM080B — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h4tm080b",
+      "recordPath": "equipment/se-article-c11h4tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h4tm080b.json"
+    },
+    {
+      "id": "se-article-c11h3tm100b",
+      "name": "C11H3TM100B — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 3 poles, TMD trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h3tm100b",
+      "recordPath": "equipment/se-article-c11h3tm100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h3tm100b.json"
+    },
+    {
+      "id": "se-article-c11b34v025b",
+      "name": "C11B34V025B — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b34v025b",
+      "recordPath": "equipment/se-article-c11b34v025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b34v025b.json"
+    },
+    {
+      "id": "se-article-gv2g454",
+      "name": "GV2G454 — Linergy FT Comb busbar, TeSys D, 63 A, 4 tap-offs, 54 mm pitch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2g454",
+      "recordPath": "equipment/se-article-gv2g454.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2g454.json"
+    },
+    {
+      "id": "se-article-c11e4tm100b",
+      "name": "C11E4TM100B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e4tm100b",
+      "recordPath": "equipment/se-article-c11e4tm100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e4tm100b.json"
+    },
+    {
+      "id": "se-article-lv426478",
+      "name": "LV426478 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426478",
+      "recordPath": "equipment/se-article-lv426478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426478.json"
+    },
+    {
+      "id": "se-article-lv426260",
+      "name": "LV426260 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426260",
+      "recordPath": "equipment/se-article-lv426260.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426260.json"
+    },
+    {
+      "id": "se-article-gv2g345",
+      "name": "GV2G345 — Linergy FT, Comb busbar, 63A, 3 tap-offs, 45mm pitch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2g345",
+      "recordPath": "equipment/se-article-gv2g345.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2g345.json"
+    },
+    {
+      "id": "se-article-lv426566",
+      "name": "LV426566 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426566",
+      "recordPath": "equipment/se-article-lv426566.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426566.json"
+    },
+    {
+      "id": "se-article-a9xph457",
+      "name": "A9XPH457 — Acti9 - comb busbar - 3L+N - 18 mm pitch - 57 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph457",
+      "recordPath": "equipment/se-article-a9xph457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph457.json"
+    },
+    {
+      "id": "se-article-lv426578",
+      "name": "LV426578 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426578",
+      "recordPath": "equipment/se-article-lv426578.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426578.json"
+    },
+    {
+      "id": "se-article-c11b4tm063b",
+      "name": "C11B4TM063B — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b4tm063b",
+      "recordPath": "equipment/se-article-c11b4tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b4tm063b.json"
+    },
+    {
+      "id": "se-article-c11n6tm025b",
+      "name": "C11N6TM025B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n6tm025b",
+      "recordPath": "equipment/se-article-c11n6tm025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n6tm025b.json"
+    },
+    {
+      "id": "se-article-lv426269",
+      "name": "LV426269 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426269",
+      "recordPath": "equipment/se-article-lv426269.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426269.json"
+    },
+    {
+      "id": "se-article-c11f6tm016b",
+      "name": "C11F6TM016B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 16A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f6tm016b",
+      "recordPath": "equipment/se-article-c11f6tm016b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f6tm016b.json"
+    },
+    {
+      "id": "se-article-lv426472",
+      "name": "LV426472 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426472",
+      "recordPath": "equipment/se-article-lv426472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426472.json"
+    },
+    {
+      "id": "se-article-a9xah357",
+      "name": "A9XAH357 — Acti9 - comb busbar - 3L wtih Aux - 18 mm pitch - 57 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xah357",
+      "recordPath": "equipment/se-article-a9xah357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xah357.json"
+    },
+    {
+      "id": "se-article-c12h4tm160b",
+      "name": "C12H4TM160B — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12h4tm160b",
+      "recordPath": "equipment/se-article-c12h4tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12h4tm160b.json"
+    },
+    {
+      "id": "se-article-c11f3tm032b",
+      "name": "C11F3TM032B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 3 poles, TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f3tm032b",
+      "recordPath": "equipment/se-article-c11f3tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f3tm032b.json"
+    },
+    {
+      "id": "se-article-lv426175",
+      "name": "LV426175 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426175",
+      "recordPath": "equipment/se-article-lv426175.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426175.json"
+    },
+    {
+      "id": "se-article-lv426263",
+      "name": "LV426263 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426263",
+      "recordPath": "equipment/se-article-lv426263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426263.json"
+    },
+    {
+      "id": "se-article-c11e3tm040b",
+      "name": "C11E3TM040B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 3 poles, TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e3tm040b",
+      "recordPath": "equipment/se-article-c11e3tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e3tm040b.json"
+    },
+    {
+      "id": "se-article-c12h4tm125b",
+      "name": "C12H4TM125B — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12h4tm125b",
+      "recordPath": "equipment/se-article-c12h4tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12h4tm125b.json"
+    },
+    {
+      "id": "se-article-c12h3tm125b",
+      "name": "C12H3TM125B — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 3 poles, TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12h3tm125b",
+      "recordPath": "equipment/se-article-c12h3tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12h3tm125b.json"
+    },
+    {
+      "id": "se-article-lv426266",
+      "name": "LV426266 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426266",
+      "recordPath": "equipment/se-article-lv426266.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426266.json"
+    },
+    {
+      "id": "se-article-c11h3tm050b",
+      "name": "C11H3TM050B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h3tm050b",
+      "recordPath": "equipment/se-article-c11h3tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h3tm050b.json"
+    },
+    {
+      "id": "se-article-lv426277",
+      "name": "LV426277 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426277",
+      "recordPath": "equipment/se-article-lv426277.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426277.json"
+    },
+    {
+      "id": "se-article-lv426577",
+      "name": "LV426577 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426577",
+      "recordPath": "equipment/se-article-lv426577.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426577.json"
+    },
+    {
+      "id": "se-article-c11f4tm016b",
+      "name": "C11F4TM016B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 16A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm016b",
+      "recordPath": "equipment/se-article-c11f4tm016b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm016b.json"
+    },
+    {
+      "id": "se-article-lv426474",
+      "name": "LV426474 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426474",
+      "recordPath": "equipment/se-article-lv426474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426474.json"
+    },
+    {
+      "id": "se-article-lv426274",
+      "name": "LV426274 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426274",
+      "recordPath": "equipment/se-article-lv426274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426274.json"
+    },
+    {
+      "id": "se-article-lv426365",
+      "name": "LV426365 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426365",
+      "recordPath": "equipment/se-article-lv426365.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426365.json"
+    },
+    {
+      "id": "se-article-lv426451",
+      "name": "LV426451 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426451",
+      "recordPath": "equipment/se-article-lv426451.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426451.json"
+    },
+    {
+      "id": "se-article-a9xph412",
+      "name": "A9XPH412 — Acti9 - comb busbar - 3L+N - 18 mm pitch - 12 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph412",
+      "recordPath": "equipment/se-article-a9xph412.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph412.json"
+    },
+    {
+      "id": "se-article-a9xph124",
+      "name": "A9XPH124 — Acti9 - comb busbar - 1L - 18 mm pitch - 24 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph124",
+      "recordPath": "equipment/se-article-a9xph124.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph124.json"
+    },
+    {
+      "id": "se-article-lv426464",
+      "name": "LV426464 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426464",
+      "recordPath": "equipment/se-article-lv426464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426464.json"
+    },
+    {
+      "id": "se-article-c11f34v100b",
+      "name": "C11F34V100B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f34v100b",
+      "recordPath": "equipment/se-article-c11f34v100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f34v100b.json"
+    },
+    {
+      "id": "se-article-c114050bs",
+      "name": "C114050BS — Switch disconnector, ComPacT NSXm 50NA, 4 poles, thermal current Ith 50A, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c114050bs",
+      "recordPath": "equipment/se-article-c114050bs.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c114050bs.json"
+    },
+    {
+      "id": "se-article-a9xah657",
+      "name": "A9XAH657 — Acti9 - comb busbar - 3L balanced wtih Aux - 18 mm pitch - 57 modules",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xah657",
+      "recordPath": "equipment/se-article-a9xah657.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xah657.json"
+    },
+    {
+      "id": "se-article-a9xah457",
+      "name": "A9XAH457 — Acti9 - comb busbar - 3L+N wtih Aux - 18 mm pitch - 57 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xah457",
+      "recordPath": "equipment/se-article-a9xah457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xah457.json"
+    },
+    {
+      "id": "se-article-c11b4tm025b",
+      "name": "C11B4TM025B — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b4tm025b",
+      "recordPath": "equipment/se-article-c11b4tm025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b4tm025b.json"
+    },
+    {
+      "id": "se-article-c11e6tm025b",
+      "name": "C11E6TM025B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e6tm025b",
+      "recordPath": "equipment/se-article-c11e6tm025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e6tm025b.json"
+    },
+    {
+      "id": "se-article-lv426652",
+      "name": "LV426652 — Switch disconnector, ComPact NSXm NA, 3P, 160A rating, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426652",
+      "recordPath": "equipment/se-article-lv426652.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426652.json"
+    },
+    {
+      "id": "se-article-lv426364",
+      "name": "LV426364 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426364",
+      "recordPath": "equipment/se-article-lv426364.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426364.json"
+    },
+    {
+      "id": "se-article-lv426378",
+      "name": "LV426378 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 4d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426378",
+      "recordPath": "equipment/se-article-lv426378.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426378.json"
+    },
+    {
+      "id": "se-article-c12b34v160b",
+      "name": "C12B34V160B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b34v160b",
+      "recordPath": "equipment/se-article-c12b34v160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b34v160b.json"
+    },
+    {
+      "id": "se-article-lv426568",
+      "name": "LV426568 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426568",
+      "recordPath": "equipment/se-article-lv426568.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426568.json"
+    },
+    {
+      "id": "se-article-lv426257",
+      "name": "LV426257 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 3P 3d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426257",
+      "recordPath": "equipment/se-article-lv426257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426257.json"
+    },
+    {
+      "id": "se-article-lv426254",
+      "name": "LV426254 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 3P 3d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426254",
+      "recordPath": "equipment/se-article-lv426254.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426254.json"
+    },
+    {
+      "id": "se-article-c12n44v160b",
+      "name": "C12N44V160B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12n44v160b",
+      "recordPath": "equipment/se-article-c12n44v160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12n44v160b.json"
+    },
+    {
+      "id": "se-article-lv426172",
+      "name": "LV426172 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426172",
+      "recordPath": "equipment/se-article-lv426172.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426172.json"
+    },
+    {
+      "id": "se-article-lv426162",
+      "name": "LV426162 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 3d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426162",
+      "recordPath": "equipment/se-article-lv426162.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426162.json"
+    },
+    {
+      "id": "se-article-lv426462",
+      "name": "LV426462 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426462",
+      "recordPath": "equipment/se-article-lv426462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426462.json"
+    },
+    {
+      "id": "se-article-c11e4tm080b",
+      "name": "C11E4TM080B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e4tm080b",
+      "recordPath": "equipment/se-article-c11e4tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e4tm080b.json"
+    },
+    {
+      "id": "se-article-lv426475",
+      "name": "LV426475 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426475",
+      "recordPath": "equipment/se-article-lv426475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426475.json"
+    },
+    {
+      "id": "se-article-c12n6tm160b",
+      "name": "C12N6TM160B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12n6tm160b",
+      "recordPath": "equipment/se-article-c12n6tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12n6tm160b.json"
+    },
+    {
+      "id": "se-article-c12e6tm160b",
+      "name": "C12E6TM160B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12e6tm160b",
+      "recordPath": "equipment/se-article-c12e6tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12e6tm160b.json"
+    },
+    {
+      "id": "se-article-c11f6tm050b",
+      "name": "C11F6TM050B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f6tm050b",
+      "recordPath": "equipment/se-article-c11f6tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f6tm050b.json"
+    },
+    {
+      "id": "se-article-lv426151",
+      "name": "LV426151 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426151",
+      "recordPath": "equipment/se-article-lv426151.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426151.json"
+    },
+    {
+      "id": "se-article-a9xpcm04",
+      "name": "A9XPCM04 — Set of 4 connectors 100A monoconnect for 3P+N comb busbar",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xpcm04",
+      "recordPath": "equipment/se-article-a9xpcm04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xpcm04.json"
+    },
+    {
+      "id": "se-article-c12f44v160b",
+      "name": "C12F44V160B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12f44v160b",
+      "recordPath": "equipment/se-article-c12f44v160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12f44v160b.json"
+    },
+    {
+      "id": "se-article-c12f3tm160b",
+      "name": "C12F3TM160B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 3 poles, TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12f3tm160b",
+      "recordPath": "equipment/se-article-c12f3tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12f3tm160b.json"
+    },
+    {
+      "id": "se-article-a9xah257",
+      "name": "A9XAH257 — Acti9 - comb busbar - 1L+N with Aux - 18 mm pitch - 57 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xah257",
+      "recordPath": "equipment/se-article-a9xah257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xah257.json"
+    },
+    {
+      "id": "se-article-lv426355",
+      "name": "LV426355 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426355",
+      "recordPath": "equipment/se-article-lv426355.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426355.json"
+    },
+    {
+      "id": "se-article-lv426358",
+      "name": "LV426358 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426358",
+      "recordPath": "equipment/se-article-lv426358.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426358.json"
+    },
+    {
+      "id": "se-article-c11b44v100b",
+      "name": "C11B44V100B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b44v100b",
+      "recordPath": "equipment/se-article-c11b44v100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b44v100b.json"
+    },
+    {
+      "id": "se-article-c11e4tm016b",
+      "name": "C11E4TM016B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 16A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e4tm016b",
+      "recordPath": "equipment/se-article-c11e4tm016b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e4tm016b.json"
+    },
+    {
+      "id": "se-article-c11f4tm063b",
+      "name": "C11F4TM063B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm063b",
+      "recordPath": "equipment/se-article-c11f4tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm063b.json"
+    },
+    {
+      "id": "se-article-a9xph512",
+      "name": "A9XPH512 — Acti9 - comb busbar - 3L+N balanced - 18 mm pitch - 12 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph512",
+      "recordPath": "equipment/se-article-a9xph512.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph512.json"
+    },
+    {
+      "id": "se-article-c11e6tm063b",
+      "name": "C11E6TM063B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e6tm063b",
+      "recordPath": "equipment/se-article-c11e6tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e6tm063b.json"
+    },
+    {
+      "id": "se-article-lv426275",
+      "name": "LV426275 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426275",
+      "recordPath": "equipment/se-article-lv426275.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426275.json"
+    },
+    {
+      "id": "se-article-c12b6tm160b",
+      "name": "C12B6TM160B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b6tm160b",
+      "recordPath": "equipment/se-article-c12b6tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b6tm160b.json"
+    },
+    {
+      "id": "se-article-lv426262",
+      "name": "LV426262 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426262",
+      "recordPath": "equipment/se-article-lv426262.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426262.json"
+    },
+    {
+      "id": "se-article-c11n6tm032b",
+      "name": "C11N6TM032B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n6tm032b",
+      "recordPath": "equipment/se-article-c11n6tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n6tm032b.json"
+    },
+    {
+      "id": "se-article-lv426565",
+      "name": "LV426565 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426565",
+      "recordPath": "equipment/se-article-lv426565.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426565.json"
+    },
+    {
+      "id": "se-article-lv426261",
+      "name": "LV426261 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426261",
+      "recordPath": "equipment/se-article-lv426261.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426261.json"
+    },
+    {
+      "id": "se-article-c12b4tm160b",
+      "name": "C12B4TM160B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b4tm160b",
+      "recordPath": "equipment/se-article-c12b4tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b4tm160b.json"
+    },
+    {
+      "id": "se-article-lv426555",
+      "name": "LV426555 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 3P 3d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426555",
+      "recordPath": "equipment/se-article-lv426555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426555.json"
+    },
+    {
+      "id": "se-article-a9xph357",
+      "name": "A9XPH357 — Acti9 - comb busbar - 3L - 18 mm pitch - 57 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph357",
+      "recordPath": "equipment/se-article-a9xph357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph357.json"
+    },
+    {
+      "id": "se-article-c11f3tm100b",
+      "name": "C11F3TM100B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 3 poles, TMD trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f3tm100b",
+      "recordPath": "equipment/se-article-c11f3tm100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f3tm100b.json"
+    },
+    {
+      "id": "se-article-lv426571",
+      "name": "LV426571 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426571",
+      "recordPath": "equipment/se-article-lv426571.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426571.json"
+    },
+    {
+      "id": "se-article-gv2g472",
+      "name": "GV2G472 — Linergy FT, Comb busbar, 63A, 4 tap-offs, 72mm pitch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2g472",
+      "recordPath": "equipment/se-article-gv2g472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2g472.json"
+    },
+    {
+      "id": "se-article-lv426452",
+      "name": "LV426452 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426452",
+      "recordPath": "equipment/se-article-lv426452.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426452.json"
+    },
+    {
+      "id": "se-article-c12b6tm125b",
+      "name": "C12B6TM125B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b6tm125b",
+      "recordPath": "equipment/se-article-c12b6tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b6tm125b.json"
+    },
+    {
+      "id": "se-article-a9xph257",
+      "name": "A9XPH257 — Acti9 - comb busbar - 1L+N - 18 mm pitch - 57 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph257",
+      "recordPath": "equipment/se-article-a9xph257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph257.json"
+    },
+    {
+      "id": "se-article-lv426466",
+      "name": "LV426466 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426466",
+      "recordPath": "equipment/se-article-lv426466.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426466.json"
+    },
+    {
+      "id": "se-article-lv426176",
+      "name": "LV426176 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426176",
+      "recordPath": "equipment/se-article-lv426176.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426176.json"
+    },
+    {
+      "id": "se-article-lv426460",
+      "name": "LV426460 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426460",
+      "recordPath": "equipment/se-article-lv426460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426460.json"
+    },
+    {
+      "id": "se-article-lv426265",
+      "name": "LV426265 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426265",
+      "recordPath": "equipment/se-article-lv426265.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426265.json"
+    },
+    {
+      "id": "se-article-lv426155",
+      "name": "LV426155 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426155",
+      "recordPath": "equipment/se-article-lv426155.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426155.json"
+    },
+    {
+      "id": "se-article-lv426561",
+      "name": "LV426561 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426561",
+      "recordPath": "equipment/se-article-lv426561.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426561.json"
+    },
+    {
+      "id": "se-article-c11f6tm032b",
+      "name": "C11F6TM032B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f6tm032b",
+      "recordPath": "equipment/se-article-c11f6tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f6tm032b.json"
+    },
+    {
+      "id": "se-article-c11f6tm063b",
+      "name": "C11F6TM063B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f6tm063b",
+      "recordPath": "equipment/se-article-c11f6tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f6tm063b.json"
+    },
+    {
+      "id": "se-article-c11h6tm032b",
+      "name": "C11H6TM032B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h6tm032b",
+      "recordPath": "equipment/se-article-c11h6tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h6tm032b.json"
+    },
+    {
+      "id": "se-article-c12f6tm125b",
+      "name": "C12F6TM125B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12f6tm125b",
+      "recordPath": "equipment/se-article-c12f6tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12f6tm125b.json"
+    },
+    {
+      "id": "se-article-lv426250",
+      "name": "LV426250 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 3P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426250",
+      "recordPath": "equipment/se-article-lv426250.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426250.json"
+    },
+    {
+      "id": "se-article-lv426173",
+      "name": "LV426173 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 4d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426173",
+      "recordPath": "equipment/se-article-lv426173.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426173.json"
+    },
+    {
+      "id": "se-article-a9xph212",
+      "name": "A9XPH212 — Acti9 - comb busbar - 1L+N - 18 mm pitch - 12 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph212",
+      "recordPath": "equipment/se-article-a9xph212.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph212.json"
+    },
+    {
+      "id": "se-article-c11b4tm040b",
+      "name": "C11B4TM040B — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b4tm040b",
+      "recordPath": "equipment/se-article-c11b4tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b4tm040b.json"
+    },
+    {
+      "id": "se-article-lv426457",
+      "name": "LV426457 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426457",
+      "recordPath": "equipment/se-article-lv426457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426457.json"
+    },
+    {
+      "id": "se-article-lv426473",
+      "name": "LV426473 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 4d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426473",
+      "recordPath": "equipment/se-article-lv426473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426473.json"
+    },
+    {
+      "id": "se-article-c11e4tm063b",
+      "name": "C11E4TM063B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e4tm063b",
+      "recordPath": "equipment/se-article-c11e4tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e4tm063b.json"
+    },
+    {
+      "id": "se-article-c11b4tm080b",
+      "name": "C11B4TM080B — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b4tm080b",
+      "recordPath": "equipment/se-article-c11b4tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b4tm080b.json"
+    },
+    {
+      "id": "se-article-gv1g09",
+      "name": "GV1G09 — Terminal block, TeSys D, TeSys Deca & TeSys U, 3P, from the top, for supply to one or more GV2G busbar sets",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv1g09",
+      "recordPath": "equipment/se-article-gv1g09.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv1g09.json"
+    },
+    {
+      "id": "se-article-c12n3tm160b",
+      "name": "C12N3TM160B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 3 poles, TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12n3tm160b",
+      "recordPath": "equipment/se-article-c12n3tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12n3tm160b.json"
+    },
+    {
+      "id": "se-article-c11h4tm032b",
+      "name": "C11H4TM032B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h4tm032b",
+      "recordPath": "equipment/se-article-c11h4tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h4tm032b.json"
+    },
+    {
+      "id": "se-article-lv426361",
+      "name": "LV426361 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 25 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426361",
+      "recordPath": "equipment/se-article-lv426361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426361.json"
+    },
+    {
+      "id": "se-article-lv426661",
+      "name": "LV426661 — Switch disconnector, ComPact NSXm NA, 4P, 100A rating, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426661",
+      "recordPath": "equipment/se-article-lv426661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426661.json"
+    },
+    {
+      "id": "se-article-lv426352",
+      "name": "LV426352 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426352",
+      "recordPath": "equipment/se-article-lv426352.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426352.json"
+    },
+    {
+      "id": "se-article-c11f4tm032b",
+      "name": "C11F4TM032B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm032b",
+      "recordPath": "equipment/se-article-c11f4tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm032b.json"
+    },
+    {
+      "id": "se-article-lv426278",
+      "name": "LV426278 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 4d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426278",
+      "recordPath": "equipment/se-article-lv426278.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426278.json"
+    },
+    {
+      "id": "se-article-a9xph524",
+      "name": "A9XPH524 — Acti9 - comb busbar - 3L+N balanced - 18 mm pitch - 24 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph524",
+      "recordPath": "equipment/se-article-a9xph524.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph524.json"
+    },
+    {
+      "id": "se-article-c11e34v050b",
+      "name": "C11E34V050B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e34v050b",
+      "recordPath": "equipment/se-article-c11e34v050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e34v050b.json"
+    },
+    {
+      "id": "se-article-lv426150",
+      "name": "LV426150 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426150",
+      "recordPath": "equipment/se-article-lv426150.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426150.json"
+    },
+    {
+      "id": "se-article-c11f34v050b",
+      "name": "C11F34V050B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f34v050b",
+      "recordPath": "equipment/se-article-c11f34v050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f34v050b.json"
+    },
+    {
+      "id": "se-article-lv426468",
+      "name": "LV426468 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426468",
+      "recordPath": "equipment/se-article-lv426468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426468.json"
+    },
+    {
+      "id": "se-article-lv426152",
+      "name": "LV426152 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426152",
+      "recordPath": "equipment/se-article-lv426152.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426152.json"
+    },
+    {
+      "id": "se-article-a9xph424",
+      "name": "A9XPH424 — Acti9 - comb busbar - 3L+N - 18 mm pitch - 24 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph424",
+      "recordPath": "equipment/se-article-a9xph424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph424.json"
+    },
+    {
+      "id": "se-article-lv426373",
+      "name": "LV426373 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 4d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426373",
+      "recordPath": "equipment/se-article-lv426373.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426373.json"
+    },
+    {
+      "id": "se-article-c11e6tm032b",
+      "name": "C11E6TM032B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e6tm032b",
+      "recordPath": "equipment/se-article-c11e6tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e6tm032b.json"
+    },
+    {
+      "id": "se-article-c11f6tm080b",
+      "name": "C11F6TM080B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f6tm080b",
+      "recordPath": "equipment/se-article-c11f6tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f6tm080b.json"
+    },
+    {
+      "id": "se-article-c11e44v100b",
+      "name": "C11E44V100B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e44v100b",
+      "recordPath": "equipment/se-article-c11e44v100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e44v100b.json"
+    },
+    {
+      "id": "se-article-lv426354",
+      "name": "LV426354 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426354",
+      "recordPath": "equipment/se-article-lv426354.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426354.json"
+    },
+    {
+      "id": "se-article-lv426579",
+      "name": "LV426579 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426579",
+      "recordPath": "equipment/se-article-lv426579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426579.json"
+    },
+    {
+      "id": "se-article-c11h3tm032b",
+      "name": "C11H3TM032B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, TMD trip unit 32A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h3tm032b",
+      "recordPath": "equipment/se-article-c11h3tm032b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h3tm032b.json"
+    },
+    {
+      "id": "se-article-c11f4tm100b",
+      "name": "C11F4TM100B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm100b",
+      "recordPath": "equipment/se-article-c11f4tm100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm100b.json"
+    },
+    {
+      "id": "se-article-lv426156",
+      "name": "LV426156 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426156",
+      "recordPath": "equipment/se-article-lv426156.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426156.json"
+    },
+    {
+      "id": "se-article-c12e3tm125b",
+      "name": "C12E3TM125B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 3 poles, TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12e3tm125b",
+      "recordPath": "equipment/se-article-c12e3tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12e3tm125b.json"
+    },
+    {
+      "id": "se-article-c12e34v160b",
+      "name": "C12E34V160B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12e34v160b",
+      "recordPath": "equipment/se-article-c12e34v160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12e34v160b.json"
+    },
+    {
+      "id": "se-article-lv426267",
+      "name": "LV426267 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426267",
+      "recordPath": "equipment/se-article-lv426267.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426267.json"
+    },
+    {
+      "id": "se-article-c11n4tm080b",
+      "name": "C11N4TM080B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n4tm080b",
+      "recordPath": "equipment/se-article-c11n4tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n4tm080b.json"
+    },
+    {
+      "id": "se-article-c11e3tm100b",
+      "name": "C11E3TM100B — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 3 poles, TMD trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e3tm100b",
+      "recordPath": "equipment/se-article-c11e3tm100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e3tm100b.json"
+    },
+    {
+      "id": "se-article-lv426268",
+      "name": "LV426268 — circuit breaker ComPact NSXm B (25 kA at 415 VAC), 4P 3d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426268",
+      "recordPath": "equipment/se-article-lv426268.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426268.json"
+    },
+    {
+      "id": "se-article-c11h4tm050b",
+      "name": "C11H4TM050B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h4tm050b",
+      "recordPath": "equipment/se-article-c11h4tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h4tm050b.json"
+    },
+    {
+      "id": "se-article-lv426157",
+      "name": "LV426157 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426157",
+      "recordPath": "equipment/se-article-lv426157.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426157.json"
+    },
+    {
+      "id": "se-article-lv426575",
+      "name": "LV426575 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 63 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426575",
+      "recordPath": "equipment/se-article-lv426575.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426575.json"
+    },
+    {
+      "id": "se-article-lv426360",
+      "name": "LV426360 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426360",
+      "recordPath": "equipment/se-article-lv426360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426360.json"
+    },
+    {
+      "id": "se-article-a9xph112",
+      "name": "A9XPH112 — Acti9 - comb busbar - 1L - 18 mm pitch - 12 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph112",
+      "recordPath": "equipment/se-article-a9xph112.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph112.json"
+    },
+    {
+      "id": "se-article-lv426350",
+      "name": "LV426350 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426350",
+      "recordPath": "equipment/se-article-lv426350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426350.json"
+    },
+    {
+      "id": "se-article-lv426377",
+      "name": "LV426377 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 4d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426377",
+      "recordPath": "equipment/se-article-lv426377.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426377.json"
+    },
+    {
+      "id": "se-article-c11f4tm025b",
+      "name": "C11F4TM025B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm025b",
+      "recordPath": "equipment/se-article-c11f4tm025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm025b.json"
+    },
+    {
+      "id": "se-article-lv426357",
+      "name": "LV426357 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426357",
+      "recordPath": "equipment/se-article-lv426357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426357.json"
+    },
+    {
+      "id": "se-article-c11e4tm040b",
+      "name": "C11E4TM040B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e4tm040b",
+      "recordPath": "equipment/se-article-c11e4tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e4tm040b.json"
+    },
+    {
+      "id": "se-article-a9xah157",
+      "name": "A9XAH157 — Acti9 - comb busbar - 1L with Aux - 18 mm pitch - 57 modules - 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xah157",
+      "recordPath": "equipment/se-article-a9xah157.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xah157.json"
+    },
+    {
+      "id": "se-article-c11h3tm025b",
+      "name": "C11H3TM025B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, TMD trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h3tm025b",
+      "recordPath": "equipment/se-article-c11h3tm025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h3tm025b.json"
+    },
+    {
+      "id": "se-article-lv426359",
+      "name": "LV426359 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426359",
+      "recordPath": "equipment/se-article-lv426359.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426359.json"
+    },
+    {
+      "id": "se-article-c11h3tm040b",
+      "name": "C11H3TM040B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h3tm040b",
+      "recordPath": "equipment/se-article-c11h3tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h3tm040b.json"
+    },
+    {
+      "id": "se-article-lv426960",
+      "name": "LV426960 — Compression lugs and busbar connectors, ComPacT NSXm, captive nuts and M6 screws, 160A max, set of 3 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426960",
+      "recordPath": "equipment/se-article-lv426960.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426960.json"
+    },
+    {
+      "id": "se-article-c11h3tm080b",
+      "name": "C11H3TM080B — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 3 poles, TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h3tm080b",
+      "recordPath": "equipment/se-article-c11h3tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h3tm080b.json"
+    },
+    {
+      "id": "se-article-c12f34v160b",
+      "name": "C12F34V160B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12f34v160b",
+      "recordPath": "equipment/se-article-c12f34v160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12f34v160b.json"
+    },
+    {
+      "id": "se-article-lv426158",
+      "name": "LV426158 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 125 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426158",
+      "recordPath": "equipment/se-article-lv426158.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426158.json"
+    },
+    {
+      "id": "se-article-c11h44v100b",
+      "name": "C11H44V100B — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h44v100b",
+      "recordPath": "equipment/se-article-c11h44v100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h44v100b.json"
+    },
+    {
+      "id": "se-article-lv426163",
+      "name": "LV426163 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 4P 3d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426163",
+      "recordPath": "equipment/se-article-lv426163.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426163.json"
+    },
+    {
+      "id": "se-article-c11b6tm040b",
+      "name": "C11B6TM040B — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b6tm040b",
+      "recordPath": "equipment/se-article-c11b6tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b6tm040b.json"
+    },
+    {
+      "id": "se-article-c11f3tm025b",
+      "name": "C11F3TM025B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 3 poles, TMD trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f3tm025b",
+      "recordPath": "equipment/se-article-c11f3tm025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f3tm025b.json"
+    },
+    {
+      "id": "se-article-c11e44v025b",
+      "name": "C11E44V025B — Circuit breaker, ComPacT NSXm 63E, 16kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 25A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e44v025b",
+      "recordPath": "equipment/se-article-c11e44v025b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e44v025b.json"
+    },
+    {
+      "id": "se-article-lv426356",
+      "name": "LV426356 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 3P 3d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426356",
+      "recordPath": "equipment/se-article-lv426356.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426356.json"
+    },
+    {
+      "id": "se-article-c11n4tm050b",
+      "name": "C11N4TM050B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n4tm050b",
+      "recordPath": "equipment/se-article-c11n4tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n4tm050b.json"
+    },
+    {
+      "id": "se-article-c12n3tm125b",
+      "name": "C12N3TM125B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 3 poles, TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12n3tm125b",
+      "recordPath": "equipment/se-article-c12n3tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12n3tm125b.json"
+    },
+    {
+      "id": "se-article-c11f6tm100b",
+      "name": "C11F6TM100B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f6tm100b",
+      "recordPath": "equipment/se-article-c11f6tm100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f6tm100b.json"
+    },
+    {
+      "id": "se-article-lv426463",
+      "name": "LV426463 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426463",
+      "recordPath": "equipment/se-article-lv426463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426463.json"
+    },
+    {
+      "id": "se-article-lv426456",
+      "name": "LV426456 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 3P 3d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426456",
+      "recordPath": "equipment/se-article-lv426456.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426456.json"
+    },
+    {
+      "id": "se-article-gv2g254",
+      "name": "GV2G254 — Linergy FT Comb busbar, TeSys D, 63 A, 2 tap-offs, 54 mm pitch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2g254",
+      "recordPath": "equipment/se-article-gv2g254.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2g254.json"
+    },
+    {
+      "id": "se-article-gv2g554",
+      "name": "GV2G554 — Linergy FT, Comb busbar, 63A, 5 tap-offs, 54mm pitch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2g554",
+      "recordPath": "equipment/se-article-gv2g554.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2g554.json"
+    },
+    {
+      "id": "se-article-lv426576",
+      "name": "LV426576 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 80 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426576",
+      "recordPath": "equipment/se-article-lv426576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426576.json"
+    },
+    {
+      "id": "se-article-c11n6tm080b",
+      "name": "C11N6TM080B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n6tm080b",
+      "recordPath": "equipment/se-article-c11n6tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n6tm080b.json"
+    },
+    {
+      "id": "se-article-c11n34v100b",
+      "name": "C11N34V100B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n34v100b",
+      "recordPath": "equipment/se-article-c11n34v100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n34v100b.json"
+    },
+    {
+      "id": "se-article-lv426562",
+      "name": "LV426562 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 32 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426562",
+      "recordPath": "equipment/se-article-lv426562.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426562.json"
+    },
+    {
+      "id": "se-article-c11n3tm050b",
+      "name": "C11N3TM050B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 3 poles, TMD trip unit 50A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n3tm050b",
+      "recordPath": "equipment/se-article-c11n3tm050b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n3tm050b.json"
+    },
+    {
+      "id": "se-article-c11n6tm063b",
+      "name": "C11N6TM063B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n6tm063b",
+      "recordPath": "equipment/se-article-c11n6tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n6tm063b.json"
+    },
+    {
+      "id": "se-article-c11n6tm040b",
+      "name": "C11N6TM040B — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 40A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n6tm040b",
+      "recordPath": "equipment/se-article-c11n6tm040b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n6tm040b.json"
+    },
+    {
+      "id": "se-article-c12f4tm160b",
+      "name": "C12F4TM160B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 160A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12f4tm160b",
+      "recordPath": "equipment/se-article-c12f4tm160b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12f4tm160b.json"
+    },
+    {
+      "id": "se-article-lv426560",
+      "name": "LV426560 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426560",
+      "recordPath": "equipment/se-article-lv426560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426560.json"
+    },
+    {
+      "id": "se-article-14811",
+      "name": "14811 — Acti9 - comb busbar - 1L - 27 mm pitch - 24 modules - 125A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-14811",
+      "recordPath": "equipment/se-article-14811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-14811.json"
+    },
+    {
+      "id": "se-article-c11h4tm016b",
+      "name": "C11H4TM016B — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 16A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h4tm016b",
+      "recordPath": "equipment/se-article-c11h4tm016b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h4tm016b.json"
+    },
+    {
+      "id": "se-article-c11f3tm080b",
+      "name": "C11F3TM080B — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 3 poles, TMD trip unit 80A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f3tm080b",
+      "recordPath": "equipment/se-article-c11f3tm080b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f3tm080b.json"
+    },
+    {
+      "id": "se-article-lv426154",
+      "name": "LV426154 — circuit breaker ComPact NSXm E (16 kA at 415 VAC), 3P 3d, 50 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426154",
+      "recordPath": "equipment/se-article-lv426154.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426154.json"
+    },
+    {
+      "id": "se-article-lv426563",
+      "name": "LV426563 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 3d, 40 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426563",
+      "recordPath": "equipment/se-article-lv426563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426563.json"
+    },
+    {
+      "id": "se-article-lv426379",
+      "name": "LV426379 — circuit breaker ComPact NSXm F (36 kA at 415 VAC), 4P 4d, 160 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426379",
+      "recordPath": "equipment/se-article-lv426379.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426379.json"
+    },
+    {
+      "id": "se-article-a9xph224",
+      "name": "A9XPH224 — Acti9 - comb busbar - 1L+N - 18 mm pitch - 24 modules - 100 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9xph224",
+      "recordPath": "equipment/se-article-a9xph224.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9xph224.json"
+    },
+    {
+      "id": "se-article-c113100bs",
+      "name": "C113100BS — Switch disconnector, ComPacT NSXm 100NA, 3 poles, thermal current Ith 100A, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c113100bs",
+      "recordPath": "equipment/se-article-c113100bs.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c113100bs.json"
+    },
+    {
+      "id": "se-article-c11f3tm063b",
+      "name": "C11F3TM063B — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 3 poles, TMD trip unit 63A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f3tm063b",
+      "recordPath": "equipment/se-article-c11f3tm063b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f3tm063b.json"
+    },
+    {
+      "id": "se-article-c12n4tm125b",
+      "name": "C12N4TM125B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 125A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12n4tm125b",
+      "recordPath": "equipment/se-article-c12n4tm125b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12n4tm125b.json"
+    },
+    {
+      "id": "se-article-c11n44v100b",
+      "name": "C11N44V100B — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 100A, lugs/busbars",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n44v100b",
+      "recordPath": "equipment/se-article-c11n44v100b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n44v100b.json"
+    },
+    {
+      "id": "se-article-lv426570",
+      "name": "LV426570 — circuit breaker ComPact NSXm H (70 kA at 415 VAC), 4P 4d, 16 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426570",
+      "recordPath": "equipment/se-article-lv426570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426570.json"
+    },
+    {
+      "id": "se-article-lv426467",
+      "name": "LV426467 — circuit breaker ComPact NSXm N (50 kA at 415 VAC), 4P 3d, 100 A rating TMD trip unit, compression lugs and busbar connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426467",
+      "recordPath": "equipment/se-article-lv426467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426467.json"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+# Eaton — Z-PU/S — Pushbutton with LED, 250 V, 16 A, 1 N/O, green, IP40
+
+Eaton Z-PU/S — Pushbutton with LED, 250 V, 16 A, 1 N/O, green, IP40. Manufacturer CAD files for automation equipment selection and layout, identified by article 276291.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276291) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-276291.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-276291.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 276291
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Download the retained manufacturer CAD originals from this library. ZIP packages contain the unchanged named native CAD file; manufacturer archive provenance is retained separately.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: Z-PU/S — Pushbutton with LED, 250 V, 16 A, 1 N/O, green, IP40
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 276291
+- Manufacturer reference: 276291
+- Manufacturer type: Z-PU/S
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 276291 ([source](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip))
+- Manufacturer type: Z-PU/S ([source](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip))
+
+## What the equipment does
+
+A switch changes an electrical connection when a person or mechanism operates it. Its contacts determine which control paths are made or broken.
+
+In a switchroom, a local pushbutton can send a start or stop request to a ventilation control circuit.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip)
+
+## Choosing a file
+
+Start with 276291. The files above belong to Eaton's Z-PU/S — Pushbutton with LED, 250 V, 16 A, 1 N/O, green, IP40 resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Eaton Z-PU/S — Pushbutton with LED, 250 V, 16 A, 1 N/O, green, IP40: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-276291/native-f6621a0d6aba0ad2afd0ba6b-dwg?asset=f6621a0d6aba0ad2afd0ba6bc10daa7d60e545652b3e163639dbbf92f65ed871)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-276291). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/eaton-article-276291)
+
+- eaton-pushbuttons-complete-mcad-3d-models-z-pu-push-1s.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-pushbuttons-complete-mcad-drawings-z-pu-push-1s.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### eaton-pushbuttons-complete-mcad-3d-models-z-pu-push-1s.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-276291/native-fe151bf6489f34a98fe3a7a1-step)
+- Redistribution: unknown
+- Original SHA-256: fe151bf6489f34a98fe3a7a17854f708fd20375fc23c3988d383c3da0780f34a
+- Original bytes: 200984
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 36325 bytes
+- Delivery SHA-256: 9dbad94ef78330515c1c8ae269e8cd1e967bb0cb1d9b8d9cb27bb0e61b32bf54
+
+### eaton-pushbuttons-complete-mcad-drawings-z-pu-push-1s.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-276291/native-f6621a0d6aba0ad2afd0ba6b-dwg)
+- Redistribution: unknown
+- Original SHA-256: f6621a0d6aba0ad2afd0ba6bc10daa7d60e545652b3e163639dbbf92f65ed871
+- Original bytes: 497152
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/f72abf65-c2b4-44b3-b2d1-785b1b16f80a/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 439449 bytes
+- Delivery SHA-256: a850d8e88940df54845098c157330d76016808e20e8ad56ee316aed45e5f1de1
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

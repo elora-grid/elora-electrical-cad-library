@@ -1,0 +1,171 @@
+# Weidmüller — HDC-C-HD-BM0.75-1.00AU — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, HD, HDD, HQ, MixMate, 1 mm², 1.6 mm, turned
+
+Weidmüller HDC-C-HD-BM0.75-1.00AU — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, HD, HDD, HQ, MixMate, 1 mm², 1.6 mm, turned. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1651690000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1651690000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1651690000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1651690000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/hdc-c-hd-bm0-75-1-00au/p/1651690000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1651690000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: HDC-C-HD-BM0.75-1.00AU — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, HD, HDD, HQ, MixMate, 1 mm², 1.6 mm, turned
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1651690000
+- Manufacturer reference: 1651690000
+- Manufacturer type: HDC-C-HD-BM0.75-1.00AU
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1651690000 ([source](https://eshop.weidmueller.com.cn/en/hdc-c-hd-bm0-75-1-00au/p/1651690000/downloads#engineering-support))
+- Manufacturer type: HDC-C-HD-BM0.75-1.00AU ([source](https://eshop.weidmueller.com.cn/en/hdc-c-hd-bm0-75-1-00au/p/1651690000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/hdc-c-hd-bm0-75-1-00au/p/1651690000/downloads#engineering-support))
+
+## What the equipment does
+
+A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
+
+In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/hdc-c-hd-bm0-75-1-00au/p/1651690000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1651690000. The files above belong to Weidmüller's HDC-C-HD-BM0.75-1.00AU — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, HD, HDD, HQ, MixMate, 1 mm², 1.6 mm, turned resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller HDC-C-HD-BM0.75-1.00AU — Contact (industry plug-in connectors) / Contact (industry plug-in connectors), Female, HD, HDD, HQ, MixMate, 1 mm², 1.6 mm, turned: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1651690000/native-02640c5f8f8bbf33e3601119-zip?asset=95b7d23ad8566cc7525063e943a9bf47996ae5dded7d468ff0418c3008219b59)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1651690000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1651690000)
+
+- 1651690000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1651690000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1651690000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1651690000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/bca0e077-b1e9-4bfc-a6af-1bd2fed3059c/original/1651690000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1651690000/native-02640c5f8f8bbf33e3601119-zip)
+- Redistribution: unknown
+- Original SHA-256: 02640c5f8f8bbf33e360111907a85cae7dfd2b39bc208519afd80d78a123a1cc
+- Original bytes: 57006
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/bca0e077-b1e9-4bfc-a6af-1bd2fed3059c/original/1651690000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 57006 bytes
+- Delivery SHA-256: 02640c5f8f8bbf33e360111907a85cae7dfd2b39bc208519afd80d78a123a1cc
+
+<details>
+<summary>Archive members</summary>
+
+- 1651690000\_back.DWG
+- 1651690000\_bottom.DWG
+- 1651690000\_front.DWG
+- 1651690000\_left.DWG
+- 1651690000\_right.DWG
+- 1651690000\_top.DWG
+
+</details>
+
+### 1651690000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/441baaec-77c3-403b-96ce-8530f6b4f913/original/1651690000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1651690000/native-d71e3b351df26b6a6173ee0d-step)
+- Redistribution: unknown
+- Original SHA-256: d71e3b351df26b6a6173ee0db620f87f9c874672a94c70c93ebf7fdfa10a31b2
+- Original bytes: 138953
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/441baaec-77c3-403b-96ce-8530f6b4f913/original/1651690000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 28360 bytes
+- Delivery SHA-256: 28152c6c3e3abe5258f2239039dcef799dd0fd2985e577ff65ace9884b2932c9
+
+### 1651690000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/de9f6d6a-ad70-40d7-afaa-cb859e008648/original/1651690000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1651690000/native-32efc08a820b9b07d72c6d5e-zip)
+- Redistribution: unknown
+- Original SHA-256: 32efc08a820b9b07d72c6d5e77fa2c22bf9553d05204f8613fcc55fd0b160ea5
+- Original bytes: 32732
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/de9f6d6a-ad70-40d7-afaa-cb859e008648/original/1651690000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 32732 bytes
+- Delivery SHA-256: 32efc08a820b9b07d72c6d5e77fa2c22bf9553d05204f8613fcc55fd0b160ea5
+
+<details>
+<summary>Archive members</summary>
+
+- 1651690000\_back.DXF
+- 1651690000\_bottom.DXF
+- 1651690000\_front.DXF
+- 1651690000\_left.DXF
+- 1651690000\_right.DXF
+- 1651690000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

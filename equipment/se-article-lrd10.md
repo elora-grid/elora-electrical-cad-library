@@ -1,0 +1,113 @@
+# Schneider Electric — LRD10 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 3P, 4 to 6A, 1NO+1NC, class 10A, screw clamp
+
+Schneider Electric LRD10 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 3P, 4 to 6A, 1NO+1NC, class 10A, screw clamp. Manufacturer CAD files for wiring equipment selection and layout, identified by article LRD10.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/se-article-lrd10) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/se-article-lrd10.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/se-article-lrd10.json) · [Official manufacturer source](https://www.se.com/au/en/product/LRD10/thermal-overload-relay-tesys-lr-d-tesys-deca-690vac-3p-4-to-6a-1no+1nc-class-10a-screw-clamp/)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: LRD10
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Download the original CAD files directly from the manufacturer using the file controls. For publisher ZIPs, select the named CAD member for this equipment reference.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: LRD10 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 3P, 4 to 6A, 1NO+1NC, class 10A, screw clamp
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Part number: LRD10
+- Manufacturer reference: LRD10
+- Available native formats: DXF / STEP
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: LRD10 ([source](https://www.se.com/au/en/product/LRD10/thermal-overload-relay-tesys-lr-d-tesys-deca-690vac-3p-4-to-6a-1no+1nc-class-10a-screw-clamp/))
+- Available native formats: DXF / STEP ([source](https://www.se.com/au/en/product/LRD10/thermal-overload-relay-tesys-lr-d-tesys-deca-690vac-3p-4-to-6a-1no+1nc-class-10a-screw-clamp/))
+
+## What the equipment does
+
+Overload protection responds when a motor is carrying excessive current for too long or heating beyond its configured limit. It can request that the motor is stopped.
+
+In a switchroom ventilation starter, it can stop a fan motor that is overloaded rather than allowing it to keep overheating.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Schneider Electric official source](https://www.se.com/au/en/product/LRD10/thermal-overload-relay-tesys-lr-d-tesys-deca-690vac-3p-4-to-6a-1no+1nc-class-10a-screw-clamp/)
+
+## Choosing a file
+
+Start with LRD10. The files above belong to Schneider Electric's LRD10 — Thermal overload relay, TeSys LR.D, TeSys Deca, 690VAC, 3P, 4 to 6A, 1NO+1NC, class 10A, screw clamp resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, DXF. The individual filenames above distinguish the supplied variants.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/se-article-lrd10)
+
+- MCADPD0004675\_3D-simplified.stp: public (official\_source); delivered format STEP, contained formats STEP.
+- MCADPD0004675\_2D-front.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### MCADPD0004675\_3D-simplified.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://download.se.com/files?p_enDocType=CAD&p_File_Name=MCADPD0004675_3D-simplified.stp&p_Doc_Ref=MCADPD0004675_3D-CAD)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: restricted
+- Original SHA-256: 012d3b3454ed16a58cba204dfda7bc87e92e0a46ed53afb5f16edbceaa980078
+- Original bytes: 2953603
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Rights review: Publisher redistribution restrictions are retained. This original and its derived preview are not rehosted; the download is supplied directly by the manufacturer.
+- [Rights evidence](https://download.se.com/files?p_enDocType=CAD&p_File_Name=MCADPD0004675_3D-simplified.stp&p_Doc_Ref=MCADPD0004675_3D-CAD)
+- [Rights evidence](https://www.se.com/au/en/about-us/legal/terms-of-use/)
+- [Rights evidence](https://www.se.com/us/en/about-us/legal/terms-of-use/)
+- [Rights evidence](https://www.se.com/uk/en/about-us/legal/terms-of-use/)
+- Delivery: original; STEP; 2953603 bytes
+- Delivery SHA-256: 012d3b3454ed16a58cba204dfda7bc87e92e0a46ed53afb5f16edbceaa980078
+
+### MCADPD0004675\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Manufacturer DXF CAD file
+- [Official source](https://download.se.com/files?p_enDocType=CAD&p_File_Name=MCADPD0004675_2D-front.dxf&p_Doc_Ref=MCADPD0004675_3D-CAD)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: restricted
+- Original SHA-256: 9e2fbe7b78fc32adaa62c7f7af570234e2d2967e8c00709688982939d7266dfa
+- Original bytes: 42624
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Rights review: Publisher redistribution restrictions are retained. This original and its derived preview are not rehosted; the download is supplied directly by the manufacturer.
+- [Rights evidence](https://download.se.com/files?p_enDocType=CAD&p_File_Name=MCADPD0004675_2D-front.dxf&p_Doc_Ref=MCADPD0004675_3D-CAD)
+- [Rights evidence](https://www.se.com/au/en/about-us/legal/terms-of-use/)
+- [Rights evidence](https://www.se.com/us/en/about-us/legal/terms-of-use/)
+- [Rights evidence](https://www.se.com/uk/en/about-us/legal/terms-of-use/)
+- Delivery: original; DXF; 42624 bytes
+- Delivery SHA-256: 9e2fbe7b78fc32adaa62c7f7af570234e2d2967e8c00709688982939d7266dfa
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,3006 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 57,
+  "entries": [
+    {
+      "id": "se-article-c080n450fm",
+      "name": "C080N450FM — Circuit breaker, ComPacT NS800N, 50kA at 415VAC, 4P, fixed, manually operated, MicroLogic 5.0 control unit, 800A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c080n450fm",
+      "recordPath": "equipment/se-article-c080n450fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c080n450fm.json"
+    },
+    {
+      "id": "se-article-33350",
+      "name": "33350 — Circuit breaker frame, ComPact NS1250N, 50kA/415VAC, 1250A, withdrawable, manually operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33350",
+      "recordPath": "equipment/se-article-33350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33350.json"
+    },
+    {
+      "id": "se-article-a9c70114",
+      "name": "A9C70114 — Remote control auxiliary, Acti9 RCA, for iC60 3P or 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9c70114",
+      "recordPath": "equipment/se-article-a9c70114.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9c70114.json"
+    },
+    {
+      "id": "se-article-lv948306",
+      "name": "LV948306 — Circuit breaker frame, MasterPacT MTZ2 25H1, for MicroLogic Active, 2500A, 66KA/440VAC 50/60Hz (Icu), 4P, drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv948306",
+      "recordPath": "equipment/se-article-lv948306.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv948306.json"
+    },
+    {
+      "id": "se-article-33482",
+      "name": "33482 — Circuit breaker, ComPact NS1600N, 50kA/415VAC, Micrologic 2.0 trip unit, 1600A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33482",
+      "recordPath": "equipment/se-article-33482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33482.json"
+    },
+    {
+      "id": "se-article-33461",
+      "name": "33461 — Circuit breaker, ComPact NS630bH, 70kA/415VAC, Micrologic 2.0 trip unit, 630A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33461",
+      "recordPath": "equipment/se-article-33461.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33461.json"
+    },
+    {
+      "id": "se-article-gv4pb02s",
+      "name": "GV4PB02S — Motor circuit breaker, TeSys Deca, 3P, 2A, Icu 100kA, thermal magnetic, multifunction, UL489",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pb02s",
+      "recordPath": "equipment/se-article-gv4pb02s.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pb02s.json"
+    },
+    {
+      "id": "se-article-c11f4tm032l",
+      "name": "C11F4TM032L — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 32A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm032l",
+      "recordPath": "equipment/se-article-c11f4tm032l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm032l.json"
+    },
+    {
+      "id": "se-article-lv848124",
+      "name": "LV848124 — Front top connection, MasterPact MTZ2 fixed, 3P, 2000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv848124",
+      "recordPath": "equipment/se-article-lv848124.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv848124.json"
+    },
+    {
+      "id": "se-article-33554",
+      "name": "33554 — Circuit breaker, ComPact NS800L, 150kA/415VAC, Micrologic 5.0 trip unit, 800A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33554",
+      "recordPath": "equipment/se-article-33554.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33554.json"
+    },
+    {
+      "id": "se-article-c12b34v160l",
+      "name": "C12B34V160L — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 160A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b34v160l",
+      "recordPath": "equipment/se-article-c12b34v160l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b34v160l.json"
+    },
+    {
+      "id": "se-article-33281",
+      "name": "33281 — Circuit breaker frame, ComPacT NS800H, 70kA/415VAC, 800A, fixed, electrically operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33281",
+      "recordPath": "equipment/se-article-33281.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33281.json"
+    },
+    {
+      "id": "se-article-c2efm",
+      "name": "C2EFM — Control unit MicroLogic 2.0E, ComPacT NS630b to NS3200 fixed and manually operated, basic protections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c2efm",
+      "recordPath": "equipment/se-article-c2efm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c2efm.json"
+    },
+    {
+      "id": "se-article-c063n3fm",
+      "name": "C063N3FM — Circuit breaker frame, ComPacT NS630bN, 50kA at 415VAC, 630A, 3P, fixed, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063n3fm",
+      "recordPath": "equipment/se-article-c063n3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063n3fm.json"
+    },
+    {
+      "id": "se-article-c103tm016",
+      "name": "C103TM016 — trip unit TM16D for ComPacT NSX 100 circuit breakers, thermal magnetic, rating 16 A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c103tm016",
+      "recordPath": "equipment/se-article-c103tm016.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c103tm016.json"
+    },
+    {
+      "id": "se-article-18618",
+      "name": "18618 — Miniature circuit breaker (MCB), Acti9 NG125N, 1P, 80A, C curve, 25kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18618",
+      "recordPath": "equipment/se-article-18618.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18618.json"
+    },
+    {
+      "id": "se-article-gv2me206",
+      "name": "GV2ME206 — GV2ME;TeSys GV;motor circuit breaker;motor protection;thermal magnetic protection;high breaking capacity;pushbutton control;lugs connection",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv2me206",
+      "recordPath": "equipment/se-article-gv2me206.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv2me206.json"
+    },
+    {
+      "id": "se-article-34406",
+      "name": "34406 — Circuit breaker, ComPact NS800N, 50kA/415VAC, Micrologic 2.0E trip unit, 800A, fixed, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-34406",
+      "recordPath": "equipment/se-article-34406.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-34406.json"
+    },
+    {
+      "id": "se-article-lv846457",
+      "name": "LV846457 — Circuit breaker  frame, MasterPact MTZ1 06H3 drawout for MicroLogic X, 630A, 66kA/415VAC  (Icu), 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv846457",
+      "recordPath": "equipment/se-article-lv846457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv846457.json"
+    },
+    {
+      "id": "se-article-gv4pb80b",
+      "name": "GV4PB80B — Motor circuit breaker, TeSys GV4, 3P, 80A, Icu 25kA, thermal magnetic multifunction, UL489",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pb80b",
+      "recordPath": "equipment/se-article-gv4pb80b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pb80b.json"
+    },
+    {
+      "id": "se-article-18816",
+      "name": "18816 — NG125 - circuit breaker - NG125L - 4P - 50A - C curve",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18816",
+      "recordPath": "equipment/se-article-18816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18816.json"
+    },
+    {
+      "id": "se-article-c250h3fm",
+      "name": "C250H3FM — Circuit breaker frame, ComPacT NS2500H, 70kA at 415VAC, 2500A, 3P, fixed, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c250h3fm",
+      "recordPath": "equipment/se-article-c250h3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c250h3fm.json"
+    },
+    {
+      "id": "se-article-lv947210",
+      "name": "LV947210 — Circuit breaker frame, MasterPacT MTZ1 08H1, for MicroLogic Active, 800A, 42kA/440VAC 50/60Hz (Icu), 3P, drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv947210",
+      "recordPath": "equipment/se-article-lv947210.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv947210.json"
+    },
+    {
+      "id": "se-article-c100n460fm",
+      "name": "C100N460FM — Circuit breaker, ComPacT NS1000N, 50kA at 415VAC, 4P, fixed, manually operated, MicroLogic 6.0 control unit, 1000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100n460fm",
+      "recordPath": "equipment/se-article-c100n460fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100n460fm.json"
+    },
+    {
+      "id": "se-article-19106",
+      "name": "19106 — Add-on residual current device, Acti9 Vigi NG125, 3P, 125A, A-SI type, instant./select./delay., 300...3000mA, 230...415VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-19106",
+      "recordPath": "equipment/se-article-19106.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-19106.json"
+    },
+    {
+      "id": "se-article-a9z51240",
+      "name": "A9Z51240 — Acti9 iID - Residual Current Circuit Breaker - 2P - 40A - 30mA - B type",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9z51240",
+      "recordPath": "equipment/se-article-a9z51240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9z51240.json"
+    },
+    {
+      "id": "se-article-a9f75470",
+      "name": "A9F75470 — Miniature circuit-breaker, Acti9 iC60N, 4P, 0.5 A, D curve, 6000 A (IEC 60898-1), 50 kA (IEC 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9f75470",
+      "recordPath": "equipment/se-article-a9f75470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9f75470.json"
+    },
+    {
+      "id": "se-article-c103ma100",
+      "name": "C103MA100 — trip unit MA100 for ComPacT NSX 100/160/250 circuit breakers, magnetic, rating 100 A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c103ma100",
+      "recordPath": "equipment/se-article-c103ma100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c103ma100.json"
+    },
+    {
+      "id": "se-article-c200n3fm",
+      "name": "C200N3FM — Circuit breaker frame, ComPacT NS2000N, 50kA at 415VAC, 2000A, 3P, fixed, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c200n3fm",
+      "recordPath": "equipment/se-article-c200n3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c200n3fm.json"
+    },
+    {
+      "id": "se-article-lv848158",
+      "name": "LV848158 — Rear vertical connection, MasterPact MTZ2 fixed/drawout, 4P, top connection, 800A-2000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv848158",
+      "recordPath": "equipment/se-article-lv848158.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv848158.json"
+    },
+    {
+      "id": "se-article-c11f4tm016l",
+      "name": "C11F4TM016L — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 16A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm016l",
+      "recordPath": "equipment/se-article-c11f4tm016l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm016l.json"
+    },
+    {
+      "id": "se-article-19061",
+      "name": "19061 — Undervoltage release, Acti9 NG125, MNx, 220VAC to 240VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-19061",
+      "recordPath": "equipment/se-article-19061.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-19061.json"
+    },
+    {
+      "id": "se-article-c063n4wm",
+      "name": "C063N4WM — Circuit breaker frame, ComPacT NS630bN, 50kA at 415VAC, 630A, 4P, drawout, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063n4wm",
+      "recordPath": "equipment/se-article-c063n4wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063n4wm.json"
+    },
+    {
+      "id": "se-article-a9c70132",
+      "name": "A9C70132 — Automatic recloser auxiliary, Acti9 ARA, for iC60 1P, 1P+N and 2P, 4 Programs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9c70132",
+      "recordPath": "equipment/se-article-a9c70132.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9c70132.json"
+    },
+    {
+      "id": "se-article-lv426804",
+      "name": "LV426804 — Standard undervoltage release MN, ComPacT NSXm, 220/240VAC 50Hz, 208/240VAC 60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426804",
+      "recordPath": "equipment/se-article-lv426804.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426804.json"
+    },
+    {
+      "id": "se-article-26996",
+      "name": "26996 — plug-in base - 1P - 18mm Multi9",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-26996",
+      "recordPath": "equipment/se-article-26996.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-26996.json"
+    },
+    {
+      "id": "se-article-33497",
+      "name": "33497 — Circuit breaker, ComPact NS630bL, 150kA/415VAC, Micrologic 2.0A trip unit, 630A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33497",
+      "recordPath": "equipment/se-article-33497.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33497.json"
+    },
+    {
+      "id": "se-article-c63s3",
+      "name": "C63S3 — circuit breaker basic frame, ComPacT NSX630S, 100 kA at 415 VAC 50/60 Hz, 630 A, without trip unit, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c63s3",
+      "recordPath": "equipment/se-article-c63s3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c63s3.json"
+    },
+    {
+      "id": "se-article-lv429004",
+      "name": "LV429004 — Circuit breaker basic frame, ComPact NSX100H, 70kA at 415VAC 50/60 Hz, 100A, without trip unit, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429004",
+      "recordPath": "equipment/se-article-lv429004.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429004.json"
+    },
+    {
+      "id": "se-article-bdl26020lu",
+      "name": "BDL26020LU — Circuit breaker, PowerPacT B, 20A, 2 pole, 600Y/347VAC, 14kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdl26020lu",
+      "recordPath": "equipment/se-article-bdl26020lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdl26020lu.json"
+    },
+    {
+      "id": "se-article-19002",
+      "name": "19002 — Add-on residual current device, Acti9 Vigi NG125, 3P, 63A, AC type, instantaneous, 30mA, 230...415VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-19002",
+      "recordPath": "equipment/se-article-19002.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-19002.json"
+    },
+    {
+      "id": "se-article-33500",
+      "name": "33500 — Circuit breaker, ComPact NS630bL, 150kA/415VAC, Micrologic 2.0A trip unit, 630A, fixed, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33500",
+      "recordPath": "equipment/se-article-33500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33500.json"
+    },
+    {
+      "id": "se-article-18664",
+      "name": "18664 — Miniature circuit breaker (MCB), Acti9 NG125N, 3P, 100A, B curve, 25kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18664",
+      "recordPath": "equipment/se-article-18664.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18664.json"
+    },
+    {
+      "id": "se-article-a9d47225",
+      "name": "A9D47225 — Residual current breaker with overcurrent protection (RCBO), Acti9 iC60, 2P, 25A, B curve, 10000A/15kA, A-SI type, 30mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9d47225",
+      "recordPath": "equipment/se-article-a9d47225.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9d47225.json"
+    },
+    {
+      "id": "se-article-33244",
+      "name": "33244 — Circuit breaker frame, ComPact NS1000N, 50kA/415VAC, 1000A, fixed, manually operated, without trip unit, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33244",
+      "recordPath": "equipment/se-article-33244.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33244.json"
+    },
+    {
+      "id": "se-article-lv429504",
+      "name": "LV429504 — Crimp lugs for aluminium cable, ComPacT NSX100/250, 150mm², set of 3 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429504",
+      "recordPath": "equipment/se-article-lv429504.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429504.json"
+    },
+    {
+      "id": "se-article-c1047e100",
+      "name": "C1047E100 — trip unit MicroLogic 7.2 E for ComPacT NSX 100/160/250 circuit breakers, electronic, rating 100A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c1047e100",
+      "recordPath": "equipment/se-article-c1047e100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c1047e100.json"
+    },
+    {
+      "id": "se-article-c063h420fm",
+      "name": "C063H420FM — Circuit breaker, ComPacT NS630bH, 70kA at 415VAC, 4P, fixed, manually operated, MicroLogic 2.0 control unit, 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063h420fm",
+      "recordPath": "equipment/se-article-c063h420fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063h420fm.json"
+    },
+    {
+      "id": "se-article-c080n32afm",
+      "name": "C080N32AFM — Circuit breaker, ComPacT NS800N, 50kA at 415VAC, 3P, fixed, manually operated, MicroLogic 2.0A control unit, 800A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c080n32afm",
+      "recordPath": "equipment/se-article-c080n32afm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c080n32afm.json"
+    },
+    {
+      "id": "se-article-33517",
+      "name": "33517 — Circuit breaker, ComPact NS800L, 150kA/415VAC, Micrologic 5.0A trip unit, 800A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33517",
+      "recordPath": "equipment/se-article-33517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33517.json"
+    },
+    {
+      "id": "se-article-gv4pb25b",
+      "name": "GV4PB25B — Motor circuit breaker, TeSys Deca, 3P, 25A, Icu 25kA, thermal magnetic, multifunction, UL489",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pb25b",
+      "recordPath": "equipment/se-article-gv4pb25b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pb25b.json"
+    },
+    {
+      "id": "se-article-c104mg025",
+      "name": "C104MG025 — trip unit TM25G for ComPacT NSX 100/160 circuit breakers, thermal magnetic, rating 25 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c104mg025",
+      "recordPath": "equipment/se-article-c104mg025.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c104mg025.json"
+    },
+    {
+      "id": "se-article-lv429436",
+      "name": "LV429436 — standard motor mechanism module MT100/160, ComPact NSX100/160, 24/30 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429436",
+      "recordPath": "equipment/se-article-lv429436.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429436.json"
+    },
+    {
+      "id": "se-article-lv429054",
+      "name": "LV429054 — trip unit TM40D for ComPact NSX 100/160 circuit breakers, thermal magnetic, rating 40 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429054",
+      "recordPath": "equipment/se-article-lv429054.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429054.json"
+    },
+    {
+      "id": "se-article-lv429424",
+      "name": "LV429424 — SDTAM contactor tripping module, ComPact NSX, motor protection, 24/415V AC/DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429424",
+      "recordPath": "equipment/se-article-lv429424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429424.json"
+    },
+    {
+      "id": "se-article-c100n3wm",
+      "name": "C100N3WM — Circuit breaker frame, ComPacT NS1000N, 50kA at 415VAC, 1000A, 3P, drawout, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100n3wm",
+      "recordPath": "equipment/se-article-c100n3wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100n3wm.json"
+    },
+    {
+      "id": "se-article-c7pfm",
+      "name": "C7PFM — Control unit MicroLogic 7.0P, ComPacT NS630b to NS1600 fixed manually operated, selective and earth-leakage protections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c7pfm",
+      "recordPath": "equipment/se-article-c7pfm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c7pfm.json"
+    },
+    {
+      "id": "se-article-33361",
+      "name": "33361 — Circuit breaker frame, ComPact NS1600H, 70kA/415VAC, 1600A, withdrawable, manually operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33361",
+      "recordPath": "equipment/se-article-33361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33361.json"
+    },
+    {
+      "id": "se-article-33734",
+      "name": "33734 — front connections, 630 A to 1600 A, drawout circuit breaker, bottom mounting, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33734",
+      "recordPath": "equipment/se-article-33734.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33734.json"
+    },
+    {
+      "id": "se-article-c11h34v025l",
+      "name": "C11H34V025L — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 25A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h34v025l",
+      "recordPath": "equipment/se-article-c11h34v025l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h34v025l.json"
+    },
+    {
+      "id": "se-article-a9n26961",
+      "name": "A9N26961 — Voltage release, Acti9, MN 48VAC DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9n26961",
+      "recordPath": "equipment/se-article-a9n26961.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9n26961.json"
+    },
+    {
+      "id": "se-article-33321",
+      "name": "33321 — Circuit breaker frame, ComPact NS630bH, 70kA/415VAC, 630A, withdrawable, manually operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33321",
+      "recordPath": "equipment/se-article-33321.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33321.json"
+    },
+    {
+      "id": "se-article-a9a26917",
+      "name": "A9A26917 — Auxiliary contact, Acti9, iSD, 1 C/O, 2mA to 100mA, 24VAC to 250VAC, 24VDC to 220VDC, bottom connection",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9a26917",
+      "recordPath": "equipment/se-article-a9a26917.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9a26917.json"
+    },
+    {
+      "id": "se-article-c25s3",
+      "name": "C25S3 — circuit breaker basic frame, ComPacT NSX250S, 100 kA at 415 VAC 50/60 Hz, 250 A, without trip unit, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c25s3",
+      "recordPath": "equipment/se-article-c25s3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c25s3.json"
+    },
+    {
+      "id": "se-article-c100n4wm",
+      "name": "C100N4WM — Circuit breaker frame, ComPacT NS1000N, 50kA at 415VAC, 1000A, 4P, drawout, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100n4wm",
+      "recordPath": "equipment/se-article-c100n4wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100n4wm.json"
+    },
+    {
+      "id": "se-article-34420",
+      "name": "34420 — Circuit breaker, ComPact NS630bN, 50kA/415VAC, Micrologic 5.0E trip unit, 630A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-34420",
+      "recordPath": "equipment/se-article-34420.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-34420.json"
+    },
+    {
+      "id": "se-article-c106tm100",
+      "name": "C106TM100 — trip unit TM100D for ComPacT NSX 100/160/250 circuit breakers, thermal magnetic, rating 100 A, 4 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c106tm100",
+      "recordPath": "equipment/se-article-c106tm100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c106tm100.json"
+    },
+    {
+      "id": "se-article-c11f3tm025l",
+      "name": "C11F3TM025L — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 3 poles, TMD trip unit 25A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f3tm025l",
+      "recordPath": "equipment/se-article-c11f3tm025l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f3tm025l.json"
+    },
+    {
+      "id": "se-article-lv429008",
+      "name": "LV429008 — Circuit breaker basic frame, ComPact NSX100F, 36kA at 415VAC 50/60 Hz, 100A, without trip unit, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429008",
+      "recordPath": "equipment/se-article-lv429008.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429008.json"
+    },
+    {
+      "id": "se-article-18604",
+      "name": "18604 — Miniature circuit breaker (MCB), Acti9 NG125a, 3P, 100A, C curve, 16kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18604",
+      "recordPath": "equipment/se-article-18604.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18604.json"
+    },
+    {
+      "id": "se-article-a9f05250",
+      "name": "A9F05250 — Miniature circuit breaker (MCB), Acti9 iC60N, 2P, 50A, D curve, 6000A (IEC 60898-1), 10kA (IEC 60947-2), double term.",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9f05250",
+      "recordPath": "equipment/se-article-a9f05250.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9f05250.json"
+    },
+    {
+      "id": "se-article-bjl16100",
+      "name": "BJL16100 — Circuit breaker, PowerPacT B, 100A, 1 pole, 600Y/347VAC, 25kA, lugs, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjl16100",
+      "recordPath": "equipment/se-article-bjl16100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjl16100.json"
+    },
+    {
+      "id": "se-article-c104tm025",
+      "name": "C104TM025 — trip unit TM25D for ComPacT NSX 100 circuit breakers, thermal magnetic, rating 25 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c104tm025",
+      "recordPath": "equipment/se-article-c104tm025.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c104tm025.json"
+    },
+    {
+      "id": "se-article-a9d37616",
+      "name": "A9D37616 — Residual current breaker with overcurrent protection (RCBO), Acti9 iDPN H Vigi, 1P+N, 16A, C curve, 10000A, A type, 30mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9d37616",
+      "recordPath": "equipment/se-article-a9d37616.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9d37616.json"
+    },
+    {
+      "id": "se-article-c125h320fm",
+      "name": "C125H320FM — Circuit breaker, ComPacT NS1250H, 70kA at 415VAC, 3P, fixed, manually operated, MicroLogic 2.0 control unit, 1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c125h320fm",
+      "recordPath": "equipment/se-article-c125h320fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c125h320fm.json"
+    },
+    {
+      "id": "se-article-lv426997",
+      "name": "LV426997 — Universal handle, ComPact NSXm, with black handle, IP54, spare part",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426997",
+      "recordPath": "equipment/se-article-lv426997.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426997.json"
+    },
+    {
+      "id": "se-article-lv429403",
+      "name": "LV429403 — MN undervoltage release, Compact NSX, PowerPact Multistandard, EasyPact CVS, rated voltage 60 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429403",
+      "recordPath": "equipment/se-article-lv429403.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429403.json"
+    },
+    {
+      "id": "se-article-33485",
+      "name": "33485 — Circuit breaker, ComPact NS1600H, 70kA/415VAC, Micrologic 2.0 trip unit, 1600A, fixed, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33485",
+      "recordPath": "equipment/se-article-33485.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33485.json"
+    },
+    {
+      "id": "se-article-18759",
+      "name": "18759 — Miniature circuit breaker (MCB), Acti9 NG125L, 3P, 10A, B curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18759",
+      "recordPath": "equipment/se-article-18759.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18759.json"
+    },
+    {
+      "id": "se-article-c106tm080",
+      "name": "C106TM080 — trip unit TM80D for ComPacT NSX 100/160/250 circuit breakers, thermal magnetic, rating 80 A, 4 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c106tm080",
+      "recordPath": "equipment/se-article-c106tm080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c106tm080.json"
+    },
+    {
+      "id": "se-article-33480",
+      "name": "33480 — Circuit breaker, ComPact NS1250N, 50kA/415VAC, Micrologic 2.0 trip unit, 1250A, fixed, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33480",
+      "recordPath": "equipment/se-article-33480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33480.json"
+    },
+    {
+      "id": "se-article-c11h4tm032l",
+      "name": "C11H4TM032L — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 32A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h4tm032l",
+      "recordPath": "equipment/se-article-c11h4tm032l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h4tm032l.json"
+    },
+    {
+      "id": "se-article-lv429135",
+      "name": "LV429135 — trip unit MicroLogic 6.2 A for ComPact NSX 100/160/250 circuit breakers, electronic, rating 100A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429135",
+      "recordPath": "equipment/se-article-lv429135.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429135.json"
+    },
+    {
+      "id": "se-article-lv864960",
+      "name": "LV864960 — Circuit breaker frame, MasterPact MTZ2 12H1b drawout for MicroLogic X, 1250A, 85kA/440VAC (Icu), 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv864960",
+      "recordPath": "equipment/se-article-lv864960.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv864960.json"
+    },
+    {
+      "id": "se-article-lv846453",
+      "name": "LV846453 — Circuit breaker  frame, MasterPact MTZ1 12H3 drawout for MicroLogic X, 1250A, 66kA/415VAC  (Icu), 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv846453",
+      "recordPath": "equipment/se-article-lv846453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv846453.json"
+    },
+    {
+      "id": "se-article-lv847127",
+      "name": "LV847127 — Circuit breaker  frame, MasterPact MTZ1 08L1 fixed for MicroLogic X, 800A, 150kA/415VAC  (Icu), 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv847127",
+      "recordPath": "equipment/se-article-lv847127.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv847127.json"
+    },
+    {
+      "id": "se-article-c25s4",
+      "name": "C25S4 — circuit breaker basic frame, ComPacT NSX250S, 100 kA at 415 VAC 50/60 Hz, 250 A, without trip unit, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c25s4",
+      "recordPath": "equipment/se-article-c25s4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c25s4.json"
+    },
+    {
+      "id": "se-article-c11h6tm032l",
+      "name": "C11H6TM032L — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 32A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h6tm032l",
+      "recordPath": "equipment/se-article-c11h6tm032l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h6tm032l.json"
+    },
+    {
+      "id": "se-article-31053",
+      "name": "31053 — extended rotary handle, front control, Compact INS/INV 320 to 630, Compact INSJ400, red handle on yellow front",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-31053",
+      "recordPath": "equipment/se-article-31053.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-31053.json"
+    },
+    {
+      "id": "se-article-a9d17213",
+      "name": "A9D17213 — Residual current breaker with overcurrent protection (RCBO), Acti9 iC60, 2P, 13A, C curve, 10000A/15kA, A type, 30mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9d17213",
+      "recordPath": "equipment/se-article-a9d17213.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9d17213.json"
+    },
+    {
+      "id": "se-article-33314",
+      "name": "33314 — Circuit breaker frame, ComPacT NS1600N, 50kA/415VAC, 1600A, fixed, electrically operated, without trip unit, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33314",
+      "recordPath": "equipment/se-article-33314.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33314.json"
+    },
+    {
+      "id": "se-article-a9d37213",
+      "name": "A9D37213 — Residual current breaker with overcurrent protection (RCBO), Acti9 iC60, 2P, 13A, B curve, 10000A/15kA, A type, 30mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9d37213",
+      "recordPath": "equipment/se-article-a9d37213.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9d37213.json"
+    },
+    {
+      "id": "se-article-bjl26060lu",
+      "name": "BJL26060LU — Circuit breaker, PowerPacT B, 60A, 2 pole, 600Y/347VAC, 25kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjl26060lu",
+      "recordPath": "equipment/se-article-bjl26060lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjl26060lu.json"
+    },
+    {
+      "id": "se-article-a9n61529",
+      "name": "A9N61529 — Miniature circuit breaker (MCB), Acti9 C60H-DC, 2P, 13A, C curve, 6kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9n61529",
+      "recordPath": "equipment/se-article-a9n61529.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9n61529.json"
+    },
+    {
+      "id": "se-article-33274",
+      "name": "33274 — Circuit breaker frame, ComPacT NS630bN, 50kA/415VAC, 630A, fixed, electrically operated, without trip unit, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33274",
+      "recordPath": "equipment/se-article-33274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33274.json"
+    },
+    {
+      "id": "se-article-18876",
+      "name": "18876 — Miniature circuit breaker (MCB), Acti9 NG125LMA, 2P, 80A, MA curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18876",
+      "recordPath": "equipment/se-article-18876.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18876.json"
+    },
+    {
+      "id": "se-article-16753",
+      "name": "16753 — residual current circuit breaker ID - 4 poles - 40 A - class B 300 mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-16753",
+      "recordPath": "equipment/se-article-16753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-16753.json"
+    },
+    {
+      "id": "se-article-a9a26969",
+      "name": "A9A26969 — Undervoltage release, Acti9, iMNx, voltage release, 220...240 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9a26969",
+      "recordPath": "equipment/se-article-a9a26969.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9a26969.json"
+    },
+    {
+      "id": "se-article-a9r94263",
+      "name": "A9R94263 — Interruptor diferencial (RCCB), Acti9 iID K, 2P, 63 A, tipo A, 300 mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9r94263",
+      "recordPath": "equipment/se-article-a9r94263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9r94263.json"
+    },
+    {
+      "id": "se-article-18646",
+      "name": "18646 — Miniature circuit breaker (MCB), Acti9 NG125N, 3P+N, 80A, C curve, 25kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18646",
+      "recordPath": "equipment/se-article-18646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18646.json"
+    },
+    {
+      "id": "se-article-a9n26927",
+      "name": "A9N26927 — Auxiliary contact alarm, Acti9, SD AC DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9n26927",
+      "recordPath": "equipment/se-article-a9n26927.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9n26927.json"
+    },
+    {
+      "id": "se-article-33564",
+      "name": "33564 — Circuit breaker, ComPact NS1250N, 50kA/415VAC, Micrologic 5.0 trip unit, 1250A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33564",
+      "recordPath": "equipment/se-article-33564.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33564.json"
+    },
+    {
+      "id": "se-article-33532",
+      "name": "33532 — Micrologic 5.0 A trip unit - LSI - for NS 630b..1600 drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33532",
+      "recordPath": "equipment/se-article-33532.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33532.json"
+    },
+    {
+      "id": "se-article-lv429125",
+      "name": "LV429125 — trip unit MA2.5 for ComPact NSX 100 circuit breakers, magnetic, rating 2.5 A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429125",
+      "recordPath": "equipment/se-article-lv429125.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429125.json"
+    },
+    {
+      "id": "se-article-c160n35efm",
+      "name": "C160N35EFM — Circuit breaker, ComPacT NS1600N, 50kA at 415VAC, 3P, fixed, manually operated, MicroLogic 5.0E control unit, 1600A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c160n35efm",
+      "recordPath": "equipment/se-article-c160n35efm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c160n35efm.json"
+    },
+    {
+      "id": "se-article-33394",
+      "name": "33394 — Circuit breaker frame, ComPacT NS1000N, 50kA/415VAC, 1000A, withdrawable, electrically operated, without trip unit, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33394",
+      "recordPath": "equipment/se-article-33394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33394.json"
+    },
+    {
+      "id": "se-article-gv4pb03s",
+      "name": "GV4PB03S — Motor circuit breaker, TeSys Deca, 3P, 3.5A, Icu 100kA, thermal magnetic, multifunction, UL489",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pb03s",
+      "recordPath": "equipment/se-article-gv4pb03s.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pb03s.json"
+    },
+    {
+      "id": "se-article-a9n26924",
+      "name": "A9N26924 — Auxiliary contact, Acti9, OC plus 1 SD and OF AC DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9n26924",
+      "recordPath": "equipment/se-article-a9n26924.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9n26924.json"
+    },
+    {
+      "id": "se-article-c160h42afm",
+      "name": "C160H42AFM — Circuit breaker, ComPacT NS1600H, 70kA at 415VAC, 4P, fixed, manually operated, MicroLogic 2.0A control unit, 1600A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c160h42afm",
+      "recordPath": "equipment/se-article-c160h42afm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c160h42afm.json"
+    },
+    {
+      "id": "se-article-lv426907",
+      "name": "LV426907 — Circuit breaker accessory, PowerPacT B, padlocking device, handle, fixed adapter, OFF or ON position",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426907",
+      "recordPath": "equipment/se-article-lv426907.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426907.json"
+    },
+    {
+      "id": "se-article-c2547a250",
+      "name": "C2547A250 — trip unit MicroLogic 7.2 E AL for ComPacT NSX 250 circuit breakers, electronic, rating 250A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c2547a250",
+      "recordPath": "equipment/se-article-c2547a250.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c2547a250.json"
+    },
+    {
+      "id": "se-article-bdl46040lu",
+      "name": "BDL46040LU — Circuit breaker, PowerPacT B, 40A, 4 pole, 600Y/347VAC, 14kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdl46040lu",
+      "recordPath": "equipment/se-article-bdl46040lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdl46040lu.json"
+    },
+    {
+      "id": "se-article-c1032g100",
+      "name": "C1032G100 — trip unit MicroLogic 2.2 G for ComPacT NSX 100/160/250 circuit breakers, electronic, rating 100 A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c1032g100",
+      "recordPath": "equipment/se-article-c1032g100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c1032g100.json"
+    },
+    {
+      "id": "se-article-bjl46100lu",
+      "name": "BJL46100LU — Circuit breaker, PowerPacT B, 100A, 4 pole, 600Y/347VAC, 25kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjl46100lu",
+      "recordPath": "equipment/se-article-bjl46100lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjl46100lu.json"
+    },
+    {
+      "id": "se-article-c11b3tm025l",
+      "name": "C11B3TM025L — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 3 poles, TMD trip unit 25A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b3tm025l",
+      "recordPath": "equipment/se-article-c11b3tm025l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b3tm025l.json"
+    },
+    {
+      "id": "se-article-bdl16060",
+      "name": "BDL16060 — Circuit breaker, PowerPacT B, 60A, 1 pole, 600Y/347VAC, 14kA, lugs, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdl16060",
+      "recordPath": "equipment/se-article-bdl16060.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdl16060.json"
+    },
+    {
+      "id": "se-article-lv429047",
+      "name": "LV429047 — trip unit TM16D for ComPact NSX 100 circuit breakers, thermal magnetic, rating 16 A, 4 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429047",
+      "recordPath": "equipment/se-article-lv429047.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429047.json"
+    },
+    {
+      "id": "se-article-c063n360fm",
+      "name": "C063N360FM — Circuit breaker, ComPacT NS630bN, 50kA at 415VAC, 3P, fixed, manually operated, MicroLogic 6.0 control unit, 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063n360fm",
+      "recordPath": "equipment/se-article-c063n360fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063n360fm.json"
+    },
+    {
+      "id": "se-article-a9a26948",
+      "name": "A9A26948 — Shunt trip release with OC contact, Acti9, iMX+OF, voltage release, 12...24 VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9a26948",
+      "recordPath": "equipment/se-article-a9a26948.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9a26948.json"
+    },
+    {
+      "id": "se-article-gvaph02",
+      "name": "GVAPH02 — Mounting bracket for motor circuit breaker, TeSys GV2, TeSys Deca, alignment of extended rotary handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gvaph02",
+      "recordPath": "equipment/se-article-gvaph02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gvaph02.json"
+    },
+    {
+      "id": "se-article-48972",
+      "name": "48972 — Circuit breaker frame, ComPact NS800bLB, 200kA/415VAC, 800A, withdrawable, manually operated, without trip unit, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-48972",
+      "recordPath": "equipment/se-article-48972.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-48972.json"
+    },
+    {
+      "id": "se-article-c100n35efm",
+      "name": "C100N35EFM — Circuit breaker, ComPacT NS1000N, 50kA at 415VAC, 3P, fixed, manually operated, MicroLogic 5.0E control unit, 1000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100n35efm",
+      "recordPath": "equipment/se-article-c100n35efm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100n35efm.json"
+    },
+    {
+      "id": "se-article-bdl46110lu",
+      "name": "BDL46110LU — Circuit breaker, PowerPacT B, 110A, 4 pole, 600Y/347VAC, 14kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdl46110lu",
+      "recordPath": "equipment/se-article-bdl46110lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdl46110lu.json"
+    },
+    {
+      "id": "se-article-gv4pb80s",
+      "name": "GV4PB80S — Motor circuit breaker, TeSys GV4, 3P, 80A, Icu 100kA, thermal magnetic multifunction, UL489",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pb80s",
+      "recordPath": "equipment/se-article-gv4pb80s.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pb80s.json"
+    },
+    {
+      "id": "se-article-33858",
+      "name": "33858 — Door escutcheon blanking plate, MasterPact NT, ComPacT NS630b/NS1600, drawout, IP40, spare part",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33858",
+      "recordPath": "equipment/se-article-33858.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33858.json"
+    },
+    {
+      "id": "se-article-lv432646",
+      "name": "LV432646 — standard motor mechanism module MT400/630, ComPact NSX400/630, 250 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv432646",
+      "recordPath": "equipment/se-article-lv432646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv432646.json"
+    },
+    {
+      "id": "se-article-lv864970",
+      "name": "LV864970 — Circuit breaker frame, MasterPact MTZ2 25H1b fixed for MicroLogic X, 2500A, 85kA/440VAC (Icu), 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv864970",
+      "recordPath": "equipment/se-article-lv864970.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv864970.json"
+    },
+    {
+      "id": "se-article-a9w26463",
+      "name": "A9W26463 — Vigi iC60 - earth leakage add-on block - 4P - 63A - 500mA - A type",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9w26463",
+      "recordPath": "equipment/se-article-a9w26463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9w26463.json"
+    },
+    {
+      "id": "se-article-c11f4tm050l",
+      "name": "C11F4TM050L — Circuit breaker, ComPacT NSXm 63F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 50A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm050l",
+      "recordPath": "equipment/se-article-c11f4tm050l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm050l.json"
+    },
+    {
+      "id": "se-article-c4032d400",
+      "name": "C4032D400 — trip unit MicroLogic 2.3 for ComPacT NSX 400/630 circuit breakers, electronic, rating 400A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c4032d400",
+      "recordPath": "equipment/se-article-c4032d400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c4032d400.json"
+    },
+    {
+      "id": "se-article-19033",
+      "name": "19033 — Add-on residual current device, Acti9 Vigi NG125, 3P, 63A, A type, selective, 1000mA, 230...415VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-19033",
+      "recordPath": "equipment/se-article-19033.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-19033.json"
+    },
+    {
+      "id": "se-article-33609",
+      "name": "33609 — front connection, Compact NS 630b/800/1000 N/H/NA, fixed, bottom mounting, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33609",
+      "recordPath": "equipment/se-article-33609.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33609.json"
+    },
+    {
+      "id": "se-article-bjl26020lu",
+      "name": "BJL26020LU — Circuit breaker, PowerPacT B, 20A, 2 pole, 600Y/347VAC, 25kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjl26020lu",
+      "recordPath": "equipment/se-article-bjl26020lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjl26020lu.json"
+    },
+    {
+      "id": "se-article-28959",
+      "name": "28959 — phase separators, Compact INS100 to 160, fixed mounting",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-28959",
+      "recordPath": "equipment/se-article-28959.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-28959.json"
+    },
+    {
+      "id": "se-article-lv429154",
+      "name": "LV429154 — trip unit TM25G for ComPact NSX 100 circuit breakers, thermal magnetic, rating 25 A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429154",
+      "recordPath": "equipment/se-article-lv429154.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429154.json"
+    },
+    {
+      "id": "se-article-33548",
+      "name": "33548 — Circuit breaker, ComPact NS630bL, 150kA/415VAC, Micrologic 5.0 trip unit, 630A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33548",
+      "recordPath": "equipment/se-article-33548.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33548.json"
+    },
+    {
+      "id": "se-article-c063n4fm",
+      "name": "C063N4FM — Circuit breaker frame, ComPacT NS630bN, 50kA at 415VAC, 630A, 4P, fixed, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063n4fm",
+      "recordPath": "equipment/se-article-c063n4fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063n4fm.json"
+    },
+    {
+      "id": "se-article-c25f4",
+      "name": "C25F4 — circuit breaker basic frame, ComPacT NSX250F, 36 kA at 415 VAC 50/60 Hz, 250 A, without trip unit, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c25f4",
+      "recordPath": "equipment/se-article-c25f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c25f4.json"
+    },
+    {
+      "id": "se-article-33516",
+      "name": "33516 — Circuit breaker, ComPact NS630bL, 150kA/415VAC, Micrologic 5.0A trip unit, 630A, fixed, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33516",
+      "recordPath": "equipment/se-article-33516.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33516.json"
+    },
+    {
+      "id": "se-article-a9s60132",
+      "name": "A9S60132 — switch Acti9 iSW - 1 pole - 32 A - 250V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9s60132",
+      "recordPath": "equipment/se-article-a9s60132.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9s60132.json"
+    },
+    {
+      "id": "se-article-lv426982",
+      "name": "LV426982 — Crimp lugs for copper cable, ComPacT NSXm, 120mm² rigid cable, 95mm² flexible cable, set of 3 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426982",
+      "recordPath": "equipment/se-article-lv426982.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426982.json"
+    },
+    {
+      "id": "se-article-lv429057",
+      "name": "LV429057 — trip unit TM16D for ComPact NSX 100 circuit breakers, thermal magnetic, rating 16 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429057",
+      "recordPath": "equipment/se-article-lv429057.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429057.json"
+    },
+    {
+      "id": "se-article-m9a26917",
+      "name": "M9A26917 — Auxiliary contact, Multi9, SD, 1 C/O, 2mA to 100mA, 24VAC to 250VAC, 24VDC to 220VDC, bottom connection",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-m9a26917",
+      "recordPath": "equipment/se-article-m9a26917.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-m9a26917.json"
+    },
+    {
+      "id": "se-article-bgl46045lu",
+      "name": "BGL46045LU — Circuit breaker, PowerPacT B, 45A, 4 pole, 600Y/347VAC, 18kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgl46045lu",
+      "recordPath": "equipment/se-article-bgl46045lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgl46045lu.json"
+    },
+    {
+      "id": "se-article-a9d54232",
+      "name": "A9D54232 — Residual current breaker with overcurrent protection (RCBO), Acti9 iC60, 2P, 32A, C curve, 10000A/15kA, A type, 300mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9d54232",
+      "recordPath": "equipment/se-article-a9d54232.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9d54232.json"
+    },
+    {
+      "id": "se-article-c320n4fm",
+      "name": "C320N4FM — Circuit breaker frame, ComPacT NS3200N, 50kA at 415VAC, 3200A, 4P, fixed, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c320n4fm",
+      "recordPath": "equipment/se-article-c320n4fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c320n4fm.json"
+    },
+    {
+      "id": "se-article-bdl26040lu",
+      "name": "BDL26040LU — Circuit breaker, PowerPacT B, 40A, 2 pole, 600Y/347VAC, 14kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdl26040lu",
+      "recordPath": "equipment/se-article-bdl26040lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdl26040lu.json"
+    },
+    {
+      "id": "se-article-c1044a100",
+      "name": "C1044A100 — trip unit MicroLogic 4.2 AL for ComPacT NSX 100/160/250 circuit breakers, electronic, rating 100A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c1044a100",
+      "recordPath": "equipment/se-article-c1044a100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c1044a100.json"
+    },
+    {
+      "id": "se-article-c11h6tm025l",
+      "name": "C11H6TM025L — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 25A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h6tm025l",
+      "recordPath": "equipment/se-article-c11h6tm025l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h6tm025l.json"
+    },
+    {
+      "id": "se-article-bdl46050lu",
+      "name": "BDL46050LU — Circuit breaker, PowerPacT B, 50A, 4 pole, 600Y/347VAC, 14kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdl46050lu",
+      "recordPath": "equipment/se-article-bdl46050lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdl46050lu.json"
+    },
+    {
+      "id": "se-article-gv4pb12n",
+      "name": "GV4PB12N — Motor circuit breaker, TeSys Deca, 3P, 12.5A, Icu 50kA, thermal magnetic, multifunction, UL489",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gv4pb12n",
+      "recordPath": "equipment/se-article-gv4pb12n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gv4pb12n.json"
+    },
+    {
+      "id": "se-article-c254tm250",
+      "name": "C254TM250 — trip unit TM250D for ComPacT NSX 250 circuit breakers, thermal magnetic, rating 250 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c254tm250",
+      "recordPath": "equipment/se-article-c254tm250.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c254tm250.json"
+    },
+    {
+      "id": "se-article-33391",
+      "name": "33391 — Circuit breaker frame, ComPacT NS1000H, 70kA/415VAC, 1000A, withdrawable, electrically operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33391",
+      "recordPath": "equipment/se-article-33391.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33391.json"
+    },
+    {
+      "id": "se-article-c11b6tm063l",
+      "name": "C11B6TM063L — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 63A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b6tm063l",
+      "recordPath": "equipment/se-article-c11b6tm063l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b6tm063l.json"
+    },
+    {
+      "id": "se-article-c7pwm",
+      "name": "C7PWM — Control unit MicroLogic 7.0P, ComPacT NS630b/NS1600 drawout manually operated, selective and earth-leakage protections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c7pwm",
+      "recordPath": "equipment/se-article-c7pwm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c7pwm.json"
+    },
+    {
+      "id": "se-article-bjl46040lu",
+      "name": "BJL46040LU — Circuit breaker, PowerPacT B, 40A, 4 pole, 600Y/347VAC, 25kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjl46040lu",
+      "recordPath": "equipment/se-article-bjl46040lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjl46040lu.json"
+    },
+    {
+      "id": "se-article-a9w26325",
+      "name": "A9W26325 — Vigi iC60 - earth leakage add-on block - 3P - 25A - 500mA - A type",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9w26325",
+      "recordPath": "equipment/se-article-a9w26325.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9w26325.json"
+    },
+    {
+      "id": "se-article-16750",
+      "name": "16750 — residual current circuit breaker ID - 4 poles - 25 A - class B 30 mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-16750",
+      "recordPath": "equipment/se-article-16750.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-16750.json"
+    },
+    {
+      "id": "se-article-c104mg016",
+      "name": "C104MG016 — trip unit TM16G for ComPacT NSX 100 circuit breakers, thermal magnetic, rating 16 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c104mg016",
+      "recordPath": "equipment/se-article-c104mg016.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c104mg016.json"
+    },
+    {
+      "id": "se-article-a9r61240",
+      "name": "A9R61240 — Acti 9 iID - RCCB - 2P - 40A - 30mA - type A-SI",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9r61240",
+      "recordPath": "equipment/se-article-a9r61240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9r61240.json"
+    },
+    {
+      "id": "se-article-19032",
+      "name": "19032 — Add-on residual current device, Acti9 Vigi NG125, 3P, 63A, A type, selective, 300mA, 230...415VAC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-19032",
+      "recordPath": "equipment/se-article-19032.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-19032.json"
+    },
+    {
+      "id": "se-article-lv948229",
+      "name": "LV948229 — Circuit breaker frame, MasterPacT MTZ2 16H1, for MicroLogic Active, 1600A, 66kA/440VAC (Icu), 4P, drawout, right neutral",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv948229",
+      "recordPath": "equipment/se-article-lv948229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv948229.json"
+    },
+    {
+      "id": "se-article-lv948301",
+      "name": "LV948301 — Circuit breaker frame, MasterPacT MTZ2 25H2, for MicroLogic Active, 2500A, 100kA/440VAC 50/60Hz (Icu), 3P, drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv948301",
+      "recordPath": "equipment/se-article-lv948301.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv948301.json"
+    },
+    {
+      "id": "se-article-18740",
+      "name": "18740 — Miniature circuit breaker (MCB), Acti9 NG125H, 4P, 80A, C curve, 36kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18740",
+      "recordPath": "equipment/se-article-18740.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18740.json"
+    },
+    {
+      "id": "se-article-33331",
+      "name": "33331 — Circuit breaker frame, ComPact NS800H, 70kA/415VAC, 800A, withdrawable, manually operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33331",
+      "recordPath": "equipment/se-article-33331.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33331.json"
+    },
+    {
+      "id": "se-article-19089",
+      "name": "19089 — Front extended rotary handle, Acti9 NG 125, red handle, 3 poles or 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-19089",
+      "recordPath": "equipment/se-article-19089.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-19089.json"
+    },
+    {
+      "id": "se-article-bgl36030lu",
+      "name": "BGL36030LU — Circuit breaker, PowerPacT B, 30A, 3 pole, 600Y/347VAC, 18kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgl36030lu",
+      "recordPath": "equipment/se-article-bgl36030lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgl36030lu.json"
+    },
+    {
+      "id": "se-article-bgl46050lu",
+      "name": "BGL46050LU — Circuit breaker, PowerPacT B, 50A, 4 pole, 600Y/347VAC, 18kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgl46050lu",
+      "recordPath": "equipment/se-article-bgl46050lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgl46050lu.json"
+    },
+    {
+      "id": "se-article-18799",
+      "name": "18799 — Miniature circuit breaker (MCB), Acti9 NG125L, 3P, 10A, C curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18799",
+      "recordPath": "equipment/se-article-18799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18799.json"
+    },
+    {
+      "id": "se-article-lv847151",
+      "name": "LV847151 — Circuit breaker  frame, MasterPact MTZ1 16H2 fixed for MicroLogic X, 1600A, 50kA/415VAC  (Icu), 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv847151",
+      "recordPath": "equipment/se-article-lv847151.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv847151.json"
+    },
+    {
+      "id": "se-article-lv429435",
+      "name": "LV429435 — standard motor mechanism module MT100/160, ComPact NSX100/160, 380/415 VAC 50/60 Hz, 440/480 VAC 60 Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429435",
+      "recordPath": "equipment/se-article-lv429435.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429435.json"
+    },
+    {
+      "id": "se-article-c1034v040",
+      "name": "C1034V040 — trip unit MicroLogic 4.2 for ComPacT NSX 100/160/250 circuit breakers, electronic, rating 40A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c1034v040",
+      "recordPath": "equipment/se-article-c1034v040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c1034v040.json"
+    },
+    {
+      "id": "se-article-c25l3",
+      "name": "C25L3 — circuit breaker basic frame, ComPacT NSX250L, 150 kA at 415 VAC 50/60 Hz, 250 A, without trip unit, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c25l3",
+      "recordPath": "equipment/se-article-c25l3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c25l3.json"
+    },
+    {
+      "id": "se-article-bjl46070lu",
+      "name": "BJL46070LU — Circuit breaker, PowerPacT B, 70A, 4 pole, 600Y/347VAC, 25kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjl46070lu",
+      "recordPath": "equipment/se-article-bjl46070lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjl46070lu.json"
+    },
+    {
+      "id": "se-article-18783",
+      "name": "18783 — Miniature circuit breaker (MCB), Acti9 NG125L, 1P, 50A, C curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18783",
+      "recordPath": "equipment/se-article-18783.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18783.json"
+    },
+    {
+      "id": "se-article-c6344v570",
+      "name": "C6344V570 — trip unit MicroLogic 4.3 for ComPacT NSX 630 circuit breakers, electronic, rating 570A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c6344v570",
+      "recordPath": "equipment/se-article-c6344v570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c6344v570.json"
+    },
+    {
+      "id": "se-article-c063n35afm",
+      "name": "C063N35AFM — Circuit breaker, ComPacT NS630bN, 50kA at 415VAC, 3P, fixed, manually operated, MicroLogic 5.0A control unit, 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063n35afm",
+      "recordPath": "equipment/se-article-c063n35afm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063n35afm.json"
+    },
+    {
+      "id": "se-article-33311",
+      "name": "33311 — Circuit breaker frame, ComPacT NS1600H, 70kA/415VAC, 1600A, fixed, electrically operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33311",
+      "recordPath": "equipment/se-article-33311.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33311.json"
+    },
+    {
+      "id": "se-article-a9f03706",
+      "name": "A9F03706 — Miniature circuit breaker (MCB), Acti9 iC60N, 3P+N, 6A, B curve, 6000A (IEC 60898-1), 10kA (IEC 60947-2), double term.",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9f03706",
+      "recordPath": "equipment/se-article-a9f03706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9f03706.json"
+    },
+    {
+      "id": "se-article-c11n4tm032l",
+      "name": "C11N4TM032L — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 32A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n4tm032l",
+      "recordPath": "equipment/se-article-c11n4tm032l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n4tm032l.json"
+    },
+    {
+      "id": "se-article-c100h3wm",
+      "name": "C100H3WM — Circuit breaker frame, ComPacT NS1000H, 70kA at 415VAC, 1000A, 3P, drawout, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c100h3wm",
+      "recordPath": "equipment/se-article-c100h3wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c100h3wm.json"
+    },
+    {
+      "id": "se-article-18804",
+      "name": "18804 — Miniature circuit breaker (MCB), Acti9 NG125L, 3P, 40A, C curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18804",
+      "recordPath": "equipment/se-article-18804.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18804.json"
+    },
+    {
+      "id": "se-article-c11f4tm080l",
+      "name": "C11F4TM080L — Circuit breaker, ComPacT NSXm 160F, 36kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 80A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11f4tm080l",
+      "recordPath": "equipment/se-article-c11f4tm080l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11f4tm080l.json"
+    },
+    {
+      "id": "se-article-c1644v160",
+      "name": "C1644V160 — trip unit MicroLogic 4.2 for ComPacT NSX 160/250 circuit breakers, electronic, rating 160A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c1644v160",
+      "recordPath": "equipment/se-article-c1644v160.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c1644v160.json"
+    },
+    {
+      "id": "se-article-18785",
+      "name": "18785 — Miniature circuit breaker (MCB), Acti9 NG125L, 1P, 80A, C curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18785",
+      "recordPath": "equipment/se-article-18785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18785.json"
+    },
+    {
+      "id": "se-article-bgl46125lu",
+      "name": "BGL46125LU — Circuit breaker, PowerPacT B, 125A, 4 pole, 600Y/347VAC, 18kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgl46125lu",
+      "recordPath": "equipment/se-article-bgl46125lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgl46125lu.json"
+    },
+    {
+      "id": "se-article-c16bh4fm",
+      "name": "C16bH4FM — Circuit breaker frame, ComPacT NS1600bH, 70kA at 415VAC, 1600A, 4P, fixed, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c16bh4fm",
+      "recordPath": "equipment/se-article-c16bh4fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c16bh4fm.json"
+    },
+    {
+      "id": "se-article-33726",
+      "name": "33726 — chassis, ComPact NS1600, MasterPact NT16, drawout, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33726",
+      "recordPath": "equipment/se-article-33726.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33726.json"
+    },
+    {
+      "id": "se-article-bdl16110",
+      "name": "BDL16110 — Circuit breaker, PowerPacT B, 110A, 1 pole, 600Y/347VAC, 14kA, lugs, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdl16110",
+      "recordPath": "equipment/se-article-bdl16110.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdl16110.json"
+    },
+    {
+      "id": "se-article-33404",
+      "name": "33404 — Circuit breaker frame, ComPacT NS1250N, 50kA/415VAC, 1250A, withdrawable, electrically operated, without trip unit, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33404",
+      "recordPath": "equipment/se-article-33404.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33404.json"
+    },
+    {
+      "id": "se-article-c063l3fm",
+      "name": "C063L3FM — Circuit breaker frame, ComPacT NS630bL, 150kA at 415VAC, 630A, 3P, fixed, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063l3fm",
+      "recordPath": "equipment/se-article-c063l3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063l3fm.json"
+    },
+    {
+      "id": "se-article-c160n450fm",
+      "name": "C160N450FM — Circuit breaker, ComPacT NS1600N, 50kA at 415VAC, 4P, fixed, manually operated, MicroLogic 5.0 control unit, 1600A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c160n450fm",
+      "recordPath": "equipment/se-article-c160n450fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c160n450fm.json"
+    },
+    {
+      "id": "se-article-c125n45efm",
+      "name": "C125N45EFM — Circuit breaker, ComPacT NS1250N, 50kA at 415VAC, 4P, fixed, manually operated, MicroLogic 5.0E control unit, 1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c125n45efm",
+      "recordPath": "equipment/se-article-c125n45efm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c125n45efm.json"
+    },
+    {
+      "id": "se-article-33608",
+      "name": "33608 — front connection, Compact NS 630b/800/1000 N/H/NA, fixed, top mounting, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33608",
+      "recordPath": "equipment/se-article-33608.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33608.json"
+    },
+    {
+      "id": "se-article-lv432645",
+      "name": "LV432645 — standard motor mechanism module MT400/630, ComPact NSX400/630, 110/130 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv432645",
+      "recordPath": "equipment/se-article-lv432645.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv432645.json"
+    },
+    {
+      "id": "se-article-a9w25263",
+      "name": "A9W25263 — Vigi iC60 - earth leakage add-on block - 2P - 63A - 300mA - A type - selective",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9w25263",
+      "recordPath": "equipment/se-article-a9w25263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9w25263.json"
+    },
+    {
+      "id": "se-article-c6347a570",
+      "name": "C6347A570 — trip unit MicroLogic 7.3 E AL for ComPacT NSX 630 circuit breakers, electronic, rating 570A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c6347a570",
+      "recordPath": "equipment/se-article-c6347a570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c6347a570.json"
+    },
+    {
+      "id": "se-article-c12h6tm160l",
+      "name": "C12H6TM160L — Circuit breaker, ComPacT NSXm 160H, 70kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 160A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12h6tm160l",
+      "recordPath": "equipment/se-article-c12h6tm160l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12h6tm160l.json"
+    },
+    {
+      "id": "se-article-c125n460fm",
+      "name": "C125N460FM — Circuit breaker, ComPacT NS1250N, 50kA at 415VAC, 4P, fixed, manually operated, MicroLogic 6.0 control unit, 1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c125n460fm",
+      "recordPath": "equipment/se-article-c125n460fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c125n460fm.json"
+    },
+    {
+      "id": "se-article-a9a19801",
+      "name": "A9A19801 — Acti9 iC60 RCBO - auxiliary contact - 1OF - AC/DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9a19801",
+      "recordPath": "equipment/se-article-a9a19801.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9a19801.json"
+    },
+    {
+      "id": "se-article-c11h3tm050l",
+      "name": "C11H3TM050L — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 3 poles, TMD trip unit 50A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h3tm050l",
+      "recordPath": "equipment/se-article-c11h3tm050l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h3tm050l.json"
+    },
+    {
+      "id": "se-article-c103ma003",
+      "name": "C103MA003 — trip unit MA2.5 for ComPacT NSX 100 circuit breakers, magnetic, rating 2.5 A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c103ma003",
+      "recordPath": "equipment/se-article-c103ma003.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c103ma003.json"
+    },
+    {
+      "id": "se-article-33255",
+      "name": "33255 — Circuit breaker frame, ComPact NS1250H, 70kA/415VAC, 1250A, fixed, manually operated, without trip unit, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33255",
+      "recordPath": "equipment/se-article-33255.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33255.json"
+    },
+    {
+      "id": "se-article-c11h6tm016l",
+      "name": "C11H6TM016L — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 3D (neutral not protected), TMD trip unit 16A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h6tm016l",
+      "recordPath": "equipment/se-article-c11h6tm016l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h6tm016l.json"
+    },
+    {
+      "id": "se-article-c063h3fm",
+      "name": "C063H3FM — Circuit breaker frame, ComPacT NS630bH, 70kA at 415VAC, 630A, 3P, fixed, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063h3fm",
+      "recordPath": "equipment/se-article-c063h3fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063h3fm.json"
+    },
+    {
+      "id": "se-article-a9n18361",
+      "name": "A9N18361 — Miniature circuit breaker (MCB), Acti9, C120N, 2P, 80A, C curve, 10000A (AS/NZS 60898.1), 10kA (AS/NZS 60947.2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9n18361",
+      "recordPath": "equipment/se-article-a9n18361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9n18361.json"
+    },
+    {
+      "id": "se-article-lv429050",
+      "name": "LV429050 — trip unit TM100D for ComPact NSX 100/160/250 circuit breakers, thermal magnetic, rating 100 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429050",
+      "recordPath": "equipment/se-article-lv429050.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429050.json"
+    },
+    {
+      "id": "se-article-lv431545",
+      "name": "LV431545 — standard motor mechanism module MT250, ComPact NSX250, 110/130 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv431545",
+      "recordPath": "equipment/se-article-lv431545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv431545.json"
+    },
+    {
+      "id": "se-article-33598",
+      "name": "33598 — front connection, Compact NS 630b/800/1000 N/H/NA, fixed, top mounting, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33598",
+      "recordPath": "equipment/se-article-33598.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33598.json"
+    },
+    {
+      "id": "se-article-c11n4tm100l",
+      "name": "C11N4TM100L — Circuit breaker, ComPacT NSXm 160N, 50kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 100A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n4tm100l",
+      "recordPath": "equipment/se-article-c11n4tm100l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n4tm100l.json"
+    },
+    {
+      "id": "se-article-c166tm125",
+      "name": "C166TM125 — trip unit TM125D for ComPacT NSX 160/250 circuit breakers, thermal magnetic, rating 125 A, 4 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c166tm125",
+      "recordPath": "equipment/se-article-c166tm125.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c166tm125.json"
+    },
+    {
+      "id": "se-article-lv948259",
+      "name": "LV948259 — Circuit breaker frame, MasterPacT MTZ2 12H1, for MicroLogic Active, 1250A, 66kA/440VAC 50/60Hz (Icu), 3P, drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv948259",
+      "recordPath": "equipment/se-article-lv948259.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv948259.json"
+    },
+    {
+      "id": "se-article-48956",
+      "name": "48956 — Circuit breaker frame, ComPact NS800bLB, 200kA/415VAC, 800A, fixed, manually operated, without trip unit, 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-48956",
+      "recordPath": "equipment/se-article-48956.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-48956.json"
+    },
+    {
+      "id": "se-article-bjl46125lu",
+      "name": "BJL46125LU — Circuit breaker, PowerPacT B, 125A, 4 pole, 600Y/347VAC, 25kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bjl46125lu",
+      "recordPath": "equipment/se-article-bjl46125lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bjl46125lu.json"
+    },
+    {
+      "id": "se-article-c11b44v025l",
+      "name": "C11B44V025L — Circuit breaker, ComPacT NSXm 63B, 25kA/415VAC, 4 poles, MicroLogic 4.1 trip unit 25A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11b44v025l",
+      "recordPath": "equipment/se-article-c11b44v025l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11b44v025l.json"
+    },
+    {
+      "id": "se-article-lv429162",
+      "name": "LV429162 — trip unit TM63G for ComPact NSX 100/160 circuit breakers, thermal magnetic, rating 63 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv429162",
+      "recordPath": "equipment/se-article-lv429162.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv429162.json"
+    },
+    {
+      "id": "se-article-18829",
+      "name": "18829 — Miniature circuit breaker (MCB), Acti9 NG125L, 4P, 80A, C curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18829",
+      "recordPath": "equipment/se-article-18829.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18829.json"
+    },
+    {
+      "id": "se-article-lv947237",
+      "name": "LV947237 — Circuit breaker frame, MasterPacT MTZ1 12H2, for MicroLogic Active, 1250A, 50kA/440VAC 50/60Hz (Icu), 4P, drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv947237",
+      "recordPath": "equipment/se-article-lv947237.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv947237.json"
+    },
+    {
+      "id": "se-article-c12e34v160l",
+      "name": "C12E34V160L — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 3 poles, MicroLogic 4.1 trip unit 160A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12e34v160l",
+      "recordPath": "equipment/se-article-c12e34v160l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12e34v160l.json"
+    },
+    {
+      "id": "se-article-c12b3tm125l",
+      "name": "C12B3TM125L — Circuit breaker, ComPacT NSXm 160B, 25kA/415VAC, 3 poles, TMD trip unit 125A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c12b3tm125l",
+      "recordPath": "equipment/se-article-c12b3tm125l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c12b3tm125l.json"
+    },
+    {
+      "id": "se-article-a9n61537",
+      "name": "A9N61537 — Miniature circuit breaker (MCB), Acti9, C60H-DC, 2P, 40A, C curve, 6kA (AS/NZS 60947.2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9n61537",
+      "recordPath": "equipment/se-article-a9n61537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9n61537.json"
+    },
+    {
+      "id": "se-article-c11n4tm016l",
+      "name": "C11N4TM016L — Circuit breaker, ComPacT NSXm 63N, 50kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 16A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11n4tm016l",
+      "recordPath": "equipment/se-article-c11n4tm016l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11n4tm016l.json"
+    },
+    {
+      "id": "se-article-c5afm",
+      "name": "C5AFM — Control unit MicroLogic 5.0A, ComPacT NS630b to NS3200 fixed and manually operated, selective protections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c5afm",
+      "recordPath": "equipment/se-article-c5afm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c5afm.json"
+    },
+    {
+      "id": "se-article-34438",
+      "name": "34438 — Circuit breaker, ComPact NS1600N, 50kA/415VAC, Micrologic 5.0E trip unit, 1600A, fixed, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-34438",
+      "recordPath": "equipment/se-article-34438.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-34438.json"
+    },
+    {
+      "id": "se-article-c253mg200",
+      "name": "C253MG200 — trip unit TM200G for ComPacT NSX 250 circuit breakers, thermal magnetic, rating 200 A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c253mg200",
+      "recordPath": "equipment/se-article-c253mg200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c253mg200.json"
+    },
+    {
+      "id": "se-article-a9n61534",
+      "name": "A9N61534 — Miniature circuit breaker (MCB), Acti9 C60H-DC, 2P, 30A, C curve, 6kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9n61534",
+      "recordPath": "equipment/se-article-a9n61534.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9n61534.json"
+    },
+    {
+      "id": "se-article-c50fm",
+      "name": "C50FM — Control unit MicroLogic 5.0, ComPacT NS630b to NS3200 fixed and manually operated, selective protections",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c50fm",
+      "recordPath": "equipment/se-article-c50fm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c50fm.json"
+    },
+    {
+      "id": "se-article-lv426824",
+      "name": "LV426824 — Pre-wired undervoltage release MN, ComPacT NSXm, 220/240VAC 50Hz, 208/240VAC 60Hz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv426824",
+      "recordPath": "equipment/se-article-lv426824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv426824.json"
+    },
+    {
+      "id": "se-article-18858",
+      "name": "18858 — Miniature circuit breaker (MCB), Acti9 NG125L, 4P, 16A, D curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18858",
+      "recordPath": "equipment/se-article-18858.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18858.json"
+    },
+    {
+      "id": "se-article-33857",
+      "name": "33857 — Door Escutcheon for fixed mounting - for Compact NS630b..1600",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33857",
+      "recordPath": "equipment/se-article-33857.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33857.json"
+    },
+    {
+      "id": "se-article-33271",
+      "name": "33271 — Circuit breaker frame, ComPacT NS630bH, 70kA/415VAC, 630A, fixed, electrically operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-33271",
+      "recordPath": "equipment/se-article-33271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-33271.json"
+    },
+    {
+      "id": "se-article-c163tm160",
+      "name": "C163TM160 — trip unit TM160D for ComPacT NSX 160/250 circuit breakers, thermal magnetic, rating 160 A, 3 poles 3d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c163tm160",
+      "recordPath": "equipment/se-article-c163tm160.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c163tm160.json"
+    },
+    {
+      "id": "se-article-lv864974",
+      "name": "LV864974 — Circuit breaker frame, MasterPact MTZ2 32H1b fixed for MicroLogic X, 3200A, 85kA/440VAC (Icu), 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv864974",
+      "recordPath": "equipment/se-article-lv864974.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv864974.json"
+    },
+    {
+      "id": "se-article-lv833726",
+      "name": "LV833726 — Chassis, MasterPact MTZ1 drawout, 1600A, H/L type, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv833726",
+      "recordPath": "equipment/se-article-lv833726.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv833726.json"
+    },
+    {
+      "id": "se-article-c1042g100",
+      "name": "C1042G100 — trip unit MicroLogic 2.2 G for ComPacT NSX 100/160/250 circuit breakers, electronic, rating 100 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c1042g100",
+      "recordPath": "equipment/se-article-c1042g100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c1042g100.json"
+    },
+    {
+      "id": "se-article-34402",
+      "name": "34402 — Circuit breaker, ComPact NS630bN, 50kA/415VAC, Micrologic 2.0E trip unit, 630A, fixed, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-34402",
+      "recordPath": "equipment/se-article-34402.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-34402.json"
+    },
+    {
+      "id": "se-article-18713",
+      "name": "18713 — Miniature circuit breaker (MCB), Acti9 NG125H, 1P, 80A, C curve, 36kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18713",
+      "recordPath": "equipment/se-article-18713.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18713.json"
+    },
+    {
+      "id": "se-article-48967",
+      "name": "48967 — Circuit breaker frame, ComPact NS630bLB, 200kA/415VAC, 630A, withdrawable, manually operated, without trip unit, 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-48967",
+      "recordPath": "equipment/se-article-48967.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-48967.json"
+    },
+    {
+      "id": "se-article-c063h3wm",
+      "name": "C063H3WM — Circuit breaker frame, ComPacT NS630bH, 70kA at 415VAC, 630A, 3P, drawout, manually operated, without control unit",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c063h3wm",
+      "recordPath": "equipment/se-article-c063h3wm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c063h3wm.json"
+    },
+    {
+      "id": "se-article-18747",
+      "name": "18747 — Miniature circuit breaker (MCB), Acti9 NG125L, 1P, 50A, B curve, 50kA (IEC/EN 60947-2)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-18747",
+      "recordPath": "equipment/se-article-18747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-18747.json"
+    },
+    {
+      "id": "se-article-a9f04703",
+      "name": "A9F04703 — Miniature circuit breaker (MCB), Acti9 iC60N, 3P+N, 3A, C curve, 6000A (IEC 60898-1), 50kA (IEC 60947-2), double term.",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9f04703",
+      "recordPath": "equipment/se-article-a9f04703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9f04703.json"
+    },
+    {
+      "id": "se-article-a9d17225",
+      "name": "A9D17225 — Residual current breaker with overcurrent protection (RCBO), Acti9 iC60, 2P, 25A, C curve, 10000A/15kA, A type, 30mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9d17225",
+      "recordPath": "equipment/se-article-a9d17225.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9d17225.json"
+    },
+    {
+      "id": "se-article-c125h32afm",
+      "name": "C125H32AFM — Circuit breaker, ComPacT NS1250H, 70kA at 415VAC, 3P, fixed, manually operated, MicroLogic 2.0A control unit, 1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c125h32afm",
+      "recordPath": "equipment/se-article-c125h32afm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c125h32afm.json"
+    },
+    {
+      "id": "se-article-a9d97413",
+      "name": "A9D97413 — Residual current breaker with overcurrent protection (RCBO), Acti9 iC60, 4P, 13A, B curve, 6000A/6kA, A-SI type, 30mA",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-a9d97413",
+      "recordPath": "equipment/se-article-a9d97413.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-a9d97413.json"
+    },
+    {
+      "id": "se-article-bgl36070lu",
+      "name": "BGL36070LU — Circuit breaker, PowerPacT B, 70A, 3 pole, 600Y/347VAC, 18kA, lugs, thermal magnetic, 80%, control wire ON end",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bgl36070lu",
+      "recordPath": "equipment/se-article-bgl36070lu.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bgl36070lu.json"
+    },
+    {
+      "id": "se-article-c11h4tm025l",
+      "name": "C11H4TM025L — Circuit breaker, ComPacT NSXm 63H, 70kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 25A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11h4tm025l",
+      "recordPath": "equipment/se-article-c11h4tm025l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11h4tm025l.json"
+    },
+    {
+      "id": "se-article-c11e4tm080l",
+      "name": "C11E4TM080L — Circuit breaker, ComPacT NSXm 160E, 16kA/415VAC, 4 poles 4D (neutral fully protected), TMD trip unit 80A, EverLink lugs",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c11e4tm080l",
+      "recordPath": "equipment/se-article-c11e4tm080l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c11e4tm080l.json"
+    },
+    {
+      "id": "se-article-c104mg063",
+      "name": "C104MG063 — trip unit TM63G for ComPacT NSX 100/160 circuit breakers, thermal magnetic, rating 63 A, 4 poles 4d",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-c104mg063",
+      "recordPath": "equipment/se-article-c104mg063.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-c104mg063.json"
+    },
+    {
+      "id": "se-article-bdl16035",
+      "name": "BDL16035 — Circuit breaker, PowerPacT B, 35A, 1 pole, 600Y/347VAC, 14kA, lugs, thermal magnetic, 80%",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-bdl16035",
+      "recordPath": "equipment/se-article-bdl16035.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-bdl16035.json"
+    },
+    {
+      "id": "se-article-lv847140",
+      "name": "LV847140 — Circuit breaker  frame, MasterPact MTZ1 12H1 fixed for MicroLogic X, 1250A, 42kA/415VAC  (Icu), 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-lv847140",
+      "recordPath": "equipment/se-article-lv847140.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-lv847140.json"
+    }
+  ]
+}

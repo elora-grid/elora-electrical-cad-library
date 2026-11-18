@@ -1,0 +1,171 @@
+# Weidmüller — BLZF 3.50/21/180F SN OR BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 3.50 mm, Number of poles: 21, Tension-clamp connection
+
+Weidmüller BLZF 3.50/21/180F SN OR BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 3.50 mm, Number of poles: 21, Tension-clamp connection. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1691070000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1691070000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1691070000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1691070000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/blzf-3-5021180f-sn-or-bx/p/1691070000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1691070000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: BLZF 3.50/21/180F SN OR BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 3.50 mm, Number of poles: 21, Tension-clamp connection
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1691070000
+- Manufacturer reference: 1691070000
+- Manufacturer type: BLZF 3.50/21/180F SN OR BX
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1691070000 ([source](https://eshop.weidmueller.com.cn/en/blzf-3-5021180f-sn-or-bx/p/1691070000/downloads#engineering-support))
+- Manufacturer type: BLZF 3.50/21/180F SN OR BX ([source](https://eshop.weidmueller.com.cn/en/blzf-3-5021180f-sn-or-bx/p/1691070000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/blzf-3-5021180f-sn-or-bx/p/1691070000/downloads#engineering-support))
+
+## What the equipment does
+
+A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
+
+In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/blzf-3-5021180f-sn-or-bx/p/1691070000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1691070000. The files above belong to Weidmüller's BLZF 3.50/21/180F SN OR BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 3.50 mm, Number of poles: 21, Tension-clamp connection resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller BLZF 3.50/21/180F SN OR BX — PCB plug-in connector (wire connection) / PCB plug-in connector (wire connection), 3.50 mm, Number of poles: 21, Tension-clamp connection: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1691070000/native-0ae6ec266d814da8bfff8417-zip?asset=452036d9b3022458ad164864d33de2623b53dee50b17a4b4a0019c026bb8f182)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1691070000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1691070000)
+
+- 1691070000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1691070000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 1691070000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1691070000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/6a3848fe-29e7-4909-bbbb-86c8c175188a/original/1691070000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1691070000/native-0ae6ec266d814da8bfff8417-zip)
+- Redistribution: unknown
+- Original SHA-256: 0ae6ec266d814da8bfff84173140ef66b4ed9e919114cb602452e6c0fd4c438d
+- Original bytes: 61650
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/6a3848fe-29e7-4909-bbbb-86c8c175188a/original/1691070000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 61650 bytes
+- Delivery SHA-256: 0ae6ec266d814da8bfff84173140ef66b4ed9e919114cb602452e6c0fd4c438d
+
+<details>
+<summary>Archive members</summary>
+
+- 1691070000\_back.DWG
+- 1691070000\_bottom.DWG
+- 1691070000\_front.DWG
+- 1691070000\_left.DWG
+- 1691070000\_right.DWG
+- 1691070000\_top.DWG
+
+</details>
+
+### 1691070000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/12d4bab7-a16d-4095-afee-7003ad439bf3/original/1691070000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1691070000/native-64f1fe17977b6d11968c419d-zip)
+- Redistribution: unknown
+- Original SHA-256: 64f1fe17977b6d11968c419dab11b40c921d05d47f29fb4cd6f5d06882fc59a3
+- Original bytes: 41076
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/12d4bab7-a16d-4095-afee-7003ad439bf3/original/1691070000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 41076 bytes
+- Delivery SHA-256: 64f1fe17977b6d11968c419dab11b40c921d05d47f29fb4cd6f5d06882fc59a3
+
+<details>
+<summary>Archive members</summary>
+
+- 1691070000\_back.DXF
+- 1691070000\_bottom.DXF
+- 1691070000\_front.DXF
+- 1691070000\_left.DXF
+- 1691070000\_right.DXF
+- 1691070000\_top.DXF
+
+</details>
+
+### 1691070000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/f719e9b7-b3be-49cc-b3e9-cbb34466541f/original/1691070000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1691070000/native-550c1d233bd458b27a4de651-step)
+- Redistribution: unknown
+- Original SHA-256: 550c1d233bd458b27a4de651a411669684a57006762b8aea65fddfb6d530b3c0
+- Original bytes: 1853166
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/f719e9b7-b3be-49cc-b3e9-cbb34466541f/original/1691070000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 293614 bytes
+- Delivery SHA-256: 8a5ed1aed5505fd82f1a5843ce787e69b24cb7dd5e40507482694cc9fef6b194
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

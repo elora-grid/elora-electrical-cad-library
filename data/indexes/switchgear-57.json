@@ -1,0 +1,806 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 57,
+  "entries": [
+    {
+      "id": "se-article-df101v",
+      "name": "DF101V — Fuse carrier, TeSys DF, 1P, 32A, 690VAC, fuse size 10x38mm, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df101v",
+      "recordPath": "equipment/se-article-df101v.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df101v.json"
+    },
+    {
+      "id": "se-article-tpccif01",
+      "name": "TPCCIF01 — display module for TransferPacT Active Automatic, LCD screen,Flush mounting",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpccif01",
+      "recordPath": "equipment/se-article-tpccif01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpccif01.json"
+    },
+    {
+      "id": "se-article-tpscon68",
+      "name": "TPSCON68 — spreaders with interphase barriers,TransferPacT, accessories for Frame 630A, 4P,set of 4, load side only",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpscon68",
+      "recordPath": "equipment/se-article-tpscon68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpscon68.json"
+    },
+    {
+      "id": "se-article-tpscon51",
+      "name": "TPSCON51 — aluminium cable connectors, TransferPacT, for 2 cables 50 to 120 mm², Frame 250A, 3P, set of 3",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpscon51",
+      "recordPath": "equipment/se-article-tpscon51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpscon51.json"
+    },
+    {
+      "id": "se-article-ta80d3l8004tpe",
+      "name": "TA80D3L8004TPE — active automatic transfer switch, TransferPacT, 800A, 400V, 3P, LCD, frame 800A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta80d3l8004tpe",
+      "recordPath": "equipment/se-article-ta80d3l8004tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta80d3l8004tpe.json"
+    },
+    {
+      "id": "se-article-gs1af",
+      "name": "GS1AF — Auxiliary contact, TeSys GS, 2 C/O, 3/4P, fuse type all NFC/DIN, sizes 14x51mm, for GS1 GS2 Blown fuse",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-gs1af",
+      "recordPath": "equipment/se-article-gs1af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-gs1af.json"
+    },
+    {
+      "id": "se-article-tr25d3r2502tpe",
+      "name": "TR25D3R2502TPE — TransferPacT Remote, 250A, 230V, 3P, Remote, frame 250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tr25d3r2502tpe",
+      "recordPath": "equipment/se-article-tr25d3r2502tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tr25d3r2502tpe.json"
+    },
+    {
+      "id": "se-article-tpscon58",
+      "name": "TPSCON58 — crimp lugs for copper cable with interphase barriers, 240 mm², TransferPacT, Frame 630 A,4P, set of 4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpscon58",
+      "recordPath": "equipment/se-article-tpscon58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpscon58.json"
+    },
+    {
+      "id": "se-article-df83v",
+      "name": "DF83V — Fuse carrier, TeSys DF, 3P, 25A, 400VAC, fuse size 8.5x31.5mm, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df83v",
+      "recordPath": "equipment/se-article-df83v.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df83v.json"
+    },
+    {
+      "id": "se-article-ta10d4s1004tpe",
+      "name": "TA10D4S1004TPE — transfer switch, TransferPacT automatic, 100A, 400V, 4P, rotary, frame 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta10d4s1004tpe",
+      "recordPath": "equipment/se-article-ta10d4s1004tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta10d4s1004tpe.json"
+    },
+    {
+      "id": "se-article-ta25d4l2504tpe",
+      "name": "TA25D4L2504TPE — TransferPacT Active Automatic, 250A, 400V, 4P, LCD, frame 250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta25d4l2504tpe",
+      "recordPath": "equipment/se-article-ta25d4l2504tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta25d4l2504tpe.json"
+    },
+    {
+      "id": "se-article-ta10d2s0803tpe",
+      "name": "TA10D2S0803TPE — transfer switch, TransferPacT automatic, 80A, 230V, 2P, rotary, frame 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta10d2s0803tpe",
+      "recordPath": "equipment/se-article-ta10d2s0803tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta10d2s0803tpe.json"
+    },
+    {
+      "id": "se-article-df102v",
+      "name": "DF102V — Fuse carrier, TeSys DF, 2P, 32A, 690VAC, fuse size 10x38mm, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df102v",
+      "recordPath": "equipment/se-article-df102v.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df102v.json"
+    },
+    {
+      "id": "se-article-ta10d4l0404tpe",
+      "name": "TA10D4L0404TPE — transfer switch, TransferPacT Active automatic, 40A, 400V, 4P, LCD,frame 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta10d4l0404tpe",
+      "recordPath": "equipment/se-article-ta10d4l0404tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta10d4l0404tpe.json"
+    },
+    {
+      "id": "se-article-tpcdio07",
+      "name": "TPCDIO07 — function module, TransferPacT, transfer inhibit and remote testing, input signal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpcdio07",
+      "recordPath": "equipment/se-article-tpcdio07.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpcdio07.json"
+    },
+    {
+      "id": "se-article-ta63d3l5004tpe",
+      "name": "TA63D3L5004TPE — TransferPacT Active Automatic, 500A, 400V, 3P, LCD, frame 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta63d3l5004tpe",
+      "recordPath": "equipment/se-article-ta63d3l5004tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta63d3l5004tpe.json"
+    },
+    {
+      "id": "se-article-dfcc3",
+      "name": "DFCC3 — Fuse carrier, TeSys DF, 3P, 30A, 600VAC, fuse class CC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-dfcc3",
+      "recordPath": "equipment/se-article-dfcc3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-dfcc3.json"
+    },
+    {
+      "id": "se-article-ta25d4l1002tpe",
+      "name": "TA25D4L1002TPE — TransferPacT Active Automatic, 100A, 230V, 4P, LCD, frame 250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta25d4l1002tpe",
+      "recordPath": "equipment/se-article-ta25d4l1002tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta25d4l1002tpe.json"
+    },
+    {
+      "id": "se-article-ta16d4l0804tpe",
+      "name": "TA16D4L0804TPE — transfer switch, TransferPacT Active automatic, 80A, 400V, 4P, LCD,frame 160A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta16d4l0804tpe",
+      "recordPath": "equipment/se-article-ta16d4l0804tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta16d4l0804tpe.json"
+    },
+    {
+      "id": "se-article-tpscon52",
+      "name": "TPSCON52 — aluminium cable connectors, TransferPacT, for 2 cables 50 to 120 mm², Frame 250A, 4P, set of 4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpscon52",
+      "recordPath": "equipment/se-article-tpscon52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpscon52.json"
+    },
+    {
+      "id": "se-article-dfcc2v",
+      "name": "DFCC2V — Fuse carrier, TeSys DF, 2P, 30A, 600VAC, fuse class CC, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-dfcc2v",
+      "recordPath": "equipment/se-article-dfcc2v.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-dfcc2v.json"
+    },
+    {
+      "id": "se-article-ta25d3l2504tpe",
+      "name": "TA25D3L2504TPE — TransferPacT Active Automatic, 250A, 400V, 3P, LCD, frame 250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta25d3l2504tpe",
+      "recordPath": "equipment/se-article-ta25d3l2504tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta25d3l2504tpe.json"
+    },
+    {
+      "id": "se-article-df141n",
+      "name": "DF141N — Fuse carrier, TeSys DF, 1P+N, 50A, 690VAC, fuse size 14x51mm, with tubular link",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df141n",
+      "recordPath": "equipment/se-article-df141n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df141n.json"
+    },
+    {
+      "id": "se-article-ta25d4s2504tpe",
+      "name": "TA25D4S2504TPE — TransferPacT Automatic, 250A, 400V, 4P, Rotary, frame 250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta25d4s2504tpe",
+      "recordPath": "equipment/se-article-ta25d4s2504tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta25d4s2504tpe.json"
+    },
+    {
+      "id": "se-article-df141nv",
+      "name": "DF141NV — Fuse carrier, TeSys DF, 1P+N, 50A, 690VAC, fuse size 14x51mm, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df141nv",
+      "recordPath": "equipment/se-article-df141nv.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df141nv.json"
+    },
+    {
+      "id": "se-article-ta25d3s2504tpe",
+      "name": "TA25D3S2504TPE — TransferPacT Automatic, 250A, 400V, 3P, Rotary, frame 250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta25d3s2504tpe",
+      "recordPath": "equipment/se-article-ta25d3s2504tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta25d3s2504tpe.json"
+    },
+    {
+      "id": "se-article-df14n",
+      "name": "DF14N — Fuse carrier, TeSys DF, 1P Neutral, 50A, 690VAC, fuse size 14x51mm, with tubular link",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df14n",
+      "recordPath": "equipment/se-article-df14n.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df14n.json"
+    },
+    {
+      "id": "se-article-dfcc1v",
+      "name": "DFCC1V — Fuse carrier, TeSys DF, 1P, 30A, 600VAC, fuse class CC, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-dfcc1v",
+      "recordPath": "equipment/se-article-dfcc1v.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-dfcc1v.json"
+    },
+    {
+      "id": "se-article-tr63d3r3204tpe",
+      "name": "TR63D3R3204TPE — TransferPacT Remote, 320A, 400V, 3P, Remote, frame 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tr63d3r3204tpe",
+      "recordPath": "equipment/se-article-tr63d3r3204tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tr63d3r3204tpe.json"
+    },
+    {
+      "id": "se-article-df81",
+      "name": "DF81 — Fuse carrier, TeSys DF, 1P, 25A, 400VAC, fuse size 8.5x31.5mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df81",
+      "recordPath": "equipment/se-article-df81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df81.json"
+    },
+    {
+      "id": "se-article-ta10d2l1003tpe",
+      "name": "TA10D2L1003TPE — transfer switch, TransferPacT Active automatic, 100A, 230V, 2P, LCD,frame 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta10d2l1003tpe",
+      "recordPath": "equipment/se-article-ta10d2l1003tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta10d2l1003tpe.json"
+    },
+    {
+      "id": "se-article-dfcc2",
+      "name": "DFCC2 — Fuse carrier, TeSys DF, 2P, 30A, 600VAC, fuse class CC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-dfcc2",
+      "recordPath": "equipment/se-article-dfcc2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-dfcc2.json"
+    },
+    {
+      "id": "se-article-ta80d3l8002tpe",
+      "name": "TA80D3L8002TPE — active automatic transfer switch, TransferPacT, 800A, 230V, 3P, LCD, frame 800A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta80d3l8002tpe",
+      "recordPath": "equipment/se-article-ta80d3l8002tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta80d3l8002tpe.json"
+    },
+    {
+      "id": "se-article-df221",
+      "name": "DF221 — Fuse carrier, TeSys DF, 1P, 125A, 690VAC, fuse size 22x58mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df221",
+      "recordPath": "equipment/se-article-df221.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df221.json"
+    },
+    {
+      "id": "se-article-ta10d4s0324tpe",
+      "name": "TA10D4S0324TPE — transfer switch, TransferPacT automatic, 32A, 400V, 4P, rotary, frame 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta10d4s0324tpe",
+      "recordPath": "equipment/se-article-ta10d4s0324tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta10d4s0324tpe.json"
+    },
+    {
+      "id": "se-article-ta63d4s6304tpe",
+      "name": "TA63D4S6304TPE — TransferPacT Automatic, 630A, 400V, 4P, Rotary, frame 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta63d4s6304tpe",
+      "recordPath": "equipment/se-article-ta63d4s6304tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta63d4s6304tpe.json"
+    },
+    {
+      "id": "se-article-tpscon50",
+      "name": "TPSCON50 — aluminium cable connectors, TransferPacT, for 1 cable 120 to 240 mm², Frame 250A, 4P, set of 4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpscon50",
+      "recordPath": "equipment/se-article-tpscon50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpscon50.json"
+    },
+    {
+      "id": "se-article-tpcdio05",
+      "name": "TPCDIO05 — function module, TransferPacT, load shedding and availability warning, output signal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpcdio05",
+      "recordPath": "equipment/se-article-tpcdio05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpcdio05.json"
+    },
+    {
+      "id": "se-article-df221nv",
+      "name": "DF221NV — Fuse carrier, TeSys DF, 1P+N, 125A, 690VAC, fuse size 22x58mm, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df221nv",
+      "recordPath": "equipment/se-article-df221nv.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df221nv.json"
+    },
+    {
+      "id": "se-article-ta16d3s1004tpe",
+      "name": "TA16D3S1004TPE — transfer switch, TransferPacT automatic, 100A, 400V, 3P, rotary,frame 160A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta16d3s1004tpe",
+      "recordPath": "equipment/se-article-ta16d3s1004tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta16d3s1004tpe.json"
+    },
+    {
+      "id": "se-article-df101nv",
+      "name": "DF101NV — Fuse carrier, TeSys DF, 1P+N, 32A, 690VAC, fuse size 10x38mm, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df101nv",
+      "recordPath": "equipment/se-article-df101nv.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df101nv.json"
+    },
+    {
+      "id": "se-article-ta16d4s0804tpe",
+      "name": "TA16D4S0804TPE — transfer switch, TransferPacT automatic, 80A, 400V, 4P, rotary,frame 160A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta16d4s0804tpe",
+      "recordPath": "equipment/se-article-ta16d4s0804tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta16d4s0804tpe.json"
+    },
+    {
+      "id": "se-article-ta16d3l0804tpe",
+      "name": "TA16D3L0804TPE — transfer switch, TransferPacT Active automatic, 80A, 400V, 3P, LCD,frame 160A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta16d3l0804tpe",
+      "recordPath": "equipment/se-article-ta16d3l0804tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta16d3l0804tpe.json"
+    },
+    {
+      "id": "se-article-ta80d4s8004tpe",
+      "name": "TA80D4S8004TPE — automatic transfer switch, TransferPacT, 800A, 400V, 4P, rotary, frame 800A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta80d4s8004tpe",
+      "recordPath": "equipment/se-article-ta80d4s8004tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta80d4s8004tpe.json"
+    },
+    {
+      "id": "se-article-ta16d4l1604tpe",
+      "name": "TA16D4L1604TPE — transfer switch, TransferPacT Active automatic, 160A, 400V, 4P, LCD,frame 160A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta16d4l1604tpe",
+      "recordPath": "equipment/se-article-ta16d4l1604tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta16d4l1604tpe.json"
+    },
+    {
+      "id": "se-article-df223nvc",
+      "name": "DF223NVC — Fuse carrier, TeSys DF, 3P+N, 125A, 690VAC, fuse size 22x58mm, blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df223nvc",
+      "recordPath": "equipment/se-article-df223nvc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df223nvc.json"
+    },
+    {
+      "id": "se-article-df223c",
+      "name": "DF223C — Fuse carrier, TeSys DF, 3P, 125A, 690VAC, fuse size 22x58mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-df223c",
+      "recordPath": "equipment/se-article-df223c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-df223c.json"
+    },
+    {
+      "id": "se-article-tr63d4r6302tpe",
+      "name": "TR63D4R6302TPE — TransferPacT Remote, 630A, 230V, 4P, Remote, frame 630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tr63d4r6302tpe",
+      "recordPath": "equipment/se-article-tr63d4r6302tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tr63d4r6302tpe.json"
+    },
+    {
+      "id": "se-article-tpscon56",
+      "name": "TPSCON56 — edgewise terminal extensions with interphase barriers, TransferPacT, Frame 630 A, 4P, set of 4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-tpscon56",
+      "recordPath": "equipment/se-article-tpscon56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-tpscon56.json"
+    },
+    {
+      "id": "se-article-ta25d3l2004tpe",
+      "name": "TA25D3L2004TPE — TransferPacT Active Automatic, 200A, 400V, 3P, LCD, frame 250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta25d3l2004tpe",
+      "recordPath": "equipment/se-article-ta25d3l2004tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta25d3l2004tpe.json"
+    },
+    {
+      "id": "se-article-ta10d3s0324tpe",
+      "name": "TA10D3S0324TPE — transfer switch, TransferPacT automatic, 32A, 400V, 3P, rotary, frame 100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/se-article-ta10d3s0324tpe",
+      "recordPath": "equipment/se-article-ta10d3s0324tpe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/se-article-ta10d3s0324tpe.json"
+    },
+    {
+      "id": "eaton-article-62f1655d8e9c6fd43012f657",
+      "name": "SAFECLIP 63A BACK STUD CONNECTED BLACK — Fuse-holder, LV, 63 A, AC 550 V, BS88/F2, 1P, BS, back stud connected, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-62f1655d8e9c6fd43012f657",
+      "recordPath": "equipment/eaton-article-62f1655d8e9c6fd43012f657.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-62f1655d8e9c6fd43012f657.json"
+    },
+    {
+      "id": "eaton-article-e23d3682e56b8f23458cd6e9",
+      "name": "SAFECLIP 20A BACK STUD CONNECTED BLACK — Fuse-holder, low voltage, 20 A, AC 550 V, BS88/E1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e23d3682e56b8f23458cd6e9",
+      "recordPath": "equipment/eaton-article-e23d3682e56b8f23458cd6e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e23d3682e56b8f23458cd6e9.json"
+    },
+    {
+      "id": "eaton-article-e552f91db08883a2609f1325",
+      "name": "SAFECLIP 20A BACK STUD CONNECTED GREEN — Fuse-holder, low voltage, 20 A, AC 550 V, BS88/E1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e552f91db08883a2609f1325",
+      "recordPath": "equipment/eaton-article-e552f91db08883a2609f1325.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e552f91db08883a2609f1325.json"
+    },
+    {
+      "id": "eaton-article-73dd7d03036768a0f0d8072d",
+      "name": "SAFECLIP 20A FRONT CONNECTED GREEN — Fuse-holder, low voltage, 20 A, AC 550 V, BS88/E1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-73dd7d03036768a0f0d8072d",
+      "recordPath": "equipment/eaton-article-73dd7d03036768a0f0d8072d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-73dd7d03036768a0f0d8072d.json"
+    },
+    {
+      "id": "eaton-article-1ed60f4022c9a943c073833e",
+      "name": "SAFECLIP 20A FRONT CONNECTED WHITE — Fuse-holder, LV, 20 A, AC 550 V, BS88/E1, 1P, BS, front connected, white",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1ed60f4022c9a943c073833e",
+      "recordPath": "equipment/eaton-article-1ed60f4022c9a943c073833e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1ed60f4022c9a943c073833e.json"
+    },
+    {
+      "id": "eaton-article-80a4c217185d15bdf02fb08d",
+      "name": "SAFECLIP 20A BACK STUD CONNECTED WHITE — Fuse-holder, low voltage, 20 A, AC 550 V, BS88/E1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-80a4c217185d15bdf02fb08d",
+      "recordPath": "equipment/eaton-article-80a4c217185d15bdf02fb08d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-80a4c217185d15bdf02fb08d.json"
+    },
+    {
+      "id": "eaton-article-9f249fa12f6ab8a2ce5b064e",
+      "name": "SAFECLIP FRONT CONNECTED BLACK — Fuse-holder, low voltage, 20 A, AC 550 V, BS88/E1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9f249fa12f6ab8a2ce5b064e",
+      "recordPath": "equipment/eaton-article-9f249fa12f6ab8a2ce5b064e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9f249fa12f6ab8a2ce5b064e.json"
+    },
+    {
+      "id": "eaton-article-43709f0e16486b61d571cc36",
+      "name": "100A, AC 550V, BS88, 1P, BS Fuse-holder — Fuse-holder, LV, 100 A, AC 550 V, BS88, 1P, BS, front connected, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-43709f0e16486b61d571cc36",
+      "recordPath": "equipment/eaton-article-43709f0e16486b61d571cc36.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-43709f0e16486b61d571cc36.json"
+    },
+    {
+      "id": "eaton-article-43526ca4a6cad012388352d1",
+      "name": "SAFECLIP 63A FRONT CONNECTED WHITE — Fuse-holder, LV, 63 A, AC 550 V, BS88/F2, 1P, BS, front connected, white",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-43526ca4a6cad012388352d1",
+      "recordPath": "equipment/eaton-article-43526ca4a6cad012388352d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-43526ca4a6cad012388352d1.json"
+    },
+    {
+      "id": "eaton-article-294852656f94c93236b91d02",
+      "name": "125A, AC 550V, BS88/F3, 1P Fuse-holder — Fuse-holder, LV, 125 A, AC 550 V, BS88/F3, 1P, BS, front connected, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-294852656f94c93236b91d02",
+      "recordPath": "equipment/eaton-article-294852656f94c93236b91d02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-294852656f94c93236b91d02.json"
+    },
+    {
+      "id": "eaton-article-52e4d31ef0fa77c9affb00a7",
+      "name": "32A, AC 550V, 1P, LV Fuse Holder white — Fuse-holder, low voltage, 32 A, AC 550 V, BS88/F1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-52e4d31ef0fa77c9affb00a7",
+      "recordPath": "equipment/eaton-article-52e4d31ef0fa77c9affb00a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-52e4d31ef0fa77c9affb00a7.json"
+    },
+    {
+      "id": "eaton-article-c2968c71ac433460ce97e6b9",
+      "name": "SAFECLIP 32A FRONT CONNECTED WHITE — Fuse-holder, LV, 32 A, AC 550 V, BS88/F1, 1P, BS, front connected, white",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c2968c71ac433460ce97e6b9",
+      "recordPath": "equipment/eaton-article-c2968c71ac433460ce97e6b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c2968c71ac433460ce97e6b9.json"
+    },
+    {
+      "id": "eaton-article-d477e54dfcf6f2a47a9677c9",
+      "name": "SAFECLIP 63A FRONT CONNECTED BLACK — Fuse-holder, LV, 63 A, AC 550 V, BS88/F2, 1P, BS, front connected, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d477e54dfcf6f2a47a9677c9",
+      "recordPath": "equipment/eaton-article-d477e54dfcf6f2a47a9677c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d477e54dfcf6f2a47a9677c9.json"
+    },
+    {
+      "id": "eaton-article-484067d459d0faed00b61f31",
+      "name": "SAFECLIP 32A FRONT CONNECTED BLACK — Fuse-holder, LV, 32 A, AC 550 V, BS88/F1, 1P, BS, front connected, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-484067d459d0faed00b61f31",
+      "recordPath": "equipment/eaton-article-484067d459d0faed00b61f31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-484067d459d0faed00b61f31.json"
+    },
+    {
+      "id": "eaton-article-79678337112f247331bf2cd9",
+      "name": "32A, AC 550V, 1P, LV Fuse Holder Black — Fuse-holder, LV, 32 A, AC 550 V, BS88/F1, 1P, BS, front connected, back stud connected, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-79678337112f247331bf2cd9",
+      "recordPath": "equipment/eaton-article-79678337112f247331bf2cd9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-79678337112f247331bf2cd9.json"
+    },
+    {
+      "id": "eaton-article-52589478cb703580a66f3094",
+      "name": "SAFECLIP 32A FRONT CONNECTED GREEN — Fuse-holder, low voltage, 32 A, AC 550 V, BS88/E1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-52589478cb703580a66f3094",
+      "recordPath": "equipment/eaton-article-52589478cb703580a66f3094.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-52589478cb703580a66f3094.json"
+    },
+    {
+      "id": "eaton-article-f4e81d90e43352cfe13132d1",
+      "name": "NH00 SINGLE POLE SILVER — Fuse base, low voltage, 160 A, AC 690 V, NH00, 1P, IEC, screw mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f4e81d90e43352cfe13132d1",
+      "recordPath": "equipment/eaton-article-f4e81d90e43352cfe13132d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f4e81d90e43352cfe13132d1.json"
+    }
+  ]
+}

@@ -1,0 +1,3007 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 62,
+  "entries": [
+    {
+      "id": "eaton-article-199244",
+      "name": "DILM12-01(230V50HZ,240V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199244",
+      "recordPath": "equipment/eaton-article-199244.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199244.json"
+    },
+    {
+      "id": "eaton-article-199243",
+      "name": "DILM12-10(24VDC)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 24 V DC, DC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199243",
+      "recordPath": "equipment/eaton-article-199243.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199243.json"
+    },
+    {
+      "id": "eaton-article-199301",
+      "name": "DILMP32-11(24V50/60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 32 A, 1 N/O, 1 NC, 24 V 50/60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199301",
+      "recordPath": "equipment/eaton-article-199301.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199301.json"
+    },
+    {
+      "id": "eaton-article-199269",
+      "name": "DILM11-11(230V50HZ,240V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5 kW, 1 N/O, 1 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199269",
+      "recordPath": "equipment/eaton-article-199269.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199269.json"
+    },
+    {
+      "id": "eaton-article-199272",
+      "name": "DILM11-11(42V50HZ,48V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5 kW, 1 N/O, 1 NC, 42 V 50 Hz, 48 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199272",
+      "recordPath": "equipment/eaton-article-199272.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199272.json"
+    },
+    {
+      "id": "eaton-article-199306",
+      "name": "DILMP45-11(24V50/60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 45 A, 1 N/O, 1 NC, 24 V 50/60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199306",
+      "recordPath": "equipment/eaton-article-199306.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199306.json"
+    },
+    {
+      "id": "eaton-article-199254",
+      "name": "DILM15-01(230V50HZ,240V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199254",
+      "recordPath": "equipment/eaton-article-199254.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199254.json"
+    },
+    {
+      "id": "eaton-article-199304",
+      "name": "DILMP45-11(230V50HZ,240V60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 45 A, 1 N/O, 1 NC, 230 V 50 Hz, 240 V 60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199304",
+      "recordPath": "equipment/eaton-article-199304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199304.json"
+    },
+    {
+      "id": "eaton-article-199234",
+      "name": "DILM9-01(230V50HZ,240V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 4 kW, 1 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199234",
+      "recordPath": "equipment/eaton-article-199234.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199234.json"
+    },
+    {
+      "id": "eaton-article-199242",
+      "name": "DILM12-10(42V50HZ,48V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 42 V 50 Hz, 48 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199242",
+      "recordPath": "equipment/eaton-article-199242.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199242.json"
+    },
+    {
+      "id": "eaton-article-199235",
+      "name": "DILM9-01(110V50HZ,120V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 4 kW, 1 NC, 110 V 50 Hz, 120 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199235",
+      "recordPath": "equipment/eaton-article-199235.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199235.json"
+    },
+    {
+      "id": "eaton-article-199245",
+      "name": "DILM12-01(110V50HZ,120V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 NC, 110 V 50 Hz, 120 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199245",
+      "recordPath": "equipment/eaton-article-199245.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199245.json"
+    },
+    {
+      "id": "eaton-article-199236",
+      "name": "DILM9-01(24V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 4 kW, 1 NC, 24 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199236",
+      "recordPath": "equipment/eaton-article-199236.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199236.json"
+    },
+    {
+      "id": "eaton-article-199265",
+      "name": "DILM8-11(110V50HZ,120V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 3.7 kW, 1 N/O, 1 NC, 110 V 50 Hz, 120 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199265",
+      "recordPath": "equipment/eaton-article-199265.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199265.json"
+    },
+    {
+      "id": "eaton-article-199241",
+      "name": "DILM12-10(24V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 24 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199241",
+      "recordPath": "equipment/eaton-article-199241.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199241.json"
+    },
+    {
+      "id": "eaton-article-199240",
+      "name": "DILM12-10(110V50HZ,120V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 110 V 50 Hz, 120 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199240",
+      "recordPath": "equipment/eaton-article-199240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199240.json"
+    },
+    {
+      "id": "eaton-article-199271",
+      "name": "DILM11-11(24V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5 kW, 1 N/O, 1 NC, 24 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199271",
+      "recordPath": "equipment/eaton-article-199271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199271.json"
+    },
+    {
+      "id": "eaton-article-199251",
+      "name": "DILM15-10(24V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 N/O, 24 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199251",
+      "recordPath": "equipment/eaton-article-199251.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199251.json"
+    },
+    {
+      "id": "eaton-article-199268",
+      "name": "DILM8-11(RDC24)-PI — Contactor, 3 pole, 380 V 400 V 3.7 kW, 1 N/O, 1 NC, RDC 24: 24 - 27 V DC, DC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199268",
+      "recordPath": "equipment/eaton-article-199268.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199268.json"
+    },
+    {
+      "id": "eaton-article-199239",
+      "name": "DILM12-10(230V50HZ,240V60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 230 V 50 Hz, 240 V 60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199239",
+      "recordPath": "equipment/eaton-article-199239.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199239.json"
+    },
+    {
+      "id": "eaton-article-199273",
+      "name": "DILM11-11(RDC24)-PI — Contactor, 3 pole, 380 V 400 V 5 kW, 1 N/O, 1 NC, RDC 24: 24 - 27 V DC, DC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199273",
+      "recordPath": "equipment/eaton-article-199273.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199273.json"
+    },
+    {
+      "id": "eaton-article-199636",
+      "name": "DILA-40(230V50/60HZ)-PI — Contactor relay, 230 V 50/60 Hz, 4 N/O, Push in terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199636",
+      "recordPath": "equipment/eaton-article-199636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199636.json"
+    },
+    {
+      "id": "eaton-article-199641",
+      "name": "DILA-22(220V50/60HZ)-PI — Contactor relay, 220 V 50/60 Hz, 2 N/O, 2 NC, Push in terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199641",
+      "recordPath": "equipment/eaton-article-199641.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199641.json"
+    },
+    {
+      "id": "eaton-article-199640",
+      "name": "DILA-22(230V50/60HZ)-PI — Contactor relay, 230 V 50/60 Hz, 2 N/O, 2 NC, Push in terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199640",
+      "recordPath": "equipment/eaton-article-199640.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199640.json"
+    },
+    {
+      "id": "eaton-article-199674",
+      "name": "DILMP32-11(230V50/60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 32 A, 1 N/O, 1 NC, 230 V 50/60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199674",
+      "recordPath": "equipment/eaton-article-199674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199674.json"
+    },
+    {
+      "id": "eaton-article-199676",
+      "name": "DILMP45-11(230V50/60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 45 A, 1 N/O, 1 NC, 230 V 50/60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199676",
+      "recordPath": "equipment/eaton-article-199676.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199676.json"
+    },
+    {
+      "id": "eaton-article-199656",
+      "name": "DILM15-01(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199656",
+      "recordPath": "equipment/eaton-article-199656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199656.json"
+    },
+    {
+      "id": "eaton-article-199660",
+      "name": "DILM8-11(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 3.7 kW, 1 N/O, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199660",
+      "recordPath": "equipment/eaton-article-199660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199660.json"
+    },
+    {
+      "id": "eaton-article-199652",
+      "name": "DILM12-01(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199652",
+      "recordPath": "equipment/eaton-article-199652.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199652.json"
+    },
+    {
+      "id": "eaton-article-199655",
+      "name": "DILM15-10(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 N/O, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199655",
+      "recordPath": "equipment/eaton-article-199655.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199655.json"
+    },
+    {
+      "id": "eaton-article-199675",
+      "name": "DILMP32-11(220V50/60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 32 A, 1 N/O, 1 NC, 220 V 50/60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199675",
+      "recordPath": "equipment/eaton-article-199675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199675.json"
+    },
+    {
+      "id": "eaton-article-199670",
+      "name": "DILM32-11(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 15 kW, 1 N/O, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199670",
+      "recordPath": "equipment/eaton-article-199670.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199670.json"
+    },
+    {
+      "id": "eaton-article-199647",
+      "name": "DILM9-10(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 4 kW, 1 N/O, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199647",
+      "recordPath": "equipment/eaton-article-199647.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199647.json"
+    },
+    {
+      "id": "eaton-article-199648",
+      "name": "DILM9-01(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 4 kW, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199648",
+      "recordPath": "equipment/eaton-article-199648.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199648.json"
+    },
+    {
+      "id": "eaton-article-199659",
+      "name": "DILMP20(220V50/60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 22 A, 220 V 50/60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199659",
+      "recordPath": "equipment/eaton-article-199659.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199659.json"
+    },
+    {
+      "id": "eaton-article-199651",
+      "name": "DILM12-10(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199651",
+      "recordPath": "equipment/eaton-article-199651.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199651.json"
+    },
+    {
+      "id": "eaton-article-199644",
+      "name": "DILM7-01(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 3 kW, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199644",
+      "recordPath": "equipment/eaton-article-199644.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199644.json"
+    },
+    {
+      "id": "eaton-article-199662",
+      "name": "DILM11-11(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5 kW, 1 N/O, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199662",
+      "recordPath": "equipment/eaton-article-199662.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199662.json"
+    },
+    {
+      "id": "eaton-article-199669",
+      "name": "DILM25-11(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 11 kW, 1 N/O, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199669",
+      "recordPath": "equipment/eaton-article-199669.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199669.json"
+    },
+    {
+      "id": "eaton-article-199643",
+      "name": "DILM7-10(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 3 kW, 1 N/O, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199643",
+      "recordPath": "equipment/eaton-article-199643.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199643.json"
+    },
+    {
+      "id": "eaton-article-199653",
+      "name": "DILM12-01(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199653",
+      "recordPath": "equipment/eaton-article-199653.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199653.json"
+    },
+    {
+      "id": "eaton-article-199637",
+      "name": "DILA-40(220V50/60HZ)-PI — Contactor relay, 220 V 50/60 Hz, 4 N/O, Push in terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199637",
+      "recordPath": "equipment/eaton-article-199637.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199637.json"
+    },
+    {
+      "id": "eaton-article-199650",
+      "name": "DILM12-10(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5.5 kW, 1 N/O, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199650",
+      "recordPath": "equipment/eaton-article-199650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199650.json"
+    },
+    {
+      "id": "eaton-article-199657",
+      "name": "DILM15-01(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199657",
+      "recordPath": "equipment/eaton-article-199657.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199657.json"
+    },
+    {
+      "id": "eaton-article-199667",
+      "name": "DILM17-11(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 8.3 kW, 1 N/O, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199667",
+      "recordPath": "equipment/eaton-article-199667.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199667.json"
+    },
+    {
+      "id": "eaton-article-199663",
+      "name": "DILM11-11(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 5 kW, 1 N/O, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199663",
+      "recordPath": "equipment/eaton-article-199663.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199663.json"
+    },
+    {
+      "id": "eaton-article-199638",
+      "name": "DILA-31(230V50/60HZ)-PI — Contactor relay, 230 V 50/60 Hz, 3 N/O, 1 NC, Push in terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199638",
+      "recordPath": "equipment/eaton-article-199638.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199638.json"
+    },
+    {
+      "id": "eaton-article-199639",
+      "name": "DILA-31(220V50/60HZ)-PI — Contactor relay, 220 V 50/60 Hz, 3 N/O, 1 NC, Push in terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199639",
+      "recordPath": "equipment/eaton-article-199639.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199639.json"
+    },
+    {
+      "id": "eaton-article-199665",
+      "name": "DILM14-11(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 6.8 kW, 1 N/O, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199665",
+      "recordPath": "equipment/eaton-article-199665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199665.json"
+    },
+    {
+      "id": "eaton-article-199661",
+      "name": "DILM8-11(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 3.7 kW, 1 N/O, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199661",
+      "recordPath": "equipment/eaton-article-199661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199661.json"
+    },
+    {
+      "id": "eaton-article-199645",
+      "name": "DILM7-01(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 3 kW, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199645",
+      "recordPath": "equipment/eaton-article-199645.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199645.json"
+    },
+    {
+      "id": "eaton-article-199654",
+      "name": "DILM15-10(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 7.5 kW, 1 N/O, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199654",
+      "recordPath": "equipment/eaton-article-199654.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199654.json"
+    },
+    {
+      "id": "eaton-article-199671",
+      "name": "DILM32-11(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 15 kW, 1 N/O, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199671",
+      "recordPath": "equipment/eaton-article-199671.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199671.json"
+    },
+    {
+      "id": "eaton-article-199673",
+      "name": "DILM38-11(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199673",
+      "recordPath": "equipment/eaton-article-199673.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199673.json"
+    },
+    {
+      "id": "eaton-article-199664",
+      "name": "DILM14-11(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 6.8 kW, 1 N/O, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199664",
+      "recordPath": "equipment/eaton-article-199664.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199664.json"
+    },
+    {
+      "id": "eaton-article-199642",
+      "name": "DILM7-10(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 3 kW, 1 N/O, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199642",
+      "recordPath": "equipment/eaton-article-199642.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199642.json"
+    },
+    {
+      "id": "eaton-article-199672",
+      "name": "DILM38-11(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 18.5 kW, 1 N/O, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199672",
+      "recordPath": "equipment/eaton-article-199672.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199672.json"
+    },
+    {
+      "id": "eaton-article-199677",
+      "name": "DILMP45-11(220V50/60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 45 A, 1 N/O, 1 NC, 220 V 50/60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199677",
+      "recordPath": "equipment/eaton-article-199677.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199677.json"
+    },
+    {
+      "id": "eaton-article-199666",
+      "name": "DILM17-11(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 8.3 kW, 1 N/O, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199666",
+      "recordPath": "equipment/eaton-article-199666.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199666.json"
+    },
+    {
+      "id": "eaton-article-199668",
+      "name": "DILM25-11(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 11 kW, 1 N/O, 1 NC, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199668",
+      "recordPath": "equipment/eaton-article-199668.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199668.json"
+    },
+    {
+      "id": "eaton-article-199658",
+      "name": "DILMP20(230V50/60HZ)-PI — Contactor, 4 pole, AC operation, AC-1: 22 A, 230 V 50/60 Hz, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199658",
+      "recordPath": "equipment/eaton-article-199658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199658.json"
+    },
+    {
+      "id": "eaton-article-199646",
+      "name": "DILM9-10(230V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 4 kW, 1 N/O, 230 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199646",
+      "recordPath": "equipment/eaton-article-199646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199646.json"
+    },
+    {
+      "id": "eaton-article-199649",
+      "name": "DILM9-01(220V50/60HZ)-PI — Contactor, 3 pole, 380 V 400 V 4 kW, 1 NC, 220 V 50/60 Hz, AC operation, Push in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199649",
+      "recordPath": "equipment/eaton-article-199649.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199649.json"
+    },
+    {
+      "id": "eaton-article-199987",
+      "name": "DILMP45-01(RDC12) — Contactor, 4 pole, DC operation: 45 A, 1 NC, 12 V DC, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199987",
+      "recordPath": "equipment/eaton-article-199987.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199987.json"
+    },
+    {
+      "id": "eaton-article-216571",
+      "name": "M22-CLED-G — LED element, green, front mount, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216571",
+      "recordPath": "equipment/eaton-article-216571.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216571.json"
+    },
+    {
+      "id": "eaton-article-210256",
+      "name": "DILEM-10(208V60HZ) — Contactor, 208 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-210256",
+      "recordPath": "equipment/eaton-article-210256.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-210256.json"
+    },
+    {
+      "id": "eaton-article-216577",
+      "name": "M22-CLED230-G — LED element, green, front mount, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216577",
+      "recordPath": "equipment/eaton-article-216577.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216577.json"
+    },
+    {
+      "id": "eaton-article-216572",
+      "name": "M22-CLEDC-W — LED element, white, base fixing, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216572",
+      "recordPath": "equipment/eaton-article-216572.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216572.json"
+    },
+    {
+      "id": "eaton-article-216575",
+      "name": "M22-CLED230-W — LED element, white, front mount, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216575",
+      "recordPath": "equipment/eaton-article-216575.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216575.json"
+    },
+    {
+      "id": "eaton-article-216570",
+      "name": "M22-CLED-R — LED element, red, front mount, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216570",
+      "recordPath": "equipment/eaton-article-216570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216570.json"
+    },
+    {
+      "id": "eaton-article-216579",
+      "name": "M22-CLEDC230-R — LED element, red, base fixing, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216579",
+      "recordPath": "equipment/eaton-article-216579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216579.json"
+    },
+    {
+      "id": "eaton-article-216569",
+      "name": "M22-CLED-W — LED element, white, front mount, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216569",
+      "recordPath": "equipment/eaton-article-216569.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216569.json"
+    },
+    {
+      "id": "eaton-article-216574",
+      "name": "M22-CLEDC-G — LED element, green, base fixing, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216574",
+      "recordPath": "equipment/eaton-article-216574.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216574.json"
+    },
+    {
+      "id": "eaton-article-216578",
+      "name": "M22-CLEDC230-W — LED element, white, base fixing, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216578",
+      "recordPath": "equipment/eaton-article-216578.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216578.json"
+    },
+    {
+      "id": "eaton-article-216573",
+      "name": "M22-CLEDC-R — LED element, red, base fixing, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216573",
+      "recordPath": "equipment/eaton-article-216573.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216573.json"
+    },
+    {
+      "id": "eaton-article-216576",
+      "name": "M22-CLED230-R — LED element, red, front mount, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216576",
+      "recordPath": "equipment/eaton-article-216576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216576.json"
+    },
+    {
+      "id": "eaton-article-216580",
+      "name": "M22-CLEDC230-G — LED element, green, base fixing, cage clamp",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-216580",
+      "recordPath": "equipment/eaton-article-216580.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-216580.json"
+    },
+    {
+      "id": "eaton-article-218061",
+      "name": "M22-CLED-B — Light element, LED, blue, front mount, 12-30VAC/DC, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218061",
+      "recordPath": "equipment/eaton-article-218061.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218061.json"
+    },
+    {
+      "id": "eaton-article-218062",
+      "name": "M22-CLEDC-B — Light element, LED, blue, base fixing, 12-30VAC/DC, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218062",
+      "recordPath": "equipment/eaton-article-218062.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218062.json"
+    },
+    {
+      "id": "eaton-article-227914",
+      "name": "DILEM-01(208V60HZ) — Contactor, 208 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Screw terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-227914",
+      "recordPath": "equipment/eaton-article-227914.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-227914.json"
+    },
+    {
+      "id": "eaton-article-218180",
+      "name": "M22-XD-S-X14 — Button plate, flat black, clamp symbol",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218180",
+      "recordPath": "equipment/eaton-article-218180.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218180.json"
+    },
+    {
+      "id": "eaton-article-218063",
+      "name": "M22-CLED230-B — Light element, LED, blue, front mount, 85-264VAC, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218063",
+      "recordPath": "equipment/eaton-article-218063.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218063.json"
+    },
+    {
+      "id": "eaton-article-218355",
+      "name": "M22-XDLH-W-X14 — Button lens, raised white, clamp symbol",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218355",
+      "recordPath": "equipment/eaton-article-218355.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218355.json"
+    },
+    {
+      "id": "eaton-article-218312",
+      "name": "M22-XDL-W-X14 — Button lens, flat white, clamp symbol",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218312",
+      "recordPath": "equipment/eaton-article-218312.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218312.json"
+    },
+    {
+      "id": "eaton-article-230042",
+      "name": "DILEEM-10-C(230V50HZ,240V60HZ) — Contactor, 230 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 3 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230042",
+      "recordPath": "equipment/eaton-article-230042.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230042.json"
+    },
+    {
+      "id": "eaton-article-230052",
+      "name": "DILEEM-10-G-C(24VDC) — Contactor, 24 V DC, 3 pole, 380 V 400 V, 3 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230052",
+      "recordPath": "equipment/eaton-article-230052.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230052.json"
+    },
+    {
+      "id": "eaton-article-230049",
+      "name": "DILEEM-10-C(230V50/60HZ) — Contactor, 230 V 50/60 Hz, 3 pole, 380 V 400 V, 3 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230049",
+      "recordPath": "equipment/eaton-article-230049.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230049.json"
+    },
+    {
+      "id": "eaton-article-218064",
+      "name": "M22-CLEDC230-B — Light element, LED, blue, base fixing, 85-264VAC, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218064",
+      "recordPath": "equipment/eaton-article-218064.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218064.json"
+    },
+    {
+      "id": "eaton-article-230135",
+      "name": "DILEEM-01-C(230V50HZ,240V60HZ) — Contactor, 230 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 3 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230135",
+      "recordPath": "equipment/eaton-article-230135.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230135.json"
+    },
+    {
+      "id": "eaton-article-218399",
+      "name": "M22-XL-W-X14 — Lens, indicator light white, flush, clamp symbol",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218399",
+      "recordPath": "equipment/eaton-article-218399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218399.json"
+    },
+    {
+      "id": "eaton-article-218268",
+      "name": "M22-XDP-S-X14 — Button plate, mushroom black, clamp symbol",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218268",
+      "recordPath": "equipment/eaton-article-218268.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218268.json"
+    },
+    {
+      "id": "eaton-article-218225",
+      "name": "M22-XDH-S-X14 — Button plate, raised black, clamp symbol",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-218225",
+      "recordPath": "equipment/eaton-article-218225.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-218225.json"
+    },
+    {
+      "id": "eaton-article-231793",
+      "name": "DILER-22-C(110V50HZ,120V60HZ) — Contactor relay, 110 V 50 Hz, 120 V 60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231793",
+      "recordPath": "equipment/eaton-article-231793.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231793.json"
+    },
+    {
+      "id": "eaton-article-231841",
+      "name": "DILER-40-C(110V50HZ,120V60HZ) — Contactor relay, 110 V 50 Hz, 120 V 60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231841",
+      "recordPath": "equipment/eaton-article-231841.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231841.json"
+    },
+    {
+      "id": "eaton-article-230239",
+      "name": "DILER-40-C(230V50HZ,240V60HZ) — Contactor relay, 230 V 50 Hz, 240 V 60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230239",
+      "recordPath": "equipment/eaton-article-230239.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230239.json"
+    },
+    {
+      "id": "eaton-article-230167",
+      "name": "DILEM-01-G-C(24VDC) — Contactor, 24 V DC, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230167",
+      "recordPath": "equipment/eaton-article-230167.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230167.json"
+    },
+    {
+      "id": "eaton-article-230165",
+      "name": "DILEM-10-G-C(24VDC) — Contactor, 24 V DC, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230165",
+      "recordPath": "equipment/eaton-article-230165.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230165.json"
+    },
+    {
+      "id": "eaton-article-231658",
+      "name": "DILEM-10-C(110V50HZ,120V60HZ) — Contactor, 110 V 50 Hz, 120 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231658",
+      "recordPath": "equipment/eaton-article-231658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231658.json"
+    },
+    {
+      "id": "eaton-article-231661",
+      "name": "DILEM-10-C(380V50HZ,440V60HZ) — Contactor, 380 V 50 Hz, 440 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231661",
+      "recordPath": "equipment/eaton-article-231661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231661.json"
+    },
+    {
+      "id": "eaton-article-231651",
+      "name": "DILEM-10-C(24V50HZ) — Contactor, 24 V 50 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231651",
+      "recordPath": "equipment/eaton-article-231651.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231651.json"
+    },
+    {
+      "id": "eaton-article-231674",
+      "name": "DILEM-01-C(24V50HZ) — Contactor, 24 V 50 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231674",
+      "recordPath": "equipment/eaton-article-231674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231674.json"
+    },
+    {
+      "id": "eaton-article-230166",
+      "name": "DILEM-01-C(230V50HZ,240V60HZ) — Contactor, 230 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230166",
+      "recordPath": "equipment/eaton-article-230166.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230166.json"
+    },
+    {
+      "id": "eaton-article-231687",
+      "name": "DILEM-01-C(24V50/60HZ) — Contactor, 24 V 50/60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231687",
+      "recordPath": "equipment/eaton-article-231687.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231687.json"
+    },
+    {
+      "id": "eaton-article-231672",
+      "name": "DILEM-10-G-C(220VDC) — Contactor, 220 V DC, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231672",
+      "recordPath": "equipment/eaton-article-231672.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231672.json"
+    },
+    {
+      "id": "eaton-article-231695",
+      "name": "DILEM-01-G-C(220VDC) — Contactor, 220 V DC, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231695",
+      "recordPath": "equipment/eaton-article-231695.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231695.json"
+    },
+    {
+      "id": "eaton-article-231663",
+      "name": "DILEM-10-C(415V50HZ,480V60HZ) — Contactor, 415 V 50 Hz, 480 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231663",
+      "recordPath": "equipment/eaton-article-231663.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231663.json"
+    },
+    {
+      "id": "eaton-article-231667",
+      "name": "DILEM-10-C(230V50/60HZ) — Contactor, 230 V 50/60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231667",
+      "recordPath": "equipment/eaton-article-231667.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231667.json"
+    },
+    {
+      "id": "eaton-article-231676",
+      "name": "DILEM-01-C(240V50HZ) — Contactor, 240 V 50 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231676",
+      "recordPath": "equipment/eaton-article-231676.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231676.json"
+    },
+    {
+      "id": "eaton-article-231796",
+      "name": "DILER-22-C(380V50HZ,440V60HZ) — Contactor relay, 380 V 50 Hz, 440 V 60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231796",
+      "recordPath": "equipment/eaton-article-231796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231796.json"
+    },
+    {
+      "id": "eaton-article-230179",
+      "name": "DILER-31-G-C(24VDC) — Contactor relay, 24 V DC, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230179",
+      "recordPath": "equipment/eaton-article-230179.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230179.json"
+    },
+    {
+      "id": "eaton-article-230178",
+      "name": "DILER-31-C(230V50HZ,240V60HZ) — Contactor relay, 230 V 50 Hz, 240 V 60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230178",
+      "recordPath": "equipment/eaton-article-230178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230178.json"
+    },
+    {
+      "id": "eaton-article-231792",
+      "name": "DILER-22-C(42V50HZ,48V60HZ) — Contactor relay, 42 V 50 Hz, 48 V 60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231792",
+      "recordPath": "equipment/eaton-article-231792.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231792.json"
+    },
+    {
+      "id": "eaton-article-231806",
+      "name": "DILER-22-G-C(110VDC) — Contactor relay, 110 V DC, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231806",
+      "recordPath": "equipment/eaton-article-231806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231806.json"
+    },
+    {
+      "id": "eaton-article-231786",
+      "name": "DILER-22-C(24V50HZ) — Contactor relay, 24 V 50 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231786",
+      "recordPath": "equipment/eaton-article-231786.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231786.json"
+    },
+    {
+      "id": "eaton-article-231848",
+      "name": "DILER-40-C(42V50/60HZ) — Contactor relay, 42 V 50/60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231848",
+      "recordPath": "equipment/eaton-article-231848.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231848.json"
+    },
+    {
+      "id": "eaton-article-231824",
+      "name": "DILER-31-C(24V50/60HZ) — Contactor relay, 24 V 50/60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231824",
+      "recordPath": "equipment/eaton-article-231824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231824.json"
+    },
+    {
+      "id": "eaton-article-231834",
+      "name": "DILER-40-C(24V50HZ) — Contactor relay, 24 V 50 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231834",
+      "recordPath": "equipment/eaton-article-231834.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231834.json"
+    },
+    {
+      "id": "eaton-article-231823",
+      "name": "DILER-31-C(415V50HZ,480V60HZ) — Contactor relay, 415 V 50 Hz, 480 V 60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231823",
+      "recordPath": "equipment/eaton-article-231823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231823.json"
+    },
+    {
+      "id": "eaton-article-231843",
+      "name": "DILER-40-C(220V50HZ,240V60HZ) — Contactor relay, 220 V 50 Hz, 240 V 60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231843",
+      "recordPath": "equipment/eaton-article-231843.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231843.json"
+    },
+    {
+      "id": "eaton-article-231825",
+      "name": "DILER-31-C(42V50/60HZ) — Contactor relay, 42 V 50/60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231825",
+      "recordPath": "equipment/eaton-article-231825.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231825.json"
+    },
+    {
+      "id": "eaton-article-231854",
+      "name": "DILER-40-G-C(110VDC) — Contactor relay, 110 V DC, N/O = Normally open: 4 N/O, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231854",
+      "recordPath": "equipment/eaton-article-231854.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231854.json"
+    },
+    {
+      "id": "eaton-article-231818",
+      "name": "DILER-31-C(110V50HZ,120V60HZ) — Contactor relay, 110 V 50 Hz, 120 V 60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231818",
+      "recordPath": "equipment/eaton-article-231818.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231818.json"
+    },
+    {
+      "id": "eaton-article-231813",
+      "name": "DILER-31-C(240V50HZ) — Contactor relay, 240 V 50 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231813",
+      "recordPath": "equipment/eaton-article-231813.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231813.json"
+    },
+    {
+      "id": "eaton-article-231835",
+      "name": "DILER-40-C(48V50HZ) — Contactor relay, 48 V 50 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231835",
+      "recordPath": "equipment/eaton-article-231835.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231835.json"
+    },
+    {
+      "id": "eaton-article-231840",
+      "name": "DILER-40-C(42V50HZ,48V60HZ) — Contactor relay, 42 V 50 Hz, 48 V 60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231840",
+      "recordPath": "equipment/eaton-article-231840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231840.json"
+    },
+    {
+      "id": "eaton-article-230265",
+      "name": "VGDILE48-C — Varistor suppressor, 48VAC, for DILE, spring clamp connection",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230265",
+      "recordPath": "equipment/eaton-article-230265.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230265.json"
+    },
+    {
+      "id": "eaton-article-231664",
+      "name": "DILEM-10-C(24V50/60HZ) — Contactor, 24 V 50/60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231664",
+      "recordPath": "equipment/eaton-article-231664.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231664.json"
+    },
+    {
+      "id": "eaton-article-235910",
+      "name": "DILM80(240V50HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 240 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-235910",
+      "recordPath": "equipment/eaton-article-235910.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-235910.json"
+    },
+    {
+      "id": "eaton-article-231686",
+      "name": "DILEM-01-C(415V50HZ,480V60HZ) — Contactor, 415 V 50 Hz, 480 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231686",
+      "recordPath": "equipment/eaton-article-231686.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231686.json"
+    },
+    {
+      "id": "eaton-article-231683",
+      "name": "DILEM-01-C(220V50HZ,240V60HZ) — Contactor, 220 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231683",
+      "recordPath": "equipment/eaton-article-231683.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231683.json"
+    },
+    {
+      "id": "eaton-article-231831",
+      "name": "DILER-31-G-C(110VDC) — Contactor relay, 110 V DC, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231831",
+      "recordPath": "equipment/eaton-article-231831.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231831.json"
+    },
+    {
+      "id": "eaton-article-230241",
+      "name": "DILER-40-G-C(24VDC) — Contactor relay, 24 V DC, N/O = Normally open: 4 N/O, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230241",
+      "recordPath": "equipment/eaton-article-230241.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230241.json"
+    },
+    {
+      "id": "eaton-article-230177",
+      "name": "DILER-22-G-C(24VDC) — Contactor relay, 24 V DC, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230177",
+      "recordPath": "equipment/eaton-article-230177.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230177.json"
+    },
+    {
+      "id": "eaton-article-231844",
+      "name": "DILER-40-C(380V50HZ,440V60HZ) — Contactor relay, 380 V 50 Hz, 440 V 60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231844",
+      "recordPath": "equipment/eaton-article-231844.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231844.json"
+    },
+    {
+      "id": "eaton-article-231788",
+      "name": "DILER-22-C(240V50HZ) — Contactor relay, 240 V 50 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231788",
+      "recordPath": "equipment/eaton-article-231788.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231788.json"
+    },
+    {
+      "id": "eaton-article-231811",
+      "name": "DILER-31-C(24V50HZ) — Contactor relay, 24 V 50 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231811",
+      "recordPath": "equipment/eaton-article-231811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231811.json"
+    },
+    {
+      "id": "eaton-article-235904",
+      "name": "DILM80(24V50HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 24 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-235904",
+      "recordPath": "equipment/eaton-article-235904.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-235904.json"
+    },
+    {
+      "id": "eaton-article-231675",
+      "name": "DILEM-01-C(48V50HZ) — Contactor, 48 V 50 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231675",
+      "recordPath": "equipment/eaton-article-231675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231675.json"
+    },
+    {
+      "id": "eaton-article-231684",
+      "name": "DILEM-01-C(380V50HZ,440V60HZ) — Contactor, 380 V 50 Hz, 440 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231684",
+      "recordPath": "equipment/eaton-article-231684.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231684.json"
+    },
+    {
+      "id": "eaton-article-230176",
+      "name": "DILER-22-C(230V50HZ,240V60HZ) — Contactor relay, 230 V 50 Hz, 240 V 60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230176",
+      "recordPath": "equipment/eaton-article-230176.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230176.json"
+    },
+    {
+      "id": "eaton-article-231812",
+      "name": "DILER-31-C(48V50HZ) — Contactor relay, 48 V 50 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231812",
+      "recordPath": "equipment/eaton-article-231812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231812.json"
+    },
+    {
+      "id": "eaton-article-231847",
+      "name": "DILER-40-C(24V50/60HZ) — Contactor relay, 24 V 50/60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231847",
+      "recordPath": "equipment/eaton-article-231847.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231847.json"
+    },
+    {
+      "id": "eaton-article-231820",
+      "name": "DILER-31-C(220V50HZ,240V60HZ) — Contactor relay, 220 V 50 Hz, 240 V 60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231820",
+      "recordPath": "equipment/eaton-article-231820.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231820.json"
+    },
+    {
+      "id": "eaton-article-231821",
+      "name": "DILER-31-C(380V50HZ,440V60HZ) — Contactor relay, 380 V 50 Hz, 440 V 60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231821",
+      "recordPath": "equipment/eaton-article-231821.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231821.json"
+    },
+    {
+      "id": "eaton-article-231800",
+      "name": "DILER-22-C(42V50/60HZ) — Contactor relay, 42 V 50/60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231800",
+      "recordPath": "equipment/eaton-article-231800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231800.json"
+    },
+    {
+      "id": "eaton-article-231846",
+      "name": "DILER-40-C(415V50HZ,480V60HZ) — Contactor relay, 415 V 50 Hz, 480 V 60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231846",
+      "recordPath": "equipment/eaton-article-231846.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231846.json"
+    },
+    {
+      "id": "eaton-article-231827",
+      "name": "DILER-31-C(230V50/60HZ) — Contactor relay, 230 V 50/60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231827",
+      "recordPath": "equipment/eaton-article-231827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231827.json"
+    },
+    {
+      "id": "eaton-article-230164",
+      "name": "DILEM-10-C(230V50HZ,240V60HZ) — Contactor, 230 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230164",
+      "recordPath": "equipment/eaton-article-230164.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230164.json"
+    },
+    {
+      "id": "eaton-article-231652",
+      "name": "DILEM-10-C(48V50HZ) — Contactor, 48 V 50 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231652",
+      "recordPath": "equipment/eaton-article-231652.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231652.json"
+    },
+    {
+      "id": "eaton-article-230155",
+      "name": "DILEEM-01-G-C(24VDC) — Contactor, 24 V DC, 3 pole, 380 V 400 V, 3 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-230155",
+      "recordPath": "equipment/eaton-article-230155.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-230155.json"
+    },
+    {
+      "id": "eaton-article-235909",
+      "name": "DILM80(48V50HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 48 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-235909",
+      "recordPath": "equipment/eaton-article-235909.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-235909.json"
+    },
+    {
+      "id": "eaton-article-231694",
+      "name": "DILEM-01-G-C(110VDC) — Contactor, 110 V DC, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231694",
+      "recordPath": "equipment/eaton-article-231694.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231694.json"
+    },
+    {
+      "id": "eaton-article-231688",
+      "name": "DILEM-01-C(42V50/60HZ) — Contactor, 42 V 50/60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231688",
+      "recordPath": "equipment/eaton-article-231688.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231688.json"
+    },
+    {
+      "id": "eaton-article-231653",
+      "name": "DILEM-10-C(240V50HZ) — Contactor, 240 V 50 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231653",
+      "recordPath": "equipment/eaton-article-231653.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231653.json"
+    },
+    {
+      "id": "eaton-article-231680",
+      "name": "DILEM-01-C(42V50HZ,48V60HZ) — Contactor, 42 V 50 Hz, 48 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231680",
+      "recordPath": "equipment/eaton-article-231680.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231680.json"
+    },
+    {
+      "id": "eaton-article-231656",
+      "name": "DILEM-10-C(115V60HZ) — Contactor, 115V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231656",
+      "recordPath": "equipment/eaton-article-231656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231656.json"
+    },
+    {
+      "id": "eaton-article-231681",
+      "name": "DILEM-01-C(110V50HZ,120V60HZ) — Contactor, 110 V 50 Hz, 120 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231681",
+      "recordPath": "equipment/eaton-article-231681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231681.json"
+    },
+    {
+      "id": "eaton-article-231660",
+      "name": "DILEM-10-C(220V50HZ,240V60HZ) — Contactor, 220 V 50 Hz, 240 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231660",
+      "recordPath": "equipment/eaton-article-231660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231660.json"
+    },
+    {
+      "id": "eaton-article-231690",
+      "name": "DILEM-01-C(230V50/60HZ) — Contactor, 230 V 50/60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/C = Normally closed= 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231690",
+      "recordPath": "equipment/eaton-article-231690.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231690.json"
+    },
+    {
+      "id": "eaton-article-231657",
+      "name": "DILEM-10-C(42V50HZ,48V60HZ) — Contactor, 42 V 50 Hz, 48 V 60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231657",
+      "recordPath": "equipment/eaton-article-231657.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231657.json"
+    },
+    {
+      "id": "eaton-article-231665",
+      "name": "DILEM-10-C(42V50/60HZ) — Contactor, 42 V 50/60 Hz, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231665",
+      "recordPath": "equipment/eaton-article-231665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231665.json"
+    },
+    {
+      "id": "eaton-article-231671",
+      "name": "DILEM-10-G-C(110VDC) — Contactor, 110 V DC, 3 pole, 380 V 400 V, 4 kW, Contacts N/O = Normally open= 1 N/O, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231671",
+      "recordPath": "equipment/eaton-article-231671.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231671.json"
+    },
+    {
+      "id": "eaton-article-231802",
+      "name": "DILER-22-C(230V50/60HZ) — Contactor relay, 230 V 50/60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231802",
+      "recordPath": "equipment/eaton-article-231802.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231802.json"
+    },
+    {
+      "id": "eaton-article-231787",
+      "name": "DILER-22-C(48V50HZ) — Contactor relay, 48 V 50 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231787",
+      "recordPath": "equipment/eaton-article-231787.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231787.json"
+    },
+    {
+      "id": "eaton-article-231795",
+      "name": "DILER-22-C(220V50HZ,240V60HZ) — Contactor relay, 220 V 50 Hz, 240 V 60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231795",
+      "recordPath": "equipment/eaton-article-231795.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231795.json"
+    },
+    {
+      "id": "eaton-article-231832",
+      "name": "DILER-31-G-C(220VDC) — Contactor relay, 220 V DC, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231832",
+      "recordPath": "equipment/eaton-article-231832.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231832.json"
+    },
+    {
+      "id": "eaton-article-231836",
+      "name": "DILER-40-C(240V50HZ) — Contactor relay, 240 V 50 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231836",
+      "recordPath": "equipment/eaton-article-231836.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231836.json"
+    },
+    {
+      "id": "eaton-article-231799",
+      "name": "DILER-22-C(24V50/60HZ) — Contactor relay, 24 V 50/60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231799",
+      "recordPath": "equipment/eaton-article-231799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231799.json"
+    },
+    {
+      "id": "eaton-article-231850",
+      "name": "DILER-40-C(230V50/60HZ) — Contactor relay, 230 V 50/60 Hz, N/O = Normally open: 4 N/O, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231850",
+      "recordPath": "equipment/eaton-article-231850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231850.json"
+    },
+    {
+      "id": "eaton-article-231817",
+      "name": "DILER-31-C(42V50HZ,48V60HZ) — Contactor relay, 42 V 50 Hz, 48 V 60 Hz, N/O = Normally open: 3 N/O, N/C = Normally closed: 1 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231817",
+      "recordPath": "equipment/eaton-article-231817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231817.json"
+    },
+    {
+      "id": "eaton-article-231798",
+      "name": "DILER-22-C(415V50HZ,480V60HZ) — Contactor relay, 415 V 50 Hz, 480 V 60 Hz, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, AC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231798",
+      "recordPath": "equipment/eaton-article-231798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231798.json"
+    },
+    {
+      "id": "eaton-article-231855",
+      "name": "DILER-40-G-C(220VDC) — Contactor relay, 220 V DC, N/O = Normally open: 4 N/O, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231855",
+      "recordPath": "equipment/eaton-article-231855.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231855.json"
+    },
+    {
+      "id": "eaton-article-231807",
+      "name": "DILER-22-G-C(220VDC) — Contactor relay, 220 V DC, N/O = Normally open: 2 N/O, N/C = Normally closed: 2 NC, Spring-loaded terminals, DC operation",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-231807",
+      "recordPath": "equipment/eaton-article-231807.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-231807.json"
+    },
+    {
+      "id": "eaton-article-239402",
+      "name": "DILM80(230V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239402",
+      "recordPath": "equipment/eaton-article-239402.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239402.json"
+    },
+    {
+      "id": "eaton-article-239449",
+      "name": "DILM80-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 37 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239449",
+      "recordPath": "equipment/eaton-article-239449.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239449.json"
+    },
+    {
+      "id": "eaton-article-239457",
+      "name": "DILM80-22(230V50/60HZ) — Contactor, 380 V 400 V 37 kW, 2 N/O, 2 NC, 230 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239457",
+      "recordPath": "equipment/eaton-article-239457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239457.json"
+    },
+    {
+      "id": "eaton-article-239480",
+      "name": "DILM95(230V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239480",
+      "recordPath": "equipment/eaton-article-239480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239480.json"
+    },
+    {
+      "id": "eaton-article-239400",
+      "name": "DILM80(190V50HZ,220V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 190 V 50 Hz, 220 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239400",
+      "recordPath": "equipment/eaton-article-239400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239400.json"
+    },
+    {
+      "id": "eaton-article-239405",
+      "name": "DILM80(415V50HZ,480V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 415 V 50 Hz, 480 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239405",
+      "recordPath": "equipment/eaton-article-239405.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239405.json"
+    },
+    {
+      "id": "eaton-article-239478",
+      "name": "DILM95(190V50HZ,220V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 190 V 50 Hz, 220 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239478",
+      "recordPath": "equipment/eaton-article-239478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239478.json"
+    },
+    {
+      "id": "eaton-article-239481",
+      "name": "DILM95(380V50HZ,440V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 380 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239481",
+      "recordPath": "equipment/eaton-article-239481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239481.json"
+    },
+    {
+      "id": "eaton-article-239399",
+      "name": "DILM80(110V50HZ,120V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 110 V 50 Hz, 120 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239399",
+      "recordPath": "equipment/eaton-article-239399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239399.json"
+    },
+    {
+      "id": "eaton-article-239401",
+      "name": "DILM80(220V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 220 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239401",
+      "recordPath": "equipment/eaton-article-239401.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239401.json"
+    },
+    {
+      "id": "eaton-article-239477",
+      "name": "DILM95(110V50HZ,120V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 110 V 50 Hz, 120 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239477",
+      "recordPath": "equipment/eaton-article-239477.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239477.json"
+    },
+    {
+      "id": "eaton-article-239479",
+      "name": "DILM95(220V50HZ,240V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 220 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239479",
+      "recordPath": "equipment/eaton-article-239479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239479.json"
+    },
+    {
+      "id": "eaton-article-239404",
+      "name": "DILM80(400V50HZ,440V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 400 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239404",
+      "recordPath": "equipment/eaton-article-239404.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239404.json"
+    },
+    {
+      "id": "eaton-article-239476",
+      "name": "DILM95(42V50HZ,48V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 42 V 50 Hz, 48 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239476",
+      "recordPath": "equipment/eaton-article-239476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239476.json"
+    },
+    {
+      "id": "eaton-article-239545",
+      "name": "DILM115(RAC24) — Contactor, 3 pole, 380 V 400 V 55 kW, RAC 24: 24 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239545",
+      "recordPath": "equipment/eaton-article-239545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239545.json"
+    },
+    {
+      "id": "eaton-article-239394",
+      "name": "DILM80(42V50HZ,48V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 42 V 50 Hz, 48 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239394",
+      "recordPath": "equipment/eaton-article-239394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239394.json"
+    },
+    {
+      "id": "eaton-article-239548",
+      "name": "DILM115(RAC240) — Contactor, 3 pole, 380 V 400 V 55 kW, RAC 240: 190 - 240 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239548",
+      "recordPath": "equipment/eaton-article-239548.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239548.json"
+    },
+    {
+      "id": "eaton-article-239572",
+      "name": "DILM115(RDC240) — Contactor, 3 pole, 380 V 400 V 55 kW, RDC 240: 200 - 240 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239572",
+      "recordPath": "equipment/eaton-article-239572.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239572.json"
+    },
+    {
+      "id": "eaton-article-239549",
+      "name": "DILM115(RAC440) — Contactor, 3 pole, 380 V 400 V 55 kW, RAC 440: 380 - 440 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239549",
+      "recordPath": "equipment/eaton-article-239549.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239549.json"
+    },
+    {
+      "id": "eaton-article-239487",
+      "name": "DILM95(220V50/60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 220 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239487",
+      "recordPath": "equipment/eaton-article-239487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239487.json"
+    },
+    {
+      "id": "eaton-article-239510",
+      "name": "DILM95(RDC24) — Contactor, 3 pole, 380 V 400 V 45 kW, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239510",
+      "recordPath": "equipment/eaton-article-239510.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239510.json"
+    },
+    {
+      "id": "eaton-article-239408",
+      "name": "DILM80(110V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 110 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239408",
+      "recordPath": "equipment/eaton-article-239408.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239408.json"
+    },
+    {
+      "id": "eaton-article-239546",
+      "name": "DILM115(RAC48) — Contactor, 3 pole, 380 V 400 V 55 kW, RAC 48: 42 - 48 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239546",
+      "recordPath": "equipment/eaton-article-239546.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239546.json"
+    },
+    {
+      "id": "eaton-article-239416",
+      "name": "DILM80(RDC24) — Contactor, 3 pole, 380 V 400 V 37 kW, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239416",
+      "recordPath": "equipment/eaton-article-239416.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239416.json"
+    },
+    {
+      "id": "eaton-article-239560",
+      "name": "DILM115(RDC60) — Contactor, 3 pole, 380 V 400 V 55 kW, RDC 60: 48 - 60 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239560",
+      "recordPath": "equipment/eaton-article-239560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239560.json"
+    },
+    {
+      "id": "eaton-article-239547",
+      "name": "DILM115(RAC120) — Contactor, 3 pole, 380 V 400 V 55 kW, RAC 120: 100 - 120 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239547",
+      "recordPath": "equipment/eaton-article-239547.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239547.json"
+    },
+    {
+      "id": "eaton-article-239550",
+      "name": "DILM115(RAC500) — Contactor, 3 pole, 380 V 400 V 55 kW, RAC 500: 480 - 500 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239550",
+      "recordPath": "equipment/eaton-article-239550.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239550.json"
+    },
+    {
+      "id": "eaton-article-239484",
+      "name": "DILM95(24V50/60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 24 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239484",
+      "recordPath": "equipment/eaton-article-239484.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239484.json"
+    },
+    {
+      "id": "eaton-article-239418",
+      "name": "DILM80(RDC130) — Contactor, 3 pole, 380 V 400 V 37 kW, RDC 130: 110 - 130 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239418",
+      "recordPath": "equipment/eaton-article-239418.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239418.json"
+    },
+    {
+      "id": "eaton-article-239483",
+      "name": "DILM95(415V50HZ,480V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 415 V 50 Hz, 480 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239483",
+      "recordPath": "equipment/eaton-article-239483.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239483.json"
+    },
+    {
+      "id": "eaton-article-239513",
+      "name": "DILM95(RDC240) — Contactor, 3 pole, 380 V 400 V 45 kW, RDC 240: 200 - 240 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239513",
+      "recordPath": "equipment/eaton-article-239513.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239513.json"
+    },
+    {
+      "id": "eaton-article-239485",
+      "name": "DILM95(42V50/60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 42 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239485",
+      "recordPath": "equipment/eaton-article-239485.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239485.json"
+    },
+    {
+      "id": "eaton-article-239379",
+      "name": "DILM80(115V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 115 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239379",
+      "recordPath": "equipment/eaton-article-239379.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239379.json"
+    },
+    {
+      "id": "eaton-article-239406",
+      "name": "DILM80(24V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 24 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239406",
+      "recordPath": "equipment/eaton-article-239406.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239406.json"
+    },
+    {
+      "id": "eaton-article-239567",
+      "name": "DILM115(RDC130) — Contactor, 3 pole, 380 V 400 V 55 kW, RDC 130: 110 - 130 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239567",
+      "recordPath": "equipment/eaton-article-239567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239567.json"
+    },
+    {
+      "id": "eaton-article-239403",
+      "name": "DILM80(380V50HZ,440V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 380 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239403",
+      "recordPath": "equipment/eaton-article-239403.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239403.json"
+    },
+    {
+      "id": "eaton-article-239512",
+      "name": "DILM95(RDC130) — Contactor, 3 pole, 380 V 400 V 45 kW, RDC 130: 110 - 130 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239512",
+      "recordPath": "equipment/eaton-article-239512.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239512.json"
+    },
+    {
+      "id": "eaton-article-239377",
+      "name": "DILM80(24V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 24 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239377",
+      "recordPath": "equipment/eaton-article-239377.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239377.json"
+    },
+    {
+      "id": "eaton-article-239555",
+      "name": "DILM115(RDC24) — Contactor, 3 pole, 380 V 400 V 55 kW, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239555",
+      "recordPath": "equipment/eaton-article-239555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239555.json"
+    },
+    {
+      "id": "eaton-article-239527",
+      "name": "DILM95-22(230V50HZ,240V60HZ) — Contactor, 380 V 400 V 45 kW, 2 N/O, 2 NC, 230 V 50 Hz, 240 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239527",
+      "recordPath": "equipment/eaton-article-239527.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239527.json"
+    },
+    {
+      "id": "eaton-article-239486",
+      "name": "DILM95(110V50/60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 110 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239486",
+      "recordPath": "equipment/eaton-article-239486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239486.json"
+    },
+    {
+      "id": "eaton-article-239541",
+      "name": "DILM95-22(RDC24) — Contactor, 380 V 400 V 45 kW, 2 N/O, 2 NC, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239541",
+      "recordPath": "equipment/eaton-article-239541.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239541.json"
+    },
+    {
+      "id": "eaton-article-239409",
+      "name": "DILM80(220V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 220 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239409",
+      "recordPath": "equipment/eaton-article-239409.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239409.json"
+    },
+    {
+      "id": "eaton-article-239419",
+      "name": "DILM80(RDC240) — Contactor, 3 pole, 380 V 400 V 37 kW, RDC 240: 200 - 240 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239419",
+      "recordPath": "equipment/eaton-article-239419.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239419.json"
+    },
+    {
+      "id": "eaton-article-239474",
+      "name": "DILM95(208V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 208 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239474",
+      "recordPath": "equipment/eaton-article-239474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239474.json"
+    },
+    {
+      "id": "eaton-article-239475",
+      "name": "DILM95(600V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 600 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239475",
+      "recordPath": "equipment/eaton-article-239475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239475.json"
+    },
+    {
+      "id": "eaton-article-239411",
+      "name": "DILM80(380V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 380 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239411",
+      "recordPath": "equipment/eaton-article-239411.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239411.json"
+    },
+    {
+      "id": "eaton-article-239412",
+      "name": "DILM80(TVC100) — Contactor, 3 pole, 380 V 400 V 37 kW, TVC100: 100 V 50 Hz/100-110 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239412",
+      "recordPath": "equipment/eaton-article-239412.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239412.json"
+    },
+    {
+      "id": "eaton-article-239489",
+      "name": "DILM95(380V50/60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 380 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239489",
+      "recordPath": "equipment/eaton-article-239489.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239489.json"
+    },
+    {
+      "id": "eaton-article-239413",
+      "name": "DILM80(TVC200) — Contactor, 3 pole, 380 V 400 V 37 kW, TVC200: 200 V 50 Hz/200-220 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239413",
+      "recordPath": "equipment/eaton-article-239413.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239413.json"
+    },
+    {
+      "id": "eaton-article-239469",
+      "name": "DILM95(240V50HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 240 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239469",
+      "recordPath": "equipment/eaton-article-239469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239469.json"
+    },
+    {
+      "id": "eaton-article-239471",
+      "name": "DILM95(24V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 24 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239471",
+      "recordPath": "equipment/eaton-article-239471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239471.json"
+    },
+    {
+      "id": "eaton-article-239504",
+      "name": "DILM95(*V50HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, *V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239504",
+      "recordPath": "equipment/eaton-article-239504.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239504.json"
+    },
+    {
+      "id": "eaton-article-239389",
+      "name": "DILM80(600V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 600 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239389",
+      "recordPath": "equipment/eaton-article-239389.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239389.json"
+    },
+    {
+      "id": "eaton-article-239451",
+      "name": "DILM80-22(400V50HZ,440V60HZ) — Contactor, 380 V 400 V 37 kW, 2 N/O, 2 NC, 400 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239451",
+      "recordPath": "equipment/eaton-article-239451.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239451.json"
+    },
+    {
+      "id": "eaton-article-239468",
+      "name": "DILM95(48V50HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 48 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239468",
+      "recordPath": "equipment/eaton-article-239468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239468.json"
+    },
+    {
+      "id": "eaton-article-239494",
+      "name": "DILM95(TVC100) — Contactor, 3 pole, 380 V 400 V 45 kW, TVC100: 100 V 50 Hz/100-110 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239494",
+      "recordPath": "equipment/eaton-article-239494.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239494.json"
+    },
+    {
+      "id": "eaton-article-239407",
+      "name": "DILM80(42V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 42 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239407",
+      "recordPath": "equipment/eaton-article-239407.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239407.json"
+    },
+    {
+      "id": "eaton-article-239414",
+      "name": "DILM80(*V50HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, *V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239414",
+      "recordPath": "equipment/eaton-article-239414.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239414.json"
+    },
+    {
+      "id": "eaton-article-239511",
+      "name": "DILM95(RDC60) — Contactor, 3 pole, 380 V 400 V 45 kW, RDC 60: 48 - 60 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239511",
+      "recordPath": "equipment/eaton-article-239511.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239511.json"
+    },
+    {
+      "id": "eaton-article-239410",
+      "name": "DILM80(230V50/60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 230 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239410",
+      "recordPath": "equipment/eaton-article-239410.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239410.json"
+    },
+    {
+      "id": "eaton-article-239482",
+      "name": "DILM95(400V50HZ,440V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 400 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239482",
+      "recordPath": "equipment/eaton-article-239482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239482.json"
+    },
+    {
+      "id": "eaton-article-239473",
+      "name": "DILM95(115V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 115 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239473",
+      "recordPath": "equipment/eaton-article-239473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239473.json"
+    },
+    {
+      "id": "eaton-article-239417",
+      "name": "DILM80(RDC60) — Contactor, 3 pole, 380 V 400 V 37 kW, RDC 60: 48 - 60 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239417",
+      "recordPath": "equipment/eaton-article-239417.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239417.json"
+    },
+    {
+      "id": "eaton-article-239509",
+      "name": "DILM95(*V60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, *V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239509",
+      "recordPath": "equipment/eaton-article-239509.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239509.json"
+    },
+    {
+      "id": "eaton-article-239488",
+      "name": "DILM95(230V50/60HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 230 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239488",
+      "recordPath": "equipment/eaton-article-239488.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239488.json"
+    },
+    {
+      "id": "eaton-article-239529",
+      "name": "DILM95-22(400V50HZ,440V60HZ) — Contactor, 380 V 400 V 45 kW, 2 N/O, 2 NC, 400 V 50 Hz, 440 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239529",
+      "recordPath": "equipment/eaton-article-239529.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239529.json"
+    },
+    {
+      "id": "eaton-article-239463",
+      "name": "DILM80-22(RDC24) — Contactor, 380 V 400 V 37 kW, 2 N/O, 2 NC, RDC 24: 24 - 27 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239463",
+      "recordPath": "equipment/eaton-article-239463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239463.json"
+    },
+    {
+      "id": "eaton-article-239467",
+      "name": "DILM95(24V50HZ) — Contactor, 3 pole, 380 V 400 V 45 kW, 24 V 50 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239467",
+      "recordPath": "equipment/eaton-article-239467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239467.json"
+    },
+    {
+      "id": "eaton-article-239384",
+      "name": "DILM80(208V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, 208 V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239384",
+      "recordPath": "equipment/eaton-article-239384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239384.json"
+    },
+    {
+      "id": "eaton-article-239535",
+      "name": "DILM95-22(230V50/60HZ) — Contactor, 380 V 400 V 45 kW, 2 N/O, 2 NC, 230 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239535",
+      "recordPath": "equipment/eaton-article-239535.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239535.json"
+    },
+    {
+      "id": "eaton-article-239415",
+      "name": "DILM80(*V60HZ) — Contactor, 3 pole, 380 V 400 V 37 kW, *V 60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239415",
+      "recordPath": "equipment/eaton-article-239415.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239415.json"
+    },
+    {
+      "id": "eaton-article-239594",
+      "name": "DILM150(RDC240) — Contactor, 3 pole, 380 V 400 V 75 kW, RDC 240: 200 - 240 V DC, DC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239594",
+      "recordPath": "equipment/eaton-article-239594.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239594.json"
+    },
+    {
+      "id": "eaton-article-239579",
+      "name": "DILM115-22(RAC440) — Contactor, 380 V 400 V 55 kW, 2 N/O, 2 NC, RAC 440: 380 - 440 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239579",
+      "recordPath": "equipment/eaton-article-239579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239579.json"
+    },
+    {
+      "id": "eaton-article-239587",
+      "name": "DILM150(RAC120) — Contactor, 3 pole, 380 V 400 V 75 kW, RAC 120: 100 - 120 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239587",
+      "recordPath": "equipment/eaton-article-239587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239587.json"
+    },
+    {
+      "id": "eaton-article-239578",
+      "name": "DILM115-22(RAC240) — Contactor, 380 V 400 V 55 kW, 2 N/O, 2 NC, RAC 240: 190 - 240 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239578",
+      "recordPath": "equipment/eaton-article-239578.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239578.json"
+    },
+    {
+      "id": "eaton-article-239598",
+      "name": "DILM150-22(RAC240) — Contactor, 380 V 400 V 75 kW, 2 N/O, 2 NC, RAC 240: 190 - 240 V 50/60 Hz, AC operation, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-239598",
+      "recordPath": "equipment/eaton-article-239598.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-239598.json"
+    }
+  ]
+}

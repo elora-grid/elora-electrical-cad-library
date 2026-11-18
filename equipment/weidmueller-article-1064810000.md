@@ -1,0 +1,171 @@
+# Weidmüller — VSSC6 TRLDMOV 24VAC/DC — Surge voltage arrester (data networks/MCR-technology) / Surge voltage arrester (data networks/MCR-technology) Surge protection for measurement and control, analogue, binary, Number of signals: 1, AC/DC, 24 V, 34 V, 12 A, Terminal
+
+Weidmüller VSSC6 TRLDMOV 24VAC/DC — Surge voltage arrester (data networks/MCR-technology) / Surge voltage arrester (data networks/MCR-technology) Surge protection for measurement and control, analogue, binary, Number of signals: 1, AC/DC, 24 V, 34 V, 12 A, Terminal. Manufacturer CAD files for wiring equipment selection and layout, identified by article 1064810000.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1064810000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1064810000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1064810000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/vssc6-trldmov-24vacdc/p/1064810000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1064810000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Manufacturer CAD files for the listed equipment reference. Open the original files in compatible CAD software.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: VSSC6 TRLDMOV 24VAC/DC — Surge voltage arrester (data networks/MCR-technology) / Surge voltage arrester (data networks/MCR-technology) Surge protection for measurement and control, analogue, binary, Number of signals: 1, AC/DC, 24 V, 34 V, 12 A, Terminal
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1064810000
+- Manufacturer reference: 1064810000
+- Manufacturer type: VSSC6 TRLDMOV 24VAC/DC
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1064810000 ([source](https://eshop.weidmueller.com.cn/en/vssc6-trldmov-24vacdc/p/1064810000/downloads#engineering-support))
+- Manufacturer type: VSSC6 TRLDMOV 24VAC/DC ([source](https://eshop.weidmueller.com.cn/en/vssc6-trldmov-24vacdc/p/1064810000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/vssc6-trldmov-24vacdc/p/1064810000/downloads#engineering-support))
+
+## What the equipment does
+
+A surge protective device limits brief voltage spikes by providing a path for surge current under its designed conditions.
+
+At a substation cable interface, it can help limit a transient voltage reaching connected equipment.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/vssc6-trldmov-24vacdc/p/1064810000/downloads#engineering-support)
+
+## Choosing a file
+
+Start with 1064810000. The files above belong to Weidmüller's VSSC6 TRLDMOV 24VAC/DC — Surge voltage arrester (data networks/MCR-technology) / Surge voltage arrester (data networks/MCR-technology) Surge protection for measurement and control, analogue, binary, Number of signals: 1, AC/DC, 24 V, 34 V, 12 A, Terminal resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Weidmüller VSSC6 TRLDMOV 24VAC/DC — Surge voltage arrester (data networks/MCR-technology) / Surge voltage arrester (data networks/MCR-technology) Surge protection for measurement and control, analogue, binary, Number of signals: 1, AC/DC, 24 V, 34 V, 12 A, Terminal: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/weidmueller-article-1064810000/native-f1e9df2d2312c618c4fe24ae-zip?asset=96edb12201e33d333ab096d2e34a2ad8d03a37a0b05b8622585d1e0e097364e3)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1064810000). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/weidmueller-article-1064810000)
+
+- 1064810000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1064810000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1064810000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### 1064810000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/4a192c7b-8521-4eba-a78f-11febc273b07/original/1064810000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1064810000/native-f1e9df2d2312c618c4fe24ae-zip)
+- Redistribution: unknown
+- Original SHA-256: f1e9df2d2312c618c4fe24ae6ccd6a8a07539c4e86798a7d7e0167effc64ceec
+- Original bytes: 124825
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/4a192c7b-8521-4eba-a78f-11febc273b07/original/1064810000_DWG.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 124825 bytes
+- Delivery SHA-256: f1e9df2d2312c618c4fe24ae6ccd6a8a07539c4e86798a7d7e0167effc64ceec
+
+<details>
+<summary>Archive members</summary>
+
+- 1064810000\_back.DWG
+- 1064810000\_bottom.DWG
+- 1064810000\_front.DWG
+- 1064810000\_left.DWG
+- 1064810000\_right.DWG
+- 1064810000\_top.DWG
+
+</details>
+
+### 1064810000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/18722d0f-68d9-4f01-93c1-1c8a575fa0fd/original/1064810000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1064810000/native-20886107eca67676823cae4e-step)
+- Redistribution: unknown
+- Original SHA-256: 20886107eca67676823cae4e8f7cf4051e86b71a7117f16d561628b183934950
+- Original bytes: 1766161
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/18722d0f-68d9-4f01-93c1-1c8a575fa0fd/original/1064810000.stp)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: source-bundle; ZIP; 306894 bytes
+- Delivery SHA-256: 8faaad712b322f6f4b90c48b8a4e2a3ea5a9ef47b713be4739985bb62e809aa9
+
+### 1064810000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer native CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/9d3ddfe2-9893-4c5e-ad93-fa76ad334213/original/1064810000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1064810000/native-d368a2a2b7b279dc072d16b9-zip)
+- Redistribution: unknown
+- Original SHA-256: d368a2a2b7b279dc072d16b9fdb23f235a1fd8855243e8e521bcce856cbd2c3b
+- Original bytes: 97727
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T04:11:33.177394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- Rights review: Manufacturer original retained unchanged. Engineering-data terms and imprint reviewed under the existing no-explicit-prohibition policy. Copyright remains with the manufacturer; no separate written redistribution permission or explicit licence is claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/9d3ddfe2-9893-4c5e-ad93-fa76ad334213/original/1064810000_DXF.zip)
+- [Rights evidence](https://www.weidmueller.com/int/service/engineering_data.jsp)
+- [Rights evidence](https://www.weidmueller.com/int/other/imprint.jsp)
+- Delivery: original; ZIP; 97727 bytes
+- Delivery SHA-256: d368a2a2b7b279dc072d16b9fdb23f235a1fd8855243e8e521bcce856cbd2c3b
+
+<details>
+<summary>Archive members</summary>
+
+- 1064810000\_back.DXF
+- 1064810000\_bottom.DXF
+- 1064810000\_front.DXF
+- 1064810000\_left.DXF
+- 1064810000\_right.DXF
+- 1064810000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

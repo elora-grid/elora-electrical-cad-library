@@ -44,3 +44,8 @@
 - [LOVATO Electric: EXP1030 — Expansion module EXP... type, data memory, real time clock and calendar, with battery, for DMG 800, DMG 900... and DMG 900 T...](lovato-order-b16072aa4e855bea989facf5.md)
 - [LOVATO Electric: EXP1031 — Expansion module EXP... type, data memory with Energy Quality (EN50160), real time clock and calendar, with battery, for DMG 800, DMG 900... and DMG 900 T...](lovato-order-54fa680909fc4e566686ab4e.md)
 - [LOVATO Electric: EXM1030 — Expansion module EXM... type, data memory, real time clock and calendar, with battery, for DMG 300](lovato-order-5ed7ed3f4eb697ca656abdd3.md)
+- [Weidmüller: CP A BATTERY 24V DC1.3AH — Battery (UPS) / Battery (UPS), 24 V DC, 1.3 Ah](weidmueller-article-1406930000.md)
+- [Weidmüller: CP A BATTERY 24V DC3.4AH — Battery (UPS) / Battery (UPS), 24 V DC, 3.4 Ah](weidmueller-article-1251070000.md)
+- [Weidmüller: CP A BATTERY 24V DC17AH — Battery (UPS) / Battery (UPS), 24 V DC, 17 Ah](weidmueller-article-1251110000.md)
+- [Weidmüller: CP A BATTERY 24V DC12AH — Battery (UPS) / Battery (UPS), 24 V DC, 12 Ah](weidmueller-article-1251090000.md)
+- [Weidmüller: CP A BATTERY 24V DC7.2AH — Battery (UPS) / Battery (UPS), 24 V DC, 7.2 Ah](weidmueller-article-1251080000.md)

@@ -1,0 +1,125 @@
+# Eaton — PKZM0-16-SPI16/AK — Motor-protective circuit-breaker, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals
+
+Eaton PKZM0-16-SPI16/AK — Motor-protective circuit-breaker, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals. Manufacturer CAD files for wiring equipment selection and layout, identified by article EP-400165.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3cc38957dea5b5739e15b0c2) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-3cc38957dea5b5739e15b0c2.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-3cc38957dea5b5739e15b0c2.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: EP-400165
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T15:50:41.709187+00:00
+
+Download the retained manufacturer CAD originals from this library. ZIP packages contain the unchanged named native CAD file; manufacturer archive provenance is retained separately.
+Confirm regional configuration, ratings and approvals with the manufacturer.
+Check the exact manufacturer article and selected configuration against the original drawing. Publisher-shared geometry and alternate formats remain on this equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: PKZM0-16-SPI16/AK — Motor-protective circuit-breaker, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: EP-400165
+- Manufacturer reference: EP-400165
+- Manufacturer type: PKZM0-16-SPI16/AK
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+
+## Source-linked technical facts
+
+- Manufacturer reference: EP-400165 ([source](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip))
+- Manufacturer type: PKZM0-16-SPI16/AK ([source](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+In a substation, the feeder breaker opens when the protection system detects a fault on the outgoing circuit.
+
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip)
+
+## Choosing a file
+
+Start with EP-400165. The files above belong to Eaton's PKZM0-16-SPI16/AK — Motor-protective circuit-breaker, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Eaton PKZM0-16-SPI16/AK — Motor-protective circuit-breaker, 7.5 kW, 10 - 16 A, Feed-side screw terminals/output-side push-in terminals: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-3cc38957dea5b5739e15b0c2/native-7f9904d794e54d78d7d27527-dwg?asset=7f9904d794e54d78d7d2752767ac5c32d94c90a3420a0e7520bc32966ded35bf)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3cc38957dea5b5739e15b0c2). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/eaton-article-3cc38957dea5b5739e15b0c2)
+
+- eaton-EP-400123-3d-model.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-breakers-mcad-drawings-ep-400123.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
+## Files
+
+### eaton-EP-400123-3d-model.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-3cc38957dea5b5739e15b0c2/native-213a121252fe4cf5e8207ee3-step)
+- Redistribution: unknown
+- Original SHA-256: 213a121252fe4cf5e8207ee3d6cf1a9923e6f2b2f2dd98036c8ebcd98307e6b8
+- Original bytes: 511101
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 88048 bytes
+- Delivery SHA-256: 424d55cd840165eb672a7e30b4fae653c5360ebc6a071a445deb6576e7f72799
+
+### eaton-breakers-mcad-drawings-ep-400123.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-3cc38957dea5b5739e15b0c2/native-7f9904d794e54d78d7d27527-dwg)
+- Redistribution: unknown
+- Original SHA-256: 7f9904d794e54d78d7d2752767ac5c32d94c90a3420a0e7520bc32966ded35bf
+- Original bytes: 502112
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-18T05:37:13.981462+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- Rights review: Manufacturer copyright retained. Download Center partner guidance and website terms reviewed; an explicit public redistribution licence remains unverified. Hosted under the reviewed no-explicit-prohibition policy; no separate written permission or explicit licence is claimed.
+- [Rights evidence](https://ecat.eaton.com/downloads/3da5eb5d-0f6a-44f8-93ec-aad636933c3a/cad_files_001.zip)
+- [Rights evidence](https://ecat.eaton.com/downloads/06.02_TD_Manual_DC_Download_Center_V5_EXTERNAL_version.pdf)
+- [Rights evidence](https://www.eaton.com/us/en-us/company/policies-and-statements/terms-and-conditions.html)
+- Delivery: source-bundle; ZIP; 438516 bytes
+- Delivery SHA-256: 381b55a121ae630f3aeba2ecc26d0fc4365361af3c1488a551b576a4885c3e78
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

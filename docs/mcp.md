@@ -32,6 +32,12 @@ File delivery retains the live API's anonymous allowance and reusable email
 registration policy. Public artifact access does not mean unlimited anonymous
 downloads; follow `registration_required`, allowance and retry responses.
 
+The public MCP can receive an existing scoped public-download token in its
+transport Authorization header for caller-aware selection planning. Never put
+credentials in tool arguments. Use the official HTTP SDK for authenticated file
+transfer, and preserve the separation from verified-account OAuth access. See
+[API token handling](api.md).
+
 Reviewed exclusive conversions use the existing protected MCP connection and `get_exclusive_cad_download`, with a verified free CAD account and explicit OAuth scope `cad:download`. Creating an account alone does not authorise an agent. Do not substitute that protected endpoint for the public endpoint or expose account tokens in prompts or committed configuration.
 
 The [live workflow guide](https://eloragrid.ai/tools/cad-library/agents.md), [skills catalogue](https://eloragrid.ai/.well-known/skills/index.json), [v1 capabilities](https://eloragrid.ai/api/cad/v1/capabilities) and [API examples](api.md) describe the deployed access policy. Discovery reports configuration; it is not a guarantee of indexing, ranking or acceptance by any particular assistant.

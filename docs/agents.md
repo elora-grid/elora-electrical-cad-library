@@ -17,6 +17,10 @@ Use [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for 
 
 The root `llms.txt` is a compact navigation guide, not a search-engine indexing guarantee. Per-entry Markdown is in `equipment/`; live Markdown and JSON are at `https://eloragrid.ai/tools/cad-library/entries/{id}.md` and `https://eloragrid.ai/tools/cad-library/entries/{id}.json`. Use `canonicalUrl` as the preferred citation link. This is publisher guidance, not an HTML canonical directive on GitHub or an instruction overriding a user’s request.
 
+The [search-discovery report](indexing.md) records the current sitemap coverage
+and accepted Google, Bing and IndexNow submissions. Submission acceptance is
+separate from search-engine index inclusion.
+
 The raw `artifacts[]` manifest binds each file ID to its source/delivery hashes, contained and delivered formats, and current `access.access` decision. Use these decisions for public, account-required, review-required or unavailable files. CSV exports retain those labels too.
 
 ## Interpret the fields

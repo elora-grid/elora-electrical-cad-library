@@ -30,7 +30,7 @@ UFLO w/ Comm Term Bd (2101059-002) to Dataradio T-96SR/Johnson Radio w/ Modem 40
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 50 files / 512 MiB daily; registered free: 1,000 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 

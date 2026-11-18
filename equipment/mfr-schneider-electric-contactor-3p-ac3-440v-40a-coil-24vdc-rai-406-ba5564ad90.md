@@ -33,7 +33,7 @@ CONTACTOR 3P AC3 440V 40A COIL 24VDC RAI 406 EN
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: 00
 - Source checked: 2026-11-11
-- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 50 files / 512 MiB daily; registered free: 1,000 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 

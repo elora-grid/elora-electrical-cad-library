@@ -13,6 +13,7 @@ Start at [CAD discovery](https://eloragrid.ai/.well-known/cad-library.json). It 
 | GET | `/api/cad/v1/items/{id}` | Exact item and its first artifact manifests. |
 | GET | `/api/cad/v1/items/{id}/related` | Evidence-labelled relationships; similar or family items do not establish compatibility. |
 | GET | `/api/cad/v1/items/{id}/artifacts` | Paginated prepared files and their individual access policies. |
+| GET | `/api/cad/v1/allowance` | Current caller allowance and recovery actions. |
 | POST | `/api/cad/v1/deliveries` | Plan independent download links for 1–50 distinct `artifact_ids`. |
 | GET | `/api/cad/v1/artifacts/{artifact_id}/download` | Current file delivery, subject to its access policy. |
 
@@ -26,6 +27,8 @@ Inspect ambiguity, configuration, revision and `kind` before selecting. Follow `
 
 POST selection bodies contain only `{"artifact_ids":["record-id:file-id"]}`. This plans independent file links; it does not create an account, email, bundle, conversion job or engineering design. Download bytes to disk outside model context. Native/contained formats differ from the delivered ZIP/RAR container. Geometry and units remain unknown unless evidenced.
 
+Selection results distinguish file availability from caller eligibility. Download only results with `status=ready` and `eligibility.allowed=true`; follow each blocked result's `next_action`. Planning reserves no quota, and actual downloads recheck access and allowances.
+
 The v1 access policy makes public manufacturer originals and reviewed public equivalents anonymous. Reviewed exclusive conversions require a free verified CAD account and separate scoped agent consent. Read the artifact’s current access result rather than inferring availability from this snapshot. Stable links renew short-lived attachments; verify delivered bytes against the artifact/delivery SHA-256, and source bytes against the original SHA-256.
 
 Public artifact access remains subject to delivery allowances. Once the
@@ -33,6 +36,14 @@ anonymous allowance is used, `401 registration_required` directs the caller to
 reusable email registration. Follow current capabilities and allowance responses
 for monthly file limits, daily byte safeguards and verified existing paid-plan
 access. Metadata and public MCP discovery do not require registration.
+
+After registering on the website, **Connect an API client** can create a scoped,
+revocable public-download token. Store it in the client's secret store and send
+`Authorization: Bearer <token>` only to the fixed Elora API origin. Tokens expire
+with registration within 30 days and share its existing allowance; they do not
+grant paid access, app login or exclusive conversions. Never commit tokens or
+forward Authorization to signed storage or manufacturer redirects. The official
+SDKs support safe authenticated file streaming. Read live capabilities for limits.
 
 Official standalone clients are linked from the workflow guide: [Python](https://eloragrid.ai/cad-library/sdk/cad_library.py) and [TypeScript](https://eloragrid.ai/cad-library/sdk/cad-library.ts). These are official HTTP clients for the live API.
 

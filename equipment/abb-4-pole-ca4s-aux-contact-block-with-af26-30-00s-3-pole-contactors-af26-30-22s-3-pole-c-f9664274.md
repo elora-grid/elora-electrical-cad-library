@@ -29,7 +29,7 @@ Original DXF drawing for 4-pole CA4S aux. contact block with AF26-30-00S 3-pole 
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 50 files / 512 MiB daily; registered free: 1,000 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 

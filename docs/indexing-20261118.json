@@ -1,0 +1,140 @@
+{
+  "verifiedAt": "2026-11-18T07:39:08.171244+00:00",
+  "origin": "https://eloragrid.ai",
+  "equipmentUrls": 76512,
+  "imagePageUrls": 49841,
+  "sitemaps": [
+    {
+      "url": "https://eloragrid.ai/sitemap.xml",
+      "urls": 48001,
+      "xmlBytes": 7335222,
+      "sha256": "54812f81ca4f9e9d018b60f9971f8645edb1f88fa31b07c2c35ea353613b1dfb",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://eloragrid.ai/cad-sitemaps/1.xml",
+      "urls": 45000,
+      "xmlBytes": 6423847,
+      "sha256": "e233f18dab5e79bee859c5d9ef71045f88c008f08d859dd17ace561f3c78b638",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://eloragrid.ai/cad-sitemaps/2.xml",
+      "urls": 31512,
+      "xmlBytes": 3914852,
+      "sha256": "d921ce6a8a9d0314eee78e3e621a0f1939b9e8320b5cafc8c491d435461ce0dc",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://eloragrid.ai/cad-image-sitemap.xml",
+      "urls": 45000,
+      "xmlBytes": 16451441,
+      "sha256": "76323f8ff5c24da2ce3589127726084161b6b1f600801bca04877b5f1bcec9e7",
+      "httpStatus": 200
+    },
+    {
+      "url": "https://eloragrid.ai/cad-image-sitemaps/2.xml",
+      "urls": 4841,
+      "xmlBytes": 1585512,
+      "sha256": "80fa17b00475c386f8d5ec1949d13065188eb84f5d040fc769c2bbbff5957a64",
+      "httpStatus": 200
+    }
+  ],
+  "urlListSha256": "6ca7cbec5f68d421398a8f4751cee30b066b3ae7935c49ea05d44ffa0bb773c2",
+  "metadataFingerprintsVerified": 76512,
+  "verificationKeyLive": true,
+  "endpoint": "https://api.indexnow.org/indexnow",
+  "batches": [
+    {
+      "offset": 0,
+      "urls": 10000,
+      "httpStatus": 200,
+      "acceptedAt": "2026-11-18T07:39:10.429589+00:00"
+    },
+    {
+      "offset": 10000,
+      "urls": 10000,
+      "httpStatus": 200,
+      "acceptedAt": "2026-11-18T07:39:12.031091+00:00"
+    },
+    {
+      "offset": 20000,
+      "urls": 10000,
+      "httpStatus": 200,
+      "acceptedAt": "2026-11-18T07:39:13.691313+00:00"
+    },
+    {
+      "offset": 30000,
+      "urls": 10000,
+      "httpStatus": 200,
+      "acceptedAt": "2026-11-18T07:39:15.438363+00:00"
+    },
+    {
+      "offset": 40000,
+      "urls": 10000,
+      "httpStatus": 200,
+      "acceptedAt": "2026-11-18T07:39:17.226602+00:00"
+    },
+    {
+      "offset": 50000,
+      "urls": 10000,
+      "httpStatus": 200,
+      "acceptedAt": "2026-11-18T07:39:19.138177+00:00"
+    },
+    {
+      "offset": 60000,
+      "urls": 10000,
+      "httpStatus": 200,
+      "acceptedAt": "2026-11-18T07:39:20.852648+00:00"
+    },
+    {
+      "offset": 70000,
+      "urls": 6512,
+      "httpStatus": 200,
+      "acceptedAt": "2026-11-18T07:39:22.548097+00:00"
+    }
+  ],
+  "indexingGuaranteed": false,
+  "acceptedUrls": 76512,
+  "status": "accepted",
+  "webmasterSubmissions": {
+    "date": "2026-11-18",
+    "google": {
+      "method": "Search Console verified domain property",
+      "status": "submitted-successfully",
+      "sitemaps": [
+        "/sitemap-index.xml",
+        "/cad-sitemaps/index.xml",
+        "/cad-sitemaps/2.xml",
+        "/sitemap.xml",
+        "/cad-image-sitemap.xml",
+        "/cad-image-sitemaps/2.xml"
+      ],
+      "observedImagePageCounts": [
+        45000,
+        4841
+      ],
+      "indexingComplete": false
+    },
+    "bing": {
+      "method": "Bing Webmaster Tools existing verified site",
+      "status": "accepted-for-processing",
+      "sitemaps": [
+        "/sitemap-index.xml",
+        "/cad-sitemaps/index.xml",
+        "/sitemap.xml",
+        "/cad-image-sitemap.xml",
+        "/cad-image-sitemaps/2.xml"
+      ],
+      "observedMasterIndexLeafCount": 5,
+      "indexingComplete": false
+    }
+  },
+  "audit": {
+    "allPublishedCadUrlsInSitemap": true,
+    "canonicalMetadata": true,
+    "datasetStructuredData": true,
+    "crawlRulesVerified": true,
+    "legacySitemapsPreserved": true
+  }
+}

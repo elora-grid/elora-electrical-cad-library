@@ -29,7 +29,7 @@ Original PDF drawing for E2.3 III-IV FIXED FRONT TERMINALS F; ABB document 1SDH0
 - Available previews: 1 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-03
-- Download access: Website downloads require email registration once. API trial: 3 files / 25 MiB daily; registered free: 100 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 50 files / 512 MiB daily; registered free: 1,000 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 

@@ -470,7 +470,10 @@
       "name": "ACC-KIT-BLANK-L3-2X",
       "manufacturer": "LS ELECTRIC",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019000900",
       "recordPath": "equipment/ls-electric-article-7019000900.md",
@@ -481,7 +484,10 @@
       "name": "ACC-KIT-BLANK-L3-3X",
       "manufacturer": "LS ELECTRIC",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001000",
       "recordPath": "equipment/ls-electric-article-7019001000.md",
@@ -492,7 +498,10 @@
       "name": "ACC-KIT-BLANK-L3-4X",
       "manufacturer": "LS ELECTRIC",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001100",
       "recordPath": "equipment/ls-electric-article-7019001100.md",
@@ -503,7 +512,10 @@
       "name": "ACC-KIT-BLANK-L3-5X",
       "manufacturer": "LS ELECTRIC",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001200",
       "recordPath": "equipment/ls-electric-article-7019001200.md",
@@ -1219,7 +1231,10 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-55a0e29eec025134e47a6a1a",
       "recordPath": "equipment/lovato-order-55a0e29eec025134e47a6a1a.md",
@@ -1588,7 +1603,10 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6eb24de07fa4d31af69e38bb",
       "recordPath": "equipment/lovato-order-6eb24de07fa4d31af69e38bb.md",

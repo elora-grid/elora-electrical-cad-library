@@ -7,7 +7,7 @@ Eaton NZM1-XDVGR — Rotary handle, toggle, red, lockable, size 1. Retained manu
 - Category: Switchboards & switchgear
 - Entry type: product
 - Part number: 285249
-- Formats: DWG, STEP
+- Formats: DWG, STEP, IGES
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 285249
 - Manufacturer type: NZM1-XDVGR
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, IGES
+- Listed files: 3
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -87,6 +87,7 @@ Related GA references provide equipment context; a related category does not est
 
 - eaton-handle-mechanisms-mcad-3d-models-nzm1-xdvg.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-handle-mechanisms-mcad-drawings-nzm1-xdvg.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-handle-mechanisms-mcad-3d-models-nzm1-xdvg.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -128,5 +129,24 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-handle-mechanisms-mcad-drawings-nzm1-xdvg.dwg)
 - Delivery: source-bundle; ZIP; 443001 bytes
 - Delivery SHA-256: 799594fb5279c7ffe4b278dd5ad8f06f7b4025accb8ec1a9258caea13744d134
+
+### eaton-handle-mechanisms-mcad-3d-models-nzm1-xdvg.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-handle-mechanisms-mcad-3d-models-nzm1-xdvg.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-handle-mechanisms-mcad-3d-models-nzm1-xdvg.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 9696bd4e8644b0f0e96b5d8af8a546d20d3bcae48752ac5f2f96ae28ac27e6e0
+- Original bytes: 91727
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-handle-mechanisms-mcad-3d-models-nzm1-xdvg.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-handle-mechanisms-mcad-3d-models-nzm1-xdvg.stp)
+- Delivery: converted; IGES; 291114 bytes
+- Delivery SHA-256: 889e6e182a4786533a156b1575cc06e7472bd3da59c1d02593443a8b33da24c8
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -7,7 +7,7 @@ Eaton Z-TC/MCB-1TE — Clamp cover, 1p. Retained manufacturer CAD files and draw
 - Category: Wiring & terminals
 - Entry type: product
 - Part number: 178102
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 178102
 - Manufacturer type: Z-TC/MCB-1TE
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 3
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -87,6 +87,9 @@ Related GA references provide equipment context; a related category does not est
 - eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-insulation-shield-mcad-3d-models-z-tc-sd-3p.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-insulation-shield-mcad-drawings-z-tc-mcb-1te.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -147,5 +150,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-insulation-shield-mcad-drawings-z-tc-mcb-1te.dwg)
 - Delivery: source-bundle; ZIP; 398928 bytes
 - Delivery SHA-256: 90ab0a6fd594576b1c709768eb7f84dac96491a02de3169090caba31e2f89eef
+
+### eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: fc93929d79de31b1d929d980c3e26abe5a6785d98cabf97f6760acf527e40e3c
+- Original bytes: 21676
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Delivery: converted; 3MF; 15207 bytes
+- Delivery SHA-256: 2abc1b5a931f84a478a5e3f58150144ca0f6e292f3e447c6e9d4625f50a727b1
+
+### eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: fc93929d79de31b1d929d980c3e26abe5a6785d98cabf97f6760acf527e40e3c
+- Original bytes: 21676
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Delivery: converted; IGES; 47628 bytes
+- Delivery SHA-256: c2197d8c237ef4fd7f1d8e69a9951eeff78eab31fea390bba7b7da8c1bf63268
+
+### eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: fc93929d79de31b1d929d980c3e26abe5a6785d98cabf97f6760acf527e40e3c
+- Original bytes: 21676
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-mcb-1te.stp)
+- Delivery: converted; STL; 48384 bytes
+- Delivery SHA-256: f7ab5c04beb3eff53c47ec9bf0583fe0175fa44a7418493421c74b82f5371656
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

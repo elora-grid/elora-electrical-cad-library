@@ -7,7 +7,7 @@ Eaton Z-RC/AK-4TE — FI lead-seal cap set, 4HP. Retained manufacturer CAD files
 - Category: Switchboards & switchgear
 - Entry type: product
 - Part number: 101062
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 101062
 - Manufacturer type: Z-RC/AK-4TE
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 3
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -88,6 +88,9 @@ Related GA references provide equipment context; a related category does not est
 - eaton-insulation-shield-mcad-3d-models-z-rc-ak-4te.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-insulation-shield-mcad-drawings-z-rc-ak-4te.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -148,5 +151,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-insulation-shield-mcad-drawings-z-rc-ak-4te.dwg)
 - Delivery: source-bundle; ZIP; 400578 bytes
 - Delivery SHA-256: c1d04d88bfc4126a85f91383ce40f51cdf55347605f9bd0d184329aaf3e21a6c
+
+### eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: fd684e8406dcbab0a3d0e159b1bc9de41c71c89aaf6600fee97ebe73794d3c1d
+- Original bytes: 18929
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Delivery: converted; 3MF; 14170 bytes
+- Delivery SHA-256: 9663620f24dfcaaddf15549732d1646357b8c9d664ff65dc0d773b5d4de97d6b
+
+### eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: fd684e8406dcbab0a3d0e159b1bc9de41c71c89aaf6600fee97ebe73794d3c1d
+- Original bytes: 18929
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Delivery: converted; IGES; 37908 bytes
+- Delivery SHA-256: 3592f183d84af5c53a64fdcae2c3e51aa719494b0693f496a28f5bf2637bcd89
+
+### eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: fd684e8406dcbab0a3d0e159b1bc9de41c71c89aaf6600fee97ebe73794d3c1d
+- Original bytes: 18929
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-is-ak-1te.stp)
+- Delivery: converted; STL; 52484 bytes
+- Delivery SHA-256: 9ef0decf657958f4a17ddf4efe9e3c97e516ec98e6e3f612a741935aca68e456
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

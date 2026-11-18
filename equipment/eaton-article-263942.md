@@ -7,7 +7,7 @@ Eaton ZV-L1/N-36 — ZV Plug-in Busbar System 50A, Connection Angle L1/N-36. Ret
 - Category: Busbar & distribution
 - Entry type: product
 - Part number: 263942
-- Formats: STEP
+- Formats: STEP, IGES
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 263942
 - Manufacturer type: ZV-L1/N-36
 - Available native formats: STEP
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, IGES
+- Listed files: 3
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -80,6 +80,7 @@ Related GA references provide equipment context; a related category does not est
 
 - eaton-zv\_l1\_n\_10-3d-model.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-busbars-mcad-3d-models-zv-l1-n-10-36-100.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-busbars-mcad-3d-models-zv-l1-n-10-36-100.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -121,5 +122,24 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-busbars-mcad-3d-models-zv-l1-n-10-36-100.stp)
 - Delivery: source-bundle; ZIP; 19232 bytes
 - Delivery SHA-256: cc7fb3e5fd70e26e916d0bc4a545f91be35da8290eb124808820285110df30a2
+
+### eaton-busbars-mcad-3d-models-zv-l1-n-10-36-100.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-busbars-mcad-3d-models-zv-l1-n-10-36-100.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-busbars-mcad-3d-models-zv-l1-n-10-36-100.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 404c690aec67371f74e3b76aebf50b9134976daa6c7ab9c8ff874974cdf575f0
+- Original bytes: 91394
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-busbars-mcad-3d-models-zv-l1-n-10-36-100.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-busbars-mcad-3d-models-zv-l1-n-10-36-100.stp)
+- Delivery: converted; IGES; 268272 bytes
+- Delivery SHA-256: 4d7145e3b6238ead77b90fd77f53dcd153e1d7cd3c0192864a41c7c243acd195
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

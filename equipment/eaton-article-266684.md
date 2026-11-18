@@ -7,7 +7,7 @@ Eaton NZM4-XR110-130AC — Remote operator, 110-130VAC, for size 4. Retained man
 - Category: Switchboards & switchgear
 - Entry type: product
 - Part number: 266684
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 266684
 - Manufacturer type: NZM4-XR110-130AC
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 
 - nzm4\_xr.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - nzm4\_xr.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- nzm4\_xr.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- nzm4\_xr.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- nzm4\_xr.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -122,5 +125,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/nzm4_xr.dwg)
 - Delivery: source-bundle; ZIP; 59843 bytes
 - Delivery SHA-256: 09c0a2d6b92f6ccb3591c67eb72c661aabfd584ffb72a900d6d7582f8d03b8b0
+
+### nzm4\_xr.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from nzm4\_xr.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 7fcc6e6a55caec96698a63a96a07c41d507bb38f60a937500a512c5d33845b81
+- Original bytes: 37031
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Delivery: converted; 3MF; 1726 bytes
+- Delivery SHA-256: c9f4d4c37fecc35c33350fe2d5c7d24c9a0a0b99c5657cb1fa5d859b57920cb9
+
+### nzm4\_xr.igs
+
+- Format: IGES
+- Purpose: brep solid converted from nzm4\_xr.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 7fcc6e6a55caec96698a63a96a07c41d507bb38f60a937500a512c5d33845b81
+- Original bytes: 37031
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Delivery: converted; IGES; 38394 bytes
+- Delivery SHA-256: 6b507c0c7b98f7e53c6735083c00a8ca8093ad14fd6c4381b70fbed67121b4a6
+
+### nzm4\_xr.stl
+
+- Format: STL
+- Purpose: mesh converted from nzm4\_xr.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 7fcc6e6a55caec96698a63a96a07c41d507bb38f60a937500a512c5d33845b81
+- Original bytes: 37031
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xr.stp)
+- Delivery: converted; STL; 2684 bytes
+- Delivery SHA-256: cf265f2430fe3e1c1eeaee5413feed384b65f3f38cf968ae00cec52cf48f5fb6
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

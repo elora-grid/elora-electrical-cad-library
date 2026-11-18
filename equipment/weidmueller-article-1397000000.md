@@ -7,7 +7,7 @@ Weidmüller SSCH 10X3X2000 CU VERZ. — Busbar (terminal) / Accessories, Busbar,
 - Category: Wiring & terminals
 - Entry type: product
 - Part number: 1397000000
-- Formats: DWG, DXF, STEP
+- Formats: DWG, DXF, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 1397000000
 - Manufacturer type: SSCH 10X3X2000 CU VERZ.
 - Available native formats: DWG / DXF / STEP
-- Listed file formats: DWG, DXF, STEP
-- Listed files: 3
+- Listed file formats: DWG, DXF, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 - 1397000000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
 - 1397000000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - 1397000000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 1397000000.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1397000000.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1397000000.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -165,5 +168,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - 1397000000\_top.DXF
 
 </details>
+
+### 1397000000.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1397000000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: bd646ecd9ccc18597dea12ddb9a7dd55aab86ab4b268c3606e55716ce0207e18
+- Original bytes: 9689
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Delivery: converted; 3MF; 1249 bytes
+- Delivery SHA-256: c8fa40c8deac6512bd10fd5a75caaf7415e56f0381793f2aa389afba395c5940
+
+### 1397000000.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1397000000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: bd646ecd9ccc18597dea12ddb9a7dd55aab86ab4b268c3606e55716ce0207e18
+- Original bytes: 9689
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Delivery: converted; IGES; 13365 bytes
+- Delivery SHA-256: 3f97771d4a9e87707c9cbecbba9690a78dfcbe0f317519e9a00dac78b4205b6b
+
+### 1397000000.stl
+
+- Format: STL
+- Purpose: mesh converted from 1397000000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: bd646ecd9ccc18597dea12ddb9a7dd55aab86ab4b268c3606e55716ce0207e18
+- Original bytes: 9689
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b35403ec-b955-4af2-b82d-8d9af21bb23d/original/1397000000.stp)
+- Delivery: converted; STL; 684 bytes
+- Delivery SHA-256: 0b4ccf77fda762788c0576e84a30f100f332db17d56507aa9583d2b9475b255e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

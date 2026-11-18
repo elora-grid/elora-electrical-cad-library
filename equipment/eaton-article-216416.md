@@ -7,7 +7,7 @@ Eaton M22-ES-MS1 — Key, MS1. Retained manufacturer CAD files and drawings for 
 - Category: Switchboards & switchgear
 - Entry type: product
 - Part number: 216416
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 216416
 - Manufacturer type: M22-ES-MS1
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -87,6 +87,9 @@ Related GA references provide equipment context; a related category does not est
 
 - eaton-accessory-mcad-3d-models-m22-es-ms.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-accessory-mcad-drawings-schluessel-ms.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-accessory-mcad-3d-models-m22-es-ms.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-accessory-mcad-3d-models-m22-es-ms.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-accessory-mcad-3d-models-m22-es-ms.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -128,5 +131,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-accessory-mcad-drawings-schluessel-ms.dwg)
 - Delivery: source-bundle; ZIP; 373703 bytes
 - Delivery SHA-256: a3ec85f6e9add1b32537b3e520af36a12d93376dd8c02d7d05fcd2744af73403
+
+### eaton-accessory-mcad-3d-models-m22-es-ms.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-accessory-mcad-3d-models-m22-es-ms.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 156d6160910fd4a4383c140cd4f90b4b5fc4c946eb2999e7453d3fea6b9d3ffa
+- Original bytes: 17164
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Delivery: converted; 3MF; 13077 bytes
+- Delivery SHA-256: a49f8485b2b80cb397fb2a905d6c7f7ccc8a7ac87cda65ae2606155f8859784e
+
+### eaton-accessory-mcad-3d-models-m22-es-ms.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-accessory-mcad-3d-models-m22-es-ms.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 156d6160910fd4a4383c140cd4f90b4b5fc4c946eb2999e7453d3fea6b9d3ffa
+- Original bytes: 17164
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Delivery: converted; IGES; 33372 bytes
+- Delivery SHA-256: fb306cec656bc6b0721b80de1de55f64a61abee09baf44aad881d5ab278efd55
+
+### eaton-accessory-mcad-3d-models-m22-es-ms.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-accessory-mcad-3d-models-m22-es-ms.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 156d6160910fd4a4383c140cd4f90b4b5fc4c946eb2999e7453d3fea6b9d3ffa
+- Original bytes: 17164
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-accessory-mcad-3d-models-m22-es-ms.stp)
+- Delivery: converted; STL; 47884 bytes
+- Delivery SHA-256: 6e9c7d2bc7ecc1cde28c70cd27d04d9e19dc080296470eb7d5d312cb9d5bea2c
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

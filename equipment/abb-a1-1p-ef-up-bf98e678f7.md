@@ -8,7 +8,7 @@ ABB A1 1p EF UP: breaker or breaker-accessory reference for breaker compartment 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001294R0003
-- Formats: STEP, DXF
+- Formats: STEP, DXF, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -26,8 +26,8 @@ The supplied configuration is “A1 1p EF UP”. Keep those frame, mounting and 
 - Manufacturer reference: 1SDH001294R0003
 - Document revision: A
 - Model envelope: 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.stp: 15.5 × 5 × 35 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -85,6 +85,9 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.iges: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -126,5 +129,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 30226 bytes
 - Delivery SHA-256: 500116811b1de8ce9f3551cba0f43a922a701ef8ed8c915299c5bf13f7a420e0
+
+### 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 1496d0063c29d594d240e65a6179f8381f653ffc1ca8678c77bf1ae0929cbee7
+- Original bytes: 22651
+- Revision: A
+- Retrieved: 2026-11-04T00:56:17Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; 3MF; 15263 bytes
+- Delivery SHA-256: 067cea5cfd60981ffab1cd143ababf476df62c1c16d39c57b45c372d0c5b944d
+
+### 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.iges
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 1496d0063c29d594d240e65a6179f8381f653ffc1ca8678c77bf1ae0929cbee7
+- Original bytes: 22651
+- Revision: A
+- Retrieved: 2026-11-04T00:56:17Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 39366 bytes
+- Delivery SHA-256: 762c48bc5dfc8e7a7e11442c4adc2015a3aa0f319dd3d4324833063ec377fdac
+
+### 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.stl
+
+- Format: STL
+- Purpose: mesh converted from 1SDH001294R0003\_1PA\_001\_00\_A1\_1p\_EF\_sup.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 1496d0063c29d594d240e65a6179f8381f653ffc1ca8678c77bf1ae0929cbee7
+- Original bytes: 22651
+- Revision: A
+- Retrieved: 2026-11-04T00:56:17Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0003&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; STL; 52284 bytes
+- Delivery SHA-256: 24df89e7f67c15cc91300f35ce86e18ae0c2940407ab8affec2d83ede95b9536
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

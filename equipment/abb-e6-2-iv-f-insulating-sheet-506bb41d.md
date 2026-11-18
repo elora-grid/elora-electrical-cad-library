@@ -9,7 +9,7 @@ E6.2 IV F INSULATING SHEET: ABB manufacturer STEP resource, document 1SDH001252R
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0369
 - Installation applications: switchgear, switchrooms
-- Formats: STEP, DXF
+- Formats: STEP, DXF, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E6.2 IV F INSULATING SHEET; ABB document 1SDH00125
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0369
 - Model extents (X × Y × Z, mm): 998.0 × 2.0 × 455.0
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -85,6 +85,9 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -130,5 +133,68 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: converted; DXF; 27683 bytes
 - Delivery SHA-256: 9501397bd34dd5d301c15dd825acee46476c1927bb4a53f340a0e6cd2f72fa8d
+
+### 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 080db8158b1b81baaaaeea7c567e48ead20c3c9871980b72c17626b177568709
+- Original bytes: 15892
+- Revision: -
+- Retrieved: 2026-11-03T01:33:00.641638+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; 3MF; 1425 bytes
+- Delivery SHA-256: 59cb8a8b321d5bdadf26f46d34a70fe408be309a1fbb10757d011116d917c7c7
+
+### 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 080db8158b1b81baaaaeea7c567e48ead20c3c9871980b72c17626b177568709
+- Original bytes: 15892
+- Revision: -
+- Retrieved: 2026-11-03T01:33:00.641638+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; IGES; 23004 bytes
+- Delivery SHA-256: 130fb585d4af60e594fcc9ad552038534e82d8bd490a32e45320ff21e231a508
+
+### 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.stl
+
+- Format: STL
+- Purpose: mesh converted from 1SDH001252R0369\_E6.2\_IV\_F\_INSULATING\_SHEET.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 080db8158b1b81baaaaeea7c567e48ead20c3c9871980b72c17626b177568709
+- Original bytes: 15892
+- Revision: -
+- Retrieved: 2026-11-03T01:33:00.641638+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0369&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; STL; 1484 bytes
+- Delivery SHA-256: 4d70d5b9797b3e1bbb9af8af8c2378ad6174a25240263dc89d8b75eed5781f9f
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -2206,7 +2206,10 @@
       "name": "ZV-L2/L3-80A-10 — ZV Plug-in Busbar System 80A, Connection Angle L2/L3-80A-10",
       "manufacturer": "Eaton",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-263953",
       "recordPath": "equipment/eaton-article-263953.md",
@@ -2240,7 +2243,10 @@
       "manufacturer": "Eaton",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-263957",
       "recordPath": "equipment/eaton-article-263957.md",
@@ -2284,7 +2290,8 @@
       "name": "ZV-L1/N-36 — ZV Plug-in Busbar System 50A, Connection Angle L1/N-36",
       "manufacturer": "Eaton",
       "formats": [
-        "STEP"
+        "STEP",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-263942",
       "recordPath": "equipment/eaton-article-263942.md",

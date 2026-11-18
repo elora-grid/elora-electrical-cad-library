@@ -7,7 +7,7 @@ Eaton Z-TC/AO-3-4P — Clamp cover, 3+4p. Retained manufacturer CAD files and dr
 - Category: Wiring & terminals
 - Entry type: product
 - Part number: 178098
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 178098
 - Manufacturer type: Z-TC/AO-3-4P
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -86,6 +86,9 @@ Related GA references provide equipment context; a related category does not est
 
 - eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-insulation-shield-mcad-drawings-z-tc-ao-3-4p.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -127,5 +130,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-insulation-shield-mcad-drawings-z-tc-ao-3-4p.dwg)
 - Delivery: source-bundle; ZIP; 400783 bytes
 - Delivery SHA-256: e51b8af3c63d0d2fd5e1e48f738c7cda1a916ec67afcbd5a34c130ff4680aaf4
+
+### eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: aeadf4608aa846c6c5c35b3a0d83fc3027aae37002696e9ccdf4274a89c1e529
+- Original bytes: 20645
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Delivery: converted; 3MF; 29116 bytes
+- Delivery SHA-256: 0bc9ef9c922f987300d8379d1ac30c63cb8d3ae82d6c9a57397e6e0ae578b628
+
+### eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: aeadf4608aa846c6c5c35b3a0d83fc3027aae37002696e9ccdf4274a89c1e529
+- Original bytes: 20645
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Delivery: converted; IGES; 48681 bytes
+- Delivery SHA-256: eab0c3a76152518dda779f04dd85cc90ade63babadb3ec673f2605e613b3522a
+
+### eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: aeadf4608aa846c6c5c35b3a0d83fc3027aae37002696e9ccdf4274a89c1e529
+- Original bytes: 20645
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-tc-ao-3-4p.stp)
+- Delivery: converted; STL; 102884 bytes
+- Delivery SHA-256: 5fef79093b3f2b5290144512870ecf104050ece6d18a8a8054011a3fb09cdf46
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

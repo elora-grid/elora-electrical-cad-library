@@ -8,7 +8,7 @@ ABB E1.2 III F FLOOR FIXING: original STEP for circuit-breaker equipment layouts
 - Entry type: product
 - Part number: Select exact configuration
 - Installation applications: switchgear
-- Formats: STEP, DXF
+- Formats: STEP, DXF, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-11
@@ -27,8 +27,8 @@ E1.2 3D Drawing Emax 2
 - Source document: 1SDH001252R0004; revision A
 - Source-model envelope: 434 × 200 × 10 mm
 - 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
@@ -92,6 +92,9 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001252R0004.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001252R0004.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0004.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1SDH001252R0004.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1SDH001252R0004.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -133,5 +136,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 28583 bytes
 - Delivery SHA-256: 41990f147ce81f3cd1ea936462cdaab7501b273565585e9ead52162c9c16098a
+
+### 1SDH001252R0004.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1SDH001252R0004.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 249e6e8f9d8cd33520f791cf097d1f20a1b2c5ff5ff83384dd3dc4bf3b896f63
+- Original bytes: 20968
+- Revision: A
+- Retrieved: 2026-11-11T05:29:41.771531+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; 3MF; 27146 bytes
+- Delivery SHA-256: a4e1f3bca8b9e614617ef5ac74ed42f7d871e17875dad8e57f7ccc484d620541
+
+### 1SDH001252R0004.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001252R0004.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 249e6e8f9d8cd33520f791cf097d1f20a1b2c5ff5ff83384dd3dc4bf3b896f63
+- Original bytes: 20968
+- Revision: A
+- Retrieved: 2026-11-11T05:29:41.771531+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 46089 bytes
+- Delivery SHA-256: 01b723142305b3aecc6c33ffbf3cc5d5bd657d5cb24562d15db30c010ad4852d
+
+### 1SDH001252R0004.stl
+
+- Format: STL
+- Purpose: mesh converted from 1SDH001252R0004.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 249e6e8f9d8cd33520f791cf097d1f20a1b2c5ff5ff83384dd3dc4bf3b896f63
+- Original bytes: 20968
+- Revision: A
+- Retrieved: 2026-11-11T05:29:41.771531+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0004&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; STL; 102284 bytes
+- Delivery SHA-256: 35438208af39e18794ef69e079e13369cb1ede74825d6b392069313a93b8483d
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

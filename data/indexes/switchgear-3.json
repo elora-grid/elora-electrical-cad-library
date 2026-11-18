@@ -45,7 +45,10 @@
       "manufacturer": "ABB",
       "drawingNumber": "SMISSLINE ZLS202_BUSBAR-5X2X1979",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-zls202-auxiliary-busbar-b1d2e272",
       "recordPath": "equipment/abb-smissline-zls202-auxiliary-busbar-b1d2e272.md",
@@ -94,7 +97,10 @@
       "manufacturer": "ABB",
       "drawingNumber": "BUSBAR 250A 3X25 80PLE",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-250a-syystem-zlsp200-busbar-42ac31b2",
       "recordPath": "equipment/abb-smissline-250a-syystem-zlsp200-busbar-42ac31b2.md",

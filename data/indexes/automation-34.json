@@ -1480,7 +1480,9 @@
       "manufacturer": "Eaton",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "3MF",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281196",
       "recordPath": "equipment/eaton-article-281196.md",

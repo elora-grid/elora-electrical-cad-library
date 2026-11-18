@@ -8,7 +8,7 @@ ABB XT2 3p FIXED FLANGE MOE: original STEP for circuit-breaker equipment layouts
 - Entry type: product
 - Part number: Select exact configuration
 - Installation applications: switchgear
-- Formats: STEP, DXF
+- Formats: STEP, DXF, IGES
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-11
@@ -27,8 +27,8 @@ Use the manufacturer configuration named XT2 3p FIXED FLANGE MOE.
 - Source document: 1SDH001295R0174; revision A
 - Source-model envelope: 104.5 × 7.5 × 114.3 mm
 - 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, IGES
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
@@ -93,6 +93,7 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001295R0174.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001295R0174.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0174.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -134,5 +135,24 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0174&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 31707 bytes
 - Delivery SHA-256: f3bef1440661009104e9995976cba250ef60a37478d6cd08c8087985753f1bc3
+
+### 1SDH001295R0174.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001295R0174.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0174&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: c652d098fc7135c328204e6b6be769ac295ea2c71002e908b107177968e58610
+- Original bytes: 22073
+- Revision: A
+- Retrieved: 2026-11-11T05:29:45.575989+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0174&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0174&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 37341 bytes
+- Delivery SHA-256: f116bfa400fe364baa508fc5e3a1fb382ec49eaf617d02beec33ef34db794ed8
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

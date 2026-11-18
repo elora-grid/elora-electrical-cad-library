@@ -508,7 +508,10 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ab4e759516b16ffa3beb480e",
       "recordPath": "equipment/lovato-order-ab4e759516b16ffa3beb480e.md",
@@ -767,7 +770,10 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9a6aff3d10e82bc1385bacae",
       "recordPath": "equipment/lovato-order-9a6aff3d10e82bc1385bacae.md",
@@ -985,7 +991,10 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2799d2c61bce1dddc5d0101c",
       "recordPath": "equipment/lovato-order-2799d2c61bce1dddc5d0101c.md",
@@ -2343,7 +2352,10 @@
       "formats": [
         "DWG",
         "DXF",
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ac38b942e27d32c0a67d67e6",
       "recordPath": "equipment/lovato-order-ac38b942e27d32c0a67d67e6.md",

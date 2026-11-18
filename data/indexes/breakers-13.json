@@ -840,7 +840,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-f-floor-fixing-ad8c8daa14",
       "recordPath": "equipment/mfr-abb-e1-2-iii-f-floor-fixing-ad8c8daa14.md",
@@ -875,7 +878,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-f-wall-fixing-f-ef-fccual-es-ul-720b81e11f",
       "recordPath": "equipment/mfr-abb-e1-2-iii-f-wall-fixing-f-ef-fccual-es-ul-720b81e11f.md",
@@ -1015,7 +1021,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-floor-fixing-57e01eb5e8",
       "recordPath": "equipment/mfr-abb-e1-2-iii-w-floor-fixing-57e01eb5e8.md",
@@ -1155,7 +1164,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-rear-segregation-shr-ul-417f106d71",
       "recordPath": "equipment/mfr-abb-e1-2-iii-w-rear-segregation-shr-ul-417f106d71.md",
@@ -1330,7 +1342,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-floor-fixing-ul-a2d95db501",
       "recordPath": "equipment/mfr-abb-e1-2-iv-f-floor-fixing-ul-a2d95db501.md",
@@ -1365,7 +1380,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-ul-7576b79ec4",
       "recordPath": "equipment/mfr-abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-ul-7576b79ec4.md",
@@ -1470,7 +1488,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-w-floor-fixing-ul-e4dea0d00b",
       "recordPath": "equipment/mfr-abb-e1-2-iv-w-floor-fixing-ul-e4dea0d00b.md",
@@ -1587,7 +1608,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-w-rear-segregation-shr-ul-fd150303ca",
       "recordPath": "equipment/mfr-abb-e1-2-iv-w-rear-segregation-shr-ul-fd150303ca.md",
@@ -2124,7 +2148,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-f-floor-fixing-external-ul-32ab2e044c",
       "recordPath": "equipment/mfr-abb-e2-2-iv-f-floor-fixing-external-ul-32ab2e044c.md",
@@ -2532,7 +2559,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-f-floor-fixing-external-ul-7fbd7a817f",
       "recordPath": "equipment/mfr-abb-e4-2-iii-f-floor-fixing-external-ul-7fbd7a817f.md",
@@ -2772,7 +2802,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-f-floor-fixing-external-ul-0fd58d4947",
       "recordPath": "equipment/mfr-abb-e4-2-iv-f-floor-fixing-external-ul-0fd58d4947.md",

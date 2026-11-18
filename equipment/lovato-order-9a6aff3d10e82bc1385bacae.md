@@ -7,7 +7,7 @@ LOVATO Electric LTN70P100T — Signal towers and beacons. Retained manufacturer 
 - Category: Switchboards & switchgear
 - Entry type: product
 - Part number: LTN70P100T
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -24,8 +24,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Part number: LTN70P100T
 - Manufacturer reference: LTN70P100T
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -79,6 +79,9 @@ Related GA references provide equipment context; a related category does not est
 
 - 2d\_LTN70P100T.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
 - 3d\_LTN70P100T.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 3d\_LTN70P100T.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 3d\_LTN70P100T.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 3d\_LTN70P100T.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -120,5 +123,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
 - Delivery: source-bundle; ZIP; 3357 bytes
 - Delivery SHA-256: 39d679544dd26bf279477d417c114914e2983a25e64e91d570ae887f1f91a3cd
+
+### 3d\_LTN70P100T.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 3d\_LTN70P100T.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: b90778b3b4b7b3263c880cce8333e8b31de7fddd95a413075d0dbf3fb467a08e
+- Original bytes: 17301
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Delivery: converted; 3MF; 13741 bytes
+- Delivery SHA-256: 9a3510104a9b92997c9332f7ade41497edd6962ed3c4f513890cb628d326580d
+
+### 3d\_LTN70P100T.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 3d\_LTN70P100T.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: b90778b3b4b7b3263c880cce8333e8b31de7fddd95a413075d0dbf3fb467a08e
+- Original bytes: 17301
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Delivery: converted; IGES; 19116 bytes
+- Delivery SHA-256: 31764b69a3d7001d4c9b08c9eb2f2251dbf1fb4b771332766bd7a4c0b1841d11
+
+### 3d\_LTN70P100T.stl
+
+- Format: STL
+- Purpose: mesh converted from 3d\_LTN70P100T.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: b90778b3b4b7b3263c880cce8333e8b31de7fddd95a413075d0dbf3fb467a08e
+- Original bytes: 17301
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LTN70P100T.stp)
+- Delivery: converted; STL; 50484 bytes
+- Delivery SHA-256: 47b6622c0720051b69dccd44a95bcbbdd73427fcc2714a9362b7adfb907492b6
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

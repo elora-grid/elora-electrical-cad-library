@@ -8,7 +8,7 @@ ABB XT2 4p FIXED FLANGE MOE: breaker or breaker-accessory reference for breaker 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0300
-- Formats: STEP, DXF
+- Formats: STEP, DXF, IGES
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2 4p FIXED FLANGE MOE”. Keep those frame, m
 - Manufacturer reference: 1SDH001295R0300
 - Document revision: A
 - Model envelope: 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.stp: 104.5 × 7.5 × 114.3 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, IGES
+- Listed files: 3
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -85,6 +85,7 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.iges: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -126,5 +127,24 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0300&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 31707 bytes
 - Delivery SHA-256: 535cb53ae2b9f9a49937b13c1fff67d9fb0d354d8702967cd6f2ecd8d75c8999
+
+### 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.iges
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0300&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 6c9d58ab7c4c04032255dd8be518efbe785fa6f284b8b0e0533409a24dac0da7
+- Original bytes: 22091
+- Revision: A
+- Retrieved: 2026-11-03T01:33:47.459572Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0300&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0300&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 37341 bytes
+- Delivery SHA-256: a4594117f6f31bc5e3d738faba174b80a5a3512baa04e828fa4a2764b7158904
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

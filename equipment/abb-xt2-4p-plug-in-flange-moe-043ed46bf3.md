@@ -8,7 +8,7 @@ ABB XT2 4p PLUG-IN FLANGE MOE: breaker or breaker-accessory reference for breake
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0340
-- Formats: STEP, DXF
+- Formats: STEP, DXF, IGES
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2 4p PLUG-IN FLANGE MOE”. Keep those frame,
 - Manufacturer reference: 1SDH001295R0340
 - Document revision: A
 - Model envelope: 1SDH001295R0340\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_MOE.stp: 104.5 × 7.5 × 114.3 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, IGES
+- Listed files: 3
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -85,6 +85,7 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001295R0340\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_MOE.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001295R0340\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_MOE.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0340\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_MOE.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -126,5 +127,24 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0340&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 32199 bytes
 - Delivery SHA-256: e7e3cf8a39955253c8ada7c587c6e004af244665eac7e0dd5d3a28531075d191
+
+### 1SDH001295R0340\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_MOE.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001295R0340\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_MOE.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0340&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: d2f1bfc9ee70abe8734294552e3151a128cb1843547a0ecc8b8fb0a27184c395
+- Original bytes: 21394
+- Revision: A
+- Retrieved: 2026-11-03T01:34:46.002622Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0340&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0340&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 35802 bytes
+- Delivery SHA-256: dd9b88e425986a3cf3d1700079e1726671fc0e07e3b6e21f0b401046837c9754
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

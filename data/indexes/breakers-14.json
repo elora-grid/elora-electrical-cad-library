@@ -117,7 +117,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e6-2-iii-f-floor-fixing-external-b3b66e83bd",
       "recordPath": "equipment/mfr-abb-e6-2-iii-f-floor-fixing-external-b3b66e83bd.md",
@@ -261,7 +264,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e6-2-iv-f-floor-fixing-external-ul-1ec3baeffb",
       "recordPath": "equipment/mfr-abb-e6-2-iv-f-floor-fixing-external-ul-1ec3baeffb.md",
@@ -357,7 +363,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e6-2-iv-fs-f-floor-fixing-external-f04c9489ca",
       "recordPath": "equipment/mfr-abb-e6-2-iv-fs-f-floor-fixing-external-f04c9489ca.md",

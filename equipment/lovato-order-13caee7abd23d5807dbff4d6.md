@@ -7,7 +7,7 @@ LOVATO Electric GLX802 — One-pole terminal cover. 3-piece set, each covers 1 p
 - Category: Wiring & terminals
 - Entry type: product
 - Part number: GLX802
-- Formats: DWG, DXF, STEP
+- Formats: DWG, DXF, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -24,8 +24,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Part number: GLX802
 - Manufacturer reference: GLX802
 - Available native formats: DWG / DXF / STEP
-- Listed file formats: DWG, DXF, STEP
-- Listed files: 3
+- Listed file formats: DWG, DXF, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -85,6 +85,9 @@ Related GA references provide equipment context; a related category does not est
 - 2d\_GLX802.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
 - 3d\_GLX802.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - 2D\_ROZI\_046.dxf: public (public\_original); delivered format ZIP, contained formats DXF.
+- 3d\_GLX802.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 3d\_GLX802.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 3d\_GLX802.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -145,5 +148,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
 - Delivery: source-bundle; ZIP; 28972 bytes
 - Delivery SHA-256: b564df3400d81b01ff9dd08f6d5b943ededb8b96582e7f262596de01d2c32b0a
+
+### 3d\_GLX802.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 3d\_GLX802.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 657e27d25f0e036c254e9fd73f2e8766b7ae7231cc36a29ac7bb821b0cd87917
+- Original bytes: 13421
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Delivery: converted; 3MF; 1445 bytes
+- Delivery SHA-256: a553b241c239dfc1daea3ce4c0d679c30b7fd821cf759319c9c277e43270a396
+
+### 3d\_GLX802.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 3d\_GLX802.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 657e27d25f0e036c254e9fd73f2e8766b7ae7231cc36a29ac7bb821b0cd87917
+- Original bytes: 13421
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Delivery: converted; IGES; 22842 bytes
+- Delivery SHA-256: d307f0ddd63451f852c0d983a67b69e469a89e57829f93088f616404e2f329a4
+
+### 3d\_GLX802.stl
+
+- Format: STL
+- Purpose: mesh converted from 3d\_GLX802.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 657e27d25f0e036c254e9fd73f2e8766b7ae7231cc36a29ac7bb821b0cd87917
+- Original bytes: 13421
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GLX802.stp)
+- Delivery: converted; STL; 1484 bytes
+- Delivery SHA-256: 49a41778c9fb28c37a7f745e5afc4937477335ea8c8e263dbbd22494d93033c1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

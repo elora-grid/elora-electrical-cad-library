@@ -7,7 +7,7 @@ Weidmüller DEK 5 GW 14 — Terminal marking / Terminal marking, Pitch, in mm: 5
 - Category: Wiring & terminals
 - Entry type: product
 - Part number: 0522660014
-- Formats: DWG, DXF, STEP
+- Formats: DWG, DXF, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 0522660014
 - Manufacturer type: DEK 5 GW 14
 - Available native formats: DWG / DXF / STEP
-- Listed file formats: DWG, DXF, STEP
-- Listed files: 3
+- Listed file formats: DWG, DXF, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 - 0522660014\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
 - 0522660014\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
 - 0522660014.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 0522660014.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 0522660014.iges: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 0522660014.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -165,5 +168,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
 - Delivery: source-bundle; ZIP; 5335 bytes
 - Delivery SHA-256: de47fe83448a0f9bbc6319d3e1784e92b69d798d6129f423732d2f5bc2cc2d50
+
+### 0522660014.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 0522660014.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: b55e0493cf7d55343b3ce2ffbded1c2b23c54cfd96c0cf2af62db4cb111cf6b2
+- Original bytes: 23807
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Delivery: converted; 3MF; 1668 bytes
+- Delivery SHA-256: 8986db13f93c799c1721e00fbaabd51fe23e4aa5074c98c249a962a4c7882466
+
+### 0522660014.iges
+
+- Format: IGES
+- Purpose: brep solid converted from 0522660014.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: b55e0493cf7d55343b3ce2ffbded1c2b23c54cfd96c0cf2af62db4cb111cf6b2
+- Original bytes: 23807
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Delivery: converted; IGES; 35883 bytes
+- Delivery SHA-256: 9960aa19f23079bca682ffb2c5cb611f59b59a7fabfb18bdda680e8934bd759f
+
+### 0522660014.stl
+
+- Format: STL
+- Purpose: mesh converted from 0522660014.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: b55e0493cf7d55343b3ce2ffbded1c2b23c54cfd96c0cf2af62db4cb111cf6b2
+- Original bytes: 23807
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/d7ffcdf2-31ea-49d9-8abe-de16731a77f0/original/0522660014.stp)
+- Delivery: converted; STL; 2284 bytes
+- Delivery SHA-256: 48986f8a0b36665cfd3f4ec36c0024f8227865a4ecc61cd607250bcb997c619e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

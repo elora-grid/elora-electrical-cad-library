@@ -7,7 +7,7 @@ Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Acce
 - Category: Switchroom services
 - Entry type: product
 - Part number: FFL700DP
-- Formats: DWG, STP, DXF
+- Formats: DWG, STP, DXF, 3MF, IGES, STL
 - Discovery markets: UK, Europe, Global
 - Access: direct
 - Checked: 2026-10-14T01:07:25.812525+00:00
@@ -23,8 +23,8 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Resource type: Product
 - Part number: FFL700DP
 - Standards: EN 12845, IEC 61010-1, IEC 61010-2-030, IEC 61000-6-2, IEC 61000-6-3
-- Listed file formats: DWG, STP, DXF
-- Listed files: 3
+- Listed file formats: DWG, STP, DXF, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
@@ -46,7 +46,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with FFL700DP. The files above belong to LOVATO Electric's FFL700DP diesel fire-pump controller resource; match any model or option suffix in the filename to your selected unit.
-Available here: DWG, DXF, STP. The individual filenames above distinguish the supplied variants.
+Available here: DWG, DXF, STP, 3MF, IGES, STL. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -70,6 +70,9 @@ Related GA references provide equipment context; a related category does not est
 - 2d\_FFL700DP.dwg: public (public\_original); delivered format DWG, contained formats DWG.
 - 2d\_FFL700DP.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
 - 3d\_FFL700DP.stp: public (public\_original); delivered format STP, contained formats STEP.
+- FFL700DP.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- FFL700DP.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- FFL700DP.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -133,5 +136,65 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://catalogue.lovatoelectric.com/)
 - Delivery: original; STP; 61263 bytes
 - Delivery SHA-256: 0631b4ccb7632d91357a911823e711c4b91375fde852af96eb3f7e2fe9c5a7c8
+
+### FFL700DP.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 3d\_FFL700DP.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_FFL700DP.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 0631b4ccb7632d91357a911823e711c4b91375fde852af96eb3f7e2fe9c5a7c8
+- Original bytes: 61263
+- Revision: Not recorded
+- Retrieved: 2026-10-14T01:07:25.812525+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/FFL700DP/FFL700DP/snp)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gb_en/Stand-alone-gen-set-controller-12-24VDC-USB-optical-and-Wi-Fi-point-programming-port-on-front-W-Pick-up-speed-input-IP54/RGK600SA/snp)
+- [Rights evidence](https://catalogue.lovatoelectric.com/)
+- Delivery: converted; 3MF; 21255 bytes
+- Delivery SHA-256: 88269e6b6651b13755fcdbdac5b5d52416c1c40edcace8b88867c176b9a9221d
+
+### FFL700DP.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 3d\_FFL700DP.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_FFL700DP.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 0631b4ccb7632d91357a911823e711c4b91375fde852af96eb3f7e2fe9c5a7c8
+- Original bytes: 61263
+- Revision: Not recorded
+- Retrieved: 2026-10-14T01:07:25.812525+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/FFL700DP/FFL700DP/snp)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gb_en/Stand-alone-gen-set-controller-12-24VDC-USB-optical-and-Wi-Fi-point-programming-port-on-front-W-Pick-up-speed-input-IP54/RGK600SA/snp)
+- [Rights evidence](https://catalogue.lovatoelectric.com/)
+- Delivery: converted; IGES; 115344 bytes
+- Delivery SHA-256: 22859db05172497e02dbd9eb1a4341945e4461fc6adfd5b2ef02348836bdd263
+
+### FFL700DP.stl
+
+- Format: STL
+- Purpose: mesh converted from 3d\_FFL700DP.stp.
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_FFL700DP.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 0631b4ccb7632d91357a911823e711c4b91375fde852af96eb3f7e2fe9c5a7c8
+- Original bytes: 61263
+- Revision: Not recorded
+- Retrieved: 2026-10-14T01:07:25.812525+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/FFL700DP/FFL700DP/snp)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gb_en/Stand-alone-gen-set-controller-12-24VDC-USB-optical-and-Wi-Fi-point-programming-port-on-front-W-Pick-up-speed-input-IP54/RGK600SA/snp)
+- [Rights evidence](https://catalogue.lovatoelectric.com/)
+- Delivery: converted; STL; 59284 bytes
+- Delivery SHA-256: c9642864090bf3b3f43a888cc3dc1d7305a59099e461f20774e9fb0885e6dcb5
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

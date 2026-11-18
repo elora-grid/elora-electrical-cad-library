@@ -9,7 +9,7 @@ E4.2 III F FLOOR FIXING EXTERNAL: ABB manufacturer STEP resource, document 1SDH0
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0173
 - Installation applications: switchgear, switchrooms
-- Formats: STEP, DXF
+- Formats: STEP, DXF, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E4.2 III F FLOOR FIXING EXTERNAL; ABB document 1SD
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0173
 - Model extents (X × Y × Z, mm): 500.0 × 200.0 × 10.0
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -85,6 +85,9 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -130,5 +133,68 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 29939 bytes
 - Delivery SHA-256: 80e8ca75adeae9d980e615e49065b3ae242f6ad5c85663281ee70adddd401a1e
+
+### 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 4b30a022875635e3f8792a8e181269eda37326ca5194a43a0f2148f40caadfc8
+- Original bytes: 21276
+- Revision: A
+- Retrieved: 2026-11-03T01:30:57.369167+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; 3MF; 34297 bytes
+- Delivery SHA-256: 3be03fe88b1037f4a5e53d393378e78df96cf247cf6c3150fb7e7f433bc4b53e
+
+### 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 4b30a022875635e3f8792a8e181269eda37326ca5194a43a0f2148f40caadfc8
+- Original bytes: 21276
+- Revision: A
+- Retrieved: 2026-11-03T01:30:57.369167+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 46899 bytes
+- Delivery SHA-256: 0fe7c56c78bc0253a7453dd06222175e1d85eae0c11511a943511c94342c9650
+
+### 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.stl
+
+- Format: STL
+- Purpose: mesh converted from 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 4b30a022875635e3f8792a8e181269eda37326ca5194a43a0f2148f40caadfc8
+- Original bytes: 21276
+- Revision: A
+- Retrieved: 2026-11-03T01:30:57.369167+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; STL; 102284 bytes
+- Delivery SHA-256: 978444fe35ca58fa0d06c6868c4f1deee616e47d24a7a6032c725c1a5f0f2b17
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

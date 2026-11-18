@@ -352,7 +352,10 @@
       "formats": [
         "DWG",
         "STP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-ffl700dp",
       "recordPath": "equipment/europe-lovato-ffl700dp.md",

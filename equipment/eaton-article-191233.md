@@ -7,7 +7,7 @@ Eaton NZMN2-A200-S07-DC — DC-Circuitbreaker, 3p, 200A, Ii = fixed. Retained ma
 - Category: Breakers & accessories
 - Entry type: product
 - Part number: 191233
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 191233
 - Manufacturer type: NZMN2-A200-S07-DC
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -86,6 +86,9 @@ Related GA references provide equipment context; a related category does not est
 
 - eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-molded-case-switches-mcad-drawings-nzm2-3p.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-molded-case-switches-mcad-3d-models-nzm2-3p.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-molded-case-switches-mcad-3d-models-nzm2-3p.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -127,5 +130,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-molded-case-switches-mcad-drawings-nzm2-3p.dwg)
 - Delivery: source-bundle; ZIP; 450448 bytes
 - Delivery SHA-256: e9657e7758bd2504710da6c5f96236590cb48be84f4a7ac75f95fac38dee3a06
+
+### eaton-molded-case-switches-mcad-3d-models-nzm2-3p.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 3854eb3b5a6b41403fe3875a1263e60827650b55c1a805cf708b78ed98297dc3
+- Original bytes: 148191
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Delivery: converted; 3MF; 246392 bytes
+- Delivery SHA-256: a0df255b30a8c6e7e3a399400647a32e14da7da8f3117f9b9fff64f149281ee1
+
+### eaton-molded-case-switches-mcad-3d-models-nzm2-3p.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 3854eb3b5a6b41403fe3875a1263e60827650b55c1a805cf708b78ed98297dc3
+- Original bytes: 148191
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Delivery: converted; IGES; 519291 bytes
+- Delivery SHA-256: 7f1bf3c8c55e045c6c9ce864826c57e490ac35b105af2abfefc1a0bb9fc9706a
+
+### eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 3854eb3b5a6b41403fe3875a1263e60827650b55c1a805cf708b78ed98297dc3
+- Original bytes: 148191
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-molded-case-switches-mcad-3d-models-nzm2-3p.stp)
+- Delivery: converted; STL; 695684 bytes
+- Delivery SHA-256: af7a5b19d6019c88f4ea1cfc97ba4385e354c5258bd76788a6c29785c2f6a43d
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

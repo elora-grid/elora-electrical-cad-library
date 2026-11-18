@@ -7,7 +7,7 @@ Eaton NZM2-4-160-XKC — Box terminal, 4p, up to 160 A. Retained manufacturer CA
 - Category: Wiring & terminals
 - Entry type: product
 - Part number: 266755
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 266755
 - Manufacturer type: NZM2-4-160-XKC
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 3
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 - eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-mccb-terminals-mcad-drawings-nzm2-4-xkc.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
 - eaton-mccb-terminals-mcad-drawings-nzm2-xkc.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -141,5 +144,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-mccb-terminals-mcad-drawings-nzm2-xkc.dwg)
 - Delivery: source-bundle; ZIP; 374538 bytes
 - Delivery SHA-256: 4ce41bccfdbb9ae8999a1a1df6ef468cd2dd58481943bad1d7122368da79438f
+
+### eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 21a177fc5a887269380d9b00e2af5aedcbc0ae3dc0eb4ea3108017034baf3227
+- Original bytes: 121151
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Delivery: converted; 3MF; 283110 bytes
+- Delivery SHA-256: 1a1da8a20156e5ab3df745e31d44d95933804b8941af86afc008273a081fb26e
+
+### eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 21a177fc5a887269380d9b00e2af5aedcbc0ae3dc0eb4ea3108017034baf3227
+- Original bytes: 121151
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Delivery: converted; IGES; 954909 bytes
+- Delivery SHA-256: 4f58c29d72ad4fe72f4a101e7c768b05684daf6f3d8738caaf43dd2cbb384a64
+
+### eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 21a177fc5a887269380d9b00e2af5aedcbc0ae3dc0eb4ea3108017034baf3227
+- Original bytes: 121151
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-mccb-terminals-mcad-3d-models-nzm2-4-xkc.stp)
+- Delivery: converted; STL; 888884 bytes
+- Delivery SHA-256: c38aadf85a83f23c6b06ad3c5ff294fc6635a9bec901b68e62a9ca8256be4c2c
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

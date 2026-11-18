@@ -7,7 +7,7 @@ LS ELECTRIC ACC-KIT-BLANK-L3-4X. Retained manufacturer CAD files and drawings fo
 - Category: Switchboards & switchgear
 - Entry type: product
 - Part number: 7019001100
-- Formats: STEP
+- Formats: STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 7019001100
 - Publisher pack quantity: 10; package quantity, not additional equipment models
 - Available native formats: STEP
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, 3MF, IGES, STL
+- Listed files: 4
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -80,6 +80,9 @@ Related GA references provide equipment context; a related category does not est
 [Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/ls-electric-article-7019001100)
 
 - 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -102,5 +105,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://nahp.ls-electric.com/support/download-center)
 - Delivery: source-bundle; ZIP; 11417 bytes
 - Delivery SHA-256: 59f37e1a2af4a40ff0113b2aadcff5325a698e0be0883f044bcc185e13ac2104
+
+### 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).stp.
+- [Official source](https://nahp.ls-electric.com/support/download-center)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 3d91529158bd94f1573a436efeebdc1517f658fad1249c5e564e814f9f654bb5
+- Original bytes: 54757
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LS ELECTRIC
+- [Hosting evidence](https://nahp.ls-electric.com/support/download-center)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://nahp.ls-electric.com/support/download-center)
+- Delivery: converted; 3MF; 18310 bytes
+- Delivery SHA-256: b0c13dbdfad2515168c7bf204774861b79df16ac01fa9fda390c7d335b9bd3db
+
+### 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).igs
+
+- Format: IGES
+- Purpose: brep solid converted from 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).stp.
+- [Official source](https://nahp.ls-electric.com/support/download-center)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 3d91529158bd94f1573a436efeebdc1517f658fad1249c5e564e814f9f654bb5
+- Original bytes: 54757
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LS ELECTRIC
+- [Hosting evidence](https://nahp.ls-electric.com/support/download-center)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://nahp.ls-electric.com/support/download-center)
+- Delivery: converted; IGES; 78813 bytes
+- Delivery SHA-256: 28beb8e32195d80983bf0a102d11d08239b12acd39a435c031d6df01e4bab43c
+
+### 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).stl
+
+- Format: STL
+- Purpose: mesh converted from 7019001100\_ACC-KIT-BLANK-L3-4X (10EA).stp.
+- [Official source](https://nahp.ls-electric.com/support/download-center)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 3d91529158bd94f1573a436efeebdc1517f658fad1249c5e564e814f9f654bb5
+- Original bytes: 54757
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LS ELECTRIC
+- [Hosting evidence](https://nahp.ls-electric.com/support/download-center)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://nahp.ls-electric.com/support/download-center)
+- Delivery: converted; STL; 67484 bytes
+- Delivery SHA-256: e60b55f1c3286d700e53e95c2e312bbc5b35445576ef05ba279a49783322f920
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

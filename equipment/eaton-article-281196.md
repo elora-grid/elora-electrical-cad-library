@@ -7,7 +7,7 @@ Eaton DILM12-XMV — Interlock, mechanical, for DILM7-15. Retained manufacturer 
 - Category: Automation & controls
 - Entry type: product
 - Part number: 281196
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 281196
 - Manufacturer type: DILM12-XMV
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, 3MF, STL
+- Listed files: 4
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -80,6 +80,8 @@ Related GA references provide equipment context; a related category does not est
 
 - dil\_m12\_xmv.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-accessories-mcad-drawings-dil-m12-xmv.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- dil\_m12\_xmv.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- dil\_m12\_xmv.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -121,5 +123,43 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-accessories-mcad-drawings-dil-m12-xmv.dwg)
 - Delivery: source-bundle; ZIP; 1063728 bytes
 - Delivery SHA-256: 77cd91ad20648fe2c7c5e94fd1ed3fab025c0564c1a0a0e4d2f57770b9d573b6
+
+### dil\_m12\_xmv.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from dil\_m12\_xmv.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/dil_m12_xmv.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 938ac08f5f1c2625bd6dbfa856fb3b58fc1a3da3b3840e544795a8737619f5eb
+- Original bytes: 101976
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/dil_m12_xmv.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/dil_m12_xmv.stp)
+- Delivery: converted; 3MF; 39680 bytes
+- Delivery SHA-256: b248862daf6b1548da879fa5ac6e514dc906f0634f8081cb5532996dc4d40ff2
+
+### dil\_m12\_xmv.stl
+
+- Format: STL
+- Purpose: mesh converted from dil\_m12\_xmv.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/dil_m12_xmv.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 938ac08f5f1c2625bd6dbfa856fb3b58fc1a3da3b3840e544795a8737619f5eb
+- Original bytes: 101976
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/dil_m12_xmv.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/dil_m12_xmv.stp)
+- Delivery: converted; STL; 129684 bytes
+- Delivery SHA-256: eeba5c0b679981946315d958bb56940da75530dc7e7a461b3e44ee4f87732b8a
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

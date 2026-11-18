@@ -7,7 +7,7 @@ Weidmüller QL 2 SAKS4 — Cross-connector for terminal block / Cross-connector 
 - Category: Wiring & terminals
 - Entry type: product
 - Part number: 0328000000
-- Formats: DWG, DXF, STEP
+- Formats: DWG, DXF, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 0328000000
 - Manufacturer type: QL 2 SAKS4
 - Available native formats: DWG / DXF / STEP
-- Listed file formats: DWG, DXF, STEP
-- Listed files: 3
+- Listed file formats: DWG, DXF, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 - 0328000000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - 0328000000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
 - 0328000000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 0328000000.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 0328000000.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 0328000000.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -165,5 +168,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - 0328000000\_top.DXF
 
 </details>
+
+### 0328000000.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 0328000000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: c500aba4f5210d58d86ac2b55dbfbf0b2aaf91002fa98273e81152e217802f6d
+- Original bytes: 21243
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Delivery: converted; 3MF; 7403 bytes
+- Delivery SHA-256: 7ba5138aea4353a55e53c7efbc9826bdbd68df1e590e6d0369b32f28a2c043a5
+
+### 0328000000.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 0328000000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: c500aba4f5210d58d86ac2b55dbfbf0b2aaf91002fa98273e81152e217802f6d
+- Original bytes: 21243
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Delivery: converted; IGES; 38961 bytes
+- Delivery SHA-256: ea072a24854919985508c87c07c4054d0d7003ffcb6edd082c807d8830e793ad
+
+### 0328000000.stl
+
+- Format: STL
+- Purpose: mesh converted from 0328000000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: c500aba4f5210d58d86ac2b55dbfbf0b2aaf91002fa98273e81152e217802f6d
+- Original bytes: 21243
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/cf7277a5-4767-45d7-afec-005860567c0f/original/0328000000.stp)
+- Delivery: converted; STL; 26684 bytes
+- Delivery SHA-256: e777cc17c3c8a66cab847d3ae8c182ad02be787ba491d355d13e97dd4a0def1a
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

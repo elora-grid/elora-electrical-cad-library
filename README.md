@@ -17,7 +17,7 @@ The current snapshot contains **56,512 catalogue entries**, **397 manufacturers*
 
 The snapshot includes **1175 individually identified drawing entries** and **35627 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
 
-The feed lists **84,066 files** in total. Artifact decisions are recorded separately: **81,209 public**, **2,122 requiring a CAD account** and **735 requiring review**. A public classification alone does not mean a hosted attachment is available.
+The feed lists **85,115 files** in total. Artifact decisions are recorded separately: **81,209 public**, **3,171 requiring a CAD account** and **735 requiring review**. A public classification alone does not mean a hosted attachment is available.
 
 Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.
 

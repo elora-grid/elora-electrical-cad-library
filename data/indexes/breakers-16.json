@@ -165,7 +165,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-withdrawable-flange-optional-b985c1ad87",
       "recordPath": "equipment/mfr-abb-xt2-3p-withdrawable-flange-optional-b985c1ad87.md",
@@ -441,7 +444,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-4p-fixed-flange-fld-8eedff385b",
       "recordPath": "equipment/mfr-abb-xt2-4p-fixed-flange-fld-8eedff385b.md",
@@ -453,7 +457,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-4p-fixed-flange-optional-95deab22eb",
       "recordPath": "equipment/mfr-abb-xt2-4p-fixed-flange-optional-95deab22eb.md",
@@ -549,7 +556,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-4p-plug-in-flange-fld-571d628663",
       "recordPath": "equipment/mfr-abb-xt2-4p-plug-in-flange-fld-571d628663.md",
@@ -561,7 +569,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-4p-plug-in-flange-optional-865905f451",
       "recordPath": "equipment/mfr-abb-xt2-4p-plug-in-flange-optional-865905f451.md",
@@ -657,7 +668,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-4p-withdrawable-flange-optional-7f75395b3a",
       "recordPath": "equipment/mfr-abb-xt2-4p-withdrawable-flange-optional-7f75395b3a.md",
@@ -705,7 +719,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-3p-fixed-flange-mod-6257a5968f",
       "recordPath": "equipment/mfr-abb-xt3-3p-fixed-flange-mod-6257a5968f.md",
@@ -717,7 +732,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-3p-fixed-flange-optional-21215c953d",
       "recordPath": "equipment/mfr-abb-xt3-3p-fixed-flange-optional-21215c953d.md",
@@ -729,7 +747,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-3p-fixed-flange-rhd-05875a0423",
       "recordPath": "equipment/mfr-abb-xt3-3p-fixed-flange-rhd-05875a0423.md",
@@ -825,7 +846,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-3p-plug-in-flange-mod-1fe6fc92ad",
       "recordPath": "equipment/mfr-abb-xt3-3p-plug-in-flange-mod-1fe6fc92ad.md",
@@ -837,7 +859,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-3p-plug-in-flange-optional-552495d964",
       "recordPath": "equipment/mfr-abb-xt3-3p-plug-in-flange-optional-552495d964.md",
@@ -969,7 +994,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-4p-fixed-flange-mod-cdac8369dd",
       "recordPath": "equipment/mfr-abb-xt3-4p-fixed-flange-mod-cdac8369dd.md",
@@ -981,7 +1007,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-4p-fixed-flange-optional-c85097414f",
       "recordPath": "equipment/mfr-abb-xt3-4p-fixed-flange-optional-c85097414f.md",
@@ -993,7 +1022,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-4p-fixed-flange-rhd-dd5e01228f",
       "recordPath": "equipment/mfr-abb-xt3-4p-fixed-flange-rhd-dd5e01228f.md",
@@ -1101,7 +1133,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-4p-plug-in-flange-mod-e789e5f4c8",
       "recordPath": "equipment/mfr-abb-xt3-4p-plug-in-flange-mod-e789e5f4c8.md",
@@ -1113,7 +1146,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-4p-plug-in-flange-optional-68504c623b",
       "recordPath": "equipment/mfr-abb-xt3-4p-plug-in-flange-optional-68504c623b.md",
@@ -1220,7 +1256,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-3p-fixed-flange-optional-dc174a818c",
       "recordPath": "equipment/mfr-abb-xt4-3p-fixed-flange-optional-dc174a818c.md",
@@ -1424,7 +1463,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-3p-plug-in-flange-optional-6b8686a4a6",
       "recordPath": "equipment/mfr-abb-xt4-3p-plug-in-flange-optional-6b8686a4a6.md",
@@ -1808,7 +1850,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-3p-withdrawable-flange-optional-57c504d27d",
       "recordPath": "equipment/mfr-abb-xt4-3p-withdrawable-flange-optional-57c504d27d.md",
@@ -2132,7 +2177,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-fixed-flange-optional-e2161dd3f1",
       "recordPath": "equipment/mfr-abb-xt4-4p-fixed-flange-optional-e2161dd3f1.md",
@@ -2288,7 +2336,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-plug-in-flange-optional-eb98944311",
       "recordPath": "equipment/mfr-abb-xt4-4p-plug-in-flange-optional-eb98944311.md",
@@ -2612,7 +2663,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-withdrawable-flange-optional-b58baa0bd0",
       "recordPath": "equipment/mfr-abb-xt4-4p-withdrawable-flange-optional-b58baa0bd0.md",

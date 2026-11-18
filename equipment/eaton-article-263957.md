@@ -7,7 +7,7 @@ Eaton ZV-SS-80A — ZV Plug-in Busbar System 80A, Busbar CU, 1 meter, with cross
 - Category: Busbar & distribution
 - Entry type: product
 - Part number: 263957
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 263957
 - Manufacturer type: ZV-SS-80A
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 3
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 - eaton-insulation-shield-mcad-3d-models-zv-adp.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-zv\_l1\_n\_10-3d-model.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-busbars-mcad-drawings-zv-ss-80a.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-insulation-shield-mcad-3d-models-zv-adp.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-insulation-shield-mcad-3d-models-zv-adp.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-insulation-shield-mcad-3d-models-zv-adp.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -141,5 +144,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-busbars-mcad-drawings-zv-ss-80a.dwg)
 - Delivery: source-bundle; ZIP; 416688 bytes
 - Delivery SHA-256: f2fefe7afae39a51af5d6960a22ef450b7174e200a026b8afff1bc1eb1fb41e5
+
+### eaton-insulation-shield-mcad-3d-models-zv-adp.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-zv-adp.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 03ba5b8a10da60f4142f3af5712a2f04617ec3035a6d8c398a08f8682529d611
+- Original bytes: 50029
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Delivery: converted; 3MF; 45945 bytes
+- Delivery SHA-256: 2a638b2131de33cf372f1ba2ca537c8397c72d0210f06dec135737122f9c4082
+
+### eaton-insulation-shield-mcad-3d-models-zv-adp.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-insulation-shield-mcad-3d-models-zv-adp.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 03ba5b8a10da60f4142f3af5712a2f04617ec3035a6d8c398a08f8682529d611
+- Original bytes: 50029
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Delivery: converted; IGES; 112509 bytes
+- Delivery SHA-256: b908486372ca0fa4dd0b8f6810378fc51f491e6d3cd5929213b5330e4ade74f7
+
+### eaton-insulation-shield-mcad-3d-models-zv-adp.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-zv-adp.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 03ba5b8a10da60f4142f3af5712a2f04617ec3035a6d8c398a08f8682529d611
+- Original bytes: 50029
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-insulation-shield-mcad-3d-models-zv-adp.stp)
+- Delivery: converted; STL; 111084 bytes
+- Delivery SHA-256: 351844a99fcd716dab41e460607c948c1ec9dac0c637c47995c1856ad6c7f3ba
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

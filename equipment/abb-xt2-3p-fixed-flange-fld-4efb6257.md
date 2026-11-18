@@ -9,7 +9,7 @@ XT2 3p FIXED FLANGE FLD: ABB manufacturer STEP resource, document 1SDH001295R017
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0173
 - Installation applications: switchgear, switchrooms
-- Formats: STEP, DXF
+- Formats: STEP, DXF, IGES
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT2 3p FIXED FLANGE FLD; ABB document 1SDH001295R0
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0173
 - Model extents (X × Y × Z, mm): 104.5 × 7.5 × 114.3
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, IGES
+- Listed files: 3
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -85,6 +85,7 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001295R0173\_1PA\_001\_00\_XT2\_3P\_FIXED\_MOSTRINA\_FLD.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001295R0173\_1PA\_001\_00\_XT2\_3P\_FIXED\_MOSTRINA\_FLD.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0173\_1PA\_001\_00\_XT2\_3P\_FIXED\_MOSTRINA\_FLD.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -130,5 +131,26 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 31561 bytes
 - Delivery SHA-256: ef646f9a0de03f26a6fe2c886605ee68780e831f03b5071c078c712f2008e78f
+
+### 1SDH001295R0173\_1PA\_001\_00\_XT2\_3P\_FIXED\_MOSTRINA\_FLD.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001295R0173\_1PA\_001\_00\_XT2\_3P\_FIXED\_MOSTRINA\_FLD.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: ce71ef42e78b6c2971ba3b8b2f455c2679ed92c5c13329c94f1e76ae2dbfe737
+- Original bytes: 22055
+- Revision: A
+- Retrieved: 2026-11-03T01:30:59.067686+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 37341 bytes
+- Delivery SHA-256: 3ffaa2097e239738746083021dbfb9ed9eb02311f0c3f3dcaa350f93bf98189d
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

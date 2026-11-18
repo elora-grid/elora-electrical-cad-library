@@ -499,7 +499,10 @@
       "name": "Z-RC/AK-2TE — FI lead-seal cap set, 2HP",
       "manufacturer": "Eaton",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-285385",
       "recordPath": "equipment/eaton-article-285385.md",
@@ -511,7 +514,8 @@
       "manufacturer": "Eaton",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-285249",
       "recordPath": "equipment/eaton-article-285249.md",
@@ -535,7 +539,8 @@
       "manufacturer": "Eaton",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-285248",
       "recordPath": "equipment/eaton-article-285248.md",

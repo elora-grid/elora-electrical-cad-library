@@ -7,7 +7,7 @@ Weidmüller ESO 7 P DIN A4 WS — Labeling for terminal block / Terminal marking
 - Category: Wiring & terminals
 - Entry type: product
 - Part number: 1670390000
-- Formats: DWG, DXF, STEP
+- Formats: DWG, DXF, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 1670390000
 - Manufacturer type: ESO 7 P DIN A4 WS
 - Available native formats: DWG / DXF / STEP
-- Listed file formats: DWG, DXF, STEP
-- Listed files: 3
+- Listed file formats: DWG, DXF, STEP, 3MF, IGES, STL
+- Listed files: 6
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 - 1670390000.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - 1670390000\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG.
 - 1670390000\_DXF.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+- 1670390000.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1670390000.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1670390000.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -165,5 +168,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - 1670390000\_top.DXF
 
 </details>
+
+### 1670390000.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1670390000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: acb51201f8f4741fb6c82afab830692c33a6c2b8991f2132ea45a7dd4c6c6c45
+- Original bytes: 10925
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Delivery: converted; 3MF; 1295 bytes
+- Delivery SHA-256: 8540fc9607bfed8ac970d0b6c060a8adbab19fc90f4c6e199b4d651fa7b2b10a
+
+### 1670390000.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1670390000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: acb51201f8f4741fb6c82afab830692c33a6c2b8991f2132ea45a7dd4c6c6c45
+- Original bytes: 10925
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Delivery: converted; IGES; 14256 bytes
+- Delivery SHA-256: bb2f39aa4654b1806fe345f4ac22a93f289a49c3d1057a44f4b6277d33e51d7c
+
+### 1670390000.stl
+
+- Format: STL
+- Purpose: mesh converted from 1670390000.stp.
+- [Official source](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: acb51201f8f4741fb6c82afab830692c33a6c2b8991f2132ea45a7dd4c6c6c45
+- Original bytes: 10925
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/06e9158b-3161-493d-b511-e839e392708a/original/1670390000.stp)
+- Delivery: converted; STL; 684 bytes
+- Delivery SHA-256: d792a7b0c3507eda62222d6397265570e542fbb630eb922a44e6f14628901153
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

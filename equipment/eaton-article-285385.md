@@ -7,7 +7,7 @@ Eaton Z-RC/AK-2TE — FI lead-seal cap set, 2HP. Retained manufacturer CAD files
 - Category: Switchboards & switchgear
 - Entry type: product
 - Part number: 285385
-- Formats: STEP
+- Formats: STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 285385
 - Manufacturer type: Z-RC/AK-2TE
 - Available native formats: STEP
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 
 - eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-mcb-rcd-accessories-transformers-mcad-3d-models-z-wfr3.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -122,5 +125,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-mcb-rcd-accessories-transformers-mcad-3d-models-z-wfr3.stp)
 - Delivery: source-bundle; ZIP; 34749 bytes
 - Delivery SHA-256: 97015c25117851d135761a11e5ea7d665e1d92503d5b32c7f84a170b27fc0be0
+
+### eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 2a7f294bdfb0a686484f9f0230c88d8b5d42b7b770e05c54c8fe028abd92d1d9
+- Original bytes: 26956
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Delivery: converted; 3MF; 77143 bytes
+- Delivery SHA-256: 7bc02d23f3d88ea867ba766d4a23c68d9a5956263e338d4018a4ec89f8577c84
+
+### eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 2a7f294bdfb0a686484f9f0230c88d8b5d42b7b770e05c54c8fe028abd92d1d9
+- Original bytes: 26956
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Delivery: converted; IGES; 58725 bytes
+- Delivery SHA-256: b30c3e40f1f49011822f6b4e8008ddd9980a4aa3450251321cf468360ae3ae82
+
+### eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 2a7f294bdfb0a686484f9f0230c88d8b5d42b7b770e05c54c8fe028abd92d1d9
+- Original bytes: 26956
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-insulation-shield-mcad-3d-models-z-rc-ak-2te.stp)
+- Delivery: converted; STL; 217084 bytes
+- Delivery SHA-256: aeefaa7aa30e22c679f3b464e2f5038fffd68e658d758ccaf1a7b7b99282daa8
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

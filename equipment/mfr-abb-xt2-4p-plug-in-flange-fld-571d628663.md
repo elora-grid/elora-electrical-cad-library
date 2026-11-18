@@ -8,7 +8,7 @@ ABB XT2 4p PLUG-IN FLANGE FLD: original STEP for circuit-breaker equipment layou
 - Entry type: product
 - Part number: Select exact configuration
 - Installation applications: switchgear
-- Formats: STEP, DXF
+- Formats: STEP, DXF, IGES
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-11
@@ -27,8 +27,8 @@ Use the manufacturer configuration named XT2 4p PLUG-IN FLANGE FLD.
 - Source document: 1SDH001295R0339; revision A
 - Source-model envelope: 104.5 × 7.5 × 114.3 mm
 - 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, IGES
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
@@ -93,6 +93,7 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001295R0339.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001295R0339.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0339.iges: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -134,5 +135,24 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0339&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 31707 bytes
 - Delivery SHA-256: 475f239c06271e5675f933ea35d08aa055fd4e69498b7bfd16784c1fdfc3803b
+
+### 1SDH001295R0339.iges
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001295R0339.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0339&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: f059e3f2891c00def438f2b18dfad49f9ef76b2e1e52a6577dba5ed441816e27
+- Original bytes: 22077
+- Revision: A
+- Retrieved: 2026-11-11T05:29:48.262985+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0339&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0339&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 37341 bytes
+- Delivery SHA-256: 49dc36c748c8a28dc87707eabaf18a06ce00b8fe57bbb4aea7da5ae0890880dd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

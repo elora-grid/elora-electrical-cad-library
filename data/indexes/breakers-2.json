@@ -74,7 +74,10 @@
       "drawingNumber": "1SDH001252R0062",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-a5931ef0",
       "recordPath": "equipment/abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-a5931ef0.md",
@@ -87,7 +90,10 @@
       "drawingNumber": "1SDH001336R0252",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-2-iv-fs-f-floor-fixing-external-ul-fcc211ee",
       "recordPath": "equipment/abb-e6-2-iv-fs-f-floor-fixing-external-ul-fcc211ee.md",
@@ -574,7 +580,8 @@
       "drawingNumber": "1SDH001295R0014",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-flange-mod-682278cd",
       "recordPath": "equipment/abb-xt1-3p-fixed-flange-mod-682278cd.md",
@@ -677,7 +684,10 @@
       "drawingNumber": "1SDH001252R0067",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-floor-fixing-807185d2",
       "recordPath": "equipment/abb-e1-2-iv-w-floor-fixing-807185d2.md",
@@ -690,7 +700,10 @@
       "drawingNumber": "1SDH001252R0370",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-2-ivfs-f-insulating-sheet-025923ed",
       "recordPath": "equipment/abb-e6-2-ivfs-f-insulating-sheet-025923ed.md",
@@ -763,7 +776,10 @@
       "drawingNumber": "1SDH001295R0015",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-flange-optional-ce1b9df8",
       "recordPath": "equipment/abb-xt1-3p-fixed-flange-optional-ce1b9df8.md",
@@ -776,7 +792,8 @@
       "drawingNumber": "1SDH001295R0173",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-flange-fld-4efb6257",
       "recordPath": "equipment/abb-xt2-3p-fixed-flange-fld-4efb6257.md",
@@ -1194,7 +1211,10 @@
       "drawingNumber": "1SDH001252R0070",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-rear-segregation-shr-0e0bcc3e",
       "recordPath": "equipment/abb-e1-2-iv-w-rear-segregation-shr-0e0bcc3e.md",

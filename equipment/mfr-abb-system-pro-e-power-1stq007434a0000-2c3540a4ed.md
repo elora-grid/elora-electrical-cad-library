@@ -8,7 +8,7 @@ ABB System pro E power - 1STQ007434A0000: original STEP for switchboard enclosur
 - Entry type: product
 - Part number: 1STQ007434A0000
 - Installation applications: switchrooms
-- Formats: STEP
+- Formats: STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-11
@@ -28,8 +28,8 @@ Manufacturer source discovery; confirm the exact regional equipment configuratio
 - Source document: 1STD002305; revision A
 - Source-model envelope: 910 × 9.8 × 210 mm
 - 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, 3MF, IGES, STL
+- Listed files: 4
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
@@ -93,6 +93,9 @@ Related GA references provide equipment context; a related category does not est
 [Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-system-pro-e-power-1stq007434a0000-2c3540a4ed)
 
 - 1STD002305.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1STD002305.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1STD002305.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1STD002305.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -115,5 +118,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 19493 bytes
 - Delivery SHA-256: 53ccb36ae665731475816c9ed920bda079a003ca9809011b6fd02f8dbbf2b997
+
+### 1STD002305.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1STD002305.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 53ccb36ae665731475816c9ed920bda079a003ca9809011b6fd02f8dbbf2b997
+- Original bytes: 19493
+- Revision: A
+- Retrieved: 2026-11-11T05:30:08.944562+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; 3MF; 182769 bytes
+- Delivery SHA-256: ec1887839a2aaa50c323c3a3bb9eafbed94f3bbbe4c54798559111c77c03960b
+
+### 1STD002305.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1STD002305.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 53ccb36ae665731475816c9ed920bda079a003ca9809011b6fd02f8dbbf2b997
+- Original bytes: 19493
+- Revision: A
+- Retrieved: 2026-11-11T05:30:08.944562+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 243567 bytes
+- Delivery SHA-256: c9200733a56251fecde282fc1bc41993cf4a801daef23bdfa9baf7371d79116b
+
+### 1STD002305.stl
+
+- Format: STL
+- Purpose: mesh converted from 1STD002305.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 53ccb36ae665731475816c9ed920bda079a003ca9809011b6fd02f8dbbf2b997
+- Original bytes: 19493
+- Revision: A
+- Retrieved: 2026-11-11T05:30:08.944562+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1STD002305&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; STL; 750084 bytes
+- Delivery SHA-256: 4b84335f0f36a8e01987bc512a468b93945de24947264f2ca29e5e77989c1631
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

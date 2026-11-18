@@ -2324,7 +2324,10 @@
       "drawingNumber": "1SDH001294R0003",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a1-1p-ef-up-bf98e678f7",
       "recordPath": "equipment/abb-a1-1p-ef-up-bf98e678f7.md",

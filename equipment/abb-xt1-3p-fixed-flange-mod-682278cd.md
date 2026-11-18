@@ -9,7 +9,7 @@ XT1 3p FIXED FLANGE MOD: ABB manufacturer STEP resource, document 1SDH001295R001
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0014
 - Installation applications: switchgear, switchrooms
-- Formats: STEP, DXF
+- Formats: STEP, DXF, IGES
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT1 3p FIXED FLANGE MOD; ABB document 1SDH001295R0
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0014
 - Model extents (X × Y × Z, mm): 91.0 × 7.3 × 132.6
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, IGES
+- Listed files: 3
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -85,6 +85,7 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001295R0014\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_MOD.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001295R0014\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_MOD.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0014\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_MOD.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -130,5 +131,26 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0014&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 31454 bytes
 - Delivery SHA-256: eab1670e89e18ee3aa05f8987cc7edaf8b7ec55b6d23775a6838ffe2c5cf6b23
+
+### 1SDH001295R0014\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_MOD.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001295R0014\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_MOD.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0014&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 02c77140aaa5c6d49320b04850c0640e0cae365d87fc5e79ab1600b412023427
+- Original bytes: 22000
+- Revision: A
+- Retrieved: 2026-11-03T01:32:18.884936+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0014&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0014&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 37179 bytes
+- Delivery SHA-256: 98308615512cb51a9ea52887b22a836218ea85b5dd83ba192e25b5147234660e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

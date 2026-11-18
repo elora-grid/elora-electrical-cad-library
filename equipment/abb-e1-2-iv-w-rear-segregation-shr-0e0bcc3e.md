@@ -9,7 +9,7 @@ E1.2 IV W REAR SEGREGATION SHR: ABB manufacturer STEP resource, document 1SDH001
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0070
 - Installation applications: switchgear, switchrooms
-- Formats: STEP, DXF
+- Formats: STEP, DXF, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E1.2 IV W REAR SEGREGATION SHR; ABB document 1SDH0
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0070
 - Model extents (X × Y × Z, mm): 552.0 × 3.0 × 350.0
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -85,6 +85,9 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -130,5 +133,68 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 27486 bytes
 - Delivery SHA-256: 43afcf6d75850985982f778fab5d40e37880c465b3b8f1e2e33072852b757384
+
+### 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 7103bd47fceb389f7b68262cabf208033fdcd5744f58ae7e1a7a9a63655a0d60
+- Original bytes: 16319
+- Revision: A
+- Retrieved: 2026-11-03T01:33:45.144715+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; 3MF; 1477 bytes
+- Delivery SHA-256: 9dbb7bf78ab916cdfe9b623968eb5e993a5ba138091d6cc03c7fd1069519f052
+
+### 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 7103bd47fceb389f7b68262cabf208033fdcd5744f58ae7e1a7a9a63655a0d60
+- Original bytes: 16319
+- Revision: A
+- Retrieved: 2026-11-03T01:33:45.144715+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 25434 bytes
+- Delivery SHA-256: b0cb94396ca2477f32c38acef470c12892af5bcecebfd4665944d86bcfabcd57
+
+### 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.stl
+
+- Format: STL
+- Purpose: mesh converted from 1SDH001252R0070\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_SHR.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 7103bd47fceb389f7b68262cabf208033fdcd5744f58ae7e1a7a9a63655a0d60
+- Original bytes: 16319
+- Revision: A
+- Retrieved: 2026-11-03T01:33:45.144715+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0070&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; STL; 1684 bytes
+- Delivery SHA-256: f6e280f5da417ba1d6a0b10a3e0290e78ea9afeee5e618102d329be7143d7d23
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

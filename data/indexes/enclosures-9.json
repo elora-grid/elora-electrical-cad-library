@@ -1350,7 +1350,10 @@
       "name": "System pro E power - 1STQ007434A0000",
       "manufacturer": "ABB",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-system-pro-e-power-1stq007434a0000-2c3540a4ed",
       "recordPath": "equipment/mfr-abb-system-pro-e-power-1stq007434a0000-2c3540a4ed.md",
@@ -1361,7 +1364,10 @@
       "name": "System pro E power - 1STQ007435A0000",
       "manufacturer": "ABB",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-system-pro-e-power-1stq007435a0000-a3c0211718",
       "recordPath": "equipment/mfr-abb-system-pro-e-power-1stq007435a0000-a3c0211718.md",
@@ -1372,7 +1378,10 @@
       "name": "System pro E power - 1STQ007436A0000",
       "manufacturer": "ABB",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-system-pro-e-power-1stq007436a0000-105d001e72",
       "recordPath": "equipment/mfr-abb-system-pro-e-power-1stq007436a0000-105d001e72.md",

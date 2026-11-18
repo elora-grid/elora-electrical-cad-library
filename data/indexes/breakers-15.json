@@ -2435,7 +2435,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt1-3p-plug-in-flange-mod-dab1e40182",
       "recordPath": "equipment/mfr-abb-xt1-3p-plug-in-flange-mod-dab1e40182.md",
@@ -2555,7 +2556,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt1-4p-fixed-flange-optional-bd34a135e4",
       "recordPath": "equipment/mfr-abb-xt1-4p-fixed-flange-optional-bd34a135e4.md",
@@ -2639,7 +2643,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt1-4p-plug-in-flange-mod-5e602974d9",
       "recordPath": "equipment/mfr-abb-xt1-4p-plug-in-flange-mod-5e602974d9.md",
@@ -2675,7 +2680,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-fixed-flange-moe-f3ac3a10fc",
       "recordPath": "equipment/mfr-abb-xt2-3p-fixed-flange-moe-f3ac3a10fc.md",
@@ -2687,7 +2693,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-fixed-flange-optional-77eae46bd7",
       "recordPath": "equipment/mfr-abb-xt2-3p-fixed-flange-optional-77eae46bd7.md",
@@ -2795,7 +2804,8 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "IGES"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-plug-in-flange-fld-8791683fc8",
       "recordPath": "equipment/mfr-abb-xt2-3p-plug-in-flange-fld-8791683fc8.md",
@@ -2807,7 +2817,10 @@
       "manufacturer": "ABB",
       "formats": [
         "STEP",
-        "DXF"
+        "DXF",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-plug-in-flange-optional-f36222fc8c",
       "recordPath": "equipment/mfr-abb-xt2-3p-plug-in-flange-optional-f36222fc8c.md",

@@ -1203,7 +1203,10 @@
       "name": "NHSN714004P2210- AM-ZLBM/ZHBM123-0-400-480/5",
       "manufacturer": "ABB",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-nhsn714004p2210-am-zlbm-zhbm123-0-400-480-5-ba3fc3d166",
       "recordPath": "equipment/mfr-abb-nhsn714004p2210-am-zlbm-zhbm123-0-400-480-5-ba3fc3d166.md",
@@ -2231,7 +2234,10 @@
       "name": "SMISSLINE ZLS200 busbar-10x3x1979",
       "manufacturer": "ABB",
       "formats": [
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-smissline-zls200-busbar-10x3x1979-1c789a248b",
       "recordPath": "equipment/mfr-abb-smissline-zls200-busbar-10x3x1979-1c789a248b.md",

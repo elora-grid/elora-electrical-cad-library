@@ -9,7 +9,7 @@ XT1 3p FIXED FLANGE OPTIONAL: ABB manufacturer STEP resource, document 1SDH00129
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0015
 - Installation applications: switchgear, switchrooms
-- Formats: STEP, DXF
+- Formats: STEP, DXF, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT1 3p FIXED FLANGE OPTIONAL; ABB document 1SDH001
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0015
 - Model extents (X × Y × Z, mm): 61.0 × 5.6 × 78.0
-- Listed file formats: STEP, DXF
-- Listed files: 2
+- Listed file formats: STEP, DXF, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -85,6 +85,9 @@ Related GA references provide equipment context; a related category does not est
 
 - 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.stp: public (public\_original); delivered format STEP, contained formats STEP.
 - 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -130,5 +133,68 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: converted; DXF; 32507 bytes
 - Delivery SHA-256: a293db8343341be0dfae870d0678304207d6851e9b2eb5ea67232d3259817ca2
+
+### 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 86a83873b55039a969e3bd6e349e2984dee8d7a04754a4392886eed1444c9485
+- Original bytes: 21855
+- Revision: A
+- Retrieved: 2026-11-03T01:32:31.259725+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; 3MF; 2244 bytes
+- Delivery SHA-256: 511dffc605ea146288b35d3e76591656dd8d60e91d535b03580919a12c3dd03c
+
+### 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.igs
+
+- Format: IGES
+- Purpose: brep solid converted from 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 86a83873b55039a969e3bd6e349e2984dee8d7a04754a4392886eed1444c9485
+- Original bytes: 21855
+- Revision: A
+- Retrieved: 2026-11-03T01:32:31.259725+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 37179 bytes
+- Delivery SHA-256: 6cb99c5e324ae04bdb2defc084cff6c5b16a9f44805e58a34e6b124bce34504b
+
+### 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.stl
+
+- Format: STL
+- Purpose: mesh converted from 1SDH001295R0015\_1PA\_001\_00\_XT1\_3P\_FIXED\_FLANGE\_OPTIONAL.stp.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 86a83873b55039a969e3bd6e349e2984dee8d7a04754a4392886eed1444c9485
+- Original bytes: 21855
+- Revision: A
+- Retrieved: 2026-11-03T01:32:31.259725+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0015&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; STL; 4884 bytes
+- Delivery SHA-256: 93e4b7e7ad8a3413ecbca7d0566f630d611e9f510176ae10e7292f0a5f59d7ee
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

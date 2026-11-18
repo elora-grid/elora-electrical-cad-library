@@ -8,7 +8,7 @@ ABB SMISSLINE ZLS200 busbar-10x3x1979: original STEP for busbar or distribution 
 - Entry type: product
 - Part number: Select exact configuration
 - Installation applications: switchgear
-- Formats: STEP
+- Formats: STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-11
@@ -26,8 +26,8 @@ Use the manufacturer configuration named SMISSLINE ZLS200 busbar-10x3x1979.
 - Source document: SMISSLINE ZLS200\_BUSBAR-10X3X1979
 - Source-model envelope: 3 × 10 × 1979 mm
 - 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, 3MF, IGES, STL
+- Listed files: 4
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
@@ -89,6 +89,9 @@ Related GA references provide equipment context; a related category does not est
 [Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-smissline-zls200-busbar-10x3x1979-1c789a248b)
 
 - SMISSLINE ZLS200\_BUSBAR-10X3X1979.step: public (public\_original); delivered format STEP, contained formats STEP.
+- SMISSLINE ZLS200\_BUSBAR-10X3X1979.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- SMISSLINE ZLS200\_BUSBAR-10X3X1979.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- SMISSLINE ZLS200\_BUSBAR-10X3X1979.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -111,5 +114,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; STEP; 14721 bytes
 - Delivery SHA-256: 502203a97733cec577b3b7ebd1d8b2f79950dbbf893fca3e600f85aab9902cf0
+
+### SMISSLINE ZLS200\_BUSBAR-10X3X1979.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from SMISSLINE ZLS200\_BUSBAR-10X3X1979.step.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 502203a97733cec577b3b7ebd1d8b2f79950dbbf893fca3e600f85aab9902cf0
+- Original bytes: 14721
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:29:34.908008+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; 3MF; 1278 bytes
+- Delivery SHA-256: b523231527f54c3f7a469eacbb22a54f196f462b3eb11d9b12dd04d5b703a59d
+
+### SMISSLINE ZLS200\_BUSBAR-10X3X1979.igs
+
+- Format: IGES
+- Purpose: brep solid converted from SMISSLINE ZLS200\_BUSBAR-10X3X1979.step.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 502203a97733cec577b3b7ebd1d8b2f79950dbbf893fca3e600f85aab9902cf0
+- Original bytes: 14721
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:29:34.908008+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; IGES; 13365 bytes
+- Delivery SHA-256: 769e94b2f13797f3d913bab804b09b6806933214ded84f516b827e72fbc6df33
+
+### SMISSLINE ZLS200\_BUSBAR-10X3X1979.stl
+
+- Format: STL
+- Purpose: mesh converted from SMISSLINE ZLS200\_BUSBAR-10X3X1979.step.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 502203a97733cec577b3b7ebd1d8b2f79950dbbf893fca3e600f85aab9902cf0
+- Original bytes: 14721
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:29:34.908008+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20ZLS200_BUSBAR-10X3X1979&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; STL; 684 bytes
+- Delivery SHA-256: 468219e6c8a2ce247c455f0945ef6d5fa19609e5c72a3d554255dea2ab84c844
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

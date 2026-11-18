@@ -9,7 +9,7 @@ SMISSLINE 250A Syystem ZLSP200\_busbar: ABB manufacturer STEP resource, document
 - Part number: Select exact configuration
 - Drawing/document number: BUSBAR 250A 3X25 80PLE
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for SMISSLINE 250A Syystem ZLSP200\_busbar; ABB docume
 - Resource type: Named drawing reference
 - Manufacturer drawing: BUSBAR 250A 3X25 80PLE
 - Model extents (X × Y × Z, mm): 1435.0 × 25.0 × 3.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, 3MF, IGES, STL
+- Listed files: 4
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -85,6 +85,9 @@ Related GA references provide equipment context; a related category does not est
 [Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-smissline-250a-syystem-zlsp200-busbar-42ac31b2)
 
 - Busbar\_250A\_3x25\_80PLE.step: public (public\_original); delivered format STEP, contained formats STEP.
+- Busbar\_250A\_3x25\_80PLE.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- Busbar\_250A\_3x25\_80PLE.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- Busbar\_250A\_3x25\_80PLE.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -109,5 +112,68 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 14696 bytes
 - Delivery SHA-256: 38773e2b8f7773e4488a77eaea123e52855993a6239e10899b41a8674d589208
+
+### Busbar\_250A\_3x25\_80PLE.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from Busbar\_250A\_3x25\_80PLE.step.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 38773e2b8f7773e4488a77eaea123e52855993a6239e10899b41a8674d589208
+- Original bytes: 14696
+- Revision: A
+- Retrieved: 2026-11-03T01:30:56.677147+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; 3MF; 1263 bytes
+- Delivery SHA-256: a0706f8d5af6a6e1e03cf2dd20370326f1e011935be9b3d2bbf7db9e1003eb3f
+
+### Busbar\_250A\_3x25\_80PLE.igs
+
+- Format: IGES
+- Purpose: brep solid converted from Busbar\_250A\_3x25\_80PLE.step.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 38773e2b8f7773e4488a77eaea123e52855993a6239e10899b41a8674d589208
+- Original bytes: 14696
+- Revision: A
+- Retrieved: 2026-11-03T01:30:56.677147+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; IGES; 13446 bytes
+- Delivery SHA-256: ccb07e16e05078e0bf1978594bd8012cfbc6b71b98903558cbf6b81f3e054543
+
+### Busbar\_250A\_3x25\_80PLE.stl
+
+- Format: STL
+- Purpose: mesh converted from Busbar\_250A\_3x25\_80PLE.step.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 38773e2b8f7773e4488a77eaea123e52855993a6239e10899b41a8674d589208
+- Original bytes: 14696
+- Revision: A
+- Retrieved: 2026-11-03T01:30:56.677147+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=BUSBAR%20250A%203X25%2080PLE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; STL; 684 bytes
+- Delivery SHA-256: a99bbf54a4f72f4176d76fd61918c4199ba5ae810a53e764e2ef20cb980e69c1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

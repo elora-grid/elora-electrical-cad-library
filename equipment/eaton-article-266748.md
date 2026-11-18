@@ -7,7 +7,7 @@ Eaton NZM1-XIPA — Protection against contact with a finger, IP2X, 3p, size 1. 
 - Category: Switchboards & switchgear
 - Entry type: product
 - Part number: 266748
-- Formats: DWG, STEP
+- Formats: DWG, STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 266748
 - Manufacturer type: NZM1-XIPA
 - Available native formats: DWG / STEP
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, 3MF, IGES, STL
+- Listed files: 5
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -81,6 +81,9 @@ Related GA references provide equipment context; a related category does not est
 
 - nzm1\_xipa.stp: public (public\_original); delivered format ZIP, contained formats STEP.
 - eaton-mccb-terminal-accessories-mcad-drawings-nzm1-xipa.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- nzm1\_xipa.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- nzm1\_xipa.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- nzm1\_xipa.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -122,5 +125,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg03/eaton-mccb-terminal-accessories-mcad-drawings-nzm1-xipa.dwg)
 - Delivery: source-bundle; ZIP; 24619 bytes
 - Delivery SHA-256: 6255e8b4469ea2c4b3e931f19c9b637fb20bde6cc95e3c56954d5034148f92ad
+
+### nzm1\_xipa.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from nzm1\_xipa.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 53903e3e937662861855d0981e42e2c35f49481a32b81bb0f7b3c043fc86ff0e
+- Original bytes: 22644
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Delivery: converted; 3MF; 1459 bytes
+- Delivery SHA-256: bd86c0b42232eda1c1acddd95553212471cfe69ef95db411423bc0e38645c303
+
+### nzm1\_xipa.igs
+
+- Format: IGES
+- Purpose: brep solid converted from nzm1\_xipa.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 53903e3e937662861855d0981e42e2c35f49481a32b81bb0f7b3c043fc86ff0e
+- Original bytes: 22644
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Delivery: converted; IGES; 22842 bytes
+- Delivery SHA-256: 2e265da655620465c412856c219814250a78a6f93ef6a67d9c05a6e8a0d8e61a
+
+### nzm1\_xipa.stl
+
+- Format: STL
+- Purpose: mesh converted from nzm1\_xipa.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 53903e3e937662861855d0981e42e2c35f49481a32b81bb0f7b3c043fc86ff0e
+- Original bytes: 22644
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_xipa.stp)
+- Delivery: converted; STL; 1484 bytes
+- Delivery SHA-256: c750118cbc76a093d9e597a8f8a46530d3010ea07df1c93012406f77d150ca6a
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

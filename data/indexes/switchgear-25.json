@@ -952,7 +952,10 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "3MF",
+        "IGES",
+        "STL"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4919a4030c21f59785ff4e02",
       "recordPath": "equipment/lovato-order-4919a4030c21f59785ff4e02.md",

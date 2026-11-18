@@ -7,7 +7,7 @@ Eaton ZV-L2/L3-80A-10 — ZV Plug-in Busbar System 80A, Connection Angle L2/L3-8
 - Category: Busbar & distribution
 - Entry type: product
 - Part number: 263953
-- Formats: STEP
+- Formats: STEP, 3MF, IGES, STL
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-17T03:15:57.362394+00:00
@@ -25,8 +25,8 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Manufacturer reference: 263953
 - Manufacturer type: ZV-L2/L3-80A-10
 - Available native formats: STEP
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, 3MF, IGES, STL
+- Listed files: 4
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
@@ -79,6 +79,9 @@ Related GA references provide equipment context; a related category does not est
 [Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/eaton-article-263953)
 
 - eaton-zv\_l1\_n\_10-3d-model.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-zv\_l1\_n\_10-3d-model.3mf: cad_account (exclusive\_conversion); delivered format 3MF, contained formats 3MF.
+- eaton-zv\_l1\_n\_10-3d-model.igs: cad_account (exclusive\_conversion); delivered format IGES, contained formats IGES.
+- eaton-zv\_l1\_n\_10-3d-model.stl: cad_account (exclusive\_conversion); delivered format STL, contained formats STL.
 Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
@@ -101,5 +104,62 @@ Public originals and reviewed equivalents need no account. Exclusive conversions
 - [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
 - Delivery: source-bundle; ZIP; 15200 bytes
 - Delivery SHA-256: e6bbc3f38014d557635fdf6c29942073fcb948570b3fd5a06ce5f5fca3976e95
+
+### eaton-zv\_l1\_n\_10-3d-model.3mf
+
+- Format: 3MF
+- Purpose: mesh converted from eaton-zv\_l1\_n\_10-3d-model.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 4c2cbd6634b77b0be9231791d4a8006835ca1f4ba4b0b92ede8a4da156645944
+- Original bytes: 80684
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Delivery: converted; 3MF; 47170 bytes
+- Delivery SHA-256: bca256bc1d02142c0be6279e308214aa11b2678caab817d1c8c21a4a305c026d
+
+### eaton-zv\_l1\_n\_10-3d-model.igs
+
+- Format: IGES
+- Purpose: brep solid converted from eaton-zv\_l1\_n\_10-3d-model.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 4c2cbd6634b77b0be9231791d4a8006835ca1f4ba4b0b92ede8a4da156645944
+- Original bytes: 80684
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Delivery: converted; IGES; 161433 bytes
+- Delivery SHA-256: 741bbd6b17518674ba5d0cc518ea0347db8b85f49c39176c716de3d2deba5cd4
+
+### eaton-zv\_l1\_n\_10-3d-model.stl
+
+- Format: STL
+- Purpose: mesh converted from eaton-zv\_l1\_n\_10-3d-model.stp.
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 4c2cbd6634b77b0be9231791d4a8006835ca1f4ba4b0b92ede8a4da156645944
+- Original bytes: 80684
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/eaton-zv_l1_n_10-3d-model.stp)
+- Delivery: converted; STL; 138284 bytes
+- Delivery SHA-256: 9f793394ea5b0c9ec9533372b265a910982454ce9b9b7a106cb94dddc5542b64
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

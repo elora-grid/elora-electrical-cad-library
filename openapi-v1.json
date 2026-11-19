@@ -2,8 +2,8 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Elora CAD Library agent API",
-    "version": "1.3.0",
-    "description": "Public discovery; anonymous API trial 50 files/512 MiB daily. Reusable registration allows 1,000 files per UTC calendar month. Existing active paid Elora Grid plans, verified by the account service, allow 10,000 files/month. Global hosted delivery remains capped at 10 GiB/day. No new plan/price or automatic purchase."
+    "version": "1.4.0",
+    "description": "Registered free website/API/MCP delivery: up to 60 individual files/formats per personal 24-hour window starting with first admission, subject to 1 GiB hosted bytes per UTC day, shared 10 GiB/UTC day or lower global ceiling, and service limits; delivery may stop earlier. Anonymous trial: 50 public files/512 MiB per UTC day. Website email registration is reusable. Exclusive conversions require a verified account. Existing server-verified active paid plans: 10,000 files per UTC calendar month, not unlimited. No new plan, price or charge. The stated numerical free allowance is 10 times TraceParts Free six CAD models/24h; files and models differ and no blanket superiority is implied. See the sourced qualified comparison extension."
   },
   "servers": [
     {
@@ -599,37 +599,49 @@
                 "schema": {
                   "type": "string"
                 },
-                "description": "Current allowance; reset is seconds until 00:00 UTC."
+                "description": "Server-resolved anonymous, registered or paid tier."
               },
               "X-CAD-Files-Limit": {
                 "schema": {
                   "type": "string"
                 },
-                "description": "Current allowance; reset is seconds until 00:00 UTC."
+                "description": "File count limit for the current tier and file period."
               },
               "X-CAD-Files-Remaining": {
                 "schema": {
                   "type": "string"
                 },
-                "description": "Current allowance; reset is seconds until 00:00 UTC."
+                "description": "Admitted files remaining in the current file period. Each file/format counts separately."
               },
               "X-CAD-Bytes-Limit": {
                 "schema": {
                   "type": "string"
                 },
-                "description": "Current allowance; reset is seconds until 00:00 UTC."
+                "description": "Hosted byte reservation budget; independent of the file-count period."
               },
               "X-CAD-Bytes-Remaining": {
                 "schema": {
                   "type": "string"
                 },
-                "description": "Current allowance; reset is seconds until 00:00 UTC."
+                "description": "Hosted byte reservations remaining before the UTC daily reset. Shared capacity can impose a lower effective budget."
               },
               "X-CAD-Allowance-Reset": {
                 "schema": {
                   "type": "string"
                 },
-                "description": "Current allowance; reset is seconds until 00:00 UTC."
+                "description": "Seconds until the controlling file allowance reset: personal first-admission 24-hour window for registered free, UTC calendar month for paid, UTC day for anonymous."
+              },
+              "X-CAD-Bytes-Reset": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "Seconds until the independent byte budget resets at 00:00 UTC."
+              },
+              "X-CAD-File-Period": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "day, 24_hours_from_first_admission, or calendar_month, according to the server-resolved tier."
               }
             }
           },
@@ -643,9 +655,6 @@
               }
             }
           },
-          "402": {
-            "description": "1,000-file free month exhausted. Sign into an existing active paid Elora Grid plan; review actual offers at /settings#billing. No automatic charge."
-          },
           "404": {
             "description": "Withdrawn or unknown file"
           },
@@ -653,7 +662,7 @@
             "description": "Awaiting access review"
           },
           "429": {
-            "description": "10,000-file paid month, daily byte budget, or global delivery capacity exhausted. Honour Retry-After."
+            "description": "Registered free 60-file personal 24-hour allowance, paid 10,000-file UTC calendar month, UTC daily byte budget, or shared delivery capacity exhausted. Honour Retry-After; a paid plan cannot bypass shared capacity. Free users may wait for their reset or use a server-verified existing paid plan at the account billing settings. No automatic charge."
           },
           "503": {
             "description": "Storage or exclusive account delivery unavailable"
@@ -712,7 +721,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Current principal allowance, fixed policy and UTC reset",
+            "description": "Current principal allowance, independent file/byte periods and exact controlling reset; unused registered windows start only on the first admitted file request.",
             "content": {
               "application/json": {
                 "schema": {
@@ -1455,6 +1464,9 @@
           },
           "reserves_allowance": {
             "const": false
+          },
+          "delivery_safeguards": {
+            "type": "string"
           }
         },
         "required": [
@@ -1626,6 +1638,16 @@
           },
           "paid_plan_verification_required": {
             "const": true
+          },
+          "registered_free_allowance": {
+            "type": "string"
+          },
+          "delivery_safeguards": {
+            "type": "string"
+          },
+          "registered_free_comparison": {
+            "type": "object",
+            "description": "Sourced numerical registered-free allowance comparison with distinct units and material qualifications."
           }
         }
       },
@@ -1655,6 +1677,51 @@
             "type": "integer",
             "minimum": 1,
             "maximum": 86400
+          },
+          "file_period": {
+            "type": "string"
+          },
+          "files_reset_at": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Exact reset controlling the next file admission; null before an unused personal window starts. The 10,000-file account monthly ceiling can override the personal-window reset."
+          },
+          "window_started_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "starts_on_first_admission": {
+            "type": "boolean"
+          },
+          "global_remaining": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "global_reset": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 86400
+          },
+          "policy_version": {
+            "type": "string"
+          },
+          "monthly_files_remaining": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 10000
+          },
+          "monthly_reset_at": {
+            "type": [
+              "string",
+              "null"
+            ]
           }
         },
         "required": [
@@ -1674,5 +1741,44 @@
       }
     }
   },
-  "security": []
+  "security": [],
+  "x-elora-download-policy": {
+    "registered": {
+      "files": 60,
+      "period": "24_hours_from_first_admission",
+      "bytes": 1073741824,
+      "bytes_period": "utc_day"
+    },
+    "anonymous": {
+      "files": 50,
+      "period": "day",
+      "bytes": 536870912,
+      "bytes_period": "utc_day"
+    },
+    "paid": {
+      "files": 10000,
+      "period": "calendar_month",
+      "bytes": 10737418240,
+      "bytes_period": "utc_day_global_shared"
+    },
+    "shared_global_bytes_per_utc_day_maximum": 10737418240,
+    "guaranteed_60_hosted_deliveries": false,
+    "counting_unit": "individual admitted file/format link requests and official-source redirects, including technical documentation; not confirmed completed downloads",
+    "comparison": {
+      "competitor": "TraceParts Free",
+      "competitor_limit": 6,
+      "competitor_unit": "CAD models",
+      "numerical_ratio": 10,
+      "period_hours": 24,
+      "source": "https://info.traceparts.com/designers/engineers-and-designers/download-free-cad-models/traceparts-pro-plan/",
+      "checked_at": "2026-11-18",
+      "qualification": "Numerical registered-free allowance only, not equivalent products, catalogue coverage, format availability, quality, API access or overall superiority. Both periods begin at the first download/admission. Elora byte/global safeguards can stop delivery earlier. TraceParts still allows technical documentation after its CAD-model limit and has a paid unlimited-download plan.",
+      "library_limit": 60,
+      "library_unit": "individual files/formats"
+    },
+    "global_budget_unit": "reserved bytes for admitted hosted links, not a hard provider transfer/billing limit",
+    "served_bytes_measured": false,
+    "account_monthly_ceiling": 10000,
+    "plan_transitions": "Earlier free and paid admissions count toward the paid account monthly ceiling; downgrades or free credentials cannot reset it."
+  }
 }

@@ -31,7 +31,7 @@ Use the manufacturer configuration named Modicon M172 Performance Blind 28 I/Os,
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: 1.0
 - Source checked: 2026-11-11
-- Download access: Website downloads require email registration once. API trial: 50 files / 512 MiB daily; registered free: 1,000 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 50 files / 512 MiB daily; registered free: up to 60 individual files/formats per 24 hours from first admission, subject to 1 GiB/UTC day and shared 10 GiB/day or lower delivery safeguards; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 

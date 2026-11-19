@@ -33,7 +33,7 @@ stp-file, OS32FB12A2, OS32FB12A2-2, OS20FB12A1, OS20FB12A1-2, 1SCA108847R1001, 1
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Website downloads require email registration once. API trial: 50 files / 512 MiB daily; registered free: 1,000 files/month; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
+- Download access: Website downloads require email registration once. API trial: 50 files / 512 MiB daily; registered free: up to 60 individual files/formats per 24 hours from first admission, subject to 1 GiB/UTC day and shared 10 GiB/day or lower delivery safeguards; verified existing paid plan: 10,000 files/month. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 

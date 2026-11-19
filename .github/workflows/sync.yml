@@ -2,6 +2,7 @@ name: Refresh public catalogue
 on:
   schedule:
     - cron: '17 20 * * *'
+    - cron: '7,37 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -9,7 +10,33 @@ concurrency:
   group: refresh-public-catalogue
   cancel-in-progress: false
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions: {}
+    outputs:
+      refresh: ${{ steps.compare.outputs.refresh }}
+    steps:
+      - id: compare
+        name: Compare live public equipment count with the published GitHub index
+        env:
+          FORCE: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '17 20 * * *' }}
+        run: |
+          python3 - <<'PYTHON'
+          import json, os, urllib.request
+          def read(url):
+              with urllib.request.urlopen(url, timeout=30) as response:
+                  return json.load(response)
+          refresh = os.environ["FORCE"] == "true"
+          if not refresh:
+              live = read("https://eloragrid.ai/api/cad/v1/capabilities")["published_items"]
+              stored = read("https://raw.githubusercontent.com/elora-grid/elora-electrical-cad-library/main/data/index.json")["counts"]["entries"]
+              refresh = live != stored
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              print("refresh="+str(refresh).lower(), file=out)
+          PYTHON
   sync:
+    needs: check
+    if: needs.check.outputs.refresh == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:

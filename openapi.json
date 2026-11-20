@@ -126,7 +126,19 @@
                 "switchrooms",
                 "substations",
                 "switchyards",
-                "microgrids"
+                "microgrids",
+                "solar-farms",
+                "battery-storage",
+                "data-centres",
+                "generator-power-stations",
+                "lv-switchboards-mccs",
+                "ev-charging",
+                "wind-farms",
+                "mining-industrial",
+                "water-wastewater",
+                "rail-traction",
+                "overhead-power-lines",
+                "commercial-buildings"
               ]
             }
           },

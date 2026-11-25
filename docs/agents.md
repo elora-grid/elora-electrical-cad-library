@@ -4,9 +4,9 @@ Use this catalogue to find official electrical CAD/BIM sources and downloadable 
 
 ## API and MCP workflows
 
-**[Connect your AI agent](mcp.md)** for copyable Claude Code and Cursor setup, all nine Equipment Library tools and an example lookup. Use `search_cad` to identify equipment, then `get_datasheets`, `get_cad_files` and `get_manuals` for the selected item. These return metadata and download links; fetch file bytes separately. Hosted datasheet and manual PDFs are public; CAD delivery follows the current file access rules.
+**[Elora MCP guide](mcp.md)** points to the official connection instructions and live tool inventory served by the MCP runtime. Use `search_cad` to identify equipment, then `get_datasheets`, `get_cad_files` and `get_manuals` for the selected item. These return metadata and download links; fetch file bytes separately. Hosted datasheet and manual PDFs are public; CAD delivery follows the current file access rules.
 
-Use [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API, skills and configured public MCP. Both v1 and the public MCP are live; use capabilities and current artifact manifests rather than assuming the snapshot is current. [API and download-policy guide](api.md) · [MCP connection steps](mcp.md). Public originals are anonymous; reviewed exclusive conversions require a free verified CAD account and separately scoped consent. Use the artifact’s current policy, not an assumed global permission.
+Use [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API, skills and configured public MCP. Use capabilities and current artifact manifests rather than assuming this snapshot is current. One MCP connection supports public equipment and OAuth-protected workspace tools; client connection approval is separate from Elora login. [API and download-policy guide](api.md) · [MCP connection steps](mcp.md). Public originals are anonymous; reviewed exclusive conversions require a free verified CAD account and separately scoped consent. Use the artifact’s current policy, not an assumed global permission.
 
 ## Start here
 

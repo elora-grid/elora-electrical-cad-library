@@ -4,7 +4,7 @@ The canonical service is https://eloragrid.ai/tools/cad-library. Metadata reads 
 
 ## Versioned agent API
 
-For a hosted agent connection, use the [MCP quick start](mcp.md). It covers all nine tools, including dedicated datasheet, CAD-file and manual lookups. The Python and TypeScript clients linked below use the HTTP API directly; an MCP-capable host connects to the hosted MCP endpoint instead.
+For MCP, use the [official connection guide linked here](mcp.md). The running server owns the current tool inventory and setup instructions. The Python and TypeScript clients below use the HTTP API directly and do not require an MCP connection.
 
 Start at [CAD discovery](https://eloragrid.ai/.well-known/cad-library.json). It links the [v1 OpenAPI contract](https://eloragrid.ai/api/cad/v1/openapi.json), [current capabilities](https://eloragrid.ai/api/cad/v1/capabilities), [workflow guide](https://eloragrid.ai/tools/cad-library/agents.md), [skills catalogue](https://eloragrid.ai/.well-known/skills/index.json) and configured MCP endpoint. See [MCP setup](mcp.md).
 

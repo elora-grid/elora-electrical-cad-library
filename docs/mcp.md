@@ -1,4 +1,4 @@
-# Connect to Elora with MCP
+# Connect your AI agent to the Equipment Library with MCP
 
 Add `https://mcp.eloragrid.ai/mcp` to your MCP client using Streamable HTTP. One connection provides public Equipment Library tools and authenticated workspace drawing tools.
 

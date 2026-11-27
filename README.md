@@ -31,7 +31,7 @@ USA, Australia, UK and Europe have equal research priority. Market tags support 
 
 ## API and MCP access
 
-Start with [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API contract, capabilities, skills and configured public MCP endpoint. API and MCP use the published catalogue and current artifact access decisions. Connect through the configured endpoint in discovery; never guess an MCP URL. The existing catalogue API remains available for metadata integrations. [API examples](docs/api.md) · [MCP setup](docs/mcp.md).
+Start with [Elora API & MCP](https://mcp.eloragrid.ai/docs) or [live discovery](https://eloragrid.ai/.well-known/cad-library.json). Use the HTTP API directly for catalogue queries, or connect an MCP client to `https://mcp.eloragrid.ai/mcp` for public equipment and authenticated workspace tools. The [official MCP guide](https://mcp.eloragrid.ai/docs/agents.md) owns setup, permissions, credits and the running tool inventory. [API examples](docs/api.md) · [MCP overview](docs/mcp.md).
 
 The [versioned contract](openapi-v1.json) describes workflows that find exact equipment and related files, then select prepared downloads. Read each artifact’s access policy: public originals need no account, while reviewed exclusive conversions require a free CAD account and scoped consent. Downloads do not start a conversion job.
 

@@ -6,7 +6,7 @@
 
 - [Live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json): versioned API, capabilities, skills and configured public MCP endpoint. Use capabilities for current counts and access policies; the unified MCP combines public equipment with OAuth-protected workspace tools.
 - [API guide](docs/api.md): v1 workflows, existing catalogue routes, access policies and version recovery.
-- [Official MCP guide](https://elora-production-mcp-891798621854.us-east4.run.app/docs/agents.md): connection, current tools, permissions, credits and examples served with the MCP runtime.
+- [Official Elora MCP guide](https://mcp.eloragrid.ai/docs/agents.md): connect to `https://mcp.eloragrid.ai/mcp` for public equipment tools and OAuth-protected workspace tools. Current tools, permissions, credits and examples are maintained by the MCP runtime.
 - [MCP overview](docs/mcp.md): API versus MCP and public versus account-connected access.
 - [Snapshot format](docs/snapshot-format.md): complete lossless gzip JSON and checksum validation.
 
